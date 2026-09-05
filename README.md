@@ -29,6 +29,17 @@ pnpm run content   # re-copies docs/ from ../software-engineering-guide, then re
 This assumes `software-engineering-guide` is checked out as a sibling
 directory (`../software-engineering-guide` relative to this repo).
 
+## Claude Code skills
+
+Two [Claude Code](https://claude.com/claude-code) skills for this project
+live in the content repo's
+[`skills/`](https://github.com/software-engineering-guide/software-engineering-guide/tree/main/skills)
+directory: `software-engineering-guide-skill` for readers who want guidance
+grounded in the book, and `software-engineering-guide-maintainer-skill` for
+maintainers of both this site and the content repo, including the content
+sync and manifest steps above. Copy either folder into a project's
+`.claude/skills/` to install it.
+
 ## Development
 
 ```sh
