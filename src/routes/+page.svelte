@@ -103,7 +103,13 @@
         >software-engineering-guide</a
       >
       content repository; see the <a href="/project/">project page</a> for how the two fit
-      together, and <a href="/contributing/">contributing</a> for how to help.
+      together, and <a href="/contributing/">contributing</a> for how to help. Using
+      <a href="https://claude.com/claude-code">Claude Code</a>? Two skills for this guide live in
+      the content repo's
+      <a
+        href="https://github.com/software-engineering-guide/software-engineering-guide/tree/main/skills"
+        >skills/</a
+      > directory, for reading the guide and for maintaining it.
     </p>
   </div>
 </section>
