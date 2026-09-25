@@ -475,6 +475,40 @@ kbd {
 a.card { color: inherit; text-decoration: none; }
 a.card:hover { color: inherit; }
 
+/* Part list (bullet-list alternative to card-grid, used on the home page) */
+
+.part-list {
+  list-style: none;
+  margin: 2rem 0;
+  padding: 0;
+  border-top: 1px solid var(--lily-border);
+}
+.part-list li {
+  border-bottom: 1px solid var(--lily-border);
+}
+.part-list a {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 0.25rem 1.5rem;
+  padding: 1rem 0.25rem;
+  color: inherit;
+  text-decoration: none;
+}
+.part-list a:hover .part-list-heading {
+  color: var(--lily-primary);
+  text-decoration: underline;
+}
+.part-list-heading {
+  font-weight: 600;
+}
+.part-list-meta {
+  color: var(--lily-text-subtle);
+  font-size: 0.875rem;
+  white-space: nowrap;
+}
+
 /* Locale list */
 
 .locale-list {

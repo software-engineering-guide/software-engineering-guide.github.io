@@ -32,19 +32,20 @@
     <p class="section-heading-eyebrow">Browse</p>
     <h2>The twelve parts</h2>
   </header>
-  <div class="card-grid">
+  <ul class="part-list">
     {#each manifest.parts as part (part.number)}
       {@const intro = part.chapters.find((c) => c.chapter === 0)}
-      <a class="card" href="/chapters/{(intro ?? part.chapters[0]).slug}/">
-        <h3 class="card-heading">Part {part.number}: {part.title}</h3>
-        <p class="card-description">
-          {part.chapters.length}
-          {part.chapters.length === 1 ? 'chapter' : 'chapters'}, starting with {(intro ?? part.chapters[0]).decimal}.
-        </p>
-        <p class="card-meta">Read the introduction →</p>
-      </a>
+      <li>
+        <a href="/chapters/{(intro ?? part.chapters[0]).slug}/">
+          <span class="part-list-heading">Part {part.number}: {part.title}</span>
+          <span class="part-list-meta">
+            {part.chapters.length}
+            {part.chapters.length === 1 ? 'chapter' : 'chapters'}, starting with {(intro ?? part.chapters[0]).decimal}
+          </span>
+        </a>
+      </li>
     {/each}
-  </div>
+  </ul>
 </section>
 
 <section class="section prose" style="margin: 0 auto;">
