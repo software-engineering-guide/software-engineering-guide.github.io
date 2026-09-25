@@ -12,15 +12,17 @@ const DEFAULT_LOCALE = 'en-us';
 /**
  * Sorts the locale list per
  * spec/locales-for-global-sharing-with-svelte/index.md: default locale
- * first, then grouped by language name (the label text before a "("),
- * with the -001/world variant before its regional siblings within each
- * group, then alphabetically by label. This does not fall out of a plain
+ * first, then grouped by language name (the label text before a "(" or
+ * a " - " separator, e.g. "Français (Monde)" or "English - Great
+ * Britain" both group under "Français" / "English"), with the -001/world
+ * variant before its regional siblings within each group, then
+ * alphabetically by label. This does not fall out of a plain
  * alphabetical-by-label sort (e.g. "España" < "Mundo").
  * @param {string[]} codes
  */
 function sortLocales(codes) {
   /** @param {string} code */
-  const groupName = (code) => localeLabel(code).split('(')[0].trim();
+  const groupName = (code) => localeLabel(code).split(/\s*[(-]\s*/)[0].trim();
   return [...codes].sort((a, b) => {
     if (a === DEFAULT_LOCALE) return -1;
     if (b === DEFAULT_LOCALE) return 1;

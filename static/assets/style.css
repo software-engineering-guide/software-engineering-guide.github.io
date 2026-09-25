@@ -179,6 +179,132 @@ kbd {
   background: #eef2ff;
 }
 
+/* Picker bar (theme, locale, text size, share) */
+/*
+ * The lily picker components are headless: they ship no CSS. Two things
+ * are our responsibility per their docs (docs/styling.md in each
+ * package): center the row of trigger buttons on the surrounding nav
+ * text, and give each popup listbox absolute positioning so opening it
+ * doesn't shove the rest of the page down (the un-positioned <ul> would
+ * otherwise render in normal document flow).
+ */
+.site-picker-bar {
+  display: flex;
+  align-items: center;
+  gap: 0.25rem;
+}
+
+.theme-picker,
+.locale-picker,
+.text-size-picker,
+.share-picker {
+  position: relative;
+  display: inline-flex;
+  align-items: center;
+}
+
+.icon-button {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 2.25rem;
+  height: 2.25rem;
+  padding: 0;
+  border: none;
+  border-radius: var(--lily-radius);
+  background: transparent;
+  color: var(--lily-text-muted);
+  cursor: pointer;
+  line-height: 1;
+  transition: background 150ms, color 150ms;
+}
+.icon-button:hover { background: var(--lily-border); color: var(--lily-text); }
+.icon-button[aria-expanded="true"] { background: var(--lily-border); color: var(--lily-text); }
+
+/*
+ * Theme/locale/text-size share one internal "Listbox" primitive that
+ * renders a generic class="listbox" and puts the per-picker name in a
+ * non-standard `baseclass` attribute rather than in `class` — so these
+ * three are targeted by the shared ".listbox" class, not by the
+ * "*-picker-list" names their own docs describe as class hooks. Share
+ * doesn't use that shared primitive and does render "share-picker-list"
+ * as a real class, so it's listed by name.
+ */
+.listbox,
+.share-picker-list {
+  position: absolute;
+  z-index: 60;
+  inset-block-start: 100%;
+  inset-inline-end: 0;
+  margin: 0.25rem 0 0;
+  padding: 0.25rem;
+  list-style: none;
+  max-block-size: 20rem;
+  min-inline-size: 10rem;
+  overflow-y: auto;
+  background: var(--lily-card-bg);
+  border: 1px solid var(--lily-border);
+  border-radius: var(--lily-radius-lg);
+  box-shadow: var(--lily-shadow-lg);
+}
+.listbox[hidden],
+.share-picker-list[hidden] {
+  display: none;
+}
+
+.theme-picker-option,
+.locale-picker-option,
+.text-size-picker-option {
+  padding: 0.4rem 0.6rem;
+  border-radius: var(--lily-radius);
+  font-size: 0.9rem;
+  white-space: nowrap;
+  cursor: pointer;
+}
+.theme-picker-option:hover,
+.locale-picker-option:hover,
+.text-size-picker-option:hover,
+.theme-picker-option[data-active],
+.locale-picker-option[data-active],
+.text-size-picker-option[data-active] {
+  background: var(--lily-border);
+}
+.theme-picker-option[aria-selected="true"],
+.locale-picker-option[aria-selected="true"],
+.text-size-picker-option[aria-selected="true"] {
+  color: var(--lily-primary);
+  font-weight: 600;
+}
+
+.share-picker-list-item { list-style: none; }
+.share-picker-target,
+.share-picker-copy {
+  display: block;
+  width: 100%;
+  padding: 0.4rem 0.6rem;
+  border: none;
+  border-radius: var(--lily-radius);
+  background: none;
+  color: inherit;
+  text-decoration: none;
+  font: inherit;
+  text-align: start;
+  white-space: nowrap;
+  cursor: pointer;
+}
+.share-picker-target:hover,
+.share-picker-copy:hover {
+  background: var(--lily-border);
+}
+.share-picker-status {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+  clip: rect(0 0 0 0);
+  white-space: nowrap;
+}
+
 /* Main content */
 
 .site-main {

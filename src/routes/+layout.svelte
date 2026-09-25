@@ -101,7 +101,6 @@
         share: headerUi.pickerShare
       }}
       themesUrl="/themes/"
-      themes={['light', 'dark']}
       locales={pickerLocales}
       localeProps={{
         value: currentLocale,

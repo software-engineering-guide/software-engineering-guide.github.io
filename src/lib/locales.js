@@ -6,8 +6,8 @@
 /** @type {Record<string, string>} */
 export const LOCALE_LABELS = {
   'en-001': 'English',
-  'en-gb': 'English (UK)',
-  'en-us': 'English (US)',
+  'en-gb': 'English - Great Britain',
+  'en-us': 'English - United States',
   'cy-001': 'Cymraeg',
   'hi-001': 'हिन्दी',
   'zh-cn': '中文 (简体)',
