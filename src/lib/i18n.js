@@ -26,12 +26,18 @@ const EN = {
   shareCopyLink: 'Copy link',
   notTranslated: 'This chapter is not yet translated into this language. Showing the English original.',
   otherLanguages: 'Also available in',
-  viewInEnglish: 'View in English'
+  viewInEnglish: 'View in English',
+  footerTagline: 'A guidebook of good practices for software developer teams, published under the',
+  footerOrgSuffix: 'organization.',
+  contentSource: 'Content source',
+  siteSource: 'Site source'
 };
 
 /** @type {Record<string, Partial<typeof EN>>} */
 const OVERRIDES = {
   'cy-001': {
+    siteName: 'Canllaw Peirianneg Meddalwedd',
+    skipToContent: "Neidio i'r prif gynnwys",
     home: 'Hafan',
     startHere: 'Dechrau yma',
     tableOfContents: "Tabl cynnwys",
@@ -50,9 +56,15 @@ const OVERRIDES = {
     shareCopyLink: "Copïo'r ddolen",
     notTranslated: "Nid yw'r bennod hon wedi'i chyfieithu i'r iaith hon eto. Yn dangos y gwreiddiol Saesneg.",
     otherLanguages: 'Ar gael hefyd yn',
-    viewInEnglish: 'Gweld yn Saesneg'
+    viewInEnglish: 'Gweld yn Saesneg',
+    footerTagline: 'Canllaw o arferion da ar gyfer timau datblygu meddalwedd, a gyhoeddir gan y',
+    footerOrgSuffix: 'sefydliad.',
+    contentSource: 'Ffynhonnell cynnwys',
+    siteSource: "Ffynhonnell y wefan"
   },
   'hi-001': {
+    siteName: 'सॉफ़्टवेयर इंजीनियरिंग गाइड',
+    skipToContent: 'मुख्य सामग्री पर जाएँ',
     home: 'होम',
     startHere: 'यहाँ से शुरू करें',
     tableOfContents: 'विषय-सूची',
@@ -71,9 +83,15 @@ const OVERRIDES = {
     shareCopyLink: 'लिंक कॉपी करें',
     notTranslated: 'यह अध्याय अभी इस भाषा में अनुवादित नहीं है। अंग्रेज़ी मूल दिखाया जा रहा है।',
     otherLanguages: 'इन भाषाओं में भी उपलब्ध',
-    viewInEnglish: 'अंग्रेज़ी में देखें'
+    viewInEnglish: 'अंग्रेज़ी में देखें',
+    footerTagline: 'सॉफ़्टवेयर डेवलपर टीमों के लिए अच्छे अभ्यासों की एक गाइड, जिसे प्रकाशित किया गया है',
+    footerOrgSuffix: 'संगठन के तहत।',
+    contentSource: 'सामग्री स्रोत',
+    siteSource: 'साइट स्रोत'
   },
   'zh-cn': {
+    siteName: '软件工程指南',
+    skipToContent: '跳转到主要内容',
     home: '首页',
     startHere: '从这里开始',
     tableOfContents: '目录',
@@ -92,9 +110,15 @@ const OVERRIDES = {
     shareCopyLink: '复制链接',
     notTranslated: '本章尚未翻译成该语言，正在显示英文原文。',
     otherLanguages: '其他语言版本',
-    viewInEnglish: '查看英文版'
+    viewInEnglish: '查看英文版',
+    footerTagline: '一本面向软件开发团队的良好实践指南，发布于',
+    footerOrgSuffix: '组织之下。',
+    contentSource: '内容来源',
+    siteSource: '站点源代码'
   },
   'es-001': {
+    siteName: 'Guía de Ingeniería de Software',
+    skipToContent: 'Saltar al contenido principal',
     home: 'Inicio',
     startHere: 'Empieza aquí',
     tableOfContents: 'Índice',
@@ -113,7 +137,11 @@ const OVERRIDES = {
     shareCopyLink: 'Copiar enlace',
     notTranslated: 'Este capítulo todavía no está traducido a este idioma. Mostrando el original en inglés.',
     otherLanguages: 'También disponible en',
-    viewInEnglish: 'Ver en inglés'
+    viewInEnglish: 'Ver en inglés',
+    footerTagline: 'Una guía de buenas prácticas para equipos de desarrollo de software, publicada bajo la',
+    footerOrgSuffix: 'organización.',
+    contentSource: 'Fuente del contenido',
+    siteSource: 'Fuente del sitio'
   }
 };
 
