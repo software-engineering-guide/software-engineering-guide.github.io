@@ -1,5 +1,7 @@
 <script>
   import manifest from '$lib/manifest.json';
+
+  let { data } = $props();
 </script>
 
 <svelte:head>
@@ -23,38 +25,6 @@
     <a class="button button-secondary" href="/table-of-contents/">Table of contents</a>
     <a class="button button-secondary" href="/examples/">Worked examples</a>
   </div>
-  <div class="stat-row">
-    <div class="stat">
-      <p class="stat-value">{manifest.totals.parts}</p>
-      <p class="stat-label">Parts</p>
-    </div>
-    <div class="stat">
-      <p class="stat-value">{manifest.totals.chapters}</p>
-      <p class="stat-label">Chapters</p>
-    </div>
-    <div class="stat">
-      <p class="stat-value">Free</p>
-      <p class="stat-label">Always</p>
-    </div>
-  </div>
-</section>
-
-<section class="section prose" style="margin: 0 auto;">
-  <header class="section-heading">
-    <p class="section-heading-eyebrow">How to read it</p>
-    <h2>One book, twelve parts</h2>
-  </header>
-  <p>
-    Parts are whole numbers; chapters are decimals. Chapter <strong>N.0</strong> introduces
-    each part; <strong>N.1, N.2, …</strong> are its chapters. Part 12 collects the appendices —
-    glossary, checklists, templates, maturity self-assessment, references, adoption roadmap, and
-    subject index.
-  </p>
-  <p>
-    Each substantive chapter states principles, recommendations, trade-offs, examples (enterprise
-    and government), a business case, anti-patterns, a maturity model, discussion questions, and
-    references. Adopt incrementally; do not big-bang.
-  </p>
 </section>
 
 <section class="section">
@@ -92,6 +62,23 @@
   <p style="text-align: center; margin-top: 2rem;">
     <a class="button button-secondary" href="/table-of-contents/">See the full table of contents →</a>
   </p>
+</section>
+
+<section class="section" aria-label="Languages">
+  <header class="section-heading">
+    <p class="section-heading-eyebrow">Languages</p>
+    <h2>Read in your language</h2>
+  </header>
+  <ul class="locale-list">
+    {#each data.locales as locale (locale.code)}
+      <li>
+        <a href={locale.href}>{locale.label}</a>
+        {#if !locale.complete}
+          <span class="locale-partial">({locale.chapterCount}/{manifest.totals.chapters})</span>
+        {/if}
+      </li>
+    {/each}
+  </ul>
 </section>
 
 <section class="section prose" style="margin: 0 auto;" aria-label="About this site">

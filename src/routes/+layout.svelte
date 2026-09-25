@@ -1,6 +1,12 @@
 <script>
   import { page } from '$app/state';
+  import { goto } from '$app/navigation';
   import Sidebar from '$lib/Sidebar.svelte';
+  import PickerBar from '@lilydesignsystem/svelte-picker-bar';
+  import manifest from '$lib/manifest.json';
+  import { locales as availableLocales } from '$lib/content.js';
+  import { localeLabel } from '$lib/locales.js';
+  import { ui } from '$lib/i18n.js';
 
   let { children } = $props();
 
@@ -22,6 +28,54 @@
     if (href === '/') return pathname === '/';
     return pathname === href;
   }
+
+  // Header picker bar: locale list, labels, and the locale switch itself.
+  // PickerBar/LocalePicker only manage picker UI state — navigating to the
+  // matching page in the newly-picked locale is this app's job.
+  const headerUi = ui('en-us');
+  const pickerLocales = availableLocales();
+
+  // The locale segment of the current URL ("/locales/<code>/..."), or
+  // "en-us" for the canonical unprefixed English routes ("/", "/chapters/...").
+  let currentLocale = $derived.by(() => {
+    const m = /^\/locales\/([^/]+)\//.exec(pathname);
+    if (m) return m[1];
+    return pathname === '/' || pathname.startsWith('/chapters/') ? 'en-us' : undefined;
+  });
+
+  /**
+   * Finds the equivalent page for `toLocale`, mapping the current chapter
+   * across locales by its decimal number (per
+   * spec/locales-for-global-sharing-with-svelte/index.md: "Nothing in the
+   * site assumes slugs match across locales"). Falls back to that locale's
+   * home page when there is no current chapter, or it is not yet
+   * translated into `toLocale`.
+   * @param {string} toLocale
+   */
+  function pathForLocale(toLocale) {
+    const segments = pathname.split('/').filter(Boolean);
+    let decimal;
+    if (segments[0] === 'chapters' && segments[1]) {
+      decimal = manifest.chapters.find((c) => c.slug === segments[1])?.decimal;
+    } else if (segments[0] === 'locales' && segments[1] && segments[2] === 'chapters' && segments[3]) {
+      const fromLocale = segments[1];
+      const fromManifest = manifest.locales[fromLocale];
+      decimal = fromManifest?.chapters.find((c) => c.slug === segments[3])?.decimal;
+    }
+    if (decimal) {
+      const target = manifest.locales[toLocale]?.chaptersByDecimal?.[decimal];
+      if (target) {
+        return toLocale === 'en-us' ? `/chapters/${target.slug}/` : `/locales/${toLocale}/chapters/${target.slug}/`;
+      }
+    }
+    return toLocale === 'en-us' ? '/' : `/locales/${toLocale}/`;
+  }
+
+  /** @param {string} toLocale */
+  function onLocaleChange(toLocale) {
+    if (toLocale === currentLocale) return;
+    goto(pathForLocale(toLocale));
+  }
 </script>
 
 <a class="skip-link" href="#main">Skip to main content</a>
@@ -38,6 +92,31 @@
       {/each}
       <a href="https://github.com/software-engineering-guide/software-engineering-guide">GitHub</a>
     </nav>
+    <PickerBar
+      class="site-picker-bar"
+      labels={{
+        theme: headerUi.pickerTheme,
+        locale: headerUi.pickerLocale,
+        textSize: headerUi.pickerTextSize,
+        share: headerUi.pickerShare
+      }}
+      themesUrl="/themes/"
+      themes={['light', 'dark']}
+      locales={pickerLocales}
+      localeProps={{
+        value: currentLocale,
+        localeLabels: Object.fromEntries(pickerLocales.map((code) => [code, localeLabel(code)])),
+        onChange: onLocaleChange
+      }}
+      shareTargets={[
+        {
+          id: 'email',
+          label: headerUi.shareEmail,
+          href: (url, title) => `mailto:?subject=${encodeURIComponent(title)}&body=${encodeURIComponent(url)}`
+        }
+      ]}
+      shareProps={{ copyLabel: headerUi.shareCopyLink }}
+    />
   </div>
 </header>
 

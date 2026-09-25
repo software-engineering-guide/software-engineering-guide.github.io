@@ -25,6 +25,14 @@ declare module '$lib/manifest.json' {
     file: string;
   }
 
+  interface LocaleManifest {
+    chapters: Chapter[];
+    parts: Part[];
+    chaptersByDecimal: Record<string, Chapter>;
+    order: string[];
+    hasHomePage: boolean;
+  }
+
   interface Manifest {
     generatedBy: string;
     parts: Part[];
@@ -35,6 +43,8 @@ declare module '$lib/manifest.json' {
     examples: ManifestEntry[];
     contributing: ManifestEntry[];
     project: ManifestEntry[];
+    locales: Record<string, LocaleManifest>;
+    availableLocales: string[];
     totals: { parts: number; chapters: number };
   }
 
