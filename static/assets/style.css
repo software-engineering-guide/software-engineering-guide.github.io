@@ -235,15 +235,22 @@ kbd {
 }
 
 /*
- * Theme/locale/text-size share one internal "Listbox" primitive that
- * renders a generic class="listbox" and puts the per-picker name in a
- * non-standard `baseclass` attribute rather than in `class` — so these
- * three are targeted by the shared ".listbox" class, not by the
- * "*-picker-list" names their own docs describe as class hooks. Share
- * doesn't use that shared primitive and does render "share-picker-list"
- * as a real class, so it's listed by name.
+ * Theme/locale/text-size share one internal "Listbox" primitive. Its 0.1.1
+ * release (used by an unfixed svelte-headless "^0.1.0" resolution) had a bug
+ * where it rendered a generic class="listbox" and put the per-picker name in
+ * a non-standard `baseclass` attribute instead of applying it to `class` —
+ * worked around here by also targeting the shared ".listbox" class. Fixed
+ * upstream in svelte-headless 0.2.0 (this site now pins
+ * svelte-{locale,theme,text-size,share}-picker to 0.1.2, which depends on
+ * it correctly — see scripts/fix-lily-picker-resolution.mjs for why a pin
+ * alone isn't sufficient), so the proper "*-picker-list" classes their docs
+ * describe as class hooks now work too. Both are kept, and happily
+ * redundant once every consumer is on a fixed version.
  */
 .listbox,
+.theme-picker-list,
+.locale-picker-list,
+.text-size-picker-list,
 .share-picker-list {
   position: absolute;
   z-index: 60;
@@ -261,6 +268,9 @@ kbd {
   box-shadow: var(--lily-shadow-lg);
 }
 .listbox[hidden],
+.theme-picker-list[hidden],
+.locale-picker-list[hidden],
+.text-size-picker-list[hidden],
 .share-picker-list[hidden] {
   display: none;
 }

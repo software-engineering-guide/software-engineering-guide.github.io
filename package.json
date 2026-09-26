@@ -10,7 +10,8 @@
     "preview": "vite preview",
     "check": "svelte-kit sync && svelte-check --tsconfig ./tsconfig.json",
     "manifest": "node scripts/generate-manifest.mjs",
-    "content": "node scripts/sync-content.mjs && node scripts/generate-manifest.mjs"
+    "content": "node scripts/sync-content.mjs && node scripts/generate-manifest.mjs",
+    "postinstall": "node scripts/fix-lily-picker-resolution.mjs"
   },
   "devDependencies": {
     "@sveltejs/adapter-static": "^3.0.10",
@@ -32,6 +33,10 @@
     ]
   },
   "dependencies": {
-    "@lilydesignsystem/svelte-picker-bar": "^0.1.0"
+    "@lilydesignsystem/svelte-picker-bar": "^0.1.0",
+    "@lilydesignsystem/svelte-locale-picker": "0.1.2",
+    "@lilydesignsystem/svelte-theme-picker": "0.1.2",
+    "@lilydesignsystem/svelte-text-size-picker": "0.1.2",
+    "@lilydesignsystem/svelte-share-picker": "0.1.2"
   }
 }

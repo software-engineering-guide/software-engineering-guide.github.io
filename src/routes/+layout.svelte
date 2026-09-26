@@ -124,7 +124,7 @@
       themesUrl="/themes/"
       locales={pickerLocales}
       localeProps={{
-        value: currentLocale,
+        defaultValue: currentLocale,
         localeLabels: Object.fromEntries(pickerLocales.map((code) => [code, localeLabel(code)])),
         onChange: onLocaleChange
       }}
