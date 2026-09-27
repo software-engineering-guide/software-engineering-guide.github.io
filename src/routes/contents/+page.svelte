@@ -11,15 +11,15 @@
 </script>
 
 <svelte:head>
-  <title>Table of contents — Software Engineering Guide</title>
+  <title>Contents — Software Engineering Guide</title>
   <meta
     name="description"
-    content="The full table of contents: {manifest.totals.parts} parts, {manifest.totals.chapters} chapters."
+    content="The full contents: {manifest.totals.parts} parts, {manifest.totals.chapters} chapters."
   />
 </svelte:head>
 
 <div class="prose">
-  <h1>Table of contents</h1>
+  <h1>Contents</h1>
   <p>
     Parts are whole numbers; chapters are decimals (chapter <strong>N.0</strong> introduces each
     part). See also <a href="/front-matter/introduction/">the introduction</a>.

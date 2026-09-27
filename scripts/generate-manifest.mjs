@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 // Scans src/content/ and writes src/lib/manifest.json: the structured table of
 // contents (parts, chapters, prev/next order) that drives navigation, the
-// table-of-contents page, and the "chapter N.M" auto-linking remark plugin.
+// contents page, and the "chapter N.M" auto-linking remark plugin.
 // Regenerate after `pnpm run content`, or whenever src/content/ changes:
 //   pnpm run manifest
 import { readFileSync, readdirSync, writeFileSync } from 'node:fs';

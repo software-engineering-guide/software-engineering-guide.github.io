@@ -35,7 +35,7 @@
   let navLinks = $derived([
     { href: '/', label: headerUi.home },
     { href: '/front-matter/what-is-software-engineering/', label: headerUi.startHere },
-    { href: '/table-of-contents/', label: headerUi.tableOfContents },
+    { href: '/contents/', label: headerUi.tableOfContents },
     { href: '/examples/', label: headerUi.examples },
     { href: '/contributing/', label: headerUi.contributing },
     { href: '/project/', label: headerUi.project }
@@ -57,11 +57,15 @@
   const pickerLocales = availableLocales();
 
   // The locale segment of the current URL ("/locales/<code>/..."), or
-  // "en-us" for the canonical unprefixed English routes ("/", "/chapters/...").
+  // "en-us" for every canonical unprefixed English route ("/", "/chapters/...",
+  // "/contents/", "/examples/", and so on). Leaving this undefined for routes
+  // outside "/" and "/chapters/" (as an earlier version did) fed
+  // localeProps.defaultValue={undefined} to the locale picker, which then
+  // fell back to its first list entry and fired onChange on mount, silently
+  // redirecting every one of those pages to that locale's home page.
   let currentLocale = $derived.by(() => {
     const m = /^\/locales\/([^/]+)\//.exec(pathname);
-    if (m) return m[1];
-    return pathname === '/' || pathname.startsWith('/chapters/') ? 'en-us' : undefined;
+    return m ? m[1] : 'en-us';
   });
 
   /**
@@ -185,7 +189,7 @@
     <div class="site-footer-links">
       <a href="https://github.com/software-engineering-guide/software-engineering-guide">{headerUi.contentSource}</a>
       <a href="https://github.com/software-engineering-guide/software-engineering-guide.github.io">{headerUi.siteSource}</a>
-      <a href="/table-of-contents/">{headerUi.tableOfContents}</a>
+      <a href="/contents/">{headerUi.tableOfContents}</a>
       <a href="/contributing/">{headerUi.contributing}</a>
     </div>
   </div>

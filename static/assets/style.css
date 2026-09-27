@@ -536,40 +536,6 @@ kbd {
 a.card { color: inherit; text-decoration: none; }
 a.card:hover { color: inherit; }
 
-/* Part list (bullet-list alternative to card-grid, used on the home page) */
-
-.part-list {
-  list-style: none;
-  margin: 2rem 0;
-  padding: 0;
-  border-top: 1px solid var(--lily-border);
-}
-.part-list li {
-  border-bottom: 1px solid var(--lily-border);
-}
-.part-list a {
-  display: flex;
-  flex-wrap: wrap;
-  align-items: baseline;
-  justify-content: space-between;
-  gap: 0.25rem 1.5rem;
-  padding: 1rem 0.25rem;
-  color: inherit;
-  text-decoration: none;
-}
-.part-list a:hover .part-list-heading {
-  color: var(--lily-primary);
-  text-decoration: underline;
-}
-.part-list-heading {
-  font-weight: 600;
-}
-.part-list-meta {
-  color: var(--lily-text-subtle);
-  font-size: 0.875rem;
-  white-space: nowrap;
-}
-
 /* Locale list */
 
 .locale-list {
@@ -892,27 +858,23 @@ details.faq-item p { margin-top: 0.75rem; }
 .toc-search:focus { outline: none; border-color: var(--lily-primary); }
 
 .toc-part { margin-bottom: 2.5rem; }
+/* Plain block layout, not flexbox — the part number is part of the same
+ * heading text, not a separately-laid-out box. */
 .toc-part-heading {
-  display: flex;
-  align-items: baseline;
-  gap: 0.6rem;
   border-bottom: 2px solid var(--lily-border);
   padding-bottom: 0.5rem;
 }
 .toc-part-heading .part-number {
   color: var(--lily-primary);
   font-weight: 700;
+  margin-inline-end: 0.6rem;
 }
+/* A plain nested list — chapters indent under their part, one <li> per
+ * chapter, no grid/flexbox/table/tile layout. */
 .toc-chapter-list { list-style: none; margin: 1rem 0 0; padding: 0; }
 .toc-chapter-list li { margin-bottom: 0.35rem; }
 .toc-chapter-list a { text-decoration: none; }
-.toc-chapter-list .decimal {
-  display: inline-block;
-  min-width: 3rem;
-  font-family: var(--lily-font-mono);
-  color: var(--lily-text-subtle);
-  font-variant-numeric: tabular-nums;
-}
+.toc-chapter-list .decimal { color: var(--lily-text-subtle); margin-right: 0.35em; font-variant-numeric: tabular-nums; }
 .toc-chapter-list[hidden] { display: none; }
 
 /* Responsive helpers */

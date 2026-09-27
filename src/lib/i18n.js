@@ -9,7 +9,7 @@ const EN = {
   skipToContent: 'Skip to main content',
   home: 'Home',
   startHere: 'Start here',
-  tableOfContents: 'Table of contents',
+  tableOfContents: 'Contents',
   examples: 'Examples',
   contributing: 'Contributing',
   project: 'Project',

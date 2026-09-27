@@ -20,7 +20,7 @@
   </p>
   <div class="button-row">
     <a class="button button-primary" href="/front-matter/what-is-software-engineering/">Start reading</a>
-    <a class="button button-secondary" href="/table-of-contents/">Table of contents</a>
+    <a class="button button-secondary" href="/contents/">Contents</a>
     <a class="button button-secondary" href="/examples/">Worked examples</a>
   </div>
 </section>

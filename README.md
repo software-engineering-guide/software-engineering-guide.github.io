@@ -64,7 +64,7 @@ though it is committed, since `src/content/` is committed too.
   `contributing/[slug]/`, `project/[slug]/` : dynamic routes that prerender
   one page per Markdown file, using `entries()` to enumerate slugs from the
   manifest.
-- `src/routes/table-of-contents/` : the full contents page with client-side
+- `src/routes/contents/` : the full contents page with client-side
   filtering.
 - `src/lib/Sidebar.svelte`, `Breadcrumb.svelte`, `ChapterPager.svelte` : the
   book chrome.
