@@ -142,6 +142,35 @@ const OVERRIDES = {
     footerOrgSuffix: 'organización.',
     contentSource: 'Fuente del contenido',
     siteSource: 'Fuente del sitio'
+  },
+  'fr-001': {
+    siteName: "Guide de l'ingénierie logicielle",
+    skipToContent: 'Passer au contenu principal',
+    home: 'Accueil',
+    startHere: 'Commencer ici',
+    tableOfContents: 'Sommaire',
+    examples: 'Exemples',
+    contributing: 'Contribuer',
+    project: 'Projet',
+    part: 'Partie',
+    chapter: 'Chapitre',
+    previous: 'Précédent',
+    next: 'Suivant',
+    pickerTheme: 'Thème',
+    pickerLocale: 'Langue',
+    pickerTextSize: 'Taille du texte',
+    pickerShare: 'Partager',
+    shareEmail: 'E-mail',
+    shareCopyLink: 'Copier le lien',
+    notTranslated:
+      "Ce chapitre n'est pas encore traduit dans cette langue. Affichage de l'original en anglais.",
+    otherLanguages: 'Également disponible en',
+    viewInEnglish: 'Voir en anglais',
+    footerTagline:
+      'Un guide de bonnes pratiques pour les équipes de développement logiciel, publié sous',
+    footerOrgSuffix: "l'organisation.",
+    contentSource: 'Source du contenu',
+    siteSource: 'Source du site'
   }
 };
 
@@ -228,6 +257,20 @@ export const PART_TITLE_OVERRIDES = {
     10: 'Gestión de Proyectos/Productos/Programas',
     11: 'Flujo: Canales de Descubrimiento y Entrega',
     12: 'Apéndices'
+  },
+  'fr-001': {
+    1: 'Les personnes',
+    2: 'Programmation logicielle',
+    3: 'Systèmes',
+    4: 'Sécurité',
+    5: 'Conception UI/UX',
+    6: 'Intelligence artificielle',
+    7: 'Données, analytique et perspicacité',
+    8: 'Automatisation',
+    9: 'Exploitation, fiabilité et observabilité',
+    10: 'Gestion de projets/produits/programmes',
+    11: 'Flux : lignes de découverte et de livraison',
+    12: 'Annexes'
   }
 };
 

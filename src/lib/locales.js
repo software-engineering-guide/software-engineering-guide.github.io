@@ -11,7 +11,9 @@ export const LOCALE_LABELS = {
   'cy-001': 'Cymraeg',
   'hi-001': 'हिन्दी',
   'zh-cn': '中文 - 简体',
-  'es-001': 'Español'
+  'es-001': 'Español',
+  'fr-001': 'Français',
+  'ar-001': 'العربية'
 };
 
 /** @param {string} code */
@@ -19,8 +21,8 @@ export function localeLabel(code) {
   return LOCALE_LABELS[code] ?? code;
 }
 
-/** Right-to-left locale codes among the ones this site publishes. Currently none. */
-export const RTL_LOCALES = new Set();
+/** Right-to-left locale codes among the ones this site publishes. */
+export const RTL_LOCALES = new Set(['ar-001']);
 
 /**
  * @param {string} code
