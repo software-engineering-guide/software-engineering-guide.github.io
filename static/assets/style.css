@@ -256,11 +256,58 @@ kbd {
   z-index: 60;
   inset-block-start: 100%;
   inset-inline-end: 0;
+  /*
+   * Every theme's own CSS (static/themes/*.css, shared listbox rule) sets
+   * inset-inline-start: 0 on these same classes. Combined with our
+   * inset-inline-end: 0 above, that pins the box to both edges of its
+   * positioning container — the trigger button, ~40px wide. With both
+   * inline insets fixed, `width: auto` is over-constrained and resolves
+   * geometrically to that ~40px, ignoring content entirely, before
+   * min-inline-size below even gets a say — clipping every option whose
+   * label is wider than that floor (worst offenders: the long "United
+   * Kingdom National Health Service ... For Practitioners"-style theme
+   * names). Cancelling the theme's inset-inline-start switches this back
+   * to the single-inset case, but that case sizes via shrink-to-fit against
+   * the *containing block's* available width (still ~40px), not the
+   * viewport — so on its own it collapses right back to the same floor.
+   */
+  inset-inline-start: auto;
+  /*
+   * Even with the theme's inset-inline-start cancelled above, the
+   * single-inset case still sizes width via shrink-to-fit against the
+   * *containing block's* available width — the trigger button, ~40px wide,
+   * not the viewport — so an unconstrained `width: auto` collapses back
+   * toward min-content (confirmed: ~130px, close to the widest single word
+   * in the longest theme name) regardless of how much room the viewport
+   * actually has.
+   *
+   * `inline-size: max-content` (a bare keyword — always well-supported)
+   * fixes that: it forces the box to its natural, un-wrapped content width
+   * regardless of the containing block. `max-inline-size` then caps how
+   * far that is allowed to grow on a narrow viewport. Two things this
+   * cannot be written as, both confirmed empirically rather than merely
+   * suspected: (1) `inline-size: fit-content(min(28rem, calc(100vw -
+   * 2rem)))` — a min()/calc() *argument* to fit-content() makes the whole
+   * declaration invalid in this stack, silently dropping it back to the
+   * shrink-to-fit collapse above; (2) `min-inline-size: max-content` (or
+   * `min(max-content, <cap>)`, which is equally invalid for mixing a
+   * keyword into a math function) paired with a capped max-inline-size —
+   * min-width beats max-width whenever min > max, so on a narrow viewport
+   * the min side wins and the cap is silently defeated (confirmed: the box
+   * rendered ~140px off the left edge of a 375px-wide screen). Using plain
+   * `inline-size` for the "grow to content" half sidesteps that precedence
+   * rule entirely, because there is then no competing min-inline-size for
+   * max-inline-size to lose to — min-inline-size: 0 below exists purely to
+   * cancel the theme's own `min-width: max-content`, which would otherwise
+   * reintroduce exactly that trap.
+   */
+  min-inline-size: 0;
+  inline-size: max-content;
+  max-inline-size: min(34rem, calc(100vw - 2rem));
   margin: 0.25rem 0 0;
   padding: 0.25rem;
   list-style: none;
   max-block-size: 20rem;
-  min-inline-size: 10rem;
   overflow-y: auto;
   background: var(--lily-card-bg);
   border: 1px solid var(--lily-border);
@@ -281,7 +328,11 @@ kbd {
   padding: 0.4rem 0.6rem;
   border-radius: var(--lily-radius);
   font-size: 0.9rem;
-  white-space: nowrap;
+  /* Was nowrap: the list's max-inline-size cap (above) exists precisely so
+   * a long label doesn't push the box off-screen on a narrow viewport, so
+   * an option that still doesn't fit must wrap onto a second line rather
+   * than get clipped — nowrap would silently cut it off again. */
+  white-space: normal;
   cursor: pointer;
 }
 .theme-picker-option:hover,

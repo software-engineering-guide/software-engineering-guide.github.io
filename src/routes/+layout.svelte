@@ -127,6 +127,16 @@
       — reseeding that initial value — whenever the URL's locale changes for
       a reason other than this picker (a chapter link, browser back/forward,
       or a direct URL edit), keeping the shown selection honest.
+
+      shareProps below sets strategy: 'list', pinning SharePicker to its
+      in-page dropdown. Its default 'auto' tries navigator.share() first on
+      any browser that exposes it, but the promise can reject for reasons
+      other than the user dismissing the sheet (no share targets
+      registered, no secure context, automated/embedded browsers) —
+      SharePicker treats every rejection as a dismissal and does not fall
+      back to the list, so the button then does nothing at all. With only
+      two targets (email, copy link), the plain list is simpler and
+      reliable on every platform anyway.
     -->
     {#key currentLocale}
       <PickerBar
@@ -151,7 +161,7 @@
             href: (url, title) => `mailto:?subject=${encodeURIComponent(title)}&body=${encodeURIComponent(url)}`
           }
         ]}
-        shareProps={{ copyLabel: headerUi.shareCopyLink }}
+        shareProps={{ copyLabel: headerUi.shareCopyLink, strategy: 'list' }}
       />
     {/key}
   </div>
