@@ -1,7 +1,5 @@
 <script>
   import manifest from '$lib/manifest.json';
-
-  let { data } = $props();
 </script>
 
 <svelte:head>
@@ -32,54 +30,18 @@
     <p class="section-heading-eyebrow">Browse</p>
     <h2>The twelve parts</h2>
   </header>
-  <ul class="part-list">
-    {#each manifest.parts as part (part.number)}
-      {@const intro = part.chapters.find((c) => c.chapter === 0)}
-      <li>
-        <a href="/chapters/{(intro ?? part.chapters[0]).slug}/">
-          <span class="part-list-heading">Part {part.number}: {part.title}</span>
-          <span class="part-list-meta">
-            {part.chapters.length}
-            {part.chapters.length === 1 ? 'chapter' : 'chapters'}, starting with {(intro ?? part.chapters[0]).decimal}
-          </span>
-        </a>
-      </li>
-    {/each}
-  </ul>
-</section>
-
-<section class="section prose" style="margin: 0 auto;">
-  <header class="section-heading">
-    <p class="section-heading-eyebrow">Cross-cutting themes</p>
-    <h2>Not once, everywhere</h2>
-  </header>
-  <p>
-    Security, privacy, and accessibility appear in every part, not once. Automation and
-    "everything as code" underpin repeatability and audit. Measurement and feedback loops turn
-    practices into learning systems. Documentation and knowledge continuity protect against
-    turnover and scale. Regulatory and government constraints are treated as design inputs, not
-    afterthoughts.
-  </p>
-  <p style="text-align: center; margin-top: 2rem;">
-    <a class="button button-secondary" href="/table-of-contents/">See the full table of contents →</a>
-  </p>
-</section>
-
-<section class="section" aria-label="Languages">
-  <header class="section-heading">
-    <p class="section-heading-eyebrow">Languages</p>
-    <h2>Read in your language</h2>
-  </header>
-  <ul class="locale-list">
-    {#each data.locales as locale (locale.code)}
-      <li>
-        <a href={locale.href}>{locale.label}</a>
-        {#if !locale.complete}
-          <span class="locale-partial">({locale.chapterCount}/{manifest.totals.chapters})</span>
-        {/if}
-      </li>
-    {/each}
-  </ul>
+  {#each manifest.parts as part (part.number)}
+    <section class="toc-part">
+      <h3 class="toc-part-heading"><span class="part-number">Part {part.number}</span> {part.title}</h3>
+      <ul class="toc-chapter-list">
+        {#each part.chapters as chapter (chapter.slug)}
+          <li>
+            <a href="/chapters/{chapter.slug}/"><span class="decimal">{chapter.decimal}</span>{chapter.title}</a>
+          </li>
+        {/each}
+      </ul>
+    </section>
+  {/each}
 </section>
 
 <section class="section prose" style="margin: 0 auto;" aria-label="About this site">
