@@ -113,30 +113,47 @@
       {/each}
       <a href="https://github.com/software-engineering-guide/software-engineering-guide">GitHub</a>
     </nav>
-    <PickerBar
-      class="site-picker-bar"
-      labels={{
-        theme: headerUi.pickerTheme,
-        locale: headerUi.pickerLocale,
-        textSize: headerUi.pickerTextSize,
-        share: headerUi.pickerShare
-      }}
-      themesUrl="/themes/"
-      locales={pickerLocales}
-      localeProps={{
-        defaultValue: currentLocale,
-        localeLabels: Object.fromEntries(pickerLocales.map((code) => [code, localeLabel(code)])),
-        onChange: onLocaleChange
-      }}
-      shareTargets={[
-        {
-          id: 'email',
-          label: headerUi.shareEmail,
-          href: (url, title) => `mailto:?subject=${encodeURIComponent(title)}&body=${encodeURIComponent(url)}`
-        }
-      ]}
-      shareProps={{ copyLabel: headerUi.shareCopyLink }}
-    />
+    <!--
+      Keyed on currentLocale: LocalePicker's `value` is "two-way bindable"
+      but PickerBar only exposes it via a plain (one-way) `localeProps.value`
+      spread, with no way to `bind:` through that spread. Passing a
+      continuously-recomputed `value: currentLocale` there fights the
+      picker's own internal selection state — every click momentarily
+      selects the new locale, then the still-current `value` prop snaps it
+      straight back, so `onChange` never fires and the picker looks like it
+      does nothing. Fix: seed the initial selection with `defaultValue`
+      (which the picker only reads once, on mount, so it stops fighting
+      clicks) and key the whole bar on `currentLocale` so it fully remounts
+      — reseeding that initial value — whenever the URL's locale changes for
+      a reason other than this picker (a chapter link, browser back/forward,
+      or a direct URL edit), keeping the shown selection honest.
+    -->
+    {#key currentLocale}
+      <PickerBar
+        class="site-picker-bar"
+        labels={{
+          theme: headerUi.pickerTheme,
+          locale: headerUi.pickerLocale,
+          textSize: headerUi.pickerTextSize,
+          share: headerUi.pickerShare
+        }}
+        themesUrl="/themes/"
+        locales={pickerLocales}
+        localeProps={{
+          defaultValue: currentLocale,
+          localeLabels: Object.fromEntries(pickerLocales.map((code) => [code, localeLabel(code)])),
+          onChange: onLocaleChange
+        }}
+        shareTargets={[
+          {
+            id: 'email',
+            label: headerUi.shareEmail,
+            href: (url, title) => `mailto:?subject=${encodeURIComponent(title)}&body=${encodeURIComponent(url)}`
+          }
+        ]}
+        shareProps={{ copyLabel: headerUi.shareCopyLink }}
+      />
+    {/key}
   </div>
 </header>
 
