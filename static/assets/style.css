@@ -874,7 +874,6 @@ details.faq-item p { margin-top: 0.75rem; }
 .toc-chapter-list { list-style: none; margin: 1rem 0 0; padding: 0; }
 .toc-chapter-list li { margin-bottom: 0.35rem; }
 .toc-chapter-list a { text-decoration: none; }
-.toc-chapter-list .decimal { color: var(--lily-text-subtle); margin-right: 0.35em; font-variant-numeric: tabular-nums; }
 .toc-chapter-list[hidden] { display: none; }
 
 /* Responsive helpers */
