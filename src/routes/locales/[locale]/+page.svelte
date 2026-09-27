@@ -22,17 +22,19 @@
   </section>
 
   <section class="section">
-    <div class="card-grid">
-      {#each localeManifest.parts as part (part.number)}
-        {@const intro = part.chapters.find((c) => c.chapter === 0)}
-        <a class="card" href="/locales/{data.locale}/chapters/{(intro ?? part.chapters[0]).slug}/">
-          <h3 class="card-heading">{data.ui.part} {part.number}: {part.title}</h3>
-          <p class="card-description">
-            {part.chapters.length}
-            {(intro ?? part.chapters[0]).decimal}
-          </p>
-        </a>
-      {/each}
-    </div>
+    {#each localeManifest.parts as part (part.number)}
+      <section class="toc-part">
+        <h3 class="toc-part-heading">
+          <span class="part-number">{data.ui.part} {part.number}</span> {part.title}
+        </h3>
+        <ul class="toc-chapter-list">
+          {#each part.chapters as chapter (chapter.slug)}
+            <li>
+              <a href="/locales/{data.locale}/chapters/{chapter.slug}/">{chapter.decimal} {chapter.title}</a>
+            </li>
+          {/each}
+        </ul>
+      </section>
+    {/each}
   </section>
 {/if}
