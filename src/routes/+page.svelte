@@ -36,7 +36,7 @@
       <ul class="toc-chapter-list">
         {#each part.chapters as chapter (chapter.slug)}
           <li>
-            <a href="/chapters/{chapter.slug}/"><span class="decimal">{chapter.decimal}</span>{chapter.title}</a>
+            <a href="/chapters/{chapter.slug}/">{chapter.decimal} {chapter.title}</a>
           </li>
         {/each}
       </ul>
