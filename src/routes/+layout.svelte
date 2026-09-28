@@ -152,6 +152,7 @@
           share: headerUi.pickerShare
         }}
         themesUrl="/themes/"
+        themeProps={{ storageKey: 'lily-theme', detectFromSystem: true }}
         locales={pickerLocales}
         localeProps={{
           defaultValue: currentLocale,
