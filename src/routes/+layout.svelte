@@ -1,4 +1,5 @@
 <script>
+  import SearchGate from '#lib/SearchGate.svelte';
   import { page } from '$app/state';
   import { goto } from '$app/navigation';
   import Sidebar from '#lib/Sidebar.svelte';
@@ -99,6 +100,9 @@
   /** @param {string} toLocale */
   function onLocaleChange(toLocale) {
     if (toLocale === currentLocale) return;
+    // A search (/?<target>) is on the root page: the picker's automatic
+    // restore of the stored locale must not navigate away and drop it.
+    if (page.url.pathname === '/' && page.url.search) return;
     goto(pathForLocale(toLocale));
   }
 </script>
@@ -177,7 +181,7 @@
     <Sidebar {currentSlug} />
   {/if}
   <div class="site-content">
-    {@render children()}
+    <SearchGate {children} />
   </div>
 </main>
 
