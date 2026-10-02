@@ -2,7 +2,7 @@
 // (which otherwise has one specific string-literal key per chapter decimal,
 // and rejects indexing by an arbitrary `string`) with a general shape.
 // Keep this in sync with scripts/generate-manifest.mjs.
-declare module '$lib/manifest.json' {
+declare module '#lib/manifest.json' {
   interface Chapter {
     part: number;
     chapter: number;

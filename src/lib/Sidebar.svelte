@@ -1,11 +1,11 @@
 <script>
-  import manifest from '$lib/manifest.json';
+  import manifest from '#lib/manifest.json';
 
   let { currentSlug = null } = $props();
 
   let query = $state('');
 
-  /** @param {import('$lib/manifest.json').default['chapters'][number]} chapter @param {string} q */
+  /** @param {import('#lib/manifest.json').default['chapters'][number]} chapter @param {string} q */
   function matches(chapter, q) {
     if (!q) return true;
     return chapter.title.toLowerCase().includes(q) || chapter.decimal.includes(q);

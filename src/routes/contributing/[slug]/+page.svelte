@@ -1,5 +1,5 @@
 <script>
-  import Breadcrumb from '$lib/Breadcrumb.svelte';
+  import Breadcrumb from '#lib/Breadcrumb.svelte';
 
   let { data } = $props();
 </script>

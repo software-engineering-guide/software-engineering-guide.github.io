@@ -1,8 +1,8 @@
-import { langAttr, localeDir } from '$lib/locales.js';
+import { langAttr, localeDir } from '#lib/locales.js';
 
 const LOCALE_PATH_RE = /^\/locales\/([^/]+)\//;
 
-/** @type {import('@sveltejs/kit').Handle} */
+/** @type {import('@sveltejs/kit/hooks').Handle} */
 export async function handle({ event, resolve }) {
   const match = LOCALE_PATH_RE.exec(event.url.pathname);
   const locale = match?.[1];

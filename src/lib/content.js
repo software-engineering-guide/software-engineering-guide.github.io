@@ -1,4 +1,4 @@
-import manifest from '$lib/manifest.json';
+import manifest from '#lib/manifest.json';
 
 /**
  * Every locale this site publishes, sorted by code. This is the order the

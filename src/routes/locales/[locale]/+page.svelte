@@ -1,5 +1,5 @@
 <script>
-  import manifest from '$lib/manifest.json';
+  import manifest from '#lib/manifest.json';
 
   let { data } = $props();
   let localeManifest = $derived(manifest.locales[data.locale]);

@@ -1,12 +1,12 @@
 <script>
   import { page } from '$app/state';
   import { goto } from '$app/navigation';
-  import Sidebar from '$lib/Sidebar.svelte';
+  import Sidebar from '#lib/Sidebar.svelte';
   import PickerBar from '@lilydesignsystem/svelte-picker-bar';
-  import manifest from '$lib/manifest.json';
-  import { locales as availableLocales } from '$lib/content.js';
-  import { localeLabel } from '$lib/locales.js';
-  import { DEFAULT_UI } from '$lib/i18n.js';
+  import manifest from '#lib/manifest.json';
+  import { locales as availableLocales } from '#lib/content.js';
+  import { localeLabel } from '#lib/locales.js';
+  import { DEFAULT_UI } from '#lib/i18n.js';
 
   let { children } = $props();
 

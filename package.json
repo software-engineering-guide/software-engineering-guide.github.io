@@ -14,15 +14,15 @@
     "postinstall": "node scripts/fix-lily-picker-resolution.mjs"
   },
   "devDependencies": {
-    "@sveltejs/adapter-static": "^3.0.10",
-    "@sveltejs/kit": "^2.70.3",
-    "@sveltejs/vite-plugin-svelte": "^5.1.1",
+    "@sveltejs/adapter-static": "^4.0.0",
+    "@sveltejs/kit": "^3.0.0",
+    "@sveltejs/vite-plugin-svelte": "^7.0.0",
     "mdsvex": "^0.12.8",
     "svelte": "^5.57.1",
     "svelte-check": "^4.7.6",
-    "typescript": "^5.9.3",
+    "typescript": "^6.0.0",
     "unist-util-visit": "^5.1.0",
-    "vite": "^6.4.3"
+    "vite": "^8.0.12"
   },
   "pnpm": {
     "ignoredBuiltDependencies": [
@@ -33,10 +33,14 @@
     ]
   },
   "dependencies": {
-    "@lilydesignsystem/svelte-locale-picker": "0.1.2",
+    "@lilydesignsystem/svelte-locale-picker": "0.1.3",
     "@lilydesignsystem/svelte-picker-bar": "^0.1.0",
     "@lilydesignsystem/svelte-share-picker": "0.1.2",
     "@lilydesignsystem/svelte-text-size-picker": "0.1.2",
     "@lilydesignsystem/svelte-theme-picker": "0.1.2"
+  },
+  "imports": {
+    "#lib": "./src/lib/index.js",
+    "#lib/*": "./src/lib/*"
   }
 }

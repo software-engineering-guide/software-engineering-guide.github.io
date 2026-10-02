@@ -1,7 +1,7 @@
 <script>
-  import Breadcrumb from '$lib/Breadcrumb.svelte';
-  import ChapterPager from '$lib/ChapterPager.svelte';
-  import manifest from '$lib/manifest.json';
+  import Breadcrumb from '#lib/Breadcrumb.svelte';
+  import ChapterPager from '#lib/ChapterPager.svelte';
+  import manifest from '#lib/manifest.json';
 
   let { data } = $props();
   let part = $derived(manifest.parts.find((p) => p.number === data.chapter.part));
