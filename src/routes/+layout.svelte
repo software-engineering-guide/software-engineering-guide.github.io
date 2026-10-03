@@ -191,6 +191,10 @@
       {headerUi.footerTagline}
       <a href="https://github.com/software-engineering-guide">software-engineering-guide</a> {headerUi.footerOrgSuffix}
     </p>
+    <p>
+      {headerUi.footerLedBy}
+      <a href="https://linkedin.com/in/joelparkerhenderson">Joel Parker Henderson</a>.
+    </p>
     <div class="site-footer-links">
       <a href="https://github.com/software-engineering-guide/software-engineering-guide">{headerUi.contentSource}</a>
       <a href="https://github.com/software-engineering-guide/software-engineering-guide.github.io">{headerUi.siteSource}</a>

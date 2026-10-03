@@ -31,6 +31,7 @@ const EN = {
   footerOrgSuffix: 'organization.',
   contentSource: 'Content source',
   siteSource: 'Site source'
+  footerLedBy: 'Led by',
 };
 
 /** @type {Record<string, Partial<typeof EN>>} */
@@ -61,6 +62,7 @@ const OVERRIDES = {
     footerOrgSuffix: 'sefydliad.',
     contentSource: 'Ffynhonnell cynnwys',
     siteSource: "Ffynhonnell y wefan"
+    footerLedBy: 'Dan arweiniad',
   },
   'hi-001': {
     siteName: 'सॉफ़्टवेयर इंजीनियरिंग गाइड',
@@ -88,6 +90,7 @@ const OVERRIDES = {
     footerOrgSuffix: 'संगठन के तहत।',
     contentSource: 'सामग्री स्रोत',
     siteSource: 'साइट स्रोत'
+    footerLedBy: 'नेतृत्व',
   },
   'zh-cn': {
     siteName: '软件工程指南',
@@ -115,6 +118,7 @@ const OVERRIDES = {
     footerOrgSuffix: '组织之下。',
     contentSource: '内容来源',
     siteSource: '站点源代码'
+    footerLedBy: '牵头人：',
   },
   'es-001': {
     siteName: 'Guía de Ingeniería de Software',
@@ -142,6 +146,7 @@ const OVERRIDES = {
     footerOrgSuffix: 'organización.',
     contentSource: 'Fuente del contenido',
     siteSource: 'Fuente del sitio'
+    footerLedBy: 'Dirigido por',
   },
   'fr-001': {
     siteName: "Guide de l'ingénierie logicielle",
@@ -171,6 +176,7 @@ const OVERRIDES = {
     footerOrgSuffix: "l'organisation.",
     contentSource: 'Source du contenu',
     siteSource: 'Source du site'
+    footerLedBy: 'Dirigé par',
   }
 };
 
