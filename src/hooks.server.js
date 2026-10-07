@@ -1,11 +1,11 @@
+import { resolveLocale } from '#lib/content.js';
 import { langAttr, localeDir } from '#lib/locales.js';
-
-const LOCALE_PATH_RE = /^\/locales\/([^/]+)\//;
 
 /** @type {import('@sveltejs/kit/hooks').Handle} */
 export async function handle({ event, resolve }) {
-  const match = LOCALE_PATH_RE.exec(event.url.pathname);
-  const locale = match?.[1];
+  // The first path segment is a locale code or a language alias ("/en/"),
+  // never a section name: resolveLocale() only accepts real locales.
+  const locale = resolveLocale(event.url.pathname.split('/')[1]);
 
   return resolve(event, {
     transformPageChunk: ({ html }) => {

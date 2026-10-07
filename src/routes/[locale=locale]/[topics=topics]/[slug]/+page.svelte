@@ -2,6 +2,7 @@
   import Breadcrumb from '#lib/Breadcrumb.svelte';
   import ChapterPager from '#lib/ChapterPager.svelte';
   import manifest from '#lib/manifest.json';
+  import { topicsBase } from '#lib/content.js';
 
   let { data } = $props();
   let localeManifest = $derived(manifest.locales[data.locale]);
@@ -16,10 +17,10 @@
 
 <Breadcrumb
   items={[
-    { label: data.ui.home, href: `/locales/${data.locale}/` },
+    { label: data.ui.home, href: `${data.base}/` },
     {
       label: `${data.ui.part} ${data.chapter.part}: ${part?.title ?? ''}`,
-      href: partIntro ? `/locales/${data.locale}/chapters/${partIntro.slug}/` : undefined
+      href: partIntro ? `${data.topicsBase}/${partIntro.slug}/` : undefined
     },
     { label: data.chapter.decimal }
   ]}
@@ -29,7 +30,7 @@
 
 {#if data.enChapter && data.locale !== 'en-us'}
   <p class="locale-notice">
-    <a href="/chapters/{data.enChapter.slug}/">{data.ui.viewInEnglish}</a>
+    <a href="{topicsBase('en-us')}/{data.enChapter.slug}/">{data.ui.viewInEnglish}</a>
   </p>
 {/if}
 
@@ -38,7 +39,7 @@
 <ChapterPager
   prev={data.prev}
   next={data.next}
-  hrefBase="/locales/{data.locale}/chapters/"
+  hrefBase="{data.topicsBase}/"
   prevLabel={data.ui.previous}
   nextLabel={data.ui.next}
 />

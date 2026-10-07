@@ -31,6 +31,8 @@ declare module '#lib/manifest.json' {
     chaptersByDecimal: Record<string, Chapter>;
     order: string[];
     hasHomePage: boolean;
+    /** URL segment for this locale's topics section (translated per locale). */
+    topicsSlug: string;
   }
 
   interface Manifest {

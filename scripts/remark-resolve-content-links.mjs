@@ -3,7 +3,7 @@
 // "index.md", or, for a chapter linking a sibling chapter,
 // "../01-02-team-topologies/index.md") — that's how they resolve in the
 // source content repo's own directory-per-chapter layout
-// (locales/<code>/chapters/<slug>/index.md). Rewrite each into this site's
+// (locales/<code>/<topics_slug>/<slug>/index.md). Rewrite each into this site's
 // route: strip the ".md"/".md#frag", resolve relative to the source file's
 // *logical* directory (see logicalSourceDir below), and map a section's
 // index.md to its bare section route ("/contributing/" rather than
@@ -11,6 +11,8 @@
 // already-absolute paths untouched.
 import path from 'node:path';
 import { visit } from 'unist-util-visit';
+import { DEFAULT_LOCALE } from '../src/lib/locales.js';
+import { topicsSlug } from './topics-slugs.mjs';
 
 const SECTIONS = new Set(['chapters', 'front-matter', 'examples', 'contributing', 'project']);
 
@@ -63,14 +65,10 @@ export function remarkResolveContentLinks() {
       // copied here. Since "locales/<code>/..." is unambiguous wherever
       // it appears in the path, match it directly rather than resolving
       // by directory depth.
-      const localeMatch = /(?:^|\/)locales\/([^/]+)\/(?:(chapters)\/([^/]+)\/)?index\.md$/.exec(rawPath);
+      const localeMatch = /(?:^|\/)locales\/([^/]+)\/(?:([^/]+)\/([^/]+)\/)?index\.md$/.exec(rawPath);
       if (localeMatch) {
         const [, code, isChapters, slug] = localeMatch;
-        const route = isChapters
-          ? code === 'en-us'
-            ? `/chapters/${slug}/`
-            : `/locales/${code}/chapters/${slug}/`
-          : localeHomeRoute(code);
+        const route = isChapters ? `/${code}/${topicsSlug(code)}/${slug}/` : localeHomeRoute(code);
         node.url = fragment ? `${route}#${fragment}` : route;
         return;
       }
@@ -87,7 +85,7 @@ export function remarkResolveContentLinks() {
         const code = segments[1];
         if (segments[2] === 'chapters' && segments[4] === 'index.md') {
           const slug = segments[3];
-          const route = code === 'en-us' ? `/chapters/${slug}/` : `/locales/${code}/chapters/${slug}/`;
+          const route = `/${code}/${topicsSlug(code)}/${slug}/`;
           node.url = fragment ? `${route}#${fragment}` : route;
         } else if (segments.length === 3 && segments[2] === 'index.md') {
           const route = localeHomeRoute(code);
@@ -100,7 +98,7 @@ export function remarkResolveContentLinks() {
       // index.md — that's docs/index.md in the source repo, which this site
       // doesn't copy (its role is played by the hand-authored home page).
       if (relative === 'index.md') {
-        node.url = fragment ? `/#${fragment}` : '/';
+        node.url = fragment ? `/${DEFAULT_LOCALE}/#${fragment}` : `/${DEFAULT_LOCALE}/`;
         return;
       }
 
@@ -116,7 +114,7 @@ export function remarkResolveContentLinks() {
       const isIndex = file2 === 'index';
       const route =
         section === 'chapters'
-          ? `/chapters/${file2}/`
+          ? `/${DEFAULT_LOCALE}/${topicsSlug(DEFAULT_LOCALE)}/${file2}/`
           : isIndex
             ? `/${section}/`
             : `/${section}/${file2}/`;
@@ -128,5 +126,5 @@ export function remarkResolveContentLinks() {
 
 /** @param {string} code */
 function localeHomeRoute(code) {
-  return code === 'en-us' ? '/' : `/locales/${code}/`;
+  return `/${code}/`;
 }

@@ -1,6 +1,6 @@
 // A remark plugin that auto-links plain-text chapter cross-references, e.g.
-// "see chapter 8.1" or "chapters 2.3 and 2.4", to the matching /chapters/
-// route. This mirrors the `guide_xref` Markdown extension in the source
+// "see chapter 8.1" or "chapters 2.3 and 2.4", to the matching
+// (`/<locale>/<topics_slug>/<slug>/`, in the locale of the file). This mirrors the `guide_xref` Markdown extension in the source
 // content repo (see spec there), reimplemented for the mdsvex build here.
 //
 // It intentionally does NOT link version numbers or bare quantities — only
@@ -10,14 +10,24 @@ import { visit } from 'unist-util-visit';
 import { readFileSync, existsSync } from 'node:fs';
 import { fileURLToPath } from 'node:url';
 import path from 'node:path';
+import { DEFAULT_LOCALE } from '../src/lib/locales.js';
 
 const here = path.dirname(fileURLToPath(import.meta.url));
 const manifestPath = path.resolve(here, '../src/lib/manifest.json');
 
-function loadChapterSlugs() {
-  if (!existsSync(manifestPath)) return {};
-  const manifest = JSON.parse(readFileSync(manifestPath, 'utf-8'));
-  return manifest.chaptersByDecimal ?? {};
+function loadManifest() {
+  if (!existsSync(manifestPath)) return null;
+  return JSON.parse(readFileSync(manifestPath, 'utf-8'));
+}
+
+/**
+ * The locale a content file belongs to: src/content/locales/<code>/... is
+ * <code>; every other section (front matter, examples, ...) is the default.
+ * @param {string | undefined} sourcePath
+ */
+function localeOfFile(sourcePath) {
+  const m = /[\\/]src[\\/]content[\\/]locales[\\/]([^\\/]+)[\\/]/.exec(sourcePath ?? '');
+  return m ? m[1] : DEFAULT_LOCALE;
 }
 
 // "chapter(s) 1.2" / "chapter(s) 1.2 and 3.4" / "chapter(s) 1.2, 3.4, and 5.6"
@@ -25,10 +35,14 @@ const MENTION_RE = /\bchapters?\s+(\d{1,2}\.\d{1,2})((?:\s*(?:,|and)\s*\d{1,2}\.
 const DECIMAL_RE = /\d{1,2}\.\d{1,2}/g;
 
 export function remarkChapterLinks() {
-  const chaptersByDecimal = loadChapterSlugs();
-  if (Object.keys(chaptersByDecimal).length === 0) return () => {};
+  const manifest = loadManifest();
+  if (!manifest || Object.keys(manifest.chaptersByDecimal ?? {}).length === 0) return () => {};
 
-  return (tree) => {
+  return (tree, file) => {
+    const code = localeOfFile(file?.filename ?? file?.path ?? file?.history?.[0]);
+    // Link to this file's own locale; fall back to English for a chapter that
+    // locale does not have.
+    const chaptersByDecimal = manifest.locales?.[code]?.chaptersByDecimal ?? manifest.chaptersByDecimal;
     visit(tree, 'text', (node, index, parent) => {
       if (!parent || index == null) return;
       // Skip text inside links/code — visit only reaches plain text nodes,
@@ -63,7 +77,7 @@ export function remarkChapterLinks() {
           if (target) {
             segments.push({
               type: 'link',
-              url: `/chapters/${target.slug}/`,
+              url: `/${manifest.locales?.[code] ? code : DEFAULT_LOCALE}/${manifest.locales?.[code]?.topicsSlug ?? 'topics'}/${target.slug}/`,
               title: target.heading,
               children: [{ type: 'text', value: decimal }]
             });

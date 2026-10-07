@@ -1,5 +1,6 @@
 <script>
   import Breadcrumb from '#lib/Breadcrumb.svelte';
+  import { DEFAULT_LOCALE } from '#lib/locales.js';
 
   let { data } = $props();
 </script>
@@ -9,7 +10,7 @@
 </svelte:head>
 
 <Breadcrumb
-  items={[{ label: 'Home', href: '/' }, { label: 'Contributing', href: '/contributing/' }, { label: data.entry.title }]}
+  items={[{ label: 'Home', href: `/${DEFAULT_LOCALE}/` }, { label: 'Contributing', href: '/contributing/' }, { label: data.entry.title }]}
 />
 
 <data.content />

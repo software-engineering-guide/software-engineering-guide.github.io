@@ -27,11 +27,15 @@ const EN = {
   notTranslated: 'This chapter is not yet translated into this language. Showing the English original.',
   otherLanguages: 'Also available in',
   viewInEnglish: 'View in English',
+  filterChapters: 'Filter chapters…',
+  search: 'Search',
+  searchInput: 'Search the site',
+  searchSubmit: 'Search',
   footerTagline: 'A guidebook of good practices for software developer teams, published under the',
   footerOrgSuffix: 'organization.',
+  footerLedBy: 'Led by',
   contentSource: 'Content source',
   siteSource: 'Site source'
-  footerLedBy: 'Led by',
 };
 
 /** @type {Record<string, Partial<typeof EN>>} */
@@ -60,9 +64,9 @@ const OVERRIDES = {
     viewInEnglish: 'Gweld yn Saesneg',
     footerTagline: 'Canllaw o arferion da ar gyfer timau datblygu meddalwedd, a gyhoeddir gan y',
     footerOrgSuffix: 'sefydliad.',
+    footerLedBy: 'Dan arweiniad',
     contentSource: 'Ffynhonnell cynnwys',
     siteSource: "Ffynhonnell y wefan"
-    footerLedBy: 'Dan arweiniad',
   },
   'hi-001': {
     siteName: 'सॉफ़्टवेयर इंजीनियरिंग गाइड',
@@ -88,9 +92,9 @@ const OVERRIDES = {
     viewInEnglish: 'अंग्रेज़ी में देखें',
     footerTagline: 'सॉफ़्टवेयर डेवलपर टीमों के लिए अच्छे अभ्यासों की एक गाइड, जिसे प्रकाशित किया गया है',
     footerOrgSuffix: 'संगठन के तहत।',
+    footerLedBy: 'नेतृत्व',
     contentSource: 'सामग्री स्रोत',
     siteSource: 'साइट स्रोत'
-    footerLedBy: 'नेतृत्व',
   },
   'zh-cn': {
     siteName: '软件工程指南',
@@ -116,9 +120,9 @@ const OVERRIDES = {
     viewInEnglish: '查看英文版',
     footerTagline: '一本面向软件开发团队的良好实践指南，发布于',
     footerOrgSuffix: '组织之下。',
+    footerLedBy: '牵头人：',
     contentSource: '内容来源',
     siteSource: '站点源代码'
-    footerLedBy: '牵头人：',
   },
   'es-001': {
     siteName: 'Guía de Ingeniería de Software',
@@ -144,9 +148,9 @@ const OVERRIDES = {
     viewInEnglish: 'Ver en inglés',
     footerTagline: 'Una guía de buenas prácticas para equipos de desarrollo de software, publicada bajo la',
     footerOrgSuffix: 'organización.',
+    footerLedBy: 'Dirigido por',
     contentSource: 'Fuente del contenido',
     siteSource: 'Fuente del sitio'
-    footerLedBy: 'Dirigido por',
   },
   'fr-001': {
     siteName: "Guide de l'ingénierie logicielle",
@@ -174,9 +178,9 @@ const OVERRIDES = {
     footerTagline:
       'Un guide de bonnes pratiques pour les équipes de développement logiciel, publié sous',
     footerOrgSuffix: "l'organisation.",
+    footerLedBy: 'Dirigé par',
     contentSource: 'Source du contenu',
     siteSource: 'Source du site'
-    footerLedBy: 'Dirigé par',
   }
 };
 

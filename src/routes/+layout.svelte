@@ -5,22 +5,22 @@
   import Sidebar from '#lib/Sidebar.svelte';
   import PickerBar from '@lilydesignsystem/svelte-picker-bar';
   import manifest from '#lib/manifest.json';
-  import { locales as availableLocales } from '#lib/content.js';
-  import { localeLabel } from '#lib/locales.js';
+  import { locales as availableLocales, resolveLocale, topicsBase, topicsSlug } from '#lib/content.js';
+  import { localeLabel, DEFAULT_LOCALE } from '#lib/locales.js';
   import { DEFAULT_UI } from '#lib/i18n.js';
 
   let { children } = $props();
 
   // The header (brand wordmark, nav labels, picker labels, footer text)
   // lives in the root layout, rendered on every route, but it must still
-  // read as this locale on any /locales/<code>/ page. Per
+  // read as this locale on any /<code>/ page. Per
   // spec/locales-for-global-sharing-with-svelte/index.md's regression
   // watch-list ("UI chrome was hardcoded English in the .svelte templates
   // ... nav labels ... Fix: add i18n.js and threading ui(locale) through
   // every locale-scoped route" and "header/footer brand wordmark stayed
   // English ... Fix: have locales/[locale]/+layout.server.js supply this
   // locale's own title, which overrides the root layout's canonical one
-  // via SvelteKit's merged page.data"): locales/[locale]/+layout.server
+  // via SvelteKit's merged page.data"): [locale=locale]/+layout.server
   // .js's load() puts `ui` in its data, and SvelteKit merges that into
   // page.data for the whole active route tree, so reading page.data here
   // (rather than a module-level `ui('en-us')` constant) makes the header
@@ -28,27 +28,38 @@
   // locale itself.
   let headerUi = $derived(page.data.ui ?? DEFAULT_UI);
 
-  // These nav links point at canonical (untranslated) sections — only
-  // chapters and each locale's own home page are translated, per
-  // spec/locales-for-global-sharing-with-svelte/index.md's content
-  // structure — but the label text itself still reads in the visitor's
-  // language rather than staying English on every locale page.
+  // The locale segment of the current URL ("/<code>/..."), or the default
+  // locale for the English-only root sections ("/front-matter/...",
+  // "/examples/...", and so on). `localeBase` keeps links inside the alias
+  // ("/en/...") the visitor is browsing. Leaving the current locale
+  // undefined for those routes would feed localeProps.defaultValue={undefined}
+  // to the locale picker, which then falls back to its first list entry and
+  // fires onChange on mount, silently redirecting every one of those pages.
+  let pathname = $derived(page.url.pathname);
+  let urlSegment = $derived(pathname.split('/')[1]);
+  let urlLocale = $derived(resolveLocale(urlSegment));
+  let currentLocale = $derived(urlLocale ?? DEFAULT_LOCALE);
+  let localeBase = $derived(`/${urlLocale ? urlSegment : DEFAULT_LOCALE}`);
+
+  // Home, contents, and chapters are translated per locale; front matter,
+  // examples, contributing, and project are English-only sections at the
+  // root, but their label text still reads in the visitor's language.
   let navLinks = $derived([
-    { href: '/', label: headerUi.home },
+    { href: `${localeBase}/`, label: headerUi.home },
     { href: '/front-matter/what-is-software-engineering/', label: headerUi.startHere },
-    { href: '/contents/', label: headerUi.tableOfContents },
+    { href: `${localeBase}/contents/`, label: headerUi.tableOfContents },
     { href: '/examples/', label: headerUi.examples },
     { href: '/contributing/', label: headerUi.contributing },
     { href: '/project/', label: headerUi.project }
   ]);
 
-  let pathname = $derived(page.url.pathname);
-  let showSidebar = $derived(pathname.startsWith('/chapters/') || pathname.startsWith('/front-matter/'));
+  let showSidebar = $derived(
+    pathname.startsWith('/front-matter/') || (urlLocale !== null && pathname.startsWith(`${topicsBase(urlSegment)}/`))
+  );
   let currentSlug = $derived(showSidebar ? (pathname.split('/').filter(Boolean).pop() ?? null) : null);
 
   /** @param {string} href */
   function isCurrent(href) {
-    if (href === '/') return pathname === '/';
     return pathname === href;
   }
 
@@ -56,18 +67,6 @@
   // PickerBar/LocalePicker only manage picker UI state — navigating to the
   // matching page in the newly-picked locale is this app's job.
   const pickerLocales = availableLocales();
-
-  // The locale segment of the current URL ("/locales/<code>/..."), or
-  // "en-us" for every canonical unprefixed English route ("/", "/chapters/...",
-  // "/contents/", "/examples/", and so on). Leaving this undefined for routes
-  // outside "/" and "/chapters/" (as an earlier version did) fed
-  // localeProps.defaultValue={undefined} to the locale picker, which then
-  // fell back to its first list entry and fired onChange on mount, silently
-  // redirecting every one of those pages to that locale's home page.
-  let currentLocale = $derived.by(() => {
-    const m = /^\/locales\/([^/]+)\//.exec(pathname);
-    return m ? m[1] : 'en-us';
-  });
 
   /**
    * Finds the equivalent page for `toLocale`, mapping the current chapter
@@ -80,21 +79,14 @@
    */
   function pathForLocale(toLocale) {
     const segments = pathname.split('/').filter(Boolean);
-    let decimal;
-    if (segments[0] === 'chapters' && segments[1]) {
-      decimal = manifest.chapters.find((c) => c.slug === segments[1])?.decimal;
-    } else if (segments[0] === 'locales' && segments[1] && segments[2] === 'chapters' && segments[3]) {
-      const fromLocale = segments[1];
-      const fromManifest = manifest.locales[fromLocale];
-      decimal = fromManifest?.chapters.find((c) => c.slug === segments[3])?.decimal;
+    if (urlLocale === null) return `/${toLocale}/`;
+    if (segments[1] === 'contents') return `/${toLocale}/contents/`;
+    if (segments[1] === topicsSlug(urlSegment) && segments[2]) {
+      const decimal = manifest.locales[urlLocale]?.chapters.find((c) => c.slug === segments[2])?.decimal;
+      const target = decimal ? manifest.locales[resolveLocale(toLocale) ?? toLocale]?.chaptersByDecimal?.[decimal] : null;
+      if (target) return `${topicsBase(toLocale)}/${target.slug}/`;
     }
-    if (decimal) {
-      const target = manifest.locales[toLocale]?.chaptersByDecimal?.[decimal];
-      if (target) {
-        return toLocale === 'en-us' ? `/chapters/${target.slug}/` : `/locales/${toLocale}/chapters/${target.slug}/`;
-      }
-    }
-    return toLocale === 'en-us' ? '/' : `/locales/${toLocale}/`;
+    return `/${toLocale}/`;
   }
 
   /** @param {string} toLocale */
@@ -111,7 +103,7 @@
 
 <header class="site-header">
   <div class="site-header-inner">
-    <a class="site-brand" href="/" aria-label="{headerUi.siteName} home">
+    <a class="site-brand" href="{localeBase}/" aria-label="{headerUi.siteName} home">
       <img class="site-brand-mark" src="/assets/favicon.svg" alt="" aria-hidden="true" />
       <span>{headerUi.siteName}</span>
     </a>
@@ -150,11 +142,15 @@
       <PickerBar
         class="site-picker-bar"
         labels={{
+          search: headerUi.search,
+          searchInput: headerUi.searchInput,
+          searchSubmit: headerUi.searchSubmit,
           theme: headerUi.pickerTheme,
           locale: headerUi.pickerLocale,
           textSize: headerUi.pickerTextSize,
           share: headerUi.pickerShare
         }}
+        searchProps={{ navigate: goto }}
         themesUrl="/themes/"
         themeProps={{ storageKey: 'lily-theme', detectFromSystem: true }}
         locales={pickerLocales}
@@ -178,7 +174,12 @@
 
 <main id="main" class="site-main" class:has-sidebar={showSidebar}>
   {#if showSidebar}
-    <Sidebar {currentSlug} />
+    <Sidebar
+      {currentSlug}
+      locale={currentLocale}
+      base={localeBase}
+      placeholder={headerUi.filterChapters}
+    />
   {/if}
   <div class="site-content">
     <SearchGate {children} />
@@ -198,7 +199,7 @@
     <div class="site-footer-links">
       <a href="https://github.com/software-engineering-guide/software-engineering-guide">{headerUi.contentSource}</a>
       <a href="https://github.com/software-engineering-guide/software-engineering-guide.github.io">{headerUi.siteSource}</a>
-      <a href="/contents/">{headerUi.tableOfContents}</a>
+      <a href="{localeBase}/contents/">{headerUi.tableOfContents}</a>
       <a href="/contributing/">{headerUi.contributing}</a>
     </div>
   </div>

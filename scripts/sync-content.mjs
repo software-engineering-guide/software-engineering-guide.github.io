@@ -6,7 +6,7 @@
 // `components.tsv`. Never hand-edit files under src/content/; edit the source
 // repo and re-run `pnpm run content` instead.
 //
-// Chapters live under the source repo's locales/<code>/chapters/<slug>/index.md
+// Chapters live under the source repo's locales/<code>/<topics_slug>/<slug>/index.md
 // (one directory per chapter, per-locale slugs), not docs/chapters/<slug>.md
 // (that flat layout was retired when the source repo added locale support; see
 // its spec/locales-for-global-sharing-with-svelte/index.md). This script
@@ -15,7 +15,7 @@
 // examples, contributing, project) from docs/ as before. The default English
 // chapters/ section below is copied from locales/en-us/ specifically, so
 // existing routes under /chapters/... keep working unchanged.
-import { existsSync, mkdirSync, readdirSync, rmSync, copyFileSync, lstatSync } from 'node:fs';
+import { existsSync, mkdirSync, readdirSync, rmSync, copyFileSync, lstatSync, readFileSync, writeFileSync } from 'node:fs';
 import { fileURLToPath } from 'node:url';
 import path from 'node:path';
 
@@ -25,6 +25,19 @@ const sourceRoot = path.resolve(root, '../software-engineering-guide');
 const sourceDocs = path.join(sourceRoot, 'docs');
 const sourceLocales = path.join(sourceRoot, 'locales');
 const targetContent = path.resolve(root, 'src/content');
+
+// Per-locale name of the topics section (the book repo's directory and this
+// site's URL segment), from the topics_slug column of locales.tsv. Saved as
+// src/content/topics-slugs.json for the other build scripts.
+const localesTsv = path.join(sourceRoot, 'spec', 'locales-for-global-sharing-with-svelte', 'locales.tsv');
+/** @type {Record<string, string>} */
+const topicsSlugs = {};
+for (const line of readFileSync(localesTsv, 'utf-8').split('\n').slice(1)) {
+  const [code, , , slug] = line.split('\t');
+  if (code && slug) topicsSlugs[code] = slug;
+}
+mkdirSync(targetContent, { recursive: true });
+writeFileSync(path.join(targetContent, 'topics-slugs.json'), JSON.stringify(topicsSlugs, null, 2) + '\n');
 
 const NON_LOCALE_SECTIONS = ['front-matter', 'examples', 'contributing', 'project'];
 
@@ -81,7 +94,7 @@ function syncChapterDirs(localeChaptersDir, targetChaptersDir) {
 // English chapters, kept at the existing src/content/chapters/ path so
 // today's /chapters/[slug]/ routes and manifest.json keep working unchanged.
 const enUsChaptersCount = syncChapterDirs(
-  path.join(sourceLocales, 'en-us', 'chapters'),
+  path.join(sourceLocales, 'en-us', topicsSlugs['en-us'] ?? 'topics'),
   path.join(targetContent, 'chapters')
 );
 console.log(`Synced ${enUsChaptersCount} file(s) into src/content/chapters/ (from locales/en-us/)`);
@@ -99,7 +112,7 @@ for (const code of localeCodes) {
   const localeDir = path.join(sourceLocales, code);
   const targetLocaleDir = path.join(targetLocalesDir, code);
   mkdirSync(targetLocaleDir, { recursive: true });
-  const count = syncChapterDirs(path.join(localeDir, 'chapters'), path.join(targetLocaleDir, 'chapters'));
+  const count = syncChapterDirs(path.join(localeDir, topicsSlugs[code] ?? 'topics'), path.join(targetLocaleDir, 'chapters'));
   const localeIndex = path.join(localeDir, 'index.md');
   if (existsSync(localeIndex)) {
     copyFileSync(localeIndex, path.join(targetLocaleDir, 'index.md'));

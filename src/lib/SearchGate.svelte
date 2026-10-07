@@ -1,13 +1,11 @@
 <script lang="ts">
 	import { page } from '$app/state';
-	import { goto } from '$app/navigation';
 	import { targetFromSearch, search, type IndexEntry, type SearchResult } from '#lib/search.js';
 	import type { Snippet } from 'svelte';
 
 	let { children }: { children?: Snippet } = $props();
 
 	let target = $state('');
-	let input = $state('');
 	let results = $state<SearchResult[] | null>(null);
 	let failed = $state(false);
 	let indexPromise: Promise<IndexEntry[]> | null = null;
@@ -17,7 +15,6 @@
 	// Client-only: the home page is prerendered, so the query is read here.
 	$effect(() => {
 		target = onHome ? targetFromSearch(page.url.search) : '';
-		input = target;
 	});
 
 	$effect(() => {
@@ -42,20 +39,7 @@
 		);
 	});
 
-	function submit(event: SubmitEvent) {
-		event.preventDefault();
-		const q = input.trim();
-		goto(q ? `/?${encodeURIComponent(q).replace(/%20/g, '+')}` : '/');
-	}
 </script>
-
-{#if onHome}
-	<form class="site-search" role="search" onsubmit={submit}>
-		<label for="site-search-input">Search</label>
-		<input id="site-search-input" type="search" bind:value={input} autocomplete="off" />
-		<button type="submit">Search</button>
-	</form>
-{/if}
 
 {#if target}
 	<section class="site-search-results" aria-live="polite" aria-label="Search results">

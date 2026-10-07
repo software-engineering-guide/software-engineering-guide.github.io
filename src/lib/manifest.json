@@ -8462,7 +8462,8 @@
         "12.6",
         "12.7"
       ],
-      "hasHomePage": false
+      "hasHomePage": false,
+      "topicsSlug": "المواضيع"
     },
     "cy-001": {
       "chapters": [
@@ -9172,10 +9173,10 @@
           "part": 6,
           "chapter": 2,
           "decimal": "6.2",
-          "slug": "06-02-mlops",
+          "slug": "06-02-gweithrediadau-dysgu-peirianyddol",
           "title": "Peirianneg dysgu peiriant (MLOps)",
           "heading": "6.2 Peirianneg dysgu peiriant (MLOps)",
-          "file": "locales/cy-001/chapters/06-02-mlops.md"
+          "file": "locales/cy-001/chapters/06-02-gweithrediadau-dysgu-peirianyddol.md"
         },
         {
           "part": 6,
@@ -10531,10 +10532,10 @@
               "part": 6,
               "chapter": 2,
               "decimal": "6.2",
-              "slug": "06-02-mlops",
+              "slug": "06-02-gweithrediadau-dysgu-peirianyddol",
               "title": "Peirianneg dysgu peiriant (MLOps)",
               "heading": "6.2 Peirianneg dysgu peiriant (MLOps)",
-              "file": "locales/cy-001/chapters/06-02-mlops.md"
+              "file": "locales/cy-001/chapters/06-02-gweithrediadau-dysgu-peirianyddol.md"
             },
             {
               "part": 6,
@@ -11894,10 +11895,10 @@
           "part": 6,
           "chapter": 2,
           "decimal": "6.2",
-          "slug": "06-02-mlops",
+          "slug": "06-02-gweithrediadau-dysgu-peirianyddol",
           "title": "Peirianneg dysgu peiriant (MLOps)",
           "heading": "6.2 Peirianneg dysgu peiriant (MLOps)",
-          "file": "locales/cy-001/chapters/06-02-mlops.md"
+          "file": "locales/cy-001/chapters/06-02-gweithrediadau-dysgu-peirianyddol.md"
         },
         "6.3": {
           "part": 6,
@@ -12661,7 +12662,8 @@
         "12.6",
         "12.7"
       ],
-      "hasHomePage": false
+      "hasHomePage": false,
+      "topicsSlug": "pynciau"
     },
     "de-de": {
       "chapters": [
@@ -12939,10 +12941,10 @@
           "part": 2,
           "chapter": 16,
           "decimal": "2.16",
-          "slug": "02-16-performance-engineering",
+          "slug": "02-16-leistungstechnik",
           "title": "Performance-Engineering",
           "heading": "2.16 Performance-Engineering",
-          "file": "locales/de-de/chapters/02-16-performance-engineering.md"
+          "file": "locales/de-de/chapters/02-16-leistungstechnik.md"
         },
         {
           "part": 2,
@@ -13074,10 +13076,10 @@
           "part": 3,
           "chapter": 9,
           "decimal": "3.9",
-          "slug": "03-09-systems-engineering",
+          "slug": "03-09-systemtechnik",
           "title": "Systems Engineering",
           "heading": "3.9 Systems Engineering",
-          "file": "locales/de-de/chapters/03-09-systems-engineering.md"
+          "file": "locales/de-de/chapters/03-09-systemtechnik.md"
         },
         {
           "part": 3,
@@ -13254,10 +13256,10 @@
           "part": 5,
           "chapter": 0,
           "decimal": "5.0",
-          "slug": "05-00-ui-ux-design",
+          "slug": "05-00-benutzeroberflaechen-und-nutzererlebnis-design",
           "title": "Einführung in Teil 5: UI/UX-Design",
           "heading": "5.0 Einführung in Teil 5: UI/UX-Design",
-          "file": "locales/de-de/chapters/05-00-ui-ux-design.md"
+          "file": "locales/de-de/chapters/05-00-benutzeroberflaechen-und-nutzererlebnis-design.md"
         },
         {
           "part": 5,
@@ -13335,10 +13337,10 @@
           "part": 5,
           "chapter": 9,
           "decimal": "5.9",
-          "slug": "05-09-service-design",
+          "slug": "05-09-dienstleistungsdesign",
           "title": "Service-Design",
           "heading": "5.9 Service-Design",
-          "file": "locales/de-de/chapters/05-09-service-design.md"
+          "file": "locales/de-de/chapters/05-09-dienstleistungsdesign.md"
         },
         {
           "part": 5,
@@ -13371,10 +13373,10 @@
           "part": 6,
           "chapter": 2,
           "decimal": "6.2",
-          "slug": "06-02-mlops",
+          "slug": "06-02-betrieb-maschinellen-lernens",
           "title": "Machine-Learning-Engineering (MLOps)",
           "heading": "6.2 Machine-Learning-Engineering (MLOps)",
-          "file": "locales/de-de/chapters/06-02-mlops.md"
+          "file": "locales/de-de/chapters/06-02-betrieb-maschinellen-lernens.md"
         },
         {
           "part": 6,
@@ -13461,10 +13463,10 @@
           "part": 7,
           "chapter": 2,
           "decimal": "7.2",
-          "slug": "07-02-data-engineering",
+          "slug": "07-02-datentechnik",
           "title": "Data Engineering",
           "heading": "7.2 Data Engineering",
-          "file": "locales/de-de/chapters/07-02-data-engineering.md"
+          "file": "locales/de-de/chapters/07-02-datentechnik.md"
         },
         {
           "part": 7,
@@ -13614,10 +13616,10 @@
           "part": 9,
           "chapter": 1,
           "decimal": "9.1",
-          "slug": "09-01-site-reliability-engineering",
+          "slug": "09-01-zuverlaessigkeitstechnik-fuer-dienste",
           "title": "Site Reliability Engineering",
           "heading": "9.1 Site Reliability Engineering",
-          "file": "locales/de-de/chapters/09-01-site-reliability-engineering.md"
+          "file": "locales/de-de/chapters/09-01-zuverlaessigkeitstechnik-fuer-dienste.md"
         },
         {
           "part": 9,
@@ -13749,10 +13751,10 @@
           "part": 10,
           "chapter": 7,
           "decimal": "10.7",
-          "slug": "10-07-agile",
+          "slug": "10-07-agil",
           "title": "Agile",
           "heading": "10.7 Agile",
-          "file": "locales/de-de/chapters/10-07-agile.md"
+          "file": "locales/de-de/chapters/10-07-agil.md"
         },
         {
           "part": 10,
@@ -13866,10 +13868,10 @@
           "part": 11,
           "chapter": 1,
           "decimal": "11.1",
-          "slug": "11-01-discovery-pipeline",
+          "slug": "11-01-entdeckungs-pipeline",
           "title": "Die Discovery-Pipeline",
           "heading": "11.1 Die Discovery-Pipeline",
-          "file": "locales/de-de/chapters/11-01-discovery-pipeline.md"
+          "file": "locales/de-de/chapters/11-01-entdeckungs-pipeline.md"
         },
         {
           "part": 11,
@@ -13983,10 +13985,10 @@
           "part": 12,
           "chapter": 7,
           "decimal": "12.7",
-          "slug": "12-07-index",
+          "slug": "12-07-stichwortverzeichnis",
           "title": "Index",
           "heading": "12.7 Index",
-          "file": "locales/de-de/chapters/12-07-index.md"
+          "file": "locales/de-de/chapters/12-07-stichwortverzeichnis.md"
         }
       ],
       "parts": [
@@ -14274,10 +14276,10 @@
               "part": 2,
               "chapter": 16,
               "decimal": "2.16",
-              "slug": "02-16-performance-engineering",
+              "slug": "02-16-leistungstechnik",
               "title": "Performance-Engineering",
               "heading": "2.16 Performance-Engineering",
-              "file": "locales/de-de/chapters/02-16-performance-engineering.md"
+              "file": "locales/de-de/chapters/02-16-leistungstechnik.md"
             },
             {
               "part": 2,
@@ -14415,10 +14417,10 @@
               "part": 3,
               "chapter": 9,
               "decimal": "3.9",
-              "slug": "03-09-systems-engineering",
+              "slug": "03-09-systemtechnik",
               "title": "Systems Engineering",
               "heading": "3.9 Systems Engineering",
-              "file": "locales/de-de/chapters/03-09-systems-engineering.md"
+              "file": "locales/de-de/chapters/03-09-systemtechnik.md"
             },
             {
               "part": 3,
@@ -14607,10 +14609,10 @@
               "part": 5,
               "chapter": 0,
               "decimal": "5.0",
-              "slug": "05-00-ui-ux-design",
+              "slug": "05-00-benutzeroberflaechen-und-nutzererlebnis-design",
               "title": "Einführung in Teil 5: UI/UX-Design",
               "heading": "5.0 Einführung in Teil 5: UI/UX-Design",
-              "file": "locales/de-de/chapters/05-00-ui-ux-design.md"
+              "file": "locales/de-de/chapters/05-00-benutzeroberflaechen-und-nutzererlebnis-design.md"
             },
             {
               "part": 5,
@@ -14688,10 +14690,10 @@
               "part": 5,
               "chapter": 9,
               "decimal": "5.9",
-              "slug": "05-09-service-design",
+              "slug": "05-09-dienstleistungsdesign",
               "title": "Service-Design",
               "heading": "5.9 Service-Design",
-              "file": "locales/de-de/chapters/05-09-service-design.md"
+              "file": "locales/de-de/chapters/05-09-dienstleistungsdesign.md"
             },
             {
               "part": 5,
@@ -14730,10 +14732,10 @@
               "part": 6,
               "chapter": 2,
               "decimal": "6.2",
-              "slug": "06-02-mlops",
+              "slug": "06-02-betrieb-maschinellen-lernens",
               "title": "Machine-Learning-Engineering (MLOps)",
               "heading": "6.2 Machine-Learning-Engineering (MLOps)",
-              "file": "locales/de-de/chapters/06-02-mlops.md"
+              "file": "locales/de-de/chapters/06-02-betrieb-maschinellen-lernens.md"
             },
             {
               "part": 6,
@@ -14826,10 +14828,10 @@
               "part": 7,
               "chapter": 2,
               "decimal": "7.2",
-              "slug": "07-02-data-engineering",
+              "slug": "07-02-datentechnik",
               "title": "Data Engineering",
               "heading": "7.2 Data Engineering",
-              "file": "locales/de-de/chapters/07-02-data-engineering.md"
+              "file": "locales/de-de/chapters/07-02-datentechnik.md"
             },
             {
               "part": 7,
@@ -14991,10 +14993,10 @@
               "part": 9,
               "chapter": 1,
               "decimal": "9.1",
-              "slug": "09-01-site-reliability-engineering",
+              "slug": "09-01-zuverlaessigkeitstechnik-fuer-dienste",
               "title": "Site Reliability Engineering",
               "heading": "9.1 Site Reliability Engineering",
-              "file": "locales/de-de/chapters/09-01-site-reliability-engineering.md"
+              "file": "locales/de-de/chapters/09-01-zuverlaessigkeitstechnik-fuer-dienste.md"
             },
             {
               "part": 9,
@@ -15132,10 +15134,10 @@
               "part": 10,
               "chapter": 7,
               "decimal": "10.7",
-              "slug": "10-07-agile",
+              "slug": "10-07-agil",
               "title": "Agile",
               "heading": "10.7 Agile",
-              "file": "locales/de-de/chapters/10-07-agile.md"
+              "file": "locales/de-de/chapters/10-07-agil.md"
             },
             {
               "part": 10,
@@ -15255,10 +15257,10 @@
               "part": 11,
               "chapter": 1,
               "decimal": "11.1",
-              "slug": "11-01-discovery-pipeline",
+              "slug": "11-01-entdeckungs-pipeline",
               "title": "Die Discovery-Pipeline",
               "heading": "11.1 Die Discovery-Pipeline",
-              "file": "locales/de-de/chapters/11-01-discovery-pipeline.md"
+              "file": "locales/de-de/chapters/11-01-entdeckungs-pipeline.md"
             },
             {
               "part": 11,
@@ -15378,10 +15380,10 @@
               "part": 12,
               "chapter": 7,
               "decimal": "12.7",
-              "slug": "12-07-index",
+              "slug": "12-07-stichwortverzeichnis",
               "title": "Index",
               "heading": "12.7 Index",
-              "file": "locales/de-de/chapters/12-07-index.md"
+              "file": "locales/de-de/chapters/12-07-stichwortverzeichnis.md"
             }
           ]
         }
@@ -15661,10 +15663,10 @@
           "part": 2,
           "chapter": 16,
           "decimal": "2.16",
-          "slug": "02-16-performance-engineering",
+          "slug": "02-16-leistungstechnik",
           "title": "Performance-Engineering",
           "heading": "2.16 Performance-Engineering",
-          "file": "locales/de-de/chapters/02-16-performance-engineering.md"
+          "file": "locales/de-de/chapters/02-16-leistungstechnik.md"
         },
         "2.17": {
           "part": 2,
@@ -15796,10 +15798,10 @@
           "part": 3,
           "chapter": 9,
           "decimal": "3.9",
-          "slug": "03-09-systems-engineering",
+          "slug": "03-09-systemtechnik",
           "title": "Systems Engineering",
           "heading": "3.9 Systems Engineering",
-          "file": "locales/de-de/chapters/03-09-systems-engineering.md"
+          "file": "locales/de-de/chapters/03-09-systemtechnik.md"
         },
         "3.10": {
           "part": 3,
@@ -15976,10 +15978,10 @@
           "part": 5,
           "chapter": 0,
           "decimal": "5.0",
-          "slug": "05-00-ui-ux-design",
+          "slug": "05-00-benutzeroberflaechen-und-nutzererlebnis-design",
           "title": "Einführung in Teil 5: UI/UX-Design",
           "heading": "5.0 Einführung in Teil 5: UI/UX-Design",
-          "file": "locales/de-de/chapters/05-00-ui-ux-design.md"
+          "file": "locales/de-de/chapters/05-00-benutzeroberflaechen-und-nutzererlebnis-design.md"
         },
         "5.1": {
           "part": 5,
@@ -16057,10 +16059,10 @@
           "part": 5,
           "chapter": 9,
           "decimal": "5.9",
-          "slug": "05-09-service-design",
+          "slug": "05-09-dienstleistungsdesign",
           "title": "Service-Design",
           "heading": "5.9 Service-Design",
-          "file": "locales/de-de/chapters/05-09-service-design.md"
+          "file": "locales/de-de/chapters/05-09-dienstleistungsdesign.md"
         },
         "5.10": {
           "part": 5,
@@ -16093,10 +16095,10 @@
           "part": 6,
           "chapter": 2,
           "decimal": "6.2",
-          "slug": "06-02-mlops",
+          "slug": "06-02-betrieb-maschinellen-lernens",
           "title": "Machine-Learning-Engineering (MLOps)",
           "heading": "6.2 Machine-Learning-Engineering (MLOps)",
-          "file": "locales/de-de/chapters/06-02-mlops.md"
+          "file": "locales/de-de/chapters/06-02-betrieb-maschinellen-lernens.md"
         },
         "6.3": {
           "part": 6,
@@ -16183,10 +16185,10 @@
           "part": 7,
           "chapter": 2,
           "decimal": "7.2",
-          "slug": "07-02-data-engineering",
+          "slug": "07-02-datentechnik",
           "title": "Data Engineering",
           "heading": "7.2 Data Engineering",
-          "file": "locales/de-de/chapters/07-02-data-engineering.md"
+          "file": "locales/de-de/chapters/07-02-datentechnik.md"
         },
         "7.3": {
           "part": 7,
@@ -16336,10 +16338,10 @@
           "part": 9,
           "chapter": 1,
           "decimal": "9.1",
-          "slug": "09-01-site-reliability-engineering",
+          "slug": "09-01-zuverlaessigkeitstechnik-fuer-dienste",
           "title": "Site Reliability Engineering",
           "heading": "9.1 Site Reliability Engineering",
-          "file": "locales/de-de/chapters/09-01-site-reliability-engineering.md"
+          "file": "locales/de-de/chapters/09-01-zuverlaessigkeitstechnik-fuer-dienste.md"
         },
         "9.2": {
           "part": 9,
@@ -16471,10 +16473,10 @@
           "part": 10,
           "chapter": 7,
           "decimal": "10.7",
-          "slug": "10-07-agile",
+          "slug": "10-07-agil",
           "title": "Agile",
           "heading": "10.7 Agile",
-          "file": "locales/de-de/chapters/10-07-agile.md"
+          "file": "locales/de-de/chapters/10-07-agil.md"
         },
         "10.8": {
           "part": 10,
@@ -16588,10 +16590,10 @@
           "part": 11,
           "chapter": 1,
           "decimal": "11.1",
-          "slug": "11-01-discovery-pipeline",
+          "slug": "11-01-entdeckungs-pipeline",
           "title": "Die Discovery-Pipeline",
           "heading": "11.1 Die Discovery-Pipeline",
-          "file": "locales/de-de/chapters/11-01-discovery-pipeline.md"
+          "file": "locales/de-de/chapters/11-01-entdeckungs-pipeline.md"
         },
         "11.2": {
           "part": 11,
@@ -16705,10 +16707,10 @@
           "part": 12,
           "chapter": 7,
           "decimal": "12.7",
-          "slug": "12-07-index",
+          "slug": "12-07-stichwortverzeichnis",
           "title": "Index",
           "heading": "12.7 Index",
-          "file": "locales/de-de/chapters/12-07-index.md"
+          "file": "locales/de-de/chapters/12-07-stichwortverzeichnis.md"
         }
       },
       "order": [
@@ -16860,7 +16862,8 @@
         "12.6",
         "12.7"
       ],
-      "hasHomePage": false
+      "hasHomePage": false,
+      "topicsSlug": "themen"
     },
     "en-001": {
       "chapters": [
@@ -21059,7 +21062,8 @@
         "12.6",
         "12.7"
       ],
-      "hasHomePage": false
+      "hasHomePage": false,
+      "topicsSlug": "topics"
     },
     "en-gb": {
       "chapters": [
@@ -25258,7 +25262,8 @@
         "12.6",
         "12.7"
       ],
-      "hasHomePage": false
+      "hasHomePage": false,
+      "topicsSlug": "topics"
     },
     "en-us": {
       "chapters": [
@@ -29457,7 +29462,8 @@
         "12.6",
         "12.7"
       ],
-      "hasHomePage": false
+      "hasHomePage": false,
+      "topicsSlug": "topics"
     },
     "es-001": {
       "chapters": [
@@ -30167,10 +30173,10 @@
           "part": 6,
           "chapter": 2,
           "decimal": "6.2",
-          "slug": "06-02-mlops",
+          "slug": "06-02-operaciones-de-aprendizaje-automático",
           "title": "Ingeniería de aprendizaje automático (MLOps)",
           "heading": "6.2 Ingeniería de aprendizaje automático (MLOps)",
-          "file": "locales/es-001/chapters/06-02-mlops.md"
+          "file": "locales/es-001/chapters/06-02-operaciones-de-aprendizaje-automático.md"
         },
         {
           "part": 6,
@@ -31526,10 +31532,10 @@
               "part": 6,
               "chapter": 2,
               "decimal": "6.2",
-              "slug": "06-02-mlops",
+              "slug": "06-02-operaciones-de-aprendizaje-automático",
               "title": "Ingeniería de aprendizaje automático (MLOps)",
               "heading": "6.2 Ingeniería de aprendizaje automático (MLOps)",
-              "file": "locales/es-001/chapters/06-02-mlops.md"
+              "file": "locales/es-001/chapters/06-02-operaciones-de-aprendizaje-automático.md"
             },
             {
               "part": 6,
@@ -32889,10 +32895,10 @@
           "part": 6,
           "chapter": 2,
           "decimal": "6.2",
-          "slug": "06-02-mlops",
+          "slug": "06-02-operaciones-de-aprendizaje-automático",
           "title": "Ingeniería de aprendizaje automático (MLOps)",
           "heading": "6.2 Ingeniería de aprendizaje automático (MLOps)",
-          "file": "locales/es-001/chapters/06-02-mlops.md"
+          "file": "locales/es-001/chapters/06-02-operaciones-de-aprendizaje-automático.md"
         },
         "6.3": {
           "part": 6,
@@ -33656,7 +33662,8 @@
         "12.6",
         "12.7"
       ],
-      "hasHomePage": false
+      "hasHomePage": false,
+      "topicsSlug": "temas"
     },
     "fr-001": {
       "chapters": [
@@ -34366,10 +34373,10 @@
           "part": 6,
           "chapter": 2,
           "decimal": "6.2",
-          "slug": "06-02-mlops",
+          "slug": "06-02-operations-d-apprentissage-automatique",
           "title": "Ingénierie d'apprentissage automatique (MLOps)",
           "heading": "6.2 Ingénierie d'apprentissage automatique (MLOps)",
-          "file": "locales/fr-001/chapters/06-02-mlops.md"
+          "file": "locales/fr-001/chapters/06-02-operations-d-apprentissage-automatique.md"
         },
         {
           "part": 6,
@@ -34744,10 +34751,10 @@
           "part": 10,
           "chapter": 7,
           "decimal": "10.7",
-          "slug": "10-07-agile",
+          "slug": "10-07-agilite",
           "title": "Agile",
           "heading": "10.7 Agile",
-          "file": "locales/fr-001/chapters/10-07-agile.md"
+          "file": "locales/fr-001/chapters/10-07-agilite.md"
         },
         {
           "part": 10,
@@ -34960,10 +34967,10 @@
           "part": 12,
           "chapter": 5,
           "decimal": "12.5",
-          "slug": "12-05-references",
+          "slug": "12-05-references-bibliographiques",
           "title": "Références",
           "heading": "12.5 Références",
-          "file": "locales/fr-001/chapters/12-05-references.md"
+          "file": "locales/fr-001/chapters/12-05-references-bibliographiques.md"
         },
         {
           "part": 12,
@@ -34978,10 +34985,10 @@
           "part": 12,
           "chapter": 7,
           "decimal": "12.7",
-          "slug": "12-07-index",
+          "slug": "12-07-index-des-sujets",
           "title": "Index",
           "heading": "12.7 Index",
-          "file": "locales/fr-001/chapters/12-07-index.md"
+          "file": "locales/fr-001/chapters/12-07-index-des-sujets.md"
         }
       ],
       "parts": [
@@ -35725,10 +35732,10 @@
               "part": 6,
               "chapter": 2,
               "decimal": "6.2",
-              "slug": "06-02-mlops",
+              "slug": "06-02-operations-d-apprentissage-automatique",
               "title": "Ingénierie d'apprentissage automatique (MLOps)",
               "heading": "6.2 Ingénierie d'apprentissage automatique (MLOps)",
-              "file": "locales/fr-001/chapters/06-02-mlops.md"
+              "file": "locales/fr-001/chapters/06-02-operations-d-apprentissage-automatique.md"
             },
             {
               "part": 6,
@@ -36127,10 +36134,10 @@
               "part": 10,
               "chapter": 7,
               "decimal": "10.7",
-              "slug": "10-07-agile",
+              "slug": "10-07-agilite",
               "title": "Agile",
               "heading": "10.7 Agile",
-              "file": "locales/fr-001/chapters/10-07-agile.md"
+              "file": "locales/fr-001/chapters/10-07-agilite.md"
             },
             {
               "part": 10,
@@ -36355,10 +36362,10 @@
               "part": 12,
               "chapter": 5,
               "decimal": "12.5",
-              "slug": "12-05-references",
+              "slug": "12-05-references-bibliographiques",
               "title": "Références",
               "heading": "12.5 Références",
-              "file": "locales/fr-001/chapters/12-05-references.md"
+              "file": "locales/fr-001/chapters/12-05-references-bibliographiques.md"
             },
             {
               "part": 12,
@@ -36373,10 +36380,10 @@
               "part": 12,
               "chapter": 7,
               "decimal": "12.7",
-              "slug": "12-07-index",
+              "slug": "12-07-index-des-sujets",
               "title": "Index",
               "heading": "12.7 Index",
-              "file": "locales/fr-001/chapters/12-07-index.md"
+              "file": "locales/fr-001/chapters/12-07-index-des-sujets.md"
             }
           ]
         }
@@ -37088,10 +37095,10 @@
           "part": 6,
           "chapter": 2,
           "decimal": "6.2",
-          "slug": "06-02-mlops",
+          "slug": "06-02-operations-d-apprentissage-automatique",
           "title": "Ingénierie d'apprentissage automatique (MLOps)",
           "heading": "6.2 Ingénierie d'apprentissage automatique (MLOps)",
-          "file": "locales/fr-001/chapters/06-02-mlops.md"
+          "file": "locales/fr-001/chapters/06-02-operations-d-apprentissage-automatique.md"
         },
         "6.3": {
           "part": 6,
@@ -37466,10 +37473,10 @@
           "part": 10,
           "chapter": 7,
           "decimal": "10.7",
-          "slug": "10-07-agile",
+          "slug": "10-07-agilite",
           "title": "Agile",
           "heading": "10.7 Agile",
-          "file": "locales/fr-001/chapters/10-07-agile.md"
+          "file": "locales/fr-001/chapters/10-07-agilite.md"
         },
         "10.8": {
           "part": 10,
@@ -37682,10 +37689,10 @@
           "part": 12,
           "chapter": 5,
           "decimal": "12.5",
-          "slug": "12-05-references",
+          "slug": "12-05-references-bibliographiques",
           "title": "Références",
           "heading": "12.5 Références",
-          "file": "locales/fr-001/chapters/12-05-references.md"
+          "file": "locales/fr-001/chapters/12-05-references-bibliographiques.md"
         },
         "12.6": {
           "part": 12,
@@ -37700,10 +37707,10 @@
           "part": 12,
           "chapter": 7,
           "decimal": "12.7",
-          "slug": "12-07-index",
+          "slug": "12-07-index-des-sujets",
           "title": "Index",
           "heading": "12.7 Index",
-          "file": "locales/fr-001/chapters/12-07-index.md"
+          "file": "locales/fr-001/chapters/12-07-index-des-sujets.md"
         }
       },
       "order": [
@@ -37855,7 +37862,8 @@
         "12.6",
         "12.7"
       ],
-      "hasHomePage": false
+      "hasHomePage": false,
+      "topicsSlug": "sujets"
     },
     "hi-001": {
       "chapters": [
@@ -42054,7 +42062,8 @@
         "12.6",
         "12.7"
       ],
-      "hasHomePage": false
+      "hasHomePage": false,
+      "topicsSlug": "विषय"
     },
     "zh-cn": {
       "chapters": [
@@ -46253,7 +46262,8 @@
         "12.6",
         "12.7"
       ],
-      "hasHomePage": false
+      "hasHomePage": false,
+      "topicsSlug": "主题"
     }
   },
   "availableLocales": [

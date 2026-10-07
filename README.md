@@ -60,12 +60,17 @@ though it is committed, since `src/content/` is committed too.
   synced Markdown source (see above).
 - `src/lib/manifest.json` : generated table of contents (parts, chapters,
   ordering, prev/next) — see `scripts/generate-manifest.mjs`.
-- `src/routes/chapters/[slug]/`, `front-matter/[slug]/`, `examples/[slug]/`,
-  `contributing/[slug]/`, `project/[slug]/` : dynamic routes that prerender
-  one page per Markdown file, using `entries()` to enumerate slugs from the
-  manifest.
-- `src/routes/contents/` : the full contents page with client-side
-  filtering.
+- `src/routes/[locale=locale]/` : the translated pages, served at `/<code>/`
+  (for example `/en-us/`): the locale home, `contents/`, and
+  `chapters/[slug]/`. `[locale]` also accepts a language alias (`/en/`
+  renders `/en-001/`); `src/params.js` holds the matcher. There is no
+  `/locales/` path segment.
+- `src/routes/+page.svelte` : `/` redirects to the default locale in the
+  browser, only when there is no query string (so `/?<target>` search works).
+- `src/routes/front-matter/[slug]/`, `examples/[slug]/`,
+  `contributing/[slug]/`, `project/[slug]/` : English-only dynamic routes that
+  prerender one page per Markdown file, using `entries()` to enumerate slugs
+  from the manifest.
 - `src/lib/Sidebar.svelte`, `Breadcrumb.svelte`, `ChapterPager.svelte` : the
   book chrome.
 - `scripts/remark-chapter-links.mjs` : auto-links plain-text chapter

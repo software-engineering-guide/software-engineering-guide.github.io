@@ -6,6 +6,9 @@ const BUILD = process.argv[2] ?? 'build';
 const MAX_TEXT = 20000;
 const DEFAULTS = ['en-gb', 'en-001', 'en-us', 'en'];
 const LOCALE = /^[a-z]{2,3}(-[a-z0-9]{2,8})+$/i;
+// A bare language code ("/en/") is an alias that renders its world locale.
+// It duplicates the -001 pages, so it is never indexed.
+const ALIAS = /^[a-z]{2,3}$/i;
 
 function walk(dir, out = []) {
 	for (const e of readdirSync(dir, { withFileTypes: true })) {
@@ -43,8 +46,8 @@ function urlFor(file) {
 
 function localeOf(url) {
 	const seg = url.split('/').filter(Boolean);
-	if (seg[0] === 'locales' && seg[1] && LOCALE.test(seg[1])) return seg[1].toLowerCase();
 	if (seg[0] && LOCALE.test(seg[0])) return seg[0].toLowerCase();
+	if (seg[0] && ALIAS.test(seg[0])) return `alias:${seg[0].toLowerCase()}`;
 	return null;
 }
 
@@ -61,8 +64,8 @@ for (const file of walk(BUILD)) {
 	pages.push({ url, locale: localeOf(url), title, headings, text: strip(main).slice(0, MAX_TEXT) });
 }
 
-const locales = new Set(pages.map((p) => p.locale).filter(Boolean));
-// argv[3]: a locale slug to index, or 'none' when the unprefixed pages are the default locale.
+const locales = new Set(pages.map((p) => p.locale).filter((l) => l && !l.startsWith('alias:')));
+// argv[3]: a locale slug to index, or 'none' to index only the unprefixed pages.
 const defaultLocale =
 	process.argv[3] === 'none' ? null : (process.argv[3] ?? DEFAULTS.find((l) => locales.has(l)) ?? null);
 const entries = pages

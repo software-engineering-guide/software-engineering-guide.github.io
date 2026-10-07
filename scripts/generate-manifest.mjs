@@ -8,6 +8,7 @@ import { readFileSync, readdirSync, writeFileSync } from 'node:fs';
 import { fileURLToPath } from 'node:url';
 import path from 'node:path';
 import { partTitles } from '../src/lib/i18n.js';
+import { topicsSlugs } from './topics-slugs.mjs';
 
 const here = path.dirname(fileURLToPath(import.meta.url));
 const root = path.resolve(here, '..');
@@ -111,7 +112,8 @@ for (const code of localeCodes) {
   })();
   locales[code] = {
     ...buildChapterManifest(path.join(localeDir, 'chapters'), `locales/${code}/chapters`, partTitles(code)),
-    hasHomePage
+    hasHomePage,
+    topicsSlug: topicsSlugs()[code] ?? 'topics'
   };
 }
 

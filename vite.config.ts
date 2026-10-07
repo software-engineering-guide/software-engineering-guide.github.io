@@ -28,6 +28,7 @@ export default defineConfig({
   plugins: [
     sveltekit({
       extensions: ['.svelte', '.md'],
+      params: 'src/params.js',
       preprocess: [vitePreprocess(), mdsvex(mdsvexOptions)],
       adapter: adapter({
         pages: 'build',

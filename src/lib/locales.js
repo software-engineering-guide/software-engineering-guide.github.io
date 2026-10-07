@@ -44,3 +44,10 @@ export function langAttr(code) {
   const [lang, region] = code.split('-');
   return region ? `${lang}-${region.toUpperCase()}` : lang;
 }
+
+/**
+ * The locale `/` redirects to, and the one site search indexes. English
+ * (United States) matches the book's house spelling. See
+ * spec/locales-for-global-sharing-with-svelte/index.md ("Routes").
+ */
+export const DEFAULT_LOCALE = 'en-us';

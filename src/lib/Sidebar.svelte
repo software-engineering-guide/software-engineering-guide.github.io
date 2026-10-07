@@ -1,26 +1,31 @@
 <script>
   import manifest from '#lib/manifest.json';
+  import { DEFAULT_LOCALE } from '#lib/locales.js';
+  import { topicsBase } from '#lib/content.js';
 
-  let { currentSlug = null } = $props();
+  /** @type {{ currentSlug?: string | null, locale?: string, base?: string, placeholder?: string }} */
+  let { currentSlug = null, locale = DEFAULT_LOCALE, base = `/${DEFAULT_LOCALE}`, placeholder = 'Filter chapters…' } = $props();
+
+  let parts = $derived(manifest.locales[locale]?.parts ?? manifest.parts);
 
   let query = $state('');
 
-  /** @param {import('#lib/manifest.json').default['chapters'][number]} chapter @param {string} q */
+  /** @param {{ title: string, decimal: string }} chapter @param {string} q */
   function matches(chapter, q) {
     if (!q) return true;
     return chapter.title.toLowerCase().includes(q) || chapter.decimal.includes(q);
   }
 </script>
 
-<nav class="sidebar" aria-label="Chapters">
+<nav class="sidebar" aria-label={placeholder}>
   <input
     class="sidebar-search"
     type="search"
-    placeholder="Filter chapters…"
-    aria-label="Filter chapters"
+    {placeholder}
+    aria-label={placeholder}
     bind:value={query}
   />
-  {#each manifest.parts as part (part.number)}
+  {#each parts as part (part.number)}
     {@const q = query.trim().toLowerCase()}
     {@const hasCurrent = part.chapters.some((c) => c.slug === currentSlug)}
     {@const visible = part.chapters.filter((c) => matches(c, q))}
@@ -31,7 +36,7 @@
           {#each visible as chapter (chapter.slug)}
             <li>
               <a
-                href="/chapters/{chapter.slug}/"
+                href="{topicsBase(base.slice(1))}/{chapter.slug}/"
                 aria-current={chapter.slug === currentSlug ? 'page' : undefined}
               >
                 <span class="decimal">{chapter.decimal}</span>{chapter.title}
