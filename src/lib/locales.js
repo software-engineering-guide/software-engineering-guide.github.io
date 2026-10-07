@@ -10,7 +10,9 @@ export const LOCALE_LABELS = {
   'en-us': 'English - United States',
   'cy-001': 'Cymraeg',
   'hi-001': 'हिन्दी',
+  'zh-001': '中文',
   'zh-cn': '中文 - 简体',
+  'de-de': 'Deutsch',
   'es-001': 'Español',
   'fr-001': 'Français',
   'ar-001': 'العربية'

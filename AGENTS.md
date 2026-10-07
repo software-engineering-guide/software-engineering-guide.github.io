@@ -13,8 +13,17 @@ content — see below.
 ## Working rules
 
 - `src/content/` is **generated** from the sibling `software-engineering-guide`
-  repo's `docs/` directory by `scripts/sync-content.mjs` — never hand-edit
+  repo by `scripts/sync-content.mjs`: each locale's topics from
+  `locales/<code>/<topics_slug>/<slug>/index.md`, and the English-only sections
+  (front-matter, examples, contributing, project) from `docs/`. Never hand-edit
   files under it. Edit the content repo, then run `pnpm run content` here.
+- URLs: a locale is served at `/<code>/` and its topics at
+  `/<code>/<topics_slug>/<slug>/`, where the topics segment is translated per
+  locale (`topics`, `themen`, `temas`, ...) and read from `topics-slugs.json`
+  (copied by the sync). Old `/<code>/chapters/` and `/locales/<code>/` URLs get
+  redirect pages; `/` redirects by browser language
+  (`src/lib/detect-locale.js`) and is the site search page when it has a query.
+  The spec is in the book repo's `spec/locales-for-global-sharing-with-svelte/`.
 - `src/lib/manifest.json` is **generated** by `scripts/generate-manifest.mjs`
   from `src/content/` — never hand-edit it.
 - Chapter, front-matter, examples, contributing, and project pages are all

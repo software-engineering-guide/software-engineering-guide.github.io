@@ -14,7 +14,9 @@ is Markdown, compiled with [mdsvex](https://mdsvex.pngwn.io/).
 
 The book's Markdown lives in the sibling
 [`software-engineering-guide`](https://github.com/software-engineering-guide/software-engineering-guide)
-repository, under `docs/`. This repo copies it into `src/content/` (see
+repository: the topics under `locales/<code>/<topics_slug>/<slug>/index.md` (the
+topics path segment is translated per locale, from `locales.tsv` in that repo's
+spec) and the English-only sections under `docs/`. This repo copies them into `src/content/` (see
 [`scripts/sync-content.mjs`](scripts/sync-content.mjs)) and generates a
 navigation manifest from it (see
 [`scripts/generate-manifest.mjs`](scripts/generate-manifest.mjs)).
@@ -23,7 +25,7 @@ navigation manifest from it (see
 then regenerate:
 
 ```sh
-pnpm run content   # re-copies docs/ from ../software-engineering-guide, then rebuilds the manifest
+pnpm run content   # re-copies locales/ and docs/ from ../software-engineering-guide, then rebuilds the manifest
 ```
 
 This assumes `software-engineering-guide` is checked out as a sibling
