@@ -204,14 +204,16 @@ kbd {
 .locale-picker,
 .text-size-picker,
 .share-picker,
-.search-picker {
+.search-picker,
+.link-picker {
   position: relative;
   display: inline-flex;
   align-items: center;
 }
 
 .icon-button,
-.search-picker-button {
+.search-picker-button,
+.link-picker-button {
   display: inline-flex;
   align-items: center;
   justify-content: center;
@@ -229,9 +231,11 @@ kbd {
   transition: background 150ms, color 150ms, border-color 150ms;
 }
 .icon-button:hover,
-.search-picker-button:hover { background: var(--lily-border); color: var(--lily-text); }
+.search-picker-button:hover,
+.link-picker-button:hover { background: var(--lily-border); color: var(--lily-text); }
 .icon-button[aria-expanded="true"],
-.search-picker-button[aria-expanded="true"] {
+.search-picker-button[aria-expanded="true"],
+.link-picker-button[aria-expanded="true"] {
   background: var(--lily-border);
   color: var(--lily-text);
   border-color: var(--lily-primary);
@@ -240,7 +244,8 @@ kbd {
  * own [class$="-button"]:focus-visible rule (static/themes/*.css), which
  * only applies once a theme stylesheet has actually loaded. */
 .icon-button:focus-visible,
-.search-picker-button:focus-visible {
+.search-picker-button:focus-visible,
+.link-picker-button:focus-visible {
   outline: 3px solid var(--lily-primary);
   outline-offset: 2px;
 }
@@ -306,6 +311,16 @@ kbd {
   .search-picker-form { inline-size: 100%; }
   .search-picker-input { flex: 1; min-inline-size: 0; }
   .site-picker-bar:has(.search-picker-button[aria-expanded="true"]) > :not(.search-picker) { visibility: hidden; }
+
+  /* Popup lists open from the picker row's start edge instead of their own
+   * button's end edge: the first buttons sit at the left, so an end-anchored
+   * list (256px to 358px wide) would run off the left of the screen. Their
+   * positioned ancestor becomes the row. */
+  .theme-picker,
+  .locale-picker,
+  .text-size-picker,
+  .share-picker,
+  .link-picker { position: static; }
 }
 
 /*
@@ -325,7 +340,8 @@ kbd {
 .theme-picker-list,
 .locale-picker-list,
 .text-size-picker-list,
-.share-picker-list {
+.share-picker-list,
+.link-picker-list {
   position: absolute;
   z-index: 60;
   inset-block-start: 100%;
@@ -392,6 +408,8 @@ kbd {
 .theme-picker-list[hidden],
 .locale-picker-list[hidden],
 .text-size-picker-list[hidden],
+.link-picker-list[hidden],
+.link-picker-tooltip[hidden],
 .share-picker-list[hidden] {
   display: none;
 }
@@ -994,4 +1012,63 @@ details.faq-item p { margin-top: 0.75rem; }
 }
 .site-search-results li p {
 	margin: 0.25rem 0 0;
+}
+
+/* Picker tooltips (shown on hover and keyboard focus). They must be
+ * positioned out of flow: left in normal flow, a tooltip appearing on hover
+ * shifts the header and the mouse press lands on a different element, so the
+ * picker never opens. */
+.link-picker-tooltip,
+.search-picker-tooltip,
+.theme-picker-tooltip,
+.locale-picker-tooltip,
+.text-size-picker-tooltip,
+.share-picker-tooltip {
+  position: absolute;
+  z-index: 60;
+  inset-block-start: calc(100% + 0.35rem);
+  inset-inline-end: 0;
+  padding: 0.2rem 0.5rem;
+  font-size: 0.8rem;
+  inline-size: max-content;
+  white-space: nowrap;
+  color: var(--lily-text);
+  background: var(--lily-surface-alt, Canvas);
+  border: 1px solid var(--lily-border);
+  border-radius: var(--lily-radius);
+}
+.link-picker-tooltip[hidden],
+.search-picker-tooltip[hidden],
+.theme-picker-tooltip[hidden],
+.locale-picker-tooltip[hidden],
+.text-size-picker-tooltip[hidden],
+.share-picker-tooltip[hidden] { display: none; }
+
+/* Link picker: a list of links, each filling its row. */
+.link-picker-list { min-inline-size: 16rem; margin: 0; padding: 0.25rem; list-style: none; }
+.link-picker-link {
+  display: block;
+  padding: 0.4rem 0.6rem;
+  border-radius: var(--lily-radius);
+  color: inherit;
+  text-decoration: none;
+  white-space: nowrap;
+}
+.link-picker-link:hover,
+.link-picker-link:focus-visible { background: var(--lily-border); }
+.link-picker-link[aria-current="page"] { color: var(--lily-primary); font-weight: 600; }
+
+/* Narrow screens: open popup lists from the picker row's start edge. This sits
+ * after the base list rule above so that, at equal specificity, it wins. */
+@media (max-width: 40rem) {
+  .theme-picker-list,
+  .locale-picker-list,
+  .text-size-picker-list,
+  .share-picker-list,
+  .link-picker-list {
+    inset-inline-start: 0;
+    inset-inline-end: auto;
+    max-inline-size: calc(100vw - 3rem);
+    overflow-y: auto;
+  }
 }

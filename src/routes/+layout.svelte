@@ -53,6 +53,13 @@
     { href: '/project/', label: headerUi.project }
   ]);
 
+  // The link picker (the first button in the header bar) offers the same pages
+  // as the nav row above, plus the project's source repository.
+  let pickerLinks = $derived([
+    ...navLinks.map((link) => ({ label: link.label, href: link.href, current: isCurrent(link.href) })),
+    { label: 'GitHub', href: 'https://github.com/software-engineering-guide/software-engineering-guide', newTab: true }
+  ]);
+
   let showSidebar = $derived(
     pathname.startsWith('/front-matter/') || (urlLocale !== null && pathname.startsWith(`${topicsBase(urlSegment)}/`))
   );
@@ -142,6 +149,7 @@
       <PickerBar
         class="site-picker-bar"
         labels={{
+          link: headerUi.pickerLink,
           search: headerUi.search,
           searchInput: headerUi.searchInput,
           searchSubmit: headerUi.searchSubmit,
@@ -150,6 +158,8 @@
           textSize: headerUi.pickerTextSize,
           share: headerUi.pickerShare
         }}
+        links={pickerLinks}
+        linkProps={{ navigate: goto }}
         searchProps={{ navigate: goto }}
         themesUrl="/themes/"
         themeProps={{ storageKey: 'lily-theme', detectFromSystem: true }}

@@ -18,6 +18,7 @@ const EN = {
   chapter: 'Chapter',
   previous: 'Previous',
   next: 'Next',
+  pickerLink: 'Site links',
   pickerTheme: 'Theme',
   pickerLocale: 'Language',
   pickerTextSize: 'Text size',
