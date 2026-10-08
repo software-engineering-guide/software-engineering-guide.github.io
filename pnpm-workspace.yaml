@@ -11,6 +11,3 @@ minimumReleaseAgeExclude:
   - '@lilydesignsystem/svelte-link-picker@0.1.0'
   - '@lilydesignsystem/svelte-link-picker@0.1.1'
   - '@lilydesignsystem/svelte-picker-bar@0.3.0'
-
-overrides:
-  '@lilydesignsystem/svelte-link-picker': ^0.1.1
