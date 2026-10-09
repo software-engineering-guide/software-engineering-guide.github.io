@@ -58865,6 +58865,4206 @@
       "hasHomePage": false,
       "topicsSlug": "विषय"
     },
+    "id-001": {
+      "chapters": [
+        {
+          "part": 1,
+          "chapter": 0,
+          "decimal": "1.0",
+          "slug": "01-00-manusia",
+          "title": "Pengantar Bagian 1: Manusia",
+          "heading": "1.0 Pengantar Bagian 1: Manusia",
+          "file": "locales/id-001/chapters/01-00-manusia.md"
+        },
+        {
+          "part": 1,
+          "chapter": 1,
+          "decimal": "1.1",
+          "slug": "01-01-nilai-nilai-rekayasa-perangkat-lunak",
+          "title": "Nilai-nilai rekayasa perangkat lunak",
+          "heading": "1.1 Nilai-nilai rekayasa perangkat lunak",
+          "file": "locales/id-001/chapters/01-01-nilai-nilai-rekayasa-perangkat-lunak.md"
+        },
+        {
+          "part": 1,
+          "chapter": 2,
+          "decimal": "1.2",
+          "slug": "01-02-topologi-tim",
+          "title": "Topologi tim dan desain organisasi",
+          "heading": "1.2 Topologi tim dan desain organisasi",
+          "file": "locales/id-001/chapters/01-02-topologi-tim.md"
+        },
+        {
+          "part": 1,
+          "chapter": 3,
+          "decimal": "1.3",
+          "slug": "01-03-peran-jenjang-karier-dan-pertumbuhan",
+          "title": "Peran, jenjang karier, dan pertumbuhan",
+          "heading": "1.3 Peran, jenjang karier, dan pertumbuhan",
+          "file": "locales/id-001/chapters/01-03-peran-jenjang-karier-dan-pertumbuhan.md"
+        },
+        {
+          "part": 1,
+          "chapter": 4,
+          "decimal": "1.4",
+          "slug": "01-04-cara-kerja",
+          "title": "Cara kerja",
+          "heading": "1.4 Cara kerja",
+          "file": "locales/id-001/chapters/01-04-cara-kerja.md"
+        },
+        {
+          "part": 1,
+          "chapter": 5,
+          "decimal": "1.5",
+          "slug": "01-05-pengambilan-keputusan-dan-tata-kelola",
+          "title": "Pengambilan keputusan dan tata kelola",
+          "heading": "1.5 Pengambilan keputusan dan tata kelola",
+          "file": "locales/id-001/chapters/01-05-pengambilan-keputusan-dan-tata-kelola.md"
+        },
+        {
+          "part": 1,
+          "chapter": 6,
+          "decimal": "1.6",
+          "slug": "01-06-catatan-keputusan",
+          "title": "Catatan keputusan",
+          "heading": "1.6 Catatan keputusan",
+          "file": "locales/id-001/chapters/01-06-catatan-keputusan.md"
+        },
+        {
+          "part": 1,
+          "chapter": 7,
+          "decimal": "1.7",
+          "slug": "01-07-standar-rekayasa-dan-pengecualian",
+          "title": "Standar rekayasa dan pengecualian",
+          "heading": "1.7 Standar rekayasa dan pengecualian",
+          "file": "locales/id-001/chapters/01-07-standar-rekayasa-dan-pengecualian.md"
+        },
+        {
+          "part": 1,
+          "chapter": 8,
+          "decimal": "1.8",
+          "slug": "01-08-perekrutan-wawancara-dan-orientasi",
+          "title": "Perekrutan, wawancara, dan orientasi",
+          "heading": "1.8 Perekrutan, wawancara, dan orientasi",
+          "file": "locales/id-001/chapters/01-08-perekrutan-wawancara-dan-orientasi.md"
+        },
+        {
+          "part": 1,
+          "chapter": 9,
+          "decimal": "1.9",
+          "slug": "01-09-kerja-terdistribusi-dan-jarak-jauh",
+          "title": "Kerja terdistribusi dan jarak jauh",
+          "heading": "1.9 Kerja terdistribusi dan jarak jauh",
+          "file": "locales/id-001/chapters/01-09-kerja-terdistribusi-dan-jarak-jauh.md"
+        },
+        {
+          "part": 1,
+          "chapter": 10,
+          "decimal": "1.10",
+          "slug": "01-10-efektivitas-rekayasa-dan-produktivitas-pengembang",
+          "title": "Efektivitas rekayasa dan produktivitas pengembang",
+          "heading": "1.10 Efektivitas rekayasa dan produktivitas pengembang",
+          "file": "locales/id-001/chapters/01-10-efektivitas-rekayasa-dan-produktivitas-pengembang.md"
+        },
+        {
+          "part": 1,
+          "chapter": 11,
+          "decimal": "1.11",
+          "slug": "01-11-manajemen-rekayasa",
+          "title": "Manajemen rekayasa",
+          "heading": "1.11 Manajemen rekayasa",
+          "file": "locales/id-001/chapters/01-11-manajemen-rekayasa.md"
+        },
+        {
+          "part": 1,
+          "chapter": 12,
+          "decimal": "1.12",
+          "slug": "01-12-keberagaman-kesetaraan-inklusi-dan-rasa-memiliki",
+          "title": "Keberagaman, kesetaraan, inklusi, dan rasa memiliki",
+          "heading": "1.12 Keberagaman, kesetaraan, inklusi, dan rasa memiliki",
+          "file": "locales/id-001/chapters/01-12-keberagaman-kesetaraan-inklusi-dan-rasa-memiliki.md"
+        },
+        {
+          "part": 1,
+          "chapter": 13,
+          "decimal": "1.13",
+          "slug": "01-13-mentoring-coaching-dan-berbagi-pengetahuan",
+          "title": "Mentoring, coaching, dan berbagi pengetahuan",
+          "heading": "1.13 Mentoring, coaching, dan berbagi pengetahuan",
+          "file": "locales/id-001/chapters/01-13-mentoring-coaching-dan-berbagi-pengetahuan.md"
+        },
+        {
+          "part": 2,
+          "chapter": 0,
+          "decimal": "2.0",
+          "slug": "02-00-pemrograman-perangkat-lunak",
+          "title": "Pengantar Bagian 2: Pemrograman Perangkat Lunak",
+          "heading": "2.0 Pengantar Bagian 2: Pemrograman Perangkat Lunak",
+          "file": "locales/id-001/chapters/02-00-pemrograman-perangkat-lunak.md"
+        },
+        {
+          "part": 2,
+          "chapter": 1,
+          "decimal": "2.1",
+          "slug": "02-01-standar-pengodean-dan-gaya",
+          "title": "Standar pengodean dan gaya",
+          "heading": "2.1 Standar pengodean dan gaya",
+          "file": "locales/id-001/chapters/02-01-standar-pengodean-dan-gaya.md"
+        },
+        {
+          "part": 2,
+          "chapter": 2,
+          "decimal": "2.2",
+          "slug": "02-02-prinsip-desain-perangkat-lunak",
+          "title": "Prinsip desain perangkat lunak",
+          "heading": "2.2 Prinsip desain perangkat lunak",
+          "file": "locales/id-001/chapters/02-02-prinsip-desain-perangkat-lunak.md"
+        },
+        {
+          "part": 2,
+          "chapter": 3,
+          "decimal": "2.3",
+          "slug": "02-03-api-dan-desain-antarmuka",
+          "title": "API dan desain antarmuka",
+          "heading": "2.3 API dan desain antarmuka",
+          "file": "locales/id-001/chapters/02-03-api-dan-desain-antarmuka.md"
+        },
+        {
+          "part": 2,
+          "chapter": 4,
+          "decimal": "2.4",
+          "slug": "02-04-strategi-pengujian",
+          "title": "Strategi pengujian",
+          "heading": "2.4 Strategi pengujian",
+          "file": "locales/id-001/chapters/02-04-strategi-pengujian.md"
+        },
+        {
+          "part": 2,
+          "chapter": 5,
+          "decimal": "2.5",
+          "slug": "02-05-tinjauan-kode-dan-kolaborasi",
+          "title": "Tinjauan kode dan kolaborasi",
+          "heading": "2.5 Tinjauan kode dan kolaborasi",
+          "file": "locales/id-001/chapters/02-05-tinjauan-kode-dan-kolaborasi.md"
+        },
+        {
+          "part": 2,
+          "chapter": 6,
+          "decimal": "2.6",
+          "slug": "02-06-kontrol-versi-dan-manajemen-sumber",
+          "title": "Kontrol versi dan manajemen sumber",
+          "heading": "2.6 Kontrol versi dan manajemen sumber",
+          "file": "locales/id-001/chapters/02-06-kontrol-versi-dan-manajemen-sumber.md"
+        },
+        {
+          "part": 2,
+          "chapter": 7,
+          "decimal": "2.7",
+          "slug": "02-07-dokumentasi",
+          "title": "Dokumentasi",
+          "heading": "2.7 Dokumentasi",
+          "file": "locales/id-001/chapters/02-07-dokumentasi.md"
+        },
+        {
+          "part": 2,
+          "chapter": 8,
+          "decimal": "2.8",
+          "slug": "02-08-persyaratan-perangkat-lunak",
+          "title": "Persyaratan perangkat lunak",
+          "heading": "2.8 Persyaratan perangkat lunak",
+          "file": "locales/id-001/chapters/02-08-persyaratan-perangkat-lunak.md"
+        },
+        {
+          "part": 2,
+          "chapter": 9,
+          "decimal": "2.9",
+          "slug": "02-09-konstruksi-perangkat-lunak",
+          "title": "Konstruksi perangkat lunak",
+          "heading": "2.9 Konstruksi perangkat lunak",
+          "file": "locales/id-001/chapters/02-09-konstruksi-perangkat-lunak.md"
+        },
+        {
+          "part": 2,
+          "chapter": 10,
+          "decimal": "2.10",
+          "slug": "02-10-manajemen-konfigurasi-perangkat-lunak",
+          "title": "Manajemen konfigurasi perangkat lunak",
+          "heading": "2.10 Manajemen konfigurasi perangkat lunak",
+          "file": "locales/id-001/chapters/02-10-manajemen-konfigurasi-perangkat-lunak.md"
+        },
+        {
+          "part": 2,
+          "chapter": 11,
+          "decimal": "2.11",
+          "slug": "02-11-kualitas-perangkat-lunak",
+          "title": "Kualitas perangkat lunak",
+          "heading": "2.11 Kualitas perangkat lunak",
+          "file": "locales/id-001/chapters/02-11-kualitas-perangkat-lunak.md"
+        },
+        {
+          "part": 2,
+          "chapter": 12,
+          "decimal": "2.12",
+          "slug": "02-12-model-dan-metode-perangkat-lunak",
+          "title": "Model dan metode perangkat lunak",
+          "heading": "2.12 Model dan metode perangkat lunak",
+          "file": "locales/id-001/chapters/02-12-model-dan-metode-perangkat-lunak.md"
+        },
+        {
+          "part": 2,
+          "chapter": 13,
+          "decimal": "2.13",
+          "slug": "02-13-fondasi-komputasi-matematika-dan-rekayasa",
+          "title": "Fondasi komputasi, matematika, dan rekayasa",
+          "heading": "2.13 Fondasi komputasi, matematika, dan rekayasa",
+          "file": "locales/id-001/chapters/02-13-fondasi-komputasi-matematika-dan-rekayasa.md"
+        },
+        {
+          "part": 2,
+          "chapter": 14,
+          "decimal": "2.14",
+          "slug": "02-14-struktur-proyek-dan-repositori",
+          "title": "Struktur proyek dan repositori",
+          "heading": "2.14 Struktur proyek dan repositori",
+          "file": "locales/id-001/chapters/02-14-struktur-proyek-dan-repositori.md"
+        },
+        {
+          "part": 2,
+          "chapter": 15,
+          "decimal": "2.15",
+          "slug": "02-15-debugging-dan-pemecahan-masalah",
+          "title": "Debugging dan pemecahan masalah",
+          "heading": "2.15 Debugging dan pemecahan masalah",
+          "file": "locales/id-001/chapters/02-15-debugging-dan-pemecahan-masalah.md"
+        },
+        {
+          "part": 2,
+          "chapter": 16,
+          "decimal": "2.16",
+          "slug": "02-16-rekayasa-kinerja",
+          "title": "Rekayasa kinerja",
+          "heading": "2.16 Rekayasa kinerja",
+          "file": "locales/id-001/chapters/02-16-rekayasa-kinerja.md"
+        },
+        {
+          "part": 2,
+          "chapter": 17,
+          "decimal": "2.17",
+          "slug": "02-17-konkurensi-dan-paralelisme",
+          "title": "Konkurensi dan paralelisme",
+          "heading": "2.17 Konkurensi dan paralelisme",
+          "file": "locales/id-001/chapters/02-17-konkurensi-dan-paralelisme.md"
+        },
+        {
+          "part": 2,
+          "chapter": 18,
+          "decimal": "2.18",
+          "slug": "02-18-manajemen-dependensi-dan-rantai-pasok",
+          "title": "Manajemen dependensi dan rantai pasok",
+          "heading": "2.18 Manajemen dependensi dan rantai pasok",
+          "file": "locales/id-001/chapters/02-18-manajemen-dependensi-dan-rantai-pasok.md"
+        },
+        {
+          "part": 2,
+          "chapter": 19,
+          "decimal": "2.19",
+          "slug": "02-19-refaktoring-dan-utang-teknis",
+          "title": "Refaktoring dan utang teknis",
+          "heading": "2.19 Refaktoring dan utang teknis",
+          "file": "locales/id-001/chapters/02-19-refaktoring-dan-utang-teknis.md"
+        },
+        {
+          "part": 2,
+          "chapter": 20,
+          "decimal": "2.20",
+          "slug": "02-20-penanganan-galat-dan-pola-ketahanan",
+          "title": "Penanganan galat dan pola ketahanan",
+          "heading": "2.20 Penanganan galat dan pola ketahanan",
+          "file": "locales/id-001/chapters/02-20-penanganan-galat-dan-pola-ketahanan.md"
+        },
+        {
+          "part": 2,
+          "chapter": 21,
+          "decimal": "2.21",
+          "slug": "02-21-sistem-tipe-dan-analisis-statis",
+          "title": "Sistem tipe dan analisis statis",
+          "heading": "2.21 Sistem tipe dan analisis statis",
+          "file": "locales/id-001/chapters/02-21-sistem-tipe-dan-analisis-statis.md"
+        },
+        {
+          "part": 3,
+          "chapter": 0,
+          "decimal": "3.0",
+          "slug": "03-00-sistem",
+          "title": "Pengantar Bagian 3: Sistem",
+          "heading": "3.0 Pengantar Bagian 3: Sistem",
+          "file": "locales/id-001/chapters/03-00-sistem.md"
+        },
+        {
+          "part": 3,
+          "chapter": 1,
+          "decimal": "3.1",
+          "slug": "03-01-dasar-dasar-arsitektur",
+          "title": "Dasar-dasar arsitektur",
+          "heading": "3.1 Dasar-dasar arsitektur",
+          "file": "locales/id-001/chapters/03-01-dasar-dasar-arsitektur.md"
+        },
+        {
+          "part": 3,
+          "chapter": 2,
+          "decimal": "3.2",
+          "slug": "03-02-gaya-dan-pola-arsitektural",
+          "title": "Gaya dan pola arsitektural",
+          "heading": "3.2 Gaya dan pola arsitektural",
+          "file": "locales/id-001/chapters/03-02-gaya-dan-pola-arsitektural.md"
+        },
+        {
+          "part": 3,
+          "chapter": 3,
+          "decimal": "3.3",
+          "slug": "03-03-sistem-terdistribusi",
+          "title": "Sistem terdistribusi",
+          "heading": "3.3 Sistem terdistribusi",
+          "file": "locales/id-001/chapters/03-03-sistem-terdistribusi.md"
+        },
+        {
+          "part": 3,
+          "chapter": 4,
+          "decimal": "3.4",
+          "slug": "03-04-arsitektur-data-dan-penyimpanan",
+          "title": "Arsitektur data dan penyimpanan",
+          "heading": "3.4 Arsitektur data dan penyimpanan",
+          "file": "locales/id-001/chapters/03-04-arsitektur-data-dan-penyimpanan.md"
+        },
+        {
+          "part": 3,
+          "chapter": 5,
+          "decimal": "3.5",
+          "slug": "03-05-skalabilitas-kinerja-dan-ketahanan",
+          "title": "Skalabilitas, kinerja, dan ketahanan",
+          "heading": "3.5 Skalabilitas, kinerja, dan ketahanan",
+          "file": "locales/id-001/chapters/03-05-skalabilitas-kinerja-dan-ketahanan.md"
+        },
+        {
+          "part": 3,
+          "chapter": 6,
+          "decimal": "3.6",
+          "slug": "03-06-modernisasi-sistem-warisan",
+          "title": "Modernisasi sistem warisan",
+          "heading": "3.6 Modernisasi sistem warisan",
+          "file": "locales/id-001/chapters/03-06-modernisasi-sistem-warisan.md"
+        },
+        {
+          "part": 3,
+          "chapter": 7,
+          "decimal": "3.7",
+          "slug": "03-07-pemeliharaan-perangkat-lunak",
+          "title": "Pemeliharaan perangkat lunak",
+          "heading": "3.7 Pemeliharaan perangkat lunak",
+          "file": "locales/id-001/chapters/03-07-pemeliharaan-perangkat-lunak.md"
+        },
+        {
+          "part": 3,
+          "chapter": 8,
+          "decimal": "3.8",
+          "slug": "03-08-interoperabilitas-dan-standar-terbuka",
+          "title": "Interoperabilitas dan standar terbuka",
+          "heading": "3.8 Interoperabilitas dan standar terbuka",
+          "file": "locales/id-001/chapters/03-08-interoperabilitas-dan-standar-terbuka.md"
+        },
+        {
+          "part": 3,
+          "chapter": 9,
+          "decimal": "3.9",
+          "slug": "03-09-rekayasa-sistem",
+          "title": "Rekayasa sistem",
+          "heading": "3.9 Rekayasa sistem",
+          "file": "locales/id-001/chapters/03-09-rekayasa-sistem.md"
+        },
+        {
+          "part": 3,
+          "chapter": 10,
+          "decimal": "3.10",
+          "slug": "03-10-sistem-tertanam-dan-waktu-nyata",
+          "title": "Sistem tertanam dan waktu nyata",
+          "heading": "3.10 Sistem tertanam dan waktu nyata",
+          "file": "locales/id-001/chapters/03-10-sistem-tertanam-dan-waktu-nyata.md"
+        },
+        {
+          "part": 3,
+          "chapter": 11,
+          "decimal": "3.11",
+          "slug": "03-11-arsitektur-cloud",
+          "title": "Arsitektur cloud",
+          "heading": "3.11 Arsitektur cloud",
+          "file": "locales/id-001/chapters/03-11-arsitektur-cloud.md"
+        },
+        {
+          "part": 3,
+          "chapter": 12,
+          "decimal": "3.12",
+          "slug": "03-12-arsitektur-berbasis-peristiwa-dan-pesan",
+          "title": "Arsitektur berbasis peristiwa dan pesan",
+          "heading": "3.12 Arsitektur berbasis peristiwa dan pesan",
+          "file": "locales/id-001/chapters/03-12-arsitektur-berbasis-peristiwa-dan-pesan.md"
+        },
+        {
+          "part": 3,
+          "chapter": 13,
+          "decimal": "3.13",
+          "slug": "03-13-jaringan-dan-konektivitas",
+          "title": "Jaringan dan konektivitas",
+          "heading": "3.13 Jaringan dan konektivitas",
+          "file": "locales/id-001/chapters/03-13-jaringan-dan-konektivitas.md"
+        },
+        {
+          "part": 3,
+          "chapter": 14,
+          "decimal": "3.14",
+          "slug": "03-14-arsitektur-multitenansi-dan-saas",
+          "title": "Arsitektur multitenansi dan SaaS",
+          "heading": "3.14 Arsitektur multitenansi dan SaaS",
+          "file": "locales/id-001/chapters/03-14-arsitektur-multitenansi-dan-saas.md"
+        },
+        {
+          "part": 3,
+          "chapter": 15,
+          "decimal": "3.15",
+          "slug": "03-15-caching-dan-pengiriman-konten",
+          "title": "Caching dan pengiriman konten",
+          "heading": "3.15 Caching dan pengiriman konten",
+          "file": "locales/id-001/chapters/03-15-caching-dan-pengiriman-konten.md"
+        },
+        {
+          "part": 3,
+          "chapter": 16,
+          "decimal": "3.16",
+          "slug": "03-16-api-gateway-dan-service-mesh",
+          "title": "API gateway dan service mesh",
+          "heading": "3.16 API gateway dan service mesh",
+          "file": "locales/id-001/chapters/03-16-api-gateway-dan-service-mesh.md"
+        },
+        {
+          "part": 3,
+          "chapter": 17,
+          "decimal": "3.17",
+          "slug": "03-17-pencarian-dan-temu-balik-informasi",
+          "title": "Pencarian dan temu balik informasi",
+          "heading": "3.17 Pencarian dan temu balik informasi",
+          "file": "locales/id-001/chapters/03-17-pencarian-dan-temu-balik-informasi.md"
+        },
+        {
+          "part": 4,
+          "chapter": 0,
+          "decimal": "4.0",
+          "slug": "04-00-keamanan",
+          "title": "Pengantar Bagian 4: Keamanan",
+          "heading": "4.0 Pengantar Bagian 4: Keamanan",
+          "file": "locales/id-001/chapters/04-00-keamanan.md"
+        },
+        {
+          "part": 4,
+          "chapter": 1,
+          "decimal": "4.1",
+          "slug": "04-01-fondasi-dan-budaya-keamanan",
+          "title": "Fondasi dan budaya keamanan",
+          "heading": "4.1 Fondasi dan budaya keamanan",
+          "file": "locales/id-001/chapters/04-01-fondasi-dan-budaya-keamanan.md"
+        },
+        {
+          "part": 4,
+          "chapter": 2,
+          "decimal": "4.2",
+          "slug": "04-02-keamanan-aplikasi",
+          "title": "Keamanan aplikasi",
+          "heading": "4.2 Keamanan aplikasi",
+          "file": "locales/id-001/chapters/04-02-keamanan-aplikasi.md"
+        },
+        {
+          "part": 4,
+          "chapter": 3,
+          "decimal": "4.3",
+          "slug": "04-03-keamanan-infrastruktur-dan-cloud",
+          "title": "Keamanan infrastruktur dan cloud",
+          "heading": "4.3 Keamanan infrastruktur dan cloud",
+          "file": "locales/id-001/chapters/04-03-keamanan-infrastruktur-dan-cloud.md"
+        },
+        {
+          "part": 4,
+          "chapter": 4,
+          "decimal": "4.4",
+          "slug": "04-04-operasi-keamanan",
+          "title": "Operasi keamanan",
+          "heading": "4.4 Operasi keamanan",
+          "file": "locales/id-001/chapters/04-04-operasi-keamanan.md"
+        },
+        {
+          "part": 4,
+          "chapter": 5,
+          "decimal": "4.5",
+          "slug": "04-05-privasi-dan-pelindungan-data",
+          "title": "Privasi dan pelindungan data",
+          "heading": "4.5 Privasi dan pelindungan data",
+          "file": "locales/id-001/chapters/04-05-privasi-dan-pelindungan-data.md"
+        },
+        {
+          "part": 4,
+          "chapter": 6,
+          "decimal": "4.6",
+          "slug": "04-06-kepatuhan-dan-tata-kelola",
+          "title": "Kepatuhan dan tata kelola",
+          "heading": "4.6 Kepatuhan dan tata kelola",
+          "file": "locales/id-001/chapters/04-06-kepatuhan-dan-tata-kelola.md"
+        },
+        {
+          "part": 4,
+          "chapter": 7,
+          "decimal": "4.7",
+          "slug": "04-07-manajemen-identitas-dan-akses",
+          "title": "Manajemen identitas dan akses",
+          "heading": "4.7 Manajemen identitas dan akses",
+          "file": "locales/id-001/chapters/04-07-manajemen-identitas-dan-akses.md"
+        },
+        {
+          "part": 4,
+          "chapter": 8,
+          "decimal": "4.8",
+          "slug": "04-08-kriptografi-dan-manajemen-kunci",
+          "title": "Kriptografi dan manajemen kunci",
+          "heading": "4.8 Kriptografi dan manajemen kunci",
+          "file": "locales/id-001/chapters/04-08-kriptografi-dan-manajemen-kunci.md"
+        },
+        {
+          "part": 4,
+          "chapter": 9,
+          "decimal": "4.9",
+          "slug": "04-09-siklus-hidup-pengembangan-perangkat-lunak-aman",
+          "title": "Siklus hidup pengembangan perangkat lunak aman",
+          "heading": "4.9 Siklus hidup pengembangan perangkat lunak aman",
+          "file": "locales/id-001/chapters/04-09-siklus-hidup-pengembangan-perangkat-lunak-aman.md"
+        },
+        {
+          "part": 4,
+          "chapter": 10,
+          "decimal": "4.10",
+          "slug": "04-10-uji-penetrasi-dan-red-teaming",
+          "title": "Uji penetrasi dan red teaming",
+          "heading": "4.10 Uji penetrasi dan red teaming",
+          "file": "locales/id-001/chapters/04-10-uji-penetrasi-dan-red-teaming.md"
+        },
+        {
+          "part": 5,
+          "chapter": 0,
+          "decimal": "5.0",
+          "slug": "05-00-desain-ui-ux",
+          "title": "Pengantar Bagian 5: Desain UI/UX",
+          "heading": "5.0 Pengantar Bagian 5: Desain UI/UX",
+          "file": "locales/id-001/chapters/05-00-desain-ui-ux.md"
+        },
+        {
+          "part": 5,
+          "chapter": 1,
+          "decimal": "5.1",
+          "slug": "05-01-fondasi-ux",
+          "title": "Fondasi UX",
+          "heading": "5.1 Fondasi UX",
+          "file": "locales/id-001/chapters/05-01-fondasi-ux.md"
+        },
+        {
+          "part": 5,
+          "chapter": 2,
+          "decimal": "5.2",
+          "slug": "05-02-desain-ui-dan-sistem-desain",
+          "title": "Desain UI dan sistem desain",
+          "heading": "5.2 Desain UI dan sistem desain",
+          "file": "locales/id-001/chapters/05-02-desain-ui-dan-sistem-desain.md"
+        },
+        {
+          "part": 5,
+          "chapter": 3,
+          "decimal": "5.3",
+          "slug": "05-03-aksesibilitas",
+          "title": "Aksesibilitas",
+          "heading": "5.3 Aksesibilitas",
+          "file": "locales/id-001/chapters/05-03-aksesibilitas.md"
+        },
+        {
+          "part": 5,
+          "chapter": 4,
+          "decimal": "5.4",
+          "slug": "05-04-desain-konten-dan-komunikasi",
+          "title": "Desain konten dan komunikasi",
+          "heading": "5.4 Desain konten dan komunikasi",
+          "file": "locales/id-001/chapters/05-04-desain-konten-dan-komunikasi.md"
+        },
+        {
+          "part": 5,
+          "chapter": 5,
+          "decimal": "5.5",
+          "slug": "05-05-internasionalisasi-dan-lokalisasi",
+          "title": "Internasionalisasi dan lokalisasi",
+          "heading": "5.5 Internasionalisasi dan lokalisasi",
+          "file": "locales/id-001/chapters/05-05-internasionalisasi-dan-lokalisasi.md"
+        },
+        {
+          "part": 5,
+          "chapter": 6,
+          "decimal": "5.6",
+          "slug": "05-06-rekayasa-frontend",
+          "title": "Rekayasa frontend",
+          "heading": "5.6 Rekayasa frontend",
+          "file": "locales/id-001/chapters/05-06-rekayasa-frontend.md"
+        },
+        {
+          "part": 5,
+          "chapter": 7,
+          "decimal": "5.7",
+          "slug": "05-07-pengembangan-aplikasi-seluler",
+          "title": "Pengembangan aplikasi seluler",
+          "heading": "5.7 Pengembangan aplikasi seluler",
+          "file": "locales/id-001/chapters/05-07-pengembangan-aplikasi-seluler.md"
+        },
+        {
+          "part": 5,
+          "chapter": 8,
+          "decimal": "5.8",
+          "slug": "05-08-riset-desain-dan-uji-kegunaan",
+          "title": "Riset desain dan uji kegunaan",
+          "heading": "5.8 Riset desain dan uji kegunaan",
+          "file": "locales/id-001/chapters/05-08-riset-desain-dan-uji-kegunaan.md"
+        },
+        {
+          "part": 5,
+          "chapter": 9,
+          "decimal": "5.9",
+          "slug": "05-09-desain-layanan",
+          "title": "Desain layanan",
+          "heading": "5.9 Desain layanan",
+          "file": "locales/id-001/chapters/05-09-desain-layanan.md"
+        },
+        {
+          "part": 5,
+          "chapter": 10,
+          "decimal": "5.10",
+          "slug": "05-10-desain-visualisasi-data",
+          "title": "Desain visualisasi data",
+          "heading": "5.10 Desain visualisasi data",
+          "file": "locales/id-001/chapters/05-10-desain-visualisasi-data.md"
+        },
+        {
+          "part": 6,
+          "chapter": 0,
+          "decimal": "6.0",
+          "slug": "06-00-kecerdasan-buatan",
+          "title": "Pengantar Bagian 6: Kecerdasan buatan",
+          "heading": "6.0 Pengantar Bagian 6: Kecerdasan buatan",
+          "file": "locales/id-001/chapters/06-00-kecerdasan-buatan.md"
+        },
+        {
+          "part": 6,
+          "chapter": 1,
+          "decimal": "6.1",
+          "slug": "06-01-strategi-dan-kesiapan-ai",
+          "title": "Strategi dan kesiapan AI",
+          "heading": "6.1 Strategi dan kesiapan AI",
+          "file": "locales/id-001/chapters/06-01-strategi-dan-kesiapan-ai.md"
+        },
+        {
+          "part": 6,
+          "chapter": 2,
+          "decimal": "6.2",
+          "slug": "06-02-mlops",
+          "title": "Rekayasa pembelajaran mesin (MLOps)",
+          "heading": "6.2 Rekayasa pembelajaran mesin (MLOps)",
+          "file": "locales/id-001/chapters/06-02-mlops.md"
+        },
+        {
+          "part": 6,
+          "chapter": 3,
+          "decimal": "6.3",
+          "slug": "06-03-ai-generatif-dan-aplikasi-llm",
+          "title": "AI generatif dan aplikasi LLM",
+          "heading": "6.3 AI generatif dan aplikasi LLM",
+          "file": "locales/id-001/chapters/06-03-ai-generatif-dan-aplikasi-llm.md"
+        },
+        {
+          "part": 6,
+          "chapter": 4,
+          "decimal": "6.4",
+          "slug": "06-04-pengembangan-perangkat-lunak-berbantuan-ai",
+          "title": "Pengembangan perangkat lunak berbantuan AI",
+          "heading": "6.4 Pengembangan perangkat lunak berbantuan AI",
+          "file": "locales/id-001/chapters/06-04-pengembangan-perangkat-lunak-berbantuan-ai.md"
+        },
+        {
+          "part": 6,
+          "chapter": 5,
+          "decimal": "6.5",
+          "slug": "06-05-ai-yang-bertanggung-jawab-dan-tepercaya",
+          "title": "AI yang bertanggung jawab dan tepercaya",
+          "heading": "6.5 AI yang bertanggung jawab dan tepercaya",
+          "file": "locales/id-001/chapters/06-05-ai-yang-bertanggung-jawab-dan-tepercaya.md"
+        },
+        {
+          "part": 6,
+          "chapter": 6,
+          "decimal": "6.6",
+          "slug": "06-06-infrastruktur-dan-operasi-ai",
+          "title": "Infrastruktur dan operasi AI",
+          "heading": "6.6 Infrastruktur dan operasi AI",
+          "file": "locales/id-001/chapters/06-06-infrastruktur-dan-operasi-ai.md"
+        },
+        {
+          "part": 6,
+          "chapter": 7,
+          "decimal": "6.7",
+          "slug": "06-07-agen-ai-dan-sistem-agentik",
+          "title": "Agen AI dan sistem agentik",
+          "heading": "6.7 Agen AI dan sistem agentik",
+          "file": "locales/id-001/chapters/06-07-agen-ai-dan-sistem-agentik.md"
+        },
+        {
+          "part": 6,
+          "chapter": 8,
+          "decimal": "6.8",
+          "slug": "06-08-evaluasi-dan-pengujian-ai",
+          "title": "Evaluasi dan pengujian AI",
+          "heading": "6.8 Evaluasi dan pengujian AI",
+          "file": "locales/id-001/chapters/06-08-evaluasi-dan-pengujian-ai.md"
+        },
+        {
+          "part": 6,
+          "chapter": 9,
+          "decimal": "6.9",
+          "slug": "06-09-rekayasa-prompt-dan-desain-konteks",
+          "title": "Rekayasa prompt dan desain konteks",
+          "heading": "6.9 Rekayasa prompt dan desain konteks",
+          "file": "locales/id-001/chapters/06-09-rekayasa-prompt-dan-desain-konteks.md"
+        },
+        {
+          "part": 7,
+          "chapter": 0,
+          "decimal": "7.0",
+          "slug": "07-00-data-dan-analitik",
+          "title": "Pengantar Bagian 7: Data, analitik, dan wawasan",
+          "heading": "7.0 Pengantar Bagian 7: Data, analitik, dan wawasan",
+          "file": "locales/id-001/chapters/07-00-data-dan-analitik.md"
+        },
+        {
+          "part": 7,
+          "chapter": 1,
+          "decimal": "7.1",
+          "slug": "07-01-strategi-dan-tata-kelola-data",
+          "title": "Strategi dan tata kelola data",
+          "heading": "7.1 Strategi dan tata kelola data",
+          "file": "locales/id-001/chapters/07-01-strategi-dan-tata-kelola-data.md"
+        },
+        {
+          "part": 7,
+          "chapter": 2,
+          "decimal": "7.2",
+          "slug": "07-02-rekayasa-data",
+          "title": "Rekayasa data",
+          "heading": "7.2 Rekayasa data",
+          "file": "locales/id-001/chapters/07-02-rekayasa-data.md"
+        },
+        {
+          "part": 7,
+          "chapter": 3,
+          "decimal": "7.3",
+          "slug": "07-03-analitik-dan-business-intelligence",
+          "title": "Analitik dan business intelligence",
+          "heading": "7.3 Analitik dan business intelligence",
+          "file": "locales/id-001/chapters/07-03-analitik-dan-business-intelligence.md"
+        },
+        {
+          "part": 7,
+          "chapter": 4,
+          "decimal": "7.4",
+          "slug": "07-04-analitik-produk-dan-eksperimen",
+          "title": "Analitik produk dan eksperimen",
+          "heading": "7.4 Analitik produk dan eksperimen",
+          "file": "locales/id-001/chapters/07-04-analitik-produk-dan-eksperimen.md"
+        },
+        {
+          "part": 7,
+          "chapter": 5,
+          "decimal": "7.5",
+          "slug": "07-05-ilmu-keputusan-dan-budaya-data",
+          "title": "Ilmu keputusan dan budaya berbasis data",
+          "heading": "7.5 Ilmu keputusan dan budaya berbasis data",
+          "file": "locales/id-001/chapters/07-05-ilmu-keputusan-dan-budaya-data.md"
+        },
+        {
+          "part": 7,
+          "chapter": 6,
+          "decimal": "7.6",
+          "slug": "07-06-data-real-time-dan-streaming",
+          "title": "Data real-time dan streaming",
+          "heading": "7.6 Data real-time dan streaming",
+          "file": "locales/id-001/chapters/07-06-data-real-time-dan-streaming.md"
+        },
+        {
+          "part": 7,
+          "chapter": 7,
+          "decimal": "7.7",
+          "slug": "07-07-pemodelan-data-dan-lapisan-semantik",
+          "title": "Pemodelan data dan lapisan semantik",
+          "heading": "7.7 Pemodelan data dan lapisan semantik",
+          "file": "locales/id-001/chapters/07-07-pemodelan-data-dan-lapisan-semantik.md"
+        },
+        {
+          "part": 7,
+          "chapter": 8,
+          "decimal": "7.8",
+          "slug": "07-08-kualitas-dan-observabilitas-data",
+          "title": "Kualitas dan observabilitas data",
+          "heading": "7.8 Kualitas dan observabilitas data",
+          "file": "locales/id-001/chapters/07-08-kualitas-dan-observabilitas-data.md"
+        },
+        {
+          "part": 7,
+          "chapter": 9,
+          "decimal": "7.9",
+          "slug": "07-09-manajemen-data-induk-dan-data-referensi",
+          "title": "Manajemen data induk dan data referensi",
+          "heading": "7.9 Manajemen data induk dan data referensi",
+          "file": "locales/id-001/chapters/07-09-manajemen-data-induk-dan-data-referensi.md"
+        },
+        {
+          "part": 8,
+          "chapter": 0,
+          "decimal": "8.0",
+          "slug": "08-00-otomasi",
+          "title": "Pengantar Bagian 8: Otomasi",
+          "heading": "8.0 Pengantar Bagian 8: Otomasi",
+          "file": "locales/id-001/chapters/08-00-otomasi.md"
+        },
+        {
+          "part": 8,
+          "chapter": 1,
+          "decimal": "8.1",
+          "slug": "08-01-ci-cd-dan-pengiriman",
+          "title": "CI/CD dan pengiriman",
+          "heading": "8.1 CI/CD dan pengiriman",
+          "file": "locales/id-001/chapters/08-01-ci-cd-dan-pengiriman.md"
+        },
+        {
+          "part": 8,
+          "chapter": 2,
+          "decimal": "8.2",
+          "slug": "08-02-infrastructure-as-code-dan-konfigurasi",
+          "title": "Infrastructure as code dan konfigurasi",
+          "heading": "8.2 Infrastructure as code dan konfigurasi",
+          "file": "locales/id-001/chapters/08-02-infrastructure-as-code-dan-konfigurasi.md"
+        },
+        {
+          "part": 8,
+          "chapter": 3,
+          "decimal": "8.3",
+          "slug": "08-03-kontainer-orkestrasi-cloud-native",
+          "title": "Kontainer, orkestrasi, dan cloud-native",
+          "heading": "8.3 Kontainer, orkestrasi, dan cloud-native",
+          "file": "locales/id-001/chapters/08-03-kontainer-orkestrasi-cloud-native.md"
+        },
+        {
+          "part": 8,
+          "chapter": 4,
+          "decimal": "8.4",
+          "slug": "08-04-rekayasa-platform-dan-devex",
+          "title": "Rekayasa platform dan pengalaman pengembang",
+          "heading": "8.4 Rekayasa platform dan pengalaman pengembang",
+          "file": "locales/id-001/chapters/08-04-rekayasa-platform-dan-devex.md"
+        },
+        {
+          "part": 8,
+          "chapter": 5,
+          "decimal": "8.5",
+          "slug": "08-05-otomasi-pengujian-dan-proses",
+          "title": "Otomasi pengujian dan proses",
+          "heading": "8.5 Otomasi pengujian dan proses",
+          "file": "locales/id-001/chapters/08-05-otomasi-pengujian-dan-proses.md"
+        },
+        {
+          "part": 8,
+          "chapter": 6,
+          "decimal": "8.6",
+          "slug": "08-06-manajemen-rilis-dan-pengiriman-progresif",
+          "title": "Manajemen rilis dan pengiriman progresif",
+          "heading": "8.6 Manajemen rilis dan pengiriman progresif",
+          "file": "locales/id-001/chapters/08-06-manajemen-rilis-dan-pengiriman-progresif.md"
+        },
+        {
+          "part": 8,
+          "chapter": 7,
+          "decimal": "8.7",
+          "slug": "08-07-sistem-build-dan-manajemen-artefak",
+          "title": "Sistem build dan manajemen artefak",
+          "heading": "8.7 Sistem build dan manajemen artefak",
+          "file": "locales/id-001/chapters/08-07-sistem-build-dan-manajemen-artefak.md"
+        },
+        {
+          "part": 9,
+          "chapter": 0,
+          "decimal": "9.0",
+          "slug": "09-00-operasi-dan-keandalan",
+          "title": "Pengantar Bagian 9: Operasi, keandalan, dan observabilitas",
+          "heading": "9.0 Pengantar Bagian 9: Operasi, keandalan, dan observabilitas",
+          "file": "locales/id-001/chapters/09-00-operasi-dan-keandalan.md"
+        },
+        {
+          "part": 9,
+          "chapter": 1,
+          "decimal": "9.1",
+          "slug": "09-01-site-reliability-engineering",
+          "title": "Site reliability engineering",
+          "heading": "9.1 Site reliability engineering",
+          "file": "locales/id-001/chapters/09-01-site-reliability-engineering.md"
+        },
+        {
+          "part": 9,
+          "chapter": 2,
+          "decimal": "9.2",
+          "slug": "09-02-observabilitas-dan-telemetri",
+          "title": "Observabilitas dan telemetri",
+          "heading": "9.2 Observabilitas dan telemetri",
+          "file": "locales/id-001/chapters/09-02-observabilitas-dan-telemetri.md"
+        },
+        {
+          "part": 9,
+          "chapter": 3,
+          "decimal": "9.3",
+          "slug": "09-03-manajemen-insiden",
+          "title": "Manajemen insiden",
+          "heading": "9.3 Manajemen insiden",
+          "file": "locales/id-001/chapters/09-03-manajemen-insiden.md"
+        },
+        {
+          "part": 9,
+          "chapter": 4,
+          "decimal": "9.4",
+          "slug": "09-04-biaya-keberlanjutan-perangkat-lunak-hijau",
+          "title": "Biaya, keberlanjutan, dan perangkat lunak hijau",
+          "heading": "9.4 Biaya, keberlanjutan, dan perangkat lunak hijau",
+          "file": "locales/id-001/chapters/09-04-biaya-keberlanjutan-perangkat-lunak-hijau.md"
+        },
+        {
+          "part": 9,
+          "chapter": 5,
+          "decimal": "9.5",
+          "slug": "09-05-pemulihan-bencana-dan-kesinambungan-bisnis",
+          "title": "Pemulihan bencana dan kesinambungan bisnis",
+          "heading": "9.5 Pemulihan bencana dan kesinambungan bisnis",
+          "file": "locales/id-001/chapters/09-05-pemulihan-bencana-dan-kesinambungan-bisnis.md"
+        },
+        {
+          "part": 9,
+          "chapter": 6,
+          "decimal": "9.6",
+          "slug": "09-06-rekayasa-chaos-dan-pengujian-ketahanan",
+          "title": "Rekayasa chaos dan pengujian ketahanan",
+          "heading": "9.6 Rekayasa chaos dan pengujian ketahanan",
+          "file": "locales/id-001/chapters/09-06-rekayasa-chaos-dan-pengujian-ketahanan.md"
+        },
+        {
+          "part": 9,
+          "chapter": 7,
+          "decimal": "9.7",
+          "slug": "09-07-perencanaan-kapasitas-dan-peramalan-permintaan",
+          "title": "Perencanaan kapasitas dan peramalan permintaan",
+          "heading": "9.7 Perencanaan kapasitas dan peramalan permintaan",
+          "file": "locales/id-001/chapters/09-07-perencanaan-kapasitas-dan-peramalan-permintaan.md"
+        },
+        {
+          "part": 9,
+          "chapter": 8,
+          "decimal": "9.8",
+          "slug": "09-08-on-call-dan-kesiapan-operasional",
+          "title": "On-call dan kesiapan operasional",
+          "heading": "9.8 On-call dan kesiapan operasional",
+          "file": "locales/id-001/chapters/09-08-on-call-dan-kesiapan-operasional.md"
+        },
+        {
+          "part": 10,
+          "chapter": 0,
+          "decimal": "10.0",
+          "slug": "10-00-manajemen-proyek-produk-dan-program",
+          "title": "Pengantar Bagian 10: Manajemen proyek, produk, dan program",
+          "heading": "10.0 Pengantar Bagian 10: Manajemen proyek, produk, dan program",
+          "file": "locales/id-001/chapters/10-00-manajemen-proyek-produk-dan-program.md"
+        },
+        {
+          "part": 10,
+          "chapter": 1,
+          "decimal": "10.1",
+          "slug": "10-01-manajemen-portofolio-dan-program",
+          "title": "Manajemen portofolio dan program",
+          "heading": "10.1 Manajemen portofolio dan program",
+          "file": "locales/id-001/chapters/10-01-manajemen-portofolio-dan-program.md"
+        },
+        {
+          "part": 10,
+          "chapter": 2,
+          "decimal": "10.2",
+          "slug": "10-02-risiko-audit-dan-jaminan",
+          "title": "Risiko, audit, dan jaminan",
+          "heading": "10.2 Risiko, audit, dan jaminan",
+          "file": "locales/id-001/chapters/10-02-risiko-audit-dan-jaminan.md"
+        },
+        {
+          "part": 10,
+          "chapter": 3,
+          "decimal": "10.3",
+          "slug": "10-03-pengadaan-sumber-terbuka-dan-lisensi",
+          "title": "Pengadaan, sumber terbuka, dan lisensi",
+          "heading": "10.3 Pengadaan, sumber terbuka, dan lisensi",
+          "file": "locales/id-001/chapters/10-03-pengadaan-sumber-terbuka-dan-lisensi.md"
+        },
+        {
+          "part": 10,
+          "chapter": 4,
+          "decimal": "10.4",
+          "slug": "10-04-merawat-sistem-besar-dan-berumur-panjang",
+          "title": "Merawat sistem besar dan berumur panjang",
+          "heading": "10.4 Merawat sistem besar dan berumur panjang",
+          "file": "locales/id-001/chapters/10-04-merawat-sistem-besar-dan-berumur-panjang.md"
+        },
+        {
+          "part": 10,
+          "chapter": 5,
+          "decimal": "10.5",
+          "slug": "10-05-etika-akuntabilitas-kepentingan-publik",
+          "title": "Etika, akuntabilitas, dan kepentingan publik",
+          "heading": "10.5 Etika, akuntabilitas, dan kepentingan publik",
+          "file": "locales/id-001/chapters/10-05-etika-akuntabilitas-kepentingan-publik.md"
+        },
+        {
+          "part": 10,
+          "chapter": 6,
+          "decimal": "10.6",
+          "slug": "10-06-manajemen-proyek",
+          "title": "Manajemen proyek",
+          "heading": "10.6 Manajemen proyek",
+          "file": "locales/id-001/chapters/10-06-manajemen-proyek.md"
+        },
+        {
+          "part": 10,
+          "chapter": 7,
+          "decimal": "10.7",
+          "slug": "10-07-agile",
+          "title": "Agile",
+          "heading": "10.7 Agile",
+          "file": "locales/id-001/chapters/10-07-agile.md"
+        },
+        {
+          "part": 10,
+          "chapter": 8,
+          "decimal": "10.8",
+          "slug": "10-08-model-kematangan",
+          "title": "Model kematangan",
+          "heading": "10.8 Model kematangan",
+          "file": "locales/id-001/chapters/10-08-model-kematangan.md"
+        },
+        {
+          "part": 10,
+          "chapter": 9,
+          "decimal": "10.9",
+          "slug": "10-09-kemitraan-inovasi",
+          "title": "Kemitraan inovasi",
+          "heading": "10.9 Kemitraan inovasi",
+          "file": "locales/id-001/chapters/10-09-kemitraan-inovasi.md"
+        },
+        {
+          "part": 10,
+          "chapter": 10,
+          "decimal": "10.10",
+          "slug": "10-10-ekonomi-rekayasa-perangkat-lunak",
+          "title": "Ekonomi rekayasa perangkat lunak",
+          "heading": "10.10 Ekonomi rekayasa perangkat lunak",
+          "file": "locales/id-001/chapters/10-10-ekonomi-rekayasa-perangkat-lunak.md"
+        },
+        {
+          "part": 10,
+          "chapter": 11,
+          "decimal": "10.11",
+          "slug": "10-11-kedaulatan-digital",
+          "title": "Kedaulatan digital",
+          "heading": "10.11 Kedaulatan digital",
+          "file": "locales/id-001/chapters/10-11-kedaulatan-digital.md"
+        },
+        {
+          "part": 10,
+          "chapter": 12,
+          "decimal": "10.12",
+          "slug": "10-12-sumber-terbuka-vs-sumber-tertutup",
+          "title": "Sumber terbuka vs sumber tertutup",
+          "heading": "10.12 Sumber terbuka vs sumber tertutup",
+          "file": "locales/id-001/chapters/10-12-sumber-terbuka-vs-sumber-tertutup.md"
+        },
+        {
+          "part": 10,
+          "chapter": 13,
+          "decimal": "10.13",
+          "slug": "10-13-kolaborasi-antarorganisasi",
+          "title": "Kolaborasi antarorganisasi",
+          "heading": "10.13 Kolaborasi antarorganisasi",
+          "file": "locales/id-001/chapters/10-13-kolaborasi-antarorganisasi.md"
+        },
+        {
+          "part": 10,
+          "chapter": 14,
+          "decimal": "10.14",
+          "slug": "10-14-manajemen-produk-dan-penemuan",
+          "title": "Manajemen produk dan penemuan",
+          "heading": "10.14 Manajemen produk dan penemuan",
+          "file": "locales/id-001/chapters/10-14-manajemen-produk-dan-penemuan.md"
+        },
+        {
+          "part": 10,
+          "chapter": 15,
+          "decimal": "10.15",
+          "slug": "10-15-estimasi-dan-peramalan",
+          "title": "Estimasi dan peramalan",
+          "heading": "10.15 Estimasi dan peramalan",
+          "file": "locales/id-001/chapters/10-15-estimasi-dan-peramalan.md"
+        },
+        {
+          "part": 10,
+          "chapter": 16,
+          "decimal": "10.16",
+          "slug": "10-16-manajemen-pemangku-kepentingan-dan-komunikasi",
+          "title": "Manajemen pemangku kepentingan dan komunikasi",
+          "heading": "10.16 Manajemen pemangku kepentingan dan komunikasi",
+          "file": "locales/id-001/chapters/10-16-manajemen-pemangku-kepentingan-dan-komunikasi.md"
+        },
+        {
+          "part": 10,
+          "chapter": 17,
+          "decimal": "10.17",
+          "slug": "10-17-manajemen-perubahan-organisasi",
+          "title": "Manajemen perubahan organisasi",
+          "heading": "10.17 Manajemen perubahan organisasi",
+          "file": "locales/id-001/chapters/10-17-manajemen-perubahan-organisasi.md"
+        },
+        {
+          "part": 10,
+          "chapter": 18,
+          "decimal": "10.18",
+          "slug": "10-18-kantor-program-sumber-terbuka",
+          "title": "Kantor program sumber terbuka (OSPO) dan kontribusi hulu",
+          "heading": "10.18 Kantor program sumber terbuka (OSPO) dan kontribusi hulu",
+          "file": "locales/id-001/chapters/10-18-kantor-program-sumber-terbuka.md"
+        },
+        {
+          "part": 11,
+          "chapter": 0,
+          "decimal": "11.0",
+          "slug": "11-00-aliran-penemuan-dan-penyampaian",
+          "title": "Pengantar Bagian 11: Aliran: jalur penemuan dan penyampaian",
+          "heading": "11.0 Pengantar Bagian 11: Aliran: jalur penemuan dan penyampaian",
+          "file": "locales/id-001/chapters/11-00-aliran-penemuan-dan-penyampaian.md"
+        },
+        {
+          "part": 11,
+          "chapter": 1,
+          "decimal": "11.1",
+          "slug": "11-01-jalur-penemuan",
+          "title": "Jalur penemuan",
+          "heading": "11.1 Jalur penemuan",
+          "file": "locales/id-001/chapters/11-01-jalur-penemuan.md"
+        },
+        {
+          "part": 11,
+          "chapter": 2,
+          "decimal": "11.2",
+          "slug": "11-02-jalur-penyampaian",
+          "title": "Jalur penyampaian",
+          "heading": "11.2 Jalur penyampaian",
+          "file": "locales/id-001/chapters/11-02-jalur-penyampaian.md"
+        },
+        {
+          "part": 11,
+          "chapter": 3,
+          "decimal": "11.3",
+          "slug": "11-03-teori-antrean",
+          "title": "Teori antrean",
+          "heading": "11.3 Teori antrean",
+          "file": "locales/id-001/chapters/11-03-teori-antrean.md"
+        },
+        {
+          "part": 11,
+          "chapter": 4,
+          "decimal": "11.4",
+          "slug": "11-04-sasaran-dan-hasil-kunci-okr",
+          "title": "Objectives and key results (OKR)",
+          "heading": "11.4 Objectives and key results (OKR)",
+          "file": "locales/id-001/chapters/11-04-sasaran-dan-hasil-kunci-okr.md"
+        },
+        {
+          "part": 11,
+          "chapter": 5,
+          "decimal": "11.5",
+          "slug": "11-05-indikator-kinerja-utama-kpi",
+          "title": "Key performance indicator (KPI)",
+          "heading": "11.5 Key performance indicator (KPI)",
+          "file": "locales/id-001/chapters/11-05-indikator-kinerja-utama-kpi.md"
+        },
+        {
+          "part": 11,
+          "chapter": 6,
+          "decimal": "11.6",
+          "slug": "11-06-pemetaan-aliran-nilai-dan-biaya-penundaan",
+          "title": "Pemetaan aliran nilai dan biaya penundaan",
+          "heading": "11.6 Pemetaan aliran nilai dan biaya penundaan",
+          "file": "locales/id-001/chapters/11-06-pemetaan-aliran-nilai-dan-biaya-penundaan.md"
+        },
+        {
+          "part": 12,
+          "chapter": 0,
+          "decimal": "12.0",
+          "slug": "12-00-lampiran",
+          "title": "Lampiran",
+          "heading": "12.0 Lampiran",
+          "file": "locales/id-001/chapters/12-00-lampiran.md"
+        },
+        {
+          "part": 12,
+          "chapter": 1,
+          "decimal": "12.1",
+          "slug": "12-01-glosarium",
+          "title": "Glosarium",
+          "heading": "12.1 Glosarium",
+          "file": "locales/id-001/chapters/12-01-glosarium.md"
+        },
+        {
+          "part": 12,
+          "chapter": 2,
+          "decimal": "12.2",
+          "slug": "12-02-daftar-periksa",
+          "title": "Daftar periksa",
+          "heading": "12.2 Daftar periksa",
+          "file": "locales/id-001/chapters/12-02-daftar-periksa.md"
+        },
+        {
+          "part": 12,
+          "chapter": 3,
+          "decimal": "12.3",
+          "slug": "12-03-templat",
+          "title": "Templat",
+          "heading": "12.3 Templat",
+          "file": "locales/id-001/chapters/12-03-templat.md"
+        },
+        {
+          "part": 12,
+          "chapter": 4,
+          "decimal": "12.4",
+          "slug": "12-04-penilaian-diri-kematangan",
+          "title": "Penilaian diri kematangan",
+          "heading": "12.4 Penilaian diri kematangan",
+          "file": "locales/id-001/chapters/12-04-penilaian-diri-kematangan.md"
+        },
+        {
+          "part": 12,
+          "chapter": 5,
+          "decimal": "12.5",
+          "slug": "12-05-referensi",
+          "title": "Referensi",
+          "heading": "12.5 Referensi",
+          "file": "locales/id-001/chapters/12-05-referensi.md"
+        },
+        {
+          "part": 12,
+          "chapter": 6,
+          "decimal": "12.6",
+          "slug": "12-06-peta-jalan-adopsi",
+          "title": "Peta jalan adopsi",
+          "heading": "12.6 Peta jalan adopsi",
+          "file": "locales/id-001/chapters/12-06-peta-jalan-adopsi.md"
+        },
+        {
+          "part": 12,
+          "chapter": 7,
+          "decimal": "12.7",
+          "slug": "12-07-indeks",
+          "title": "Indeks",
+          "heading": "12.7 Indeks",
+          "file": "locales/id-001/chapters/12-07-indeks.md"
+        }
+      ],
+      "parts": [
+        {
+          "number": 1,
+          "title": "People",
+          "chapters": [
+            {
+              "part": 1,
+              "chapter": 0,
+              "decimal": "1.0",
+              "slug": "01-00-manusia",
+              "title": "Pengantar Bagian 1: Manusia",
+              "heading": "1.0 Pengantar Bagian 1: Manusia",
+              "file": "locales/id-001/chapters/01-00-manusia.md"
+            },
+            {
+              "part": 1,
+              "chapter": 1,
+              "decimal": "1.1",
+              "slug": "01-01-nilai-nilai-rekayasa-perangkat-lunak",
+              "title": "Nilai-nilai rekayasa perangkat lunak",
+              "heading": "1.1 Nilai-nilai rekayasa perangkat lunak",
+              "file": "locales/id-001/chapters/01-01-nilai-nilai-rekayasa-perangkat-lunak.md"
+            },
+            {
+              "part": 1,
+              "chapter": 2,
+              "decimal": "1.2",
+              "slug": "01-02-topologi-tim",
+              "title": "Topologi tim dan desain organisasi",
+              "heading": "1.2 Topologi tim dan desain organisasi",
+              "file": "locales/id-001/chapters/01-02-topologi-tim.md"
+            },
+            {
+              "part": 1,
+              "chapter": 3,
+              "decimal": "1.3",
+              "slug": "01-03-peran-jenjang-karier-dan-pertumbuhan",
+              "title": "Peran, jenjang karier, dan pertumbuhan",
+              "heading": "1.3 Peran, jenjang karier, dan pertumbuhan",
+              "file": "locales/id-001/chapters/01-03-peran-jenjang-karier-dan-pertumbuhan.md"
+            },
+            {
+              "part": 1,
+              "chapter": 4,
+              "decimal": "1.4",
+              "slug": "01-04-cara-kerja",
+              "title": "Cara kerja",
+              "heading": "1.4 Cara kerja",
+              "file": "locales/id-001/chapters/01-04-cara-kerja.md"
+            },
+            {
+              "part": 1,
+              "chapter": 5,
+              "decimal": "1.5",
+              "slug": "01-05-pengambilan-keputusan-dan-tata-kelola",
+              "title": "Pengambilan keputusan dan tata kelola",
+              "heading": "1.5 Pengambilan keputusan dan tata kelola",
+              "file": "locales/id-001/chapters/01-05-pengambilan-keputusan-dan-tata-kelola.md"
+            },
+            {
+              "part": 1,
+              "chapter": 6,
+              "decimal": "1.6",
+              "slug": "01-06-catatan-keputusan",
+              "title": "Catatan keputusan",
+              "heading": "1.6 Catatan keputusan",
+              "file": "locales/id-001/chapters/01-06-catatan-keputusan.md"
+            },
+            {
+              "part": 1,
+              "chapter": 7,
+              "decimal": "1.7",
+              "slug": "01-07-standar-rekayasa-dan-pengecualian",
+              "title": "Standar rekayasa dan pengecualian",
+              "heading": "1.7 Standar rekayasa dan pengecualian",
+              "file": "locales/id-001/chapters/01-07-standar-rekayasa-dan-pengecualian.md"
+            },
+            {
+              "part": 1,
+              "chapter": 8,
+              "decimal": "1.8",
+              "slug": "01-08-perekrutan-wawancara-dan-orientasi",
+              "title": "Perekrutan, wawancara, dan orientasi",
+              "heading": "1.8 Perekrutan, wawancara, dan orientasi",
+              "file": "locales/id-001/chapters/01-08-perekrutan-wawancara-dan-orientasi.md"
+            },
+            {
+              "part": 1,
+              "chapter": 9,
+              "decimal": "1.9",
+              "slug": "01-09-kerja-terdistribusi-dan-jarak-jauh",
+              "title": "Kerja terdistribusi dan jarak jauh",
+              "heading": "1.9 Kerja terdistribusi dan jarak jauh",
+              "file": "locales/id-001/chapters/01-09-kerja-terdistribusi-dan-jarak-jauh.md"
+            },
+            {
+              "part": 1,
+              "chapter": 10,
+              "decimal": "1.10",
+              "slug": "01-10-efektivitas-rekayasa-dan-produktivitas-pengembang",
+              "title": "Efektivitas rekayasa dan produktivitas pengembang",
+              "heading": "1.10 Efektivitas rekayasa dan produktivitas pengembang",
+              "file": "locales/id-001/chapters/01-10-efektivitas-rekayasa-dan-produktivitas-pengembang.md"
+            },
+            {
+              "part": 1,
+              "chapter": 11,
+              "decimal": "1.11",
+              "slug": "01-11-manajemen-rekayasa",
+              "title": "Manajemen rekayasa",
+              "heading": "1.11 Manajemen rekayasa",
+              "file": "locales/id-001/chapters/01-11-manajemen-rekayasa.md"
+            },
+            {
+              "part": 1,
+              "chapter": 12,
+              "decimal": "1.12",
+              "slug": "01-12-keberagaman-kesetaraan-inklusi-dan-rasa-memiliki",
+              "title": "Keberagaman, kesetaraan, inklusi, dan rasa memiliki",
+              "heading": "1.12 Keberagaman, kesetaraan, inklusi, dan rasa memiliki",
+              "file": "locales/id-001/chapters/01-12-keberagaman-kesetaraan-inklusi-dan-rasa-memiliki.md"
+            },
+            {
+              "part": 1,
+              "chapter": 13,
+              "decimal": "1.13",
+              "slug": "01-13-mentoring-coaching-dan-berbagi-pengetahuan",
+              "title": "Mentoring, coaching, dan berbagi pengetahuan",
+              "heading": "1.13 Mentoring, coaching, dan berbagi pengetahuan",
+              "file": "locales/id-001/chapters/01-13-mentoring-coaching-dan-berbagi-pengetahuan.md"
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "title": "Software Programming",
+          "chapters": [
+            {
+              "part": 2,
+              "chapter": 0,
+              "decimal": "2.0",
+              "slug": "02-00-pemrograman-perangkat-lunak",
+              "title": "Pengantar Bagian 2: Pemrograman Perangkat Lunak",
+              "heading": "2.0 Pengantar Bagian 2: Pemrograman Perangkat Lunak",
+              "file": "locales/id-001/chapters/02-00-pemrograman-perangkat-lunak.md"
+            },
+            {
+              "part": 2,
+              "chapter": 1,
+              "decimal": "2.1",
+              "slug": "02-01-standar-pengodean-dan-gaya",
+              "title": "Standar pengodean dan gaya",
+              "heading": "2.1 Standar pengodean dan gaya",
+              "file": "locales/id-001/chapters/02-01-standar-pengodean-dan-gaya.md"
+            },
+            {
+              "part": 2,
+              "chapter": 2,
+              "decimal": "2.2",
+              "slug": "02-02-prinsip-desain-perangkat-lunak",
+              "title": "Prinsip desain perangkat lunak",
+              "heading": "2.2 Prinsip desain perangkat lunak",
+              "file": "locales/id-001/chapters/02-02-prinsip-desain-perangkat-lunak.md"
+            },
+            {
+              "part": 2,
+              "chapter": 3,
+              "decimal": "2.3",
+              "slug": "02-03-api-dan-desain-antarmuka",
+              "title": "API dan desain antarmuka",
+              "heading": "2.3 API dan desain antarmuka",
+              "file": "locales/id-001/chapters/02-03-api-dan-desain-antarmuka.md"
+            },
+            {
+              "part": 2,
+              "chapter": 4,
+              "decimal": "2.4",
+              "slug": "02-04-strategi-pengujian",
+              "title": "Strategi pengujian",
+              "heading": "2.4 Strategi pengujian",
+              "file": "locales/id-001/chapters/02-04-strategi-pengujian.md"
+            },
+            {
+              "part": 2,
+              "chapter": 5,
+              "decimal": "2.5",
+              "slug": "02-05-tinjauan-kode-dan-kolaborasi",
+              "title": "Tinjauan kode dan kolaborasi",
+              "heading": "2.5 Tinjauan kode dan kolaborasi",
+              "file": "locales/id-001/chapters/02-05-tinjauan-kode-dan-kolaborasi.md"
+            },
+            {
+              "part": 2,
+              "chapter": 6,
+              "decimal": "2.6",
+              "slug": "02-06-kontrol-versi-dan-manajemen-sumber",
+              "title": "Kontrol versi dan manajemen sumber",
+              "heading": "2.6 Kontrol versi dan manajemen sumber",
+              "file": "locales/id-001/chapters/02-06-kontrol-versi-dan-manajemen-sumber.md"
+            },
+            {
+              "part": 2,
+              "chapter": 7,
+              "decimal": "2.7",
+              "slug": "02-07-dokumentasi",
+              "title": "Dokumentasi",
+              "heading": "2.7 Dokumentasi",
+              "file": "locales/id-001/chapters/02-07-dokumentasi.md"
+            },
+            {
+              "part": 2,
+              "chapter": 8,
+              "decimal": "2.8",
+              "slug": "02-08-persyaratan-perangkat-lunak",
+              "title": "Persyaratan perangkat lunak",
+              "heading": "2.8 Persyaratan perangkat lunak",
+              "file": "locales/id-001/chapters/02-08-persyaratan-perangkat-lunak.md"
+            },
+            {
+              "part": 2,
+              "chapter": 9,
+              "decimal": "2.9",
+              "slug": "02-09-konstruksi-perangkat-lunak",
+              "title": "Konstruksi perangkat lunak",
+              "heading": "2.9 Konstruksi perangkat lunak",
+              "file": "locales/id-001/chapters/02-09-konstruksi-perangkat-lunak.md"
+            },
+            {
+              "part": 2,
+              "chapter": 10,
+              "decimal": "2.10",
+              "slug": "02-10-manajemen-konfigurasi-perangkat-lunak",
+              "title": "Manajemen konfigurasi perangkat lunak",
+              "heading": "2.10 Manajemen konfigurasi perangkat lunak",
+              "file": "locales/id-001/chapters/02-10-manajemen-konfigurasi-perangkat-lunak.md"
+            },
+            {
+              "part": 2,
+              "chapter": 11,
+              "decimal": "2.11",
+              "slug": "02-11-kualitas-perangkat-lunak",
+              "title": "Kualitas perangkat lunak",
+              "heading": "2.11 Kualitas perangkat lunak",
+              "file": "locales/id-001/chapters/02-11-kualitas-perangkat-lunak.md"
+            },
+            {
+              "part": 2,
+              "chapter": 12,
+              "decimal": "2.12",
+              "slug": "02-12-model-dan-metode-perangkat-lunak",
+              "title": "Model dan metode perangkat lunak",
+              "heading": "2.12 Model dan metode perangkat lunak",
+              "file": "locales/id-001/chapters/02-12-model-dan-metode-perangkat-lunak.md"
+            },
+            {
+              "part": 2,
+              "chapter": 13,
+              "decimal": "2.13",
+              "slug": "02-13-fondasi-komputasi-matematika-dan-rekayasa",
+              "title": "Fondasi komputasi, matematika, dan rekayasa",
+              "heading": "2.13 Fondasi komputasi, matematika, dan rekayasa",
+              "file": "locales/id-001/chapters/02-13-fondasi-komputasi-matematika-dan-rekayasa.md"
+            },
+            {
+              "part": 2,
+              "chapter": 14,
+              "decimal": "2.14",
+              "slug": "02-14-struktur-proyek-dan-repositori",
+              "title": "Struktur proyek dan repositori",
+              "heading": "2.14 Struktur proyek dan repositori",
+              "file": "locales/id-001/chapters/02-14-struktur-proyek-dan-repositori.md"
+            },
+            {
+              "part": 2,
+              "chapter": 15,
+              "decimal": "2.15",
+              "slug": "02-15-debugging-dan-pemecahan-masalah",
+              "title": "Debugging dan pemecahan masalah",
+              "heading": "2.15 Debugging dan pemecahan masalah",
+              "file": "locales/id-001/chapters/02-15-debugging-dan-pemecahan-masalah.md"
+            },
+            {
+              "part": 2,
+              "chapter": 16,
+              "decimal": "2.16",
+              "slug": "02-16-rekayasa-kinerja",
+              "title": "Rekayasa kinerja",
+              "heading": "2.16 Rekayasa kinerja",
+              "file": "locales/id-001/chapters/02-16-rekayasa-kinerja.md"
+            },
+            {
+              "part": 2,
+              "chapter": 17,
+              "decimal": "2.17",
+              "slug": "02-17-konkurensi-dan-paralelisme",
+              "title": "Konkurensi dan paralelisme",
+              "heading": "2.17 Konkurensi dan paralelisme",
+              "file": "locales/id-001/chapters/02-17-konkurensi-dan-paralelisme.md"
+            },
+            {
+              "part": 2,
+              "chapter": 18,
+              "decimal": "2.18",
+              "slug": "02-18-manajemen-dependensi-dan-rantai-pasok",
+              "title": "Manajemen dependensi dan rantai pasok",
+              "heading": "2.18 Manajemen dependensi dan rantai pasok",
+              "file": "locales/id-001/chapters/02-18-manajemen-dependensi-dan-rantai-pasok.md"
+            },
+            {
+              "part": 2,
+              "chapter": 19,
+              "decimal": "2.19",
+              "slug": "02-19-refaktoring-dan-utang-teknis",
+              "title": "Refaktoring dan utang teknis",
+              "heading": "2.19 Refaktoring dan utang teknis",
+              "file": "locales/id-001/chapters/02-19-refaktoring-dan-utang-teknis.md"
+            },
+            {
+              "part": 2,
+              "chapter": 20,
+              "decimal": "2.20",
+              "slug": "02-20-penanganan-galat-dan-pola-ketahanan",
+              "title": "Penanganan galat dan pola ketahanan",
+              "heading": "2.20 Penanganan galat dan pola ketahanan",
+              "file": "locales/id-001/chapters/02-20-penanganan-galat-dan-pola-ketahanan.md"
+            },
+            {
+              "part": 2,
+              "chapter": 21,
+              "decimal": "2.21",
+              "slug": "02-21-sistem-tipe-dan-analisis-statis",
+              "title": "Sistem tipe dan analisis statis",
+              "heading": "2.21 Sistem tipe dan analisis statis",
+              "file": "locales/id-001/chapters/02-21-sistem-tipe-dan-analisis-statis.md"
+            }
+          ]
+        },
+        {
+          "number": 3,
+          "title": "Systems",
+          "chapters": [
+            {
+              "part": 3,
+              "chapter": 0,
+              "decimal": "3.0",
+              "slug": "03-00-sistem",
+              "title": "Pengantar Bagian 3: Sistem",
+              "heading": "3.0 Pengantar Bagian 3: Sistem",
+              "file": "locales/id-001/chapters/03-00-sistem.md"
+            },
+            {
+              "part": 3,
+              "chapter": 1,
+              "decimal": "3.1",
+              "slug": "03-01-dasar-dasar-arsitektur",
+              "title": "Dasar-dasar arsitektur",
+              "heading": "3.1 Dasar-dasar arsitektur",
+              "file": "locales/id-001/chapters/03-01-dasar-dasar-arsitektur.md"
+            },
+            {
+              "part": 3,
+              "chapter": 2,
+              "decimal": "3.2",
+              "slug": "03-02-gaya-dan-pola-arsitektural",
+              "title": "Gaya dan pola arsitektural",
+              "heading": "3.2 Gaya dan pola arsitektural",
+              "file": "locales/id-001/chapters/03-02-gaya-dan-pola-arsitektural.md"
+            },
+            {
+              "part": 3,
+              "chapter": 3,
+              "decimal": "3.3",
+              "slug": "03-03-sistem-terdistribusi",
+              "title": "Sistem terdistribusi",
+              "heading": "3.3 Sistem terdistribusi",
+              "file": "locales/id-001/chapters/03-03-sistem-terdistribusi.md"
+            },
+            {
+              "part": 3,
+              "chapter": 4,
+              "decimal": "3.4",
+              "slug": "03-04-arsitektur-data-dan-penyimpanan",
+              "title": "Arsitektur data dan penyimpanan",
+              "heading": "3.4 Arsitektur data dan penyimpanan",
+              "file": "locales/id-001/chapters/03-04-arsitektur-data-dan-penyimpanan.md"
+            },
+            {
+              "part": 3,
+              "chapter": 5,
+              "decimal": "3.5",
+              "slug": "03-05-skalabilitas-kinerja-dan-ketahanan",
+              "title": "Skalabilitas, kinerja, dan ketahanan",
+              "heading": "3.5 Skalabilitas, kinerja, dan ketahanan",
+              "file": "locales/id-001/chapters/03-05-skalabilitas-kinerja-dan-ketahanan.md"
+            },
+            {
+              "part": 3,
+              "chapter": 6,
+              "decimal": "3.6",
+              "slug": "03-06-modernisasi-sistem-warisan",
+              "title": "Modernisasi sistem warisan",
+              "heading": "3.6 Modernisasi sistem warisan",
+              "file": "locales/id-001/chapters/03-06-modernisasi-sistem-warisan.md"
+            },
+            {
+              "part": 3,
+              "chapter": 7,
+              "decimal": "3.7",
+              "slug": "03-07-pemeliharaan-perangkat-lunak",
+              "title": "Pemeliharaan perangkat lunak",
+              "heading": "3.7 Pemeliharaan perangkat lunak",
+              "file": "locales/id-001/chapters/03-07-pemeliharaan-perangkat-lunak.md"
+            },
+            {
+              "part": 3,
+              "chapter": 8,
+              "decimal": "3.8",
+              "slug": "03-08-interoperabilitas-dan-standar-terbuka",
+              "title": "Interoperabilitas dan standar terbuka",
+              "heading": "3.8 Interoperabilitas dan standar terbuka",
+              "file": "locales/id-001/chapters/03-08-interoperabilitas-dan-standar-terbuka.md"
+            },
+            {
+              "part": 3,
+              "chapter": 9,
+              "decimal": "3.9",
+              "slug": "03-09-rekayasa-sistem",
+              "title": "Rekayasa sistem",
+              "heading": "3.9 Rekayasa sistem",
+              "file": "locales/id-001/chapters/03-09-rekayasa-sistem.md"
+            },
+            {
+              "part": 3,
+              "chapter": 10,
+              "decimal": "3.10",
+              "slug": "03-10-sistem-tertanam-dan-waktu-nyata",
+              "title": "Sistem tertanam dan waktu nyata",
+              "heading": "3.10 Sistem tertanam dan waktu nyata",
+              "file": "locales/id-001/chapters/03-10-sistem-tertanam-dan-waktu-nyata.md"
+            },
+            {
+              "part": 3,
+              "chapter": 11,
+              "decimal": "3.11",
+              "slug": "03-11-arsitektur-cloud",
+              "title": "Arsitektur cloud",
+              "heading": "3.11 Arsitektur cloud",
+              "file": "locales/id-001/chapters/03-11-arsitektur-cloud.md"
+            },
+            {
+              "part": 3,
+              "chapter": 12,
+              "decimal": "3.12",
+              "slug": "03-12-arsitektur-berbasis-peristiwa-dan-pesan",
+              "title": "Arsitektur berbasis peristiwa dan pesan",
+              "heading": "3.12 Arsitektur berbasis peristiwa dan pesan",
+              "file": "locales/id-001/chapters/03-12-arsitektur-berbasis-peristiwa-dan-pesan.md"
+            },
+            {
+              "part": 3,
+              "chapter": 13,
+              "decimal": "3.13",
+              "slug": "03-13-jaringan-dan-konektivitas",
+              "title": "Jaringan dan konektivitas",
+              "heading": "3.13 Jaringan dan konektivitas",
+              "file": "locales/id-001/chapters/03-13-jaringan-dan-konektivitas.md"
+            },
+            {
+              "part": 3,
+              "chapter": 14,
+              "decimal": "3.14",
+              "slug": "03-14-arsitektur-multitenansi-dan-saas",
+              "title": "Arsitektur multitenansi dan SaaS",
+              "heading": "3.14 Arsitektur multitenansi dan SaaS",
+              "file": "locales/id-001/chapters/03-14-arsitektur-multitenansi-dan-saas.md"
+            },
+            {
+              "part": 3,
+              "chapter": 15,
+              "decimal": "3.15",
+              "slug": "03-15-caching-dan-pengiriman-konten",
+              "title": "Caching dan pengiriman konten",
+              "heading": "3.15 Caching dan pengiriman konten",
+              "file": "locales/id-001/chapters/03-15-caching-dan-pengiriman-konten.md"
+            },
+            {
+              "part": 3,
+              "chapter": 16,
+              "decimal": "3.16",
+              "slug": "03-16-api-gateway-dan-service-mesh",
+              "title": "API gateway dan service mesh",
+              "heading": "3.16 API gateway dan service mesh",
+              "file": "locales/id-001/chapters/03-16-api-gateway-dan-service-mesh.md"
+            },
+            {
+              "part": 3,
+              "chapter": 17,
+              "decimal": "3.17",
+              "slug": "03-17-pencarian-dan-temu-balik-informasi",
+              "title": "Pencarian dan temu balik informasi",
+              "heading": "3.17 Pencarian dan temu balik informasi",
+              "file": "locales/id-001/chapters/03-17-pencarian-dan-temu-balik-informasi.md"
+            }
+          ]
+        },
+        {
+          "number": 4,
+          "title": "Security",
+          "chapters": [
+            {
+              "part": 4,
+              "chapter": 0,
+              "decimal": "4.0",
+              "slug": "04-00-keamanan",
+              "title": "Pengantar Bagian 4: Keamanan",
+              "heading": "4.0 Pengantar Bagian 4: Keamanan",
+              "file": "locales/id-001/chapters/04-00-keamanan.md"
+            },
+            {
+              "part": 4,
+              "chapter": 1,
+              "decimal": "4.1",
+              "slug": "04-01-fondasi-dan-budaya-keamanan",
+              "title": "Fondasi dan budaya keamanan",
+              "heading": "4.1 Fondasi dan budaya keamanan",
+              "file": "locales/id-001/chapters/04-01-fondasi-dan-budaya-keamanan.md"
+            },
+            {
+              "part": 4,
+              "chapter": 2,
+              "decimal": "4.2",
+              "slug": "04-02-keamanan-aplikasi",
+              "title": "Keamanan aplikasi",
+              "heading": "4.2 Keamanan aplikasi",
+              "file": "locales/id-001/chapters/04-02-keamanan-aplikasi.md"
+            },
+            {
+              "part": 4,
+              "chapter": 3,
+              "decimal": "4.3",
+              "slug": "04-03-keamanan-infrastruktur-dan-cloud",
+              "title": "Keamanan infrastruktur dan cloud",
+              "heading": "4.3 Keamanan infrastruktur dan cloud",
+              "file": "locales/id-001/chapters/04-03-keamanan-infrastruktur-dan-cloud.md"
+            },
+            {
+              "part": 4,
+              "chapter": 4,
+              "decimal": "4.4",
+              "slug": "04-04-operasi-keamanan",
+              "title": "Operasi keamanan",
+              "heading": "4.4 Operasi keamanan",
+              "file": "locales/id-001/chapters/04-04-operasi-keamanan.md"
+            },
+            {
+              "part": 4,
+              "chapter": 5,
+              "decimal": "4.5",
+              "slug": "04-05-privasi-dan-pelindungan-data",
+              "title": "Privasi dan pelindungan data",
+              "heading": "4.5 Privasi dan pelindungan data",
+              "file": "locales/id-001/chapters/04-05-privasi-dan-pelindungan-data.md"
+            },
+            {
+              "part": 4,
+              "chapter": 6,
+              "decimal": "4.6",
+              "slug": "04-06-kepatuhan-dan-tata-kelola",
+              "title": "Kepatuhan dan tata kelola",
+              "heading": "4.6 Kepatuhan dan tata kelola",
+              "file": "locales/id-001/chapters/04-06-kepatuhan-dan-tata-kelola.md"
+            },
+            {
+              "part": 4,
+              "chapter": 7,
+              "decimal": "4.7",
+              "slug": "04-07-manajemen-identitas-dan-akses",
+              "title": "Manajemen identitas dan akses",
+              "heading": "4.7 Manajemen identitas dan akses",
+              "file": "locales/id-001/chapters/04-07-manajemen-identitas-dan-akses.md"
+            },
+            {
+              "part": 4,
+              "chapter": 8,
+              "decimal": "4.8",
+              "slug": "04-08-kriptografi-dan-manajemen-kunci",
+              "title": "Kriptografi dan manajemen kunci",
+              "heading": "4.8 Kriptografi dan manajemen kunci",
+              "file": "locales/id-001/chapters/04-08-kriptografi-dan-manajemen-kunci.md"
+            },
+            {
+              "part": 4,
+              "chapter": 9,
+              "decimal": "4.9",
+              "slug": "04-09-siklus-hidup-pengembangan-perangkat-lunak-aman",
+              "title": "Siklus hidup pengembangan perangkat lunak aman",
+              "heading": "4.9 Siklus hidup pengembangan perangkat lunak aman",
+              "file": "locales/id-001/chapters/04-09-siklus-hidup-pengembangan-perangkat-lunak-aman.md"
+            },
+            {
+              "part": 4,
+              "chapter": 10,
+              "decimal": "4.10",
+              "slug": "04-10-uji-penetrasi-dan-red-teaming",
+              "title": "Uji penetrasi dan red teaming",
+              "heading": "4.10 Uji penetrasi dan red teaming",
+              "file": "locales/id-001/chapters/04-10-uji-penetrasi-dan-red-teaming.md"
+            }
+          ]
+        },
+        {
+          "number": 5,
+          "title": "UI/UX Design",
+          "chapters": [
+            {
+              "part": 5,
+              "chapter": 0,
+              "decimal": "5.0",
+              "slug": "05-00-desain-ui-ux",
+              "title": "Pengantar Bagian 5: Desain UI/UX",
+              "heading": "5.0 Pengantar Bagian 5: Desain UI/UX",
+              "file": "locales/id-001/chapters/05-00-desain-ui-ux.md"
+            },
+            {
+              "part": 5,
+              "chapter": 1,
+              "decimal": "5.1",
+              "slug": "05-01-fondasi-ux",
+              "title": "Fondasi UX",
+              "heading": "5.1 Fondasi UX",
+              "file": "locales/id-001/chapters/05-01-fondasi-ux.md"
+            },
+            {
+              "part": 5,
+              "chapter": 2,
+              "decimal": "5.2",
+              "slug": "05-02-desain-ui-dan-sistem-desain",
+              "title": "Desain UI dan sistem desain",
+              "heading": "5.2 Desain UI dan sistem desain",
+              "file": "locales/id-001/chapters/05-02-desain-ui-dan-sistem-desain.md"
+            },
+            {
+              "part": 5,
+              "chapter": 3,
+              "decimal": "5.3",
+              "slug": "05-03-aksesibilitas",
+              "title": "Aksesibilitas",
+              "heading": "5.3 Aksesibilitas",
+              "file": "locales/id-001/chapters/05-03-aksesibilitas.md"
+            },
+            {
+              "part": 5,
+              "chapter": 4,
+              "decimal": "5.4",
+              "slug": "05-04-desain-konten-dan-komunikasi",
+              "title": "Desain konten dan komunikasi",
+              "heading": "5.4 Desain konten dan komunikasi",
+              "file": "locales/id-001/chapters/05-04-desain-konten-dan-komunikasi.md"
+            },
+            {
+              "part": 5,
+              "chapter": 5,
+              "decimal": "5.5",
+              "slug": "05-05-internasionalisasi-dan-lokalisasi",
+              "title": "Internasionalisasi dan lokalisasi",
+              "heading": "5.5 Internasionalisasi dan lokalisasi",
+              "file": "locales/id-001/chapters/05-05-internasionalisasi-dan-lokalisasi.md"
+            },
+            {
+              "part": 5,
+              "chapter": 6,
+              "decimal": "5.6",
+              "slug": "05-06-rekayasa-frontend",
+              "title": "Rekayasa frontend",
+              "heading": "5.6 Rekayasa frontend",
+              "file": "locales/id-001/chapters/05-06-rekayasa-frontend.md"
+            },
+            {
+              "part": 5,
+              "chapter": 7,
+              "decimal": "5.7",
+              "slug": "05-07-pengembangan-aplikasi-seluler",
+              "title": "Pengembangan aplikasi seluler",
+              "heading": "5.7 Pengembangan aplikasi seluler",
+              "file": "locales/id-001/chapters/05-07-pengembangan-aplikasi-seluler.md"
+            },
+            {
+              "part": 5,
+              "chapter": 8,
+              "decimal": "5.8",
+              "slug": "05-08-riset-desain-dan-uji-kegunaan",
+              "title": "Riset desain dan uji kegunaan",
+              "heading": "5.8 Riset desain dan uji kegunaan",
+              "file": "locales/id-001/chapters/05-08-riset-desain-dan-uji-kegunaan.md"
+            },
+            {
+              "part": 5,
+              "chapter": 9,
+              "decimal": "5.9",
+              "slug": "05-09-desain-layanan",
+              "title": "Desain layanan",
+              "heading": "5.9 Desain layanan",
+              "file": "locales/id-001/chapters/05-09-desain-layanan.md"
+            },
+            {
+              "part": 5,
+              "chapter": 10,
+              "decimal": "5.10",
+              "slug": "05-10-desain-visualisasi-data",
+              "title": "Desain visualisasi data",
+              "heading": "5.10 Desain visualisasi data",
+              "file": "locales/id-001/chapters/05-10-desain-visualisasi-data.md"
+            }
+          ]
+        },
+        {
+          "number": 6,
+          "title": "Artificial Intelligence",
+          "chapters": [
+            {
+              "part": 6,
+              "chapter": 0,
+              "decimal": "6.0",
+              "slug": "06-00-kecerdasan-buatan",
+              "title": "Pengantar Bagian 6: Kecerdasan buatan",
+              "heading": "6.0 Pengantar Bagian 6: Kecerdasan buatan",
+              "file": "locales/id-001/chapters/06-00-kecerdasan-buatan.md"
+            },
+            {
+              "part": 6,
+              "chapter": 1,
+              "decimal": "6.1",
+              "slug": "06-01-strategi-dan-kesiapan-ai",
+              "title": "Strategi dan kesiapan AI",
+              "heading": "6.1 Strategi dan kesiapan AI",
+              "file": "locales/id-001/chapters/06-01-strategi-dan-kesiapan-ai.md"
+            },
+            {
+              "part": 6,
+              "chapter": 2,
+              "decimal": "6.2",
+              "slug": "06-02-mlops",
+              "title": "Rekayasa pembelajaran mesin (MLOps)",
+              "heading": "6.2 Rekayasa pembelajaran mesin (MLOps)",
+              "file": "locales/id-001/chapters/06-02-mlops.md"
+            },
+            {
+              "part": 6,
+              "chapter": 3,
+              "decimal": "6.3",
+              "slug": "06-03-ai-generatif-dan-aplikasi-llm",
+              "title": "AI generatif dan aplikasi LLM",
+              "heading": "6.3 AI generatif dan aplikasi LLM",
+              "file": "locales/id-001/chapters/06-03-ai-generatif-dan-aplikasi-llm.md"
+            },
+            {
+              "part": 6,
+              "chapter": 4,
+              "decimal": "6.4",
+              "slug": "06-04-pengembangan-perangkat-lunak-berbantuan-ai",
+              "title": "Pengembangan perangkat lunak berbantuan AI",
+              "heading": "6.4 Pengembangan perangkat lunak berbantuan AI",
+              "file": "locales/id-001/chapters/06-04-pengembangan-perangkat-lunak-berbantuan-ai.md"
+            },
+            {
+              "part": 6,
+              "chapter": 5,
+              "decimal": "6.5",
+              "slug": "06-05-ai-yang-bertanggung-jawab-dan-tepercaya",
+              "title": "AI yang bertanggung jawab dan tepercaya",
+              "heading": "6.5 AI yang bertanggung jawab dan tepercaya",
+              "file": "locales/id-001/chapters/06-05-ai-yang-bertanggung-jawab-dan-tepercaya.md"
+            },
+            {
+              "part": 6,
+              "chapter": 6,
+              "decimal": "6.6",
+              "slug": "06-06-infrastruktur-dan-operasi-ai",
+              "title": "Infrastruktur dan operasi AI",
+              "heading": "6.6 Infrastruktur dan operasi AI",
+              "file": "locales/id-001/chapters/06-06-infrastruktur-dan-operasi-ai.md"
+            },
+            {
+              "part": 6,
+              "chapter": 7,
+              "decimal": "6.7",
+              "slug": "06-07-agen-ai-dan-sistem-agentik",
+              "title": "Agen AI dan sistem agentik",
+              "heading": "6.7 Agen AI dan sistem agentik",
+              "file": "locales/id-001/chapters/06-07-agen-ai-dan-sistem-agentik.md"
+            },
+            {
+              "part": 6,
+              "chapter": 8,
+              "decimal": "6.8",
+              "slug": "06-08-evaluasi-dan-pengujian-ai",
+              "title": "Evaluasi dan pengujian AI",
+              "heading": "6.8 Evaluasi dan pengujian AI",
+              "file": "locales/id-001/chapters/06-08-evaluasi-dan-pengujian-ai.md"
+            },
+            {
+              "part": 6,
+              "chapter": 9,
+              "decimal": "6.9",
+              "slug": "06-09-rekayasa-prompt-dan-desain-konteks",
+              "title": "Rekayasa prompt dan desain konteks",
+              "heading": "6.9 Rekayasa prompt dan desain konteks",
+              "file": "locales/id-001/chapters/06-09-rekayasa-prompt-dan-desain-konteks.md"
+            }
+          ]
+        },
+        {
+          "number": 7,
+          "title": "Data, Analytics, and Insight",
+          "chapters": [
+            {
+              "part": 7,
+              "chapter": 0,
+              "decimal": "7.0",
+              "slug": "07-00-data-dan-analitik",
+              "title": "Pengantar Bagian 7: Data, analitik, dan wawasan",
+              "heading": "7.0 Pengantar Bagian 7: Data, analitik, dan wawasan",
+              "file": "locales/id-001/chapters/07-00-data-dan-analitik.md"
+            },
+            {
+              "part": 7,
+              "chapter": 1,
+              "decimal": "7.1",
+              "slug": "07-01-strategi-dan-tata-kelola-data",
+              "title": "Strategi dan tata kelola data",
+              "heading": "7.1 Strategi dan tata kelola data",
+              "file": "locales/id-001/chapters/07-01-strategi-dan-tata-kelola-data.md"
+            },
+            {
+              "part": 7,
+              "chapter": 2,
+              "decimal": "7.2",
+              "slug": "07-02-rekayasa-data",
+              "title": "Rekayasa data",
+              "heading": "7.2 Rekayasa data",
+              "file": "locales/id-001/chapters/07-02-rekayasa-data.md"
+            },
+            {
+              "part": 7,
+              "chapter": 3,
+              "decimal": "7.3",
+              "slug": "07-03-analitik-dan-business-intelligence",
+              "title": "Analitik dan business intelligence",
+              "heading": "7.3 Analitik dan business intelligence",
+              "file": "locales/id-001/chapters/07-03-analitik-dan-business-intelligence.md"
+            },
+            {
+              "part": 7,
+              "chapter": 4,
+              "decimal": "7.4",
+              "slug": "07-04-analitik-produk-dan-eksperimen",
+              "title": "Analitik produk dan eksperimen",
+              "heading": "7.4 Analitik produk dan eksperimen",
+              "file": "locales/id-001/chapters/07-04-analitik-produk-dan-eksperimen.md"
+            },
+            {
+              "part": 7,
+              "chapter": 5,
+              "decimal": "7.5",
+              "slug": "07-05-ilmu-keputusan-dan-budaya-data",
+              "title": "Ilmu keputusan dan budaya berbasis data",
+              "heading": "7.5 Ilmu keputusan dan budaya berbasis data",
+              "file": "locales/id-001/chapters/07-05-ilmu-keputusan-dan-budaya-data.md"
+            },
+            {
+              "part": 7,
+              "chapter": 6,
+              "decimal": "7.6",
+              "slug": "07-06-data-real-time-dan-streaming",
+              "title": "Data real-time dan streaming",
+              "heading": "7.6 Data real-time dan streaming",
+              "file": "locales/id-001/chapters/07-06-data-real-time-dan-streaming.md"
+            },
+            {
+              "part": 7,
+              "chapter": 7,
+              "decimal": "7.7",
+              "slug": "07-07-pemodelan-data-dan-lapisan-semantik",
+              "title": "Pemodelan data dan lapisan semantik",
+              "heading": "7.7 Pemodelan data dan lapisan semantik",
+              "file": "locales/id-001/chapters/07-07-pemodelan-data-dan-lapisan-semantik.md"
+            },
+            {
+              "part": 7,
+              "chapter": 8,
+              "decimal": "7.8",
+              "slug": "07-08-kualitas-dan-observabilitas-data",
+              "title": "Kualitas dan observabilitas data",
+              "heading": "7.8 Kualitas dan observabilitas data",
+              "file": "locales/id-001/chapters/07-08-kualitas-dan-observabilitas-data.md"
+            },
+            {
+              "part": 7,
+              "chapter": 9,
+              "decimal": "7.9",
+              "slug": "07-09-manajemen-data-induk-dan-data-referensi",
+              "title": "Manajemen data induk dan data referensi",
+              "heading": "7.9 Manajemen data induk dan data referensi",
+              "file": "locales/id-001/chapters/07-09-manajemen-data-induk-dan-data-referensi.md"
+            }
+          ]
+        },
+        {
+          "number": 8,
+          "title": "Automation",
+          "chapters": [
+            {
+              "part": 8,
+              "chapter": 0,
+              "decimal": "8.0",
+              "slug": "08-00-otomasi",
+              "title": "Pengantar Bagian 8: Otomasi",
+              "heading": "8.0 Pengantar Bagian 8: Otomasi",
+              "file": "locales/id-001/chapters/08-00-otomasi.md"
+            },
+            {
+              "part": 8,
+              "chapter": 1,
+              "decimal": "8.1",
+              "slug": "08-01-ci-cd-dan-pengiriman",
+              "title": "CI/CD dan pengiriman",
+              "heading": "8.1 CI/CD dan pengiriman",
+              "file": "locales/id-001/chapters/08-01-ci-cd-dan-pengiriman.md"
+            },
+            {
+              "part": 8,
+              "chapter": 2,
+              "decimal": "8.2",
+              "slug": "08-02-infrastructure-as-code-dan-konfigurasi",
+              "title": "Infrastructure as code dan konfigurasi",
+              "heading": "8.2 Infrastructure as code dan konfigurasi",
+              "file": "locales/id-001/chapters/08-02-infrastructure-as-code-dan-konfigurasi.md"
+            },
+            {
+              "part": 8,
+              "chapter": 3,
+              "decimal": "8.3",
+              "slug": "08-03-kontainer-orkestrasi-cloud-native",
+              "title": "Kontainer, orkestrasi, dan cloud-native",
+              "heading": "8.3 Kontainer, orkestrasi, dan cloud-native",
+              "file": "locales/id-001/chapters/08-03-kontainer-orkestrasi-cloud-native.md"
+            },
+            {
+              "part": 8,
+              "chapter": 4,
+              "decimal": "8.4",
+              "slug": "08-04-rekayasa-platform-dan-devex",
+              "title": "Rekayasa platform dan pengalaman pengembang",
+              "heading": "8.4 Rekayasa platform dan pengalaman pengembang",
+              "file": "locales/id-001/chapters/08-04-rekayasa-platform-dan-devex.md"
+            },
+            {
+              "part": 8,
+              "chapter": 5,
+              "decimal": "8.5",
+              "slug": "08-05-otomasi-pengujian-dan-proses",
+              "title": "Otomasi pengujian dan proses",
+              "heading": "8.5 Otomasi pengujian dan proses",
+              "file": "locales/id-001/chapters/08-05-otomasi-pengujian-dan-proses.md"
+            },
+            {
+              "part": 8,
+              "chapter": 6,
+              "decimal": "8.6",
+              "slug": "08-06-manajemen-rilis-dan-pengiriman-progresif",
+              "title": "Manajemen rilis dan pengiriman progresif",
+              "heading": "8.6 Manajemen rilis dan pengiriman progresif",
+              "file": "locales/id-001/chapters/08-06-manajemen-rilis-dan-pengiriman-progresif.md"
+            },
+            {
+              "part": 8,
+              "chapter": 7,
+              "decimal": "8.7",
+              "slug": "08-07-sistem-build-dan-manajemen-artefak",
+              "title": "Sistem build dan manajemen artefak",
+              "heading": "8.7 Sistem build dan manajemen artefak",
+              "file": "locales/id-001/chapters/08-07-sistem-build-dan-manajemen-artefak.md"
+            }
+          ]
+        },
+        {
+          "number": 9,
+          "title": "Operations, Reliability, and Observability",
+          "chapters": [
+            {
+              "part": 9,
+              "chapter": 0,
+              "decimal": "9.0",
+              "slug": "09-00-operasi-dan-keandalan",
+              "title": "Pengantar Bagian 9: Operasi, keandalan, dan observabilitas",
+              "heading": "9.0 Pengantar Bagian 9: Operasi, keandalan, dan observabilitas",
+              "file": "locales/id-001/chapters/09-00-operasi-dan-keandalan.md"
+            },
+            {
+              "part": 9,
+              "chapter": 1,
+              "decimal": "9.1",
+              "slug": "09-01-site-reliability-engineering",
+              "title": "Site reliability engineering",
+              "heading": "9.1 Site reliability engineering",
+              "file": "locales/id-001/chapters/09-01-site-reliability-engineering.md"
+            },
+            {
+              "part": 9,
+              "chapter": 2,
+              "decimal": "9.2",
+              "slug": "09-02-observabilitas-dan-telemetri",
+              "title": "Observabilitas dan telemetri",
+              "heading": "9.2 Observabilitas dan telemetri",
+              "file": "locales/id-001/chapters/09-02-observabilitas-dan-telemetri.md"
+            },
+            {
+              "part": 9,
+              "chapter": 3,
+              "decimal": "9.3",
+              "slug": "09-03-manajemen-insiden",
+              "title": "Manajemen insiden",
+              "heading": "9.3 Manajemen insiden",
+              "file": "locales/id-001/chapters/09-03-manajemen-insiden.md"
+            },
+            {
+              "part": 9,
+              "chapter": 4,
+              "decimal": "9.4",
+              "slug": "09-04-biaya-keberlanjutan-perangkat-lunak-hijau",
+              "title": "Biaya, keberlanjutan, dan perangkat lunak hijau",
+              "heading": "9.4 Biaya, keberlanjutan, dan perangkat lunak hijau",
+              "file": "locales/id-001/chapters/09-04-biaya-keberlanjutan-perangkat-lunak-hijau.md"
+            },
+            {
+              "part": 9,
+              "chapter": 5,
+              "decimal": "9.5",
+              "slug": "09-05-pemulihan-bencana-dan-kesinambungan-bisnis",
+              "title": "Pemulihan bencana dan kesinambungan bisnis",
+              "heading": "9.5 Pemulihan bencana dan kesinambungan bisnis",
+              "file": "locales/id-001/chapters/09-05-pemulihan-bencana-dan-kesinambungan-bisnis.md"
+            },
+            {
+              "part": 9,
+              "chapter": 6,
+              "decimal": "9.6",
+              "slug": "09-06-rekayasa-chaos-dan-pengujian-ketahanan",
+              "title": "Rekayasa chaos dan pengujian ketahanan",
+              "heading": "9.6 Rekayasa chaos dan pengujian ketahanan",
+              "file": "locales/id-001/chapters/09-06-rekayasa-chaos-dan-pengujian-ketahanan.md"
+            },
+            {
+              "part": 9,
+              "chapter": 7,
+              "decimal": "9.7",
+              "slug": "09-07-perencanaan-kapasitas-dan-peramalan-permintaan",
+              "title": "Perencanaan kapasitas dan peramalan permintaan",
+              "heading": "9.7 Perencanaan kapasitas dan peramalan permintaan",
+              "file": "locales/id-001/chapters/09-07-perencanaan-kapasitas-dan-peramalan-permintaan.md"
+            },
+            {
+              "part": 9,
+              "chapter": 8,
+              "decimal": "9.8",
+              "slug": "09-08-on-call-dan-kesiapan-operasional",
+              "title": "On-call dan kesiapan operasional",
+              "heading": "9.8 On-call dan kesiapan operasional",
+              "file": "locales/id-001/chapters/09-08-on-call-dan-kesiapan-operasional.md"
+            }
+          ]
+        },
+        {
+          "number": 10,
+          "title": "Project/Product/Programme Management",
+          "chapters": [
+            {
+              "part": 10,
+              "chapter": 0,
+              "decimal": "10.0",
+              "slug": "10-00-manajemen-proyek-produk-dan-program",
+              "title": "Pengantar Bagian 10: Manajemen proyek, produk, dan program",
+              "heading": "10.0 Pengantar Bagian 10: Manajemen proyek, produk, dan program",
+              "file": "locales/id-001/chapters/10-00-manajemen-proyek-produk-dan-program.md"
+            },
+            {
+              "part": 10,
+              "chapter": 1,
+              "decimal": "10.1",
+              "slug": "10-01-manajemen-portofolio-dan-program",
+              "title": "Manajemen portofolio dan program",
+              "heading": "10.1 Manajemen portofolio dan program",
+              "file": "locales/id-001/chapters/10-01-manajemen-portofolio-dan-program.md"
+            },
+            {
+              "part": 10,
+              "chapter": 2,
+              "decimal": "10.2",
+              "slug": "10-02-risiko-audit-dan-jaminan",
+              "title": "Risiko, audit, dan jaminan",
+              "heading": "10.2 Risiko, audit, dan jaminan",
+              "file": "locales/id-001/chapters/10-02-risiko-audit-dan-jaminan.md"
+            },
+            {
+              "part": 10,
+              "chapter": 3,
+              "decimal": "10.3",
+              "slug": "10-03-pengadaan-sumber-terbuka-dan-lisensi",
+              "title": "Pengadaan, sumber terbuka, dan lisensi",
+              "heading": "10.3 Pengadaan, sumber terbuka, dan lisensi",
+              "file": "locales/id-001/chapters/10-03-pengadaan-sumber-terbuka-dan-lisensi.md"
+            },
+            {
+              "part": 10,
+              "chapter": 4,
+              "decimal": "10.4",
+              "slug": "10-04-merawat-sistem-besar-dan-berumur-panjang",
+              "title": "Merawat sistem besar dan berumur panjang",
+              "heading": "10.4 Merawat sistem besar dan berumur panjang",
+              "file": "locales/id-001/chapters/10-04-merawat-sistem-besar-dan-berumur-panjang.md"
+            },
+            {
+              "part": 10,
+              "chapter": 5,
+              "decimal": "10.5",
+              "slug": "10-05-etika-akuntabilitas-kepentingan-publik",
+              "title": "Etika, akuntabilitas, dan kepentingan publik",
+              "heading": "10.5 Etika, akuntabilitas, dan kepentingan publik",
+              "file": "locales/id-001/chapters/10-05-etika-akuntabilitas-kepentingan-publik.md"
+            },
+            {
+              "part": 10,
+              "chapter": 6,
+              "decimal": "10.6",
+              "slug": "10-06-manajemen-proyek",
+              "title": "Manajemen proyek",
+              "heading": "10.6 Manajemen proyek",
+              "file": "locales/id-001/chapters/10-06-manajemen-proyek.md"
+            },
+            {
+              "part": 10,
+              "chapter": 7,
+              "decimal": "10.7",
+              "slug": "10-07-agile",
+              "title": "Agile",
+              "heading": "10.7 Agile",
+              "file": "locales/id-001/chapters/10-07-agile.md"
+            },
+            {
+              "part": 10,
+              "chapter": 8,
+              "decimal": "10.8",
+              "slug": "10-08-model-kematangan",
+              "title": "Model kematangan",
+              "heading": "10.8 Model kematangan",
+              "file": "locales/id-001/chapters/10-08-model-kematangan.md"
+            },
+            {
+              "part": 10,
+              "chapter": 9,
+              "decimal": "10.9",
+              "slug": "10-09-kemitraan-inovasi",
+              "title": "Kemitraan inovasi",
+              "heading": "10.9 Kemitraan inovasi",
+              "file": "locales/id-001/chapters/10-09-kemitraan-inovasi.md"
+            },
+            {
+              "part": 10,
+              "chapter": 10,
+              "decimal": "10.10",
+              "slug": "10-10-ekonomi-rekayasa-perangkat-lunak",
+              "title": "Ekonomi rekayasa perangkat lunak",
+              "heading": "10.10 Ekonomi rekayasa perangkat lunak",
+              "file": "locales/id-001/chapters/10-10-ekonomi-rekayasa-perangkat-lunak.md"
+            },
+            {
+              "part": 10,
+              "chapter": 11,
+              "decimal": "10.11",
+              "slug": "10-11-kedaulatan-digital",
+              "title": "Kedaulatan digital",
+              "heading": "10.11 Kedaulatan digital",
+              "file": "locales/id-001/chapters/10-11-kedaulatan-digital.md"
+            },
+            {
+              "part": 10,
+              "chapter": 12,
+              "decimal": "10.12",
+              "slug": "10-12-sumber-terbuka-vs-sumber-tertutup",
+              "title": "Sumber terbuka vs sumber tertutup",
+              "heading": "10.12 Sumber terbuka vs sumber tertutup",
+              "file": "locales/id-001/chapters/10-12-sumber-terbuka-vs-sumber-tertutup.md"
+            },
+            {
+              "part": 10,
+              "chapter": 13,
+              "decimal": "10.13",
+              "slug": "10-13-kolaborasi-antarorganisasi",
+              "title": "Kolaborasi antarorganisasi",
+              "heading": "10.13 Kolaborasi antarorganisasi",
+              "file": "locales/id-001/chapters/10-13-kolaborasi-antarorganisasi.md"
+            },
+            {
+              "part": 10,
+              "chapter": 14,
+              "decimal": "10.14",
+              "slug": "10-14-manajemen-produk-dan-penemuan",
+              "title": "Manajemen produk dan penemuan",
+              "heading": "10.14 Manajemen produk dan penemuan",
+              "file": "locales/id-001/chapters/10-14-manajemen-produk-dan-penemuan.md"
+            },
+            {
+              "part": 10,
+              "chapter": 15,
+              "decimal": "10.15",
+              "slug": "10-15-estimasi-dan-peramalan",
+              "title": "Estimasi dan peramalan",
+              "heading": "10.15 Estimasi dan peramalan",
+              "file": "locales/id-001/chapters/10-15-estimasi-dan-peramalan.md"
+            },
+            {
+              "part": 10,
+              "chapter": 16,
+              "decimal": "10.16",
+              "slug": "10-16-manajemen-pemangku-kepentingan-dan-komunikasi",
+              "title": "Manajemen pemangku kepentingan dan komunikasi",
+              "heading": "10.16 Manajemen pemangku kepentingan dan komunikasi",
+              "file": "locales/id-001/chapters/10-16-manajemen-pemangku-kepentingan-dan-komunikasi.md"
+            },
+            {
+              "part": 10,
+              "chapter": 17,
+              "decimal": "10.17",
+              "slug": "10-17-manajemen-perubahan-organisasi",
+              "title": "Manajemen perubahan organisasi",
+              "heading": "10.17 Manajemen perubahan organisasi",
+              "file": "locales/id-001/chapters/10-17-manajemen-perubahan-organisasi.md"
+            },
+            {
+              "part": 10,
+              "chapter": 18,
+              "decimal": "10.18",
+              "slug": "10-18-kantor-program-sumber-terbuka",
+              "title": "Kantor program sumber terbuka (OSPO) dan kontribusi hulu",
+              "heading": "10.18 Kantor program sumber terbuka (OSPO) dan kontribusi hulu",
+              "file": "locales/id-001/chapters/10-18-kantor-program-sumber-terbuka.md"
+            }
+          ]
+        },
+        {
+          "number": 11,
+          "title": "Flow: Discovery and Delivery Pipelines",
+          "chapters": [
+            {
+              "part": 11,
+              "chapter": 0,
+              "decimal": "11.0",
+              "slug": "11-00-aliran-penemuan-dan-penyampaian",
+              "title": "Pengantar Bagian 11: Aliran: jalur penemuan dan penyampaian",
+              "heading": "11.0 Pengantar Bagian 11: Aliran: jalur penemuan dan penyampaian",
+              "file": "locales/id-001/chapters/11-00-aliran-penemuan-dan-penyampaian.md"
+            },
+            {
+              "part": 11,
+              "chapter": 1,
+              "decimal": "11.1",
+              "slug": "11-01-jalur-penemuan",
+              "title": "Jalur penemuan",
+              "heading": "11.1 Jalur penemuan",
+              "file": "locales/id-001/chapters/11-01-jalur-penemuan.md"
+            },
+            {
+              "part": 11,
+              "chapter": 2,
+              "decimal": "11.2",
+              "slug": "11-02-jalur-penyampaian",
+              "title": "Jalur penyampaian",
+              "heading": "11.2 Jalur penyampaian",
+              "file": "locales/id-001/chapters/11-02-jalur-penyampaian.md"
+            },
+            {
+              "part": 11,
+              "chapter": 3,
+              "decimal": "11.3",
+              "slug": "11-03-teori-antrean",
+              "title": "Teori antrean",
+              "heading": "11.3 Teori antrean",
+              "file": "locales/id-001/chapters/11-03-teori-antrean.md"
+            },
+            {
+              "part": 11,
+              "chapter": 4,
+              "decimal": "11.4",
+              "slug": "11-04-sasaran-dan-hasil-kunci-okr",
+              "title": "Objectives and key results (OKR)",
+              "heading": "11.4 Objectives and key results (OKR)",
+              "file": "locales/id-001/chapters/11-04-sasaran-dan-hasil-kunci-okr.md"
+            },
+            {
+              "part": 11,
+              "chapter": 5,
+              "decimal": "11.5",
+              "slug": "11-05-indikator-kinerja-utama-kpi",
+              "title": "Key performance indicator (KPI)",
+              "heading": "11.5 Key performance indicator (KPI)",
+              "file": "locales/id-001/chapters/11-05-indikator-kinerja-utama-kpi.md"
+            },
+            {
+              "part": 11,
+              "chapter": 6,
+              "decimal": "11.6",
+              "slug": "11-06-pemetaan-aliran-nilai-dan-biaya-penundaan",
+              "title": "Pemetaan aliran nilai dan biaya penundaan",
+              "heading": "11.6 Pemetaan aliran nilai dan biaya penundaan",
+              "file": "locales/id-001/chapters/11-06-pemetaan-aliran-nilai-dan-biaya-penundaan.md"
+            }
+          ]
+        },
+        {
+          "number": 12,
+          "title": "Appendices",
+          "chapters": [
+            {
+              "part": 12,
+              "chapter": 0,
+              "decimal": "12.0",
+              "slug": "12-00-lampiran",
+              "title": "Lampiran",
+              "heading": "12.0 Lampiran",
+              "file": "locales/id-001/chapters/12-00-lampiran.md"
+            },
+            {
+              "part": 12,
+              "chapter": 1,
+              "decimal": "12.1",
+              "slug": "12-01-glosarium",
+              "title": "Glosarium",
+              "heading": "12.1 Glosarium",
+              "file": "locales/id-001/chapters/12-01-glosarium.md"
+            },
+            {
+              "part": 12,
+              "chapter": 2,
+              "decimal": "12.2",
+              "slug": "12-02-daftar-periksa",
+              "title": "Daftar periksa",
+              "heading": "12.2 Daftar periksa",
+              "file": "locales/id-001/chapters/12-02-daftar-periksa.md"
+            },
+            {
+              "part": 12,
+              "chapter": 3,
+              "decimal": "12.3",
+              "slug": "12-03-templat",
+              "title": "Templat",
+              "heading": "12.3 Templat",
+              "file": "locales/id-001/chapters/12-03-templat.md"
+            },
+            {
+              "part": 12,
+              "chapter": 4,
+              "decimal": "12.4",
+              "slug": "12-04-penilaian-diri-kematangan",
+              "title": "Penilaian diri kematangan",
+              "heading": "12.4 Penilaian diri kematangan",
+              "file": "locales/id-001/chapters/12-04-penilaian-diri-kematangan.md"
+            },
+            {
+              "part": 12,
+              "chapter": 5,
+              "decimal": "12.5",
+              "slug": "12-05-referensi",
+              "title": "Referensi",
+              "heading": "12.5 Referensi",
+              "file": "locales/id-001/chapters/12-05-referensi.md"
+            },
+            {
+              "part": 12,
+              "chapter": 6,
+              "decimal": "12.6",
+              "slug": "12-06-peta-jalan-adopsi",
+              "title": "Peta jalan adopsi",
+              "heading": "12.6 Peta jalan adopsi",
+              "file": "locales/id-001/chapters/12-06-peta-jalan-adopsi.md"
+            },
+            {
+              "part": 12,
+              "chapter": 7,
+              "decimal": "12.7",
+              "slug": "12-07-indeks",
+              "title": "Indeks",
+              "heading": "12.7 Indeks",
+              "file": "locales/id-001/chapters/12-07-indeks.md"
+            }
+          ]
+        }
+      ],
+      "chaptersByDecimal": {
+        "1.0": {
+          "part": 1,
+          "chapter": 0,
+          "decimal": "1.0",
+          "slug": "01-00-manusia",
+          "title": "Pengantar Bagian 1: Manusia",
+          "heading": "1.0 Pengantar Bagian 1: Manusia",
+          "file": "locales/id-001/chapters/01-00-manusia.md"
+        },
+        "1.1": {
+          "part": 1,
+          "chapter": 1,
+          "decimal": "1.1",
+          "slug": "01-01-nilai-nilai-rekayasa-perangkat-lunak",
+          "title": "Nilai-nilai rekayasa perangkat lunak",
+          "heading": "1.1 Nilai-nilai rekayasa perangkat lunak",
+          "file": "locales/id-001/chapters/01-01-nilai-nilai-rekayasa-perangkat-lunak.md"
+        },
+        "1.2": {
+          "part": 1,
+          "chapter": 2,
+          "decimal": "1.2",
+          "slug": "01-02-topologi-tim",
+          "title": "Topologi tim dan desain organisasi",
+          "heading": "1.2 Topologi tim dan desain organisasi",
+          "file": "locales/id-001/chapters/01-02-topologi-tim.md"
+        },
+        "1.3": {
+          "part": 1,
+          "chapter": 3,
+          "decimal": "1.3",
+          "slug": "01-03-peran-jenjang-karier-dan-pertumbuhan",
+          "title": "Peran, jenjang karier, dan pertumbuhan",
+          "heading": "1.3 Peran, jenjang karier, dan pertumbuhan",
+          "file": "locales/id-001/chapters/01-03-peran-jenjang-karier-dan-pertumbuhan.md"
+        },
+        "1.4": {
+          "part": 1,
+          "chapter": 4,
+          "decimal": "1.4",
+          "slug": "01-04-cara-kerja",
+          "title": "Cara kerja",
+          "heading": "1.4 Cara kerja",
+          "file": "locales/id-001/chapters/01-04-cara-kerja.md"
+        },
+        "1.5": {
+          "part": 1,
+          "chapter": 5,
+          "decimal": "1.5",
+          "slug": "01-05-pengambilan-keputusan-dan-tata-kelola",
+          "title": "Pengambilan keputusan dan tata kelola",
+          "heading": "1.5 Pengambilan keputusan dan tata kelola",
+          "file": "locales/id-001/chapters/01-05-pengambilan-keputusan-dan-tata-kelola.md"
+        },
+        "1.6": {
+          "part": 1,
+          "chapter": 6,
+          "decimal": "1.6",
+          "slug": "01-06-catatan-keputusan",
+          "title": "Catatan keputusan",
+          "heading": "1.6 Catatan keputusan",
+          "file": "locales/id-001/chapters/01-06-catatan-keputusan.md"
+        },
+        "1.7": {
+          "part": 1,
+          "chapter": 7,
+          "decimal": "1.7",
+          "slug": "01-07-standar-rekayasa-dan-pengecualian",
+          "title": "Standar rekayasa dan pengecualian",
+          "heading": "1.7 Standar rekayasa dan pengecualian",
+          "file": "locales/id-001/chapters/01-07-standar-rekayasa-dan-pengecualian.md"
+        },
+        "1.8": {
+          "part": 1,
+          "chapter": 8,
+          "decimal": "1.8",
+          "slug": "01-08-perekrutan-wawancara-dan-orientasi",
+          "title": "Perekrutan, wawancara, dan orientasi",
+          "heading": "1.8 Perekrutan, wawancara, dan orientasi",
+          "file": "locales/id-001/chapters/01-08-perekrutan-wawancara-dan-orientasi.md"
+        },
+        "1.9": {
+          "part": 1,
+          "chapter": 9,
+          "decimal": "1.9",
+          "slug": "01-09-kerja-terdistribusi-dan-jarak-jauh",
+          "title": "Kerja terdistribusi dan jarak jauh",
+          "heading": "1.9 Kerja terdistribusi dan jarak jauh",
+          "file": "locales/id-001/chapters/01-09-kerja-terdistribusi-dan-jarak-jauh.md"
+        },
+        "1.10": {
+          "part": 1,
+          "chapter": 10,
+          "decimal": "1.10",
+          "slug": "01-10-efektivitas-rekayasa-dan-produktivitas-pengembang",
+          "title": "Efektivitas rekayasa dan produktivitas pengembang",
+          "heading": "1.10 Efektivitas rekayasa dan produktivitas pengembang",
+          "file": "locales/id-001/chapters/01-10-efektivitas-rekayasa-dan-produktivitas-pengembang.md"
+        },
+        "1.11": {
+          "part": 1,
+          "chapter": 11,
+          "decimal": "1.11",
+          "slug": "01-11-manajemen-rekayasa",
+          "title": "Manajemen rekayasa",
+          "heading": "1.11 Manajemen rekayasa",
+          "file": "locales/id-001/chapters/01-11-manajemen-rekayasa.md"
+        },
+        "1.12": {
+          "part": 1,
+          "chapter": 12,
+          "decimal": "1.12",
+          "slug": "01-12-keberagaman-kesetaraan-inklusi-dan-rasa-memiliki",
+          "title": "Keberagaman, kesetaraan, inklusi, dan rasa memiliki",
+          "heading": "1.12 Keberagaman, kesetaraan, inklusi, dan rasa memiliki",
+          "file": "locales/id-001/chapters/01-12-keberagaman-kesetaraan-inklusi-dan-rasa-memiliki.md"
+        },
+        "1.13": {
+          "part": 1,
+          "chapter": 13,
+          "decimal": "1.13",
+          "slug": "01-13-mentoring-coaching-dan-berbagi-pengetahuan",
+          "title": "Mentoring, coaching, dan berbagi pengetahuan",
+          "heading": "1.13 Mentoring, coaching, dan berbagi pengetahuan",
+          "file": "locales/id-001/chapters/01-13-mentoring-coaching-dan-berbagi-pengetahuan.md"
+        },
+        "2.0": {
+          "part": 2,
+          "chapter": 0,
+          "decimal": "2.0",
+          "slug": "02-00-pemrograman-perangkat-lunak",
+          "title": "Pengantar Bagian 2: Pemrograman Perangkat Lunak",
+          "heading": "2.0 Pengantar Bagian 2: Pemrograman Perangkat Lunak",
+          "file": "locales/id-001/chapters/02-00-pemrograman-perangkat-lunak.md"
+        },
+        "2.1": {
+          "part": 2,
+          "chapter": 1,
+          "decimal": "2.1",
+          "slug": "02-01-standar-pengodean-dan-gaya",
+          "title": "Standar pengodean dan gaya",
+          "heading": "2.1 Standar pengodean dan gaya",
+          "file": "locales/id-001/chapters/02-01-standar-pengodean-dan-gaya.md"
+        },
+        "2.2": {
+          "part": 2,
+          "chapter": 2,
+          "decimal": "2.2",
+          "slug": "02-02-prinsip-desain-perangkat-lunak",
+          "title": "Prinsip desain perangkat lunak",
+          "heading": "2.2 Prinsip desain perangkat lunak",
+          "file": "locales/id-001/chapters/02-02-prinsip-desain-perangkat-lunak.md"
+        },
+        "2.3": {
+          "part": 2,
+          "chapter": 3,
+          "decimal": "2.3",
+          "slug": "02-03-api-dan-desain-antarmuka",
+          "title": "API dan desain antarmuka",
+          "heading": "2.3 API dan desain antarmuka",
+          "file": "locales/id-001/chapters/02-03-api-dan-desain-antarmuka.md"
+        },
+        "2.4": {
+          "part": 2,
+          "chapter": 4,
+          "decimal": "2.4",
+          "slug": "02-04-strategi-pengujian",
+          "title": "Strategi pengujian",
+          "heading": "2.4 Strategi pengujian",
+          "file": "locales/id-001/chapters/02-04-strategi-pengujian.md"
+        },
+        "2.5": {
+          "part": 2,
+          "chapter": 5,
+          "decimal": "2.5",
+          "slug": "02-05-tinjauan-kode-dan-kolaborasi",
+          "title": "Tinjauan kode dan kolaborasi",
+          "heading": "2.5 Tinjauan kode dan kolaborasi",
+          "file": "locales/id-001/chapters/02-05-tinjauan-kode-dan-kolaborasi.md"
+        },
+        "2.6": {
+          "part": 2,
+          "chapter": 6,
+          "decimal": "2.6",
+          "slug": "02-06-kontrol-versi-dan-manajemen-sumber",
+          "title": "Kontrol versi dan manajemen sumber",
+          "heading": "2.6 Kontrol versi dan manajemen sumber",
+          "file": "locales/id-001/chapters/02-06-kontrol-versi-dan-manajemen-sumber.md"
+        },
+        "2.7": {
+          "part": 2,
+          "chapter": 7,
+          "decimal": "2.7",
+          "slug": "02-07-dokumentasi",
+          "title": "Dokumentasi",
+          "heading": "2.7 Dokumentasi",
+          "file": "locales/id-001/chapters/02-07-dokumentasi.md"
+        },
+        "2.8": {
+          "part": 2,
+          "chapter": 8,
+          "decimal": "2.8",
+          "slug": "02-08-persyaratan-perangkat-lunak",
+          "title": "Persyaratan perangkat lunak",
+          "heading": "2.8 Persyaratan perangkat lunak",
+          "file": "locales/id-001/chapters/02-08-persyaratan-perangkat-lunak.md"
+        },
+        "2.9": {
+          "part": 2,
+          "chapter": 9,
+          "decimal": "2.9",
+          "slug": "02-09-konstruksi-perangkat-lunak",
+          "title": "Konstruksi perangkat lunak",
+          "heading": "2.9 Konstruksi perangkat lunak",
+          "file": "locales/id-001/chapters/02-09-konstruksi-perangkat-lunak.md"
+        },
+        "2.10": {
+          "part": 2,
+          "chapter": 10,
+          "decimal": "2.10",
+          "slug": "02-10-manajemen-konfigurasi-perangkat-lunak",
+          "title": "Manajemen konfigurasi perangkat lunak",
+          "heading": "2.10 Manajemen konfigurasi perangkat lunak",
+          "file": "locales/id-001/chapters/02-10-manajemen-konfigurasi-perangkat-lunak.md"
+        },
+        "2.11": {
+          "part": 2,
+          "chapter": 11,
+          "decimal": "2.11",
+          "slug": "02-11-kualitas-perangkat-lunak",
+          "title": "Kualitas perangkat lunak",
+          "heading": "2.11 Kualitas perangkat lunak",
+          "file": "locales/id-001/chapters/02-11-kualitas-perangkat-lunak.md"
+        },
+        "2.12": {
+          "part": 2,
+          "chapter": 12,
+          "decimal": "2.12",
+          "slug": "02-12-model-dan-metode-perangkat-lunak",
+          "title": "Model dan metode perangkat lunak",
+          "heading": "2.12 Model dan metode perangkat lunak",
+          "file": "locales/id-001/chapters/02-12-model-dan-metode-perangkat-lunak.md"
+        },
+        "2.13": {
+          "part": 2,
+          "chapter": 13,
+          "decimal": "2.13",
+          "slug": "02-13-fondasi-komputasi-matematika-dan-rekayasa",
+          "title": "Fondasi komputasi, matematika, dan rekayasa",
+          "heading": "2.13 Fondasi komputasi, matematika, dan rekayasa",
+          "file": "locales/id-001/chapters/02-13-fondasi-komputasi-matematika-dan-rekayasa.md"
+        },
+        "2.14": {
+          "part": 2,
+          "chapter": 14,
+          "decimal": "2.14",
+          "slug": "02-14-struktur-proyek-dan-repositori",
+          "title": "Struktur proyek dan repositori",
+          "heading": "2.14 Struktur proyek dan repositori",
+          "file": "locales/id-001/chapters/02-14-struktur-proyek-dan-repositori.md"
+        },
+        "2.15": {
+          "part": 2,
+          "chapter": 15,
+          "decimal": "2.15",
+          "slug": "02-15-debugging-dan-pemecahan-masalah",
+          "title": "Debugging dan pemecahan masalah",
+          "heading": "2.15 Debugging dan pemecahan masalah",
+          "file": "locales/id-001/chapters/02-15-debugging-dan-pemecahan-masalah.md"
+        },
+        "2.16": {
+          "part": 2,
+          "chapter": 16,
+          "decimal": "2.16",
+          "slug": "02-16-rekayasa-kinerja",
+          "title": "Rekayasa kinerja",
+          "heading": "2.16 Rekayasa kinerja",
+          "file": "locales/id-001/chapters/02-16-rekayasa-kinerja.md"
+        },
+        "2.17": {
+          "part": 2,
+          "chapter": 17,
+          "decimal": "2.17",
+          "slug": "02-17-konkurensi-dan-paralelisme",
+          "title": "Konkurensi dan paralelisme",
+          "heading": "2.17 Konkurensi dan paralelisme",
+          "file": "locales/id-001/chapters/02-17-konkurensi-dan-paralelisme.md"
+        },
+        "2.18": {
+          "part": 2,
+          "chapter": 18,
+          "decimal": "2.18",
+          "slug": "02-18-manajemen-dependensi-dan-rantai-pasok",
+          "title": "Manajemen dependensi dan rantai pasok",
+          "heading": "2.18 Manajemen dependensi dan rantai pasok",
+          "file": "locales/id-001/chapters/02-18-manajemen-dependensi-dan-rantai-pasok.md"
+        },
+        "2.19": {
+          "part": 2,
+          "chapter": 19,
+          "decimal": "2.19",
+          "slug": "02-19-refaktoring-dan-utang-teknis",
+          "title": "Refaktoring dan utang teknis",
+          "heading": "2.19 Refaktoring dan utang teknis",
+          "file": "locales/id-001/chapters/02-19-refaktoring-dan-utang-teknis.md"
+        },
+        "2.20": {
+          "part": 2,
+          "chapter": 20,
+          "decimal": "2.20",
+          "slug": "02-20-penanganan-galat-dan-pola-ketahanan",
+          "title": "Penanganan galat dan pola ketahanan",
+          "heading": "2.20 Penanganan galat dan pola ketahanan",
+          "file": "locales/id-001/chapters/02-20-penanganan-galat-dan-pola-ketahanan.md"
+        },
+        "2.21": {
+          "part": 2,
+          "chapter": 21,
+          "decimal": "2.21",
+          "slug": "02-21-sistem-tipe-dan-analisis-statis",
+          "title": "Sistem tipe dan analisis statis",
+          "heading": "2.21 Sistem tipe dan analisis statis",
+          "file": "locales/id-001/chapters/02-21-sistem-tipe-dan-analisis-statis.md"
+        },
+        "3.0": {
+          "part": 3,
+          "chapter": 0,
+          "decimal": "3.0",
+          "slug": "03-00-sistem",
+          "title": "Pengantar Bagian 3: Sistem",
+          "heading": "3.0 Pengantar Bagian 3: Sistem",
+          "file": "locales/id-001/chapters/03-00-sistem.md"
+        },
+        "3.1": {
+          "part": 3,
+          "chapter": 1,
+          "decimal": "3.1",
+          "slug": "03-01-dasar-dasar-arsitektur",
+          "title": "Dasar-dasar arsitektur",
+          "heading": "3.1 Dasar-dasar arsitektur",
+          "file": "locales/id-001/chapters/03-01-dasar-dasar-arsitektur.md"
+        },
+        "3.2": {
+          "part": 3,
+          "chapter": 2,
+          "decimal": "3.2",
+          "slug": "03-02-gaya-dan-pola-arsitektural",
+          "title": "Gaya dan pola arsitektural",
+          "heading": "3.2 Gaya dan pola arsitektural",
+          "file": "locales/id-001/chapters/03-02-gaya-dan-pola-arsitektural.md"
+        },
+        "3.3": {
+          "part": 3,
+          "chapter": 3,
+          "decimal": "3.3",
+          "slug": "03-03-sistem-terdistribusi",
+          "title": "Sistem terdistribusi",
+          "heading": "3.3 Sistem terdistribusi",
+          "file": "locales/id-001/chapters/03-03-sistem-terdistribusi.md"
+        },
+        "3.4": {
+          "part": 3,
+          "chapter": 4,
+          "decimal": "3.4",
+          "slug": "03-04-arsitektur-data-dan-penyimpanan",
+          "title": "Arsitektur data dan penyimpanan",
+          "heading": "3.4 Arsitektur data dan penyimpanan",
+          "file": "locales/id-001/chapters/03-04-arsitektur-data-dan-penyimpanan.md"
+        },
+        "3.5": {
+          "part": 3,
+          "chapter": 5,
+          "decimal": "3.5",
+          "slug": "03-05-skalabilitas-kinerja-dan-ketahanan",
+          "title": "Skalabilitas, kinerja, dan ketahanan",
+          "heading": "3.5 Skalabilitas, kinerja, dan ketahanan",
+          "file": "locales/id-001/chapters/03-05-skalabilitas-kinerja-dan-ketahanan.md"
+        },
+        "3.6": {
+          "part": 3,
+          "chapter": 6,
+          "decimal": "3.6",
+          "slug": "03-06-modernisasi-sistem-warisan",
+          "title": "Modernisasi sistem warisan",
+          "heading": "3.6 Modernisasi sistem warisan",
+          "file": "locales/id-001/chapters/03-06-modernisasi-sistem-warisan.md"
+        },
+        "3.7": {
+          "part": 3,
+          "chapter": 7,
+          "decimal": "3.7",
+          "slug": "03-07-pemeliharaan-perangkat-lunak",
+          "title": "Pemeliharaan perangkat lunak",
+          "heading": "3.7 Pemeliharaan perangkat lunak",
+          "file": "locales/id-001/chapters/03-07-pemeliharaan-perangkat-lunak.md"
+        },
+        "3.8": {
+          "part": 3,
+          "chapter": 8,
+          "decimal": "3.8",
+          "slug": "03-08-interoperabilitas-dan-standar-terbuka",
+          "title": "Interoperabilitas dan standar terbuka",
+          "heading": "3.8 Interoperabilitas dan standar terbuka",
+          "file": "locales/id-001/chapters/03-08-interoperabilitas-dan-standar-terbuka.md"
+        },
+        "3.9": {
+          "part": 3,
+          "chapter": 9,
+          "decimal": "3.9",
+          "slug": "03-09-rekayasa-sistem",
+          "title": "Rekayasa sistem",
+          "heading": "3.9 Rekayasa sistem",
+          "file": "locales/id-001/chapters/03-09-rekayasa-sistem.md"
+        },
+        "3.10": {
+          "part": 3,
+          "chapter": 10,
+          "decimal": "3.10",
+          "slug": "03-10-sistem-tertanam-dan-waktu-nyata",
+          "title": "Sistem tertanam dan waktu nyata",
+          "heading": "3.10 Sistem tertanam dan waktu nyata",
+          "file": "locales/id-001/chapters/03-10-sistem-tertanam-dan-waktu-nyata.md"
+        },
+        "3.11": {
+          "part": 3,
+          "chapter": 11,
+          "decimal": "3.11",
+          "slug": "03-11-arsitektur-cloud",
+          "title": "Arsitektur cloud",
+          "heading": "3.11 Arsitektur cloud",
+          "file": "locales/id-001/chapters/03-11-arsitektur-cloud.md"
+        },
+        "3.12": {
+          "part": 3,
+          "chapter": 12,
+          "decimal": "3.12",
+          "slug": "03-12-arsitektur-berbasis-peristiwa-dan-pesan",
+          "title": "Arsitektur berbasis peristiwa dan pesan",
+          "heading": "3.12 Arsitektur berbasis peristiwa dan pesan",
+          "file": "locales/id-001/chapters/03-12-arsitektur-berbasis-peristiwa-dan-pesan.md"
+        },
+        "3.13": {
+          "part": 3,
+          "chapter": 13,
+          "decimal": "3.13",
+          "slug": "03-13-jaringan-dan-konektivitas",
+          "title": "Jaringan dan konektivitas",
+          "heading": "3.13 Jaringan dan konektivitas",
+          "file": "locales/id-001/chapters/03-13-jaringan-dan-konektivitas.md"
+        },
+        "3.14": {
+          "part": 3,
+          "chapter": 14,
+          "decimal": "3.14",
+          "slug": "03-14-arsitektur-multitenansi-dan-saas",
+          "title": "Arsitektur multitenansi dan SaaS",
+          "heading": "3.14 Arsitektur multitenansi dan SaaS",
+          "file": "locales/id-001/chapters/03-14-arsitektur-multitenansi-dan-saas.md"
+        },
+        "3.15": {
+          "part": 3,
+          "chapter": 15,
+          "decimal": "3.15",
+          "slug": "03-15-caching-dan-pengiriman-konten",
+          "title": "Caching dan pengiriman konten",
+          "heading": "3.15 Caching dan pengiriman konten",
+          "file": "locales/id-001/chapters/03-15-caching-dan-pengiriman-konten.md"
+        },
+        "3.16": {
+          "part": 3,
+          "chapter": 16,
+          "decimal": "3.16",
+          "slug": "03-16-api-gateway-dan-service-mesh",
+          "title": "API gateway dan service mesh",
+          "heading": "3.16 API gateway dan service mesh",
+          "file": "locales/id-001/chapters/03-16-api-gateway-dan-service-mesh.md"
+        },
+        "3.17": {
+          "part": 3,
+          "chapter": 17,
+          "decimal": "3.17",
+          "slug": "03-17-pencarian-dan-temu-balik-informasi",
+          "title": "Pencarian dan temu balik informasi",
+          "heading": "3.17 Pencarian dan temu balik informasi",
+          "file": "locales/id-001/chapters/03-17-pencarian-dan-temu-balik-informasi.md"
+        },
+        "4.0": {
+          "part": 4,
+          "chapter": 0,
+          "decimal": "4.0",
+          "slug": "04-00-keamanan",
+          "title": "Pengantar Bagian 4: Keamanan",
+          "heading": "4.0 Pengantar Bagian 4: Keamanan",
+          "file": "locales/id-001/chapters/04-00-keamanan.md"
+        },
+        "4.1": {
+          "part": 4,
+          "chapter": 1,
+          "decimal": "4.1",
+          "slug": "04-01-fondasi-dan-budaya-keamanan",
+          "title": "Fondasi dan budaya keamanan",
+          "heading": "4.1 Fondasi dan budaya keamanan",
+          "file": "locales/id-001/chapters/04-01-fondasi-dan-budaya-keamanan.md"
+        },
+        "4.2": {
+          "part": 4,
+          "chapter": 2,
+          "decimal": "4.2",
+          "slug": "04-02-keamanan-aplikasi",
+          "title": "Keamanan aplikasi",
+          "heading": "4.2 Keamanan aplikasi",
+          "file": "locales/id-001/chapters/04-02-keamanan-aplikasi.md"
+        },
+        "4.3": {
+          "part": 4,
+          "chapter": 3,
+          "decimal": "4.3",
+          "slug": "04-03-keamanan-infrastruktur-dan-cloud",
+          "title": "Keamanan infrastruktur dan cloud",
+          "heading": "4.3 Keamanan infrastruktur dan cloud",
+          "file": "locales/id-001/chapters/04-03-keamanan-infrastruktur-dan-cloud.md"
+        },
+        "4.4": {
+          "part": 4,
+          "chapter": 4,
+          "decimal": "4.4",
+          "slug": "04-04-operasi-keamanan",
+          "title": "Operasi keamanan",
+          "heading": "4.4 Operasi keamanan",
+          "file": "locales/id-001/chapters/04-04-operasi-keamanan.md"
+        },
+        "4.5": {
+          "part": 4,
+          "chapter": 5,
+          "decimal": "4.5",
+          "slug": "04-05-privasi-dan-pelindungan-data",
+          "title": "Privasi dan pelindungan data",
+          "heading": "4.5 Privasi dan pelindungan data",
+          "file": "locales/id-001/chapters/04-05-privasi-dan-pelindungan-data.md"
+        },
+        "4.6": {
+          "part": 4,
+          "chapter": 6,
+          "decimal": "4.6",
+          "slug": "04-06-kepatuhan-dan-tata-kelola",
+          "title": "Kepatuhan dan tata kelola",
+          "heading": "4.6 Kepatuhan dan tata kelola",
+          "file": "locales/id-001/chapters/04-06-kepatuhan-dan-tata-kelola.md"
+        },
+        "4.7": {
+          "part": 4,
+          "chapter": 7,
+          "decimal": "4.7",
+          "slug": "04-07-manajemen-identitas-dan-akses",
+          "title": "Manajemen identitas dan akses",
+          "heading": "4.7 Manajemen identitas dan akses",
+          "file": "locales/id-001/chapters/04-07-manajemen-identitas-dan-akses.md"
+        },
+        "4.8": {
+          "part": 4,
+          "chapter": 8,
+          "decimal": "4.8",
+          "slug": "04-08-kriptografi-dan-manajemen-kunci",
+          "title": "Kriptografi dan manajemen kunci",
+          "heading": "4.8 Kriptografi dan manajemen kunci",
+          "file": "locales/id-001/chapters/04-08-kriptografi-dan-manajemen-kunci.md"
+        },
+        "4.9": {
+          "part": 4,
+          "chapter": 9,
+          "decimal": "4.9",
+          "slug": "04-09-siklus-hidup-pengembangan-perangkat-lunak-aman",
+          "title": "Siklus hidup pengembangan perangkat lunak aman",
+          "heading": "4.9 Siklus hidup pengembangan perangkat lunak aman",
+          "file": "locales/id-001/chapters/04-09-siklus-hidup-pengembangan-perangkat-lunak-aman.md"
+        },
+        "4.10": {
+          "part": 4,
+          "chapter": 10,
+          "decimal": "4.10",
+          "slug": "04-10-uji-penetrasi-dan-red-teaming",
+          "title": "Uji penetrasi dan red teaming",
+          "heading": "4.10 Uji penetrasi dan red teaming",
+          "file": "locales/id-001/chapters/04-10-uji-penetrasi-dan-red-teaming.md"
+        },
+        "5.0": {
+          "part": 5,
+          "chapter": 0,
+          "decimal": "5.0",
+          "slug": "05-00-desain-ui-ux",
+          "title": "Pengantar Bagian 5: Desain UI/UX",
+          "heading": "5.0 Pengantar Bagian 5: Desain UI/UX",
+          "file": "locales/id-001/chapters/05-00-desain-ui-ux.md"
+        },
+        "5.1": {
+          "part": 5,
+          "chapter": 1,
+          "decimal": "5.1",
+          "slug": "05-01-fondasi-ux",
+          "title": "Fondasi UX",
+          "heading": "5.1 Fondasi UX",
+          "file": "locales/id-001/chapters/05-01-fondasi-ux.md"
+        },
+        "5.2": {
+          "part": 5,
+          "chapter": 2,
+          "decimal": "5.2",
+          "slug": "05-02-desain-ui-dan-sistem-desain",
+          "title": "Desain UI dan sistem desain",
+          "heading": "5.2 Desain UI dan sistem desain",
+          "file": "locales/id-001/chapters/05-02-desain-ui-dan-sistem-desain.md"
+        },
+        "5.3": {
+          "part": 5,
+          "chapter": 3,
+          "decimal": "5.3",
+          "slug": "05-03-aksesibilitas",
+          "title": "Aksesibilitas",
+          "heading": "5.3 Aksesibilitas",
+          "file": "locales/id-001/chapters/05-03-aksesibilitas.md"
+        },
+        "5.4": {
+          "part": 5,
+          "chapter": 4,
+          "decimal": "5.4",
+          "slug": "05-04-desain-konten-dan-komunikasi",
+          "title": "Desain konten dan komunikasi",
+          "heading": "5.4 Desain konten dan komunikasi",
+          "file": "locales/id-001/chapters/05-04-desain-konten-dan-komunikasi.md"
+        },
+        "5.5": {
+          "part": 5,
+          "chapter": 5,
+          "decimal": "5.5",
+          "slug": "05-05-internasionalisasi-dan-lokalisasi",
+          "title": "Internasionalisasi dan lokalisasi",
+          "heading": "5.5 Internasionalisasi dan lokalisasi",
+          "file": "locales/id-001/chapters/05-05-internasionalisasi-dan-lokalisasi.md"
+        },
+        "5.6": {
+          "part": 5,
+          "chapter": 6,
+          "decimal": "5.6",
+          "slug": "05-06-rekayasa-frontend",
+          "title": "Rekayasa frontend",
+          "heading": "5.6 Rekayasa frontend",
+          "file": "locales/id-001/chapters/05-06-rekayasa-frontend.md"
+        },
+        "5.7": {
+          "part": 5,
+          "chapter": 7,
+          "decimal": "5.7",
+          "slug": "05-07-pengembangan-aplikasi-seluler",
+          "title": "Pengembangan aplikasi seluler",
+          "heading": "5.7 Pengembangan aplikasi seluler",
+          "file": "locales/id-001/chapters/05-07-pengembangan-aplikasi-seluler.md"
+        },
+        "5.8": {
+          "part": 5,
+          "chapter": 8,
+          "decimal": "5.8",
+          "slug": "05-08-riset-desain-dan-uji-kegunaan",
+          "title": "Riset desain dan uji kegunaan",
+          "heading": "5.8 Riset desain dan uji kegunaan",
+          "file": "locales/id-001/chapters/05-08-riset-desain-dan-uji-kegunaan.md"
+        },
+        "5.9": {
+          "part": 5,
+          "chapter": 9,
+          "decimal": "5.9",
+          "slug": "05-09-desain-layanan",
+          "title": "Desain layanan",
+          "heading": "5.9 Desain layanan",
+          "file": "locales/id-001/chapters/05-09-desain-layanan.md"
+        },
+        "5.10": {
+          "part": 5,
+          "chapter": 10,
+          "decimal": "5.10",
+          "slug": "05-10-desain-visualisasi-data",
+          "title": "Desain visualisasi data",
+          "heading": "5.10 Desain visualisasi data",
+          "file": "locales/id-001/chapters/05-10-desain-visualisasi-data.md"
+        },
+        "6.0": {
+          "part": 6,
+          "chapter": 0,
+          "decimal": "6.0",
+          "slug": "06-00-kecerdasan-buatan",
+          "title": "Pengantar Bagian 6: Kecerdasan buatan",
+          "heading": "6.0 Pengantar Bagian 6: Kecerdasan buatan",
+          "file": "locales/id-001/chapters/06-00-kecerdasan-buatan.md"
+        },
+        "6.1": {
+          "part": 6,
+          "chapter": 1,
+          "decimal": "6.1",
+          "slug": "06-01-strategi-dan-kesiapan-ai",
+          "title": "Strategi dan kesiapan AI",
+          "heading": "6.1 Strategi dan kesiapan AI",
+          "file": "locales/id-001/chapters/06-01-strategi-dan-kesiapan-ai.md"
+        },
+        "6.2": {
+          "part": 6,
+          "chapter": 2,
+          "decimal": "6.2",
+          "slug": "06-02-mlops",
+          "title": "Rekayasa pembelajaran mesin (MLOps)",
+          "heading": "6.2 Rekayasa pembelajaran mesin (MLOps)",
+          "file": "locales/id-001/chapters/06-02-mlops.md"
+        },
+        "6.3": {
+          "part": 6,
+          "chapter": 3,
+          "decimal": "6.3",
+          "slug": "06-03-ai-generatif-dan-aplikasi-llm",
+          "title": "AI generatif dan aplikasi LLM",
+          "heading": "6.3 AI generatif dan aplikasi LLM",
+          "file": "locales/id-001/chapters/06-03-ai-generatif-dan-aplikasi-llm.md"
+        },
+        "6.4": {
+          "part": 6,
+          "chapter": 4,
+          "decimal": "6.4",
+          "slug": "06-04-pengembangan-perangkat-lunak-berbantuan-ai",
+          "title": "Pengembangan perangkat lunak berbantuan AI",
+          "heading": "6.4 Pengembangan perangkat lunak berbantuan AI",
+          "file": "locales/id-001/chapters/06-04-pengembangan-perangkat-lunak-berbantuan-ai.md"
+        },
+        "6.5": {
+          "part": 6,
+          "chapter": 5,
+          "decimal": "6.5",
+          "slug": "06-05-ai-yang-bertanggung-jawab-dan-tepercaya",
+          "title": "AI yang bertanggung jawab dan tepercaya",
+          "heading": "6.5 AI yang bertanggung jawab dan tepercaya",
+          "file": "locales/id-001/chapters/06-05-ai-yang-bertanggung-jawab-dan-tepercaya.md"
+        },
+        "6.6": {
+          "part": 6,
+          "chapter": 6,
+          "decimal": "6.6",
+          "slug": "06-06-infrastruktur-dan-operasi-ai",
+          "title": "Infrastruktur dan operasi AI",
+          "heading": "6.6 Infrastruktur dan operasi AI",
+          "file": "locales/id-001/chapters/06-06-infrastruktur-dan-operasi-ai.md"
+        },
+        "6.7": {
+          "part": 6,
+          "chapter": 7,
+          "decimal": "6.7",
+          "slug": "06-07-agen-ai-dan-sistem-agentik",
+          "title": "Agen AI dan sistem agentik",
+          "heading": "6.7 Agen AI dan sistem agentik",
+          "file": "locales/id-001/chapters/06-07-agen-ai-dan-sistem-agentik.md"
+        },
+        "6.8": {
+          "part": 6,
+          "chapter": 8,
+          "decimal": "6.8",
+          "slug": "06-08-evaluasi-dan-pengujian-ai",
+          "title": "Evaluasi dan pengujian AI",
+          "heading": "6.8 Evaluasi dan pengujian AI",
+          "file": "locales/id-001/chapters/06-08-evaluasi-dan-pengujian-ai.md"
+        },
+        "6.9": {
+          "part": 6,
+          "chapter": 9,
+          "decimal": "6.9",
+          "slug": "06-09-rekayasa-prompt-dan-desain-konteks",
+          "title": "Rekayasa prompt dan desain konteks",
+          "heading": "6.9 Rekayasa prompt dan desain konteks",
+          "file": "locales/id-001/chapters/06-09-rekayasa-prompt-dan-desain-konteks.md"
+        },
+        "7.0": {
+          "part": 7,
+          "chapter": 0,
+          "decimal": "7.0",
+          "slug": "07-00-data-dan-analitik",
+          "title": "Pengantar Bagian 7: Data, analitik, dan wawasan",
+          "heading": "7.0 Pengantar Bagian 7: Data, analitik, dan wawasan",
+          "file": "locales/id-001/chapters/07-00-data-dan-analitik.md"
+        },
+        "7.1": {
+          "part": 7,
+          "chapter": 1,
+          "decimal": "7.1",
+          "slug": "07-01-strategi-dan-tata-kelola-data",
+          "title": "Strategi dan tata kelola data",
+          "heading": "7.1 Strategi dan tata kelola data",
+          "file": "locales/id-001/chapters/07-01-strategi-dan-tata-kelola-data.md"
+        },
+        "7.2": {
+          "part": 7,
+          "chapter": 2,
+          "decimal": "7.2",
+          "slug": "07-02-rekayasa-data",
+          "title": "Rekayasa data",
+          "heading": "7.2 Rekayasa data",
+          "file": "locales/id-001/chapters/07-02-rekayasa-data.md"
+        },
+        "7.3": {
+          "part": 7,
+          "chapter": 3,
+          "decimal": "7.3",
+          "slug": "07-03-analitik-dan-business-intelligence",
+          "title": "Analitik dan business intelligence",
+          "heading": "7.3 Analitik dan business intelligence",
+          "file": "locales/id-001/chapters/07-03-analitik-dan-business-intelligence.md"
+        },
+        "7.4": {
+          "part": 7,
+          "chapter": 4,
+          "decimal": "7.4",
+          "slug": "07-04-analitik-produk-dan-eksperimen",
+          "title": "Analitik produk dan eksperimen",
+          "heading": "7.4 Analitik produk dan eksperimen",
+          "file": "locales/id-001/chapters/07-04-analitik-produk-dan-eksperimen.md"
+        },
+        "7.5": {
+          "part": 7,
+          "chapter": 5,
+          "decimal": "7.5",
+          "slug": "07-05-ilmu-keputusan-dan-budaya-data",
+          "title": "Ilmu keputusan dan budaya berbasis data",
+          "heading": "7.5 Ilmu keputusan dan budaya berbasis data",
+          "file": "locales/id-001/chapters/07-05-ilmu-keputusan-dan-budaya-data.md"
+        },
+        "7.6": {
+          "part": 7,
+          "chapter": 6,
+          "decimal": "7.6",
+          "slug": "07-06-data-real-time-dan-streaming",
+          "title": "Data real-time dan streaming",
+          "heading": "7.6 Data real-time dan streaming",
+          "file": "locales/id-001/chapters/07-06-data-real-time-dan-streaming.md"
+        },
+        "7.7": {
+          "part": 7,
+          "chapter": 7,
+          "decimal": "7.7",
+          "slug": "07-07-pemodelan-data-dan-lapisan-semantik",
+          "title": "Pemodelan data dan lapisan semantik",
+          "heading": "7.7 Pemodelan data dan lapisan semantik",
+          "file": "locales/id-001/chapters/07-07-pemodelan-data-dan-lapisan-semantik.md"
+        },
+        "7.8": {
+          "part": 7,
+          "chapter": 8,
+          "decimal": "7.8",
+          "slug": "07-08-kualitas-dan-observabilitas-data",
+          "title": "Kualitas dan observabilitas data",
+          "heading": "7.8 Kualitas dan observabilitas data",
+          "file": "locales/id-001/chapters/07-08-kualitas-dan-observabilitas-data.md"
+        },
+        "7.9": {
+          "part": 7,
+          "chapter": 9,
+          "decimal": "7.9",
+          "slug": "07-09-manajemen-data-induk-dan-data-referensi",
+          "title": "Manajemen data induk dan data referensi",
+          "heading": "7.9 Manajemen data induk dan data referensi",
+          "file": "locales/id-001/chapters/07-09-manajemen-data-induk-dan-data-referensi.md"
+        },
+        "8.0": {
+          "part": 8,
+          "chapter": 0,
+          "decimal": "8.0",
+          "slug": "08-00-otomasi",
+          "title": "Pengantar Bagian 8: Otomasi",
+          "heading": "8.0 Pengantar Bagian 8: Otomasi",
+          "file": "locales/id-001/chapters/08-00-otomasi.md"
+        },
+        "8.1": {
+          "part": 8,
+          "chapter": 1,
+          "decimal": "8.1",
+          "slug": "08-01-ci-cd-dan-pengiriman",
+          "title": "CI/CD dan pengiriman",
+          "heading": "8.1 CI/CD dan pengiriman",
+          "file": "locales/id-001/chapters/08-01-ci-cd-dan-pengiriman.md"
+        },
+        "8.2": {
+          "part": 8,
+          "chapter": 2,
+          "decimal": "8.2",
+          "slug": "08-02-infrastructure-as-code-dan-konfigurasi",
+          "title": "Infrastructure as code dan konfigurasi",
+          "heading": "8.2 Infrastructure as code dan konfigurasi",
+          "file": "locales/id-001/chapters/08-02-infrastructure-as-code-dan-konfigurasi.md"
+        },
+        "8.3": {
+          "part": 8,
+          "chapter": 3,
+          "decimal": "8.3",
+          "slug": "08-03-kontainer-orkestrasi-cloud-native",
+          "title": "Kontainer, orkestrasi, dan cloud-native",
+          "heading": "8.3 Kontainer, orkestrasi, dan cloud-native",
+          "file": "locales/id-001/chapters/08-03-kontainer-orkestrasi-cloud-native.md"
+        },
+        "8.4": {
+          "part": 8,
+          "chapter": 4,
+          "decimal": "8.4",
+          "slug": "08-04-rekayasa-platform-dan-devex",
+          "title": "Rekayasa platform dan pengalaman pengembang",
+          "heading": "8.4 Rekayasa platform dan pengalaman pengembang",
+          "file": "locales/id-001/chapters/08-04-rekayasa-platform-dan-devex.md"
+        },
+        "8.5": {
+          "part": 8,
+          "chapter": 5,
+          "decimal": "8.5",
+          "slug": "08-05-otomasi-pengujian-dan-proses",
+          "title": "Otomasi pengujian dan proses",
+          "heading": "8.5 Otomasi pengujian dan proses",
+          "file": "locales/id-001/chapters/08-05-otomasi-pengujian-dan-proses.md"
+        },
+        "8.6": {
+          "part": 8,
+          "chapter": 6,
+          "decimal": "8.6",
+          "slug": "08-06-manajemen-rilis-dan-pengiriman-progresif",
+          "title": "Manajemen rilis dan pengiriman progresif",
+          "heading": "8.6 Manajemen rilis dan pengiriman progresif",
+          "file": "locales/id-001/chapters/08-06-manajemen-rilis-dan-pengiriman-progresif.md"
+        },
+        "8.7": {
+          "part": 8,
+          "chapter": 7,
+          "decimal": "8.7",
+          "slug": "08-07-sistem-build-dan-manajemen-artefak",
+          "title": "Sistem build dan manajemen artefak",
+          "heading": "8.7 Sistem build dan manajemen artefak",
+          "file": "locales/id-001/chapters/08-07-sistem-build-dan-manajemen-artefak.md"
+        },
+        "9.0": {
+          "part": 9,
+          "chapter": 0,
+          "decimal": "9.0",
+          "slug": "09-00-operasi-dan-keandalan",
+          "title": "Pengantar Bagian 9: Operasi, keandalan, dan observabilitas",
+          "heading": "9.0 Pengantar Bagian 9: Operasi, keandalan, dan observabilitas",
+          "file": "locales/id-001/chapters/09-00-operasi-dan-keandalan.md"
+        },
+        "9.1": {
+          "part": 9,
+          "chapter": 1,
+          "decimal": "9.1",
+          "slug": "09-01-site-reliability-engineering",
+          "title": "Site reliability engineering",
+          "heading": "9.1 Site reliability engineering",
+          "file": "locales/id-001/chapters/09-01-site-reliability-engineering.md"
+        },
+        "9.2": {
+          "part": 9,
+          "chapter": 2,
+          "decimal": "9.2",
+          "slug": "09-02-observabilitas-dan-telemetri",
+          "title": "Observabilitas dan telemetri",
+          "heading": "9.2 Observabilitas dan telemetri",
+          "file": "locales/id-001/chapters/09-02-observabilitas-dan-telemetri.md"
+        },
+        "9.3": {
+          "part": 9,
+          "chapter": 3,
+          "decimal": "9.3",
+          "slug": "09-03-manajemen-insiden",
+          "title": "Manajemen insiden",
+          "heading": "9.3 Manajemen insiden",
+          "file": "locales/id-001/chapters/09-03-manajemen-insiden.md"
+        },
+        "9.4": {
+          "part": 9,
+          "chapter": 4,
+          "decimal": "9.4",
+          "slug": "09-04-biaya-keberlanjutan-perangkat-lunak-hijau",
+          "title": "Biaya, keberlanjutan, dan perangkat lunak hijau",
+          "heading": "9.4 Biaya, keberlanjutan, dan perangkat lunak hijau",
+          "file": "locales/id-001/chapters/09-04-biaya-keberlanjutan-perangkat-lunak-hijau.md"
+        },
+        "9.5": {
+          "part": 9,
+          "chapter": 5,
+          "decimal": "9.5",
+          "slug": "09-05-pemulihan-bencana-dan-kesinambungan-bisnis",
+          "title": "Pemulihan bencana dan kesinambungan bisnis",
+          "heading": "9.5 Pemulihan bencana dan kesinambungan bisnis",
+          "file": "locales/id-001/chapters/09-05-pemulihan-bencana-dan-kesinambungan-bisnis.md"
+        },
+        "9.6": {
+          "part": 9,
+          "chapter": 6,
+          "decimal": "9.6",
+          "slug": "09-06-rekayasa-chaos-dan-pengujian-ketahanan",
+          "title": "Rekayasa chaos dan pengujian ketahanan",
+          "heading": "9.6 Rekayasa chaos dan pengujian ketahanan",
+          "file": "locales/id-001/chapters/09-06-rekayasa-chaos-dan-pengujian-ketahanan.md"
+        },
+        "9.7": {
+          "part": 9,
+          "chapter": 7,
+          "decimal": "9.7",
+          "slug": "09-07-perencanaan-kapasitas-dan-peramalan-permintaan",
+          "title": "Perencanaan kapasitas dan peramalan permintaan",
+          "heading": "9.7 Perencanaan kapasitas dan peramalan permintaan",
+          "file": "locales/id-001/chapters/09-07-perencanaan-kapasitas-dan-peramalan-permintaan.md"
+        },
+        "9.8": {
+          "part": 9,
+          "chapter": 8,
+          "decimal": "9.8",
+          "slug": "09-08-on-call-dan-kesiapan-operasional",
+          "title": "On-call dan kesiapan operasional",
+          "heading": "9.8 On-call dan kesiapan operasional",
+          "file": "locales/id-001/chapters/09-08-on-call-dan-kesiapan-operasional.md"
+        },
+        "10.0": {
+          "part": 10,
+          "chapter": 0,
+          "decimal": "10.0",
+          "slug": "10-00-manajemen-proyek-produk-dan-program",
+          "title": "Pengantar Bagian 10: Manajemen proyek, produk, dan program",
+          "heading": "10.0 Pengantar Bagian 10: Manajemen proyek, produk, dan program",
+          "file": "locales/id-001/chapters/10-00-manajemen-proyek-produk-dan-program.md"
+        },
+        "10.1": {
+          "part": 10,
+          "chapter": 1,
+          "decimal": "10.1",
+          "slug": "10-01-manajemen-portofolio-dan-program",
+          "title": "Manajemen portofolio dan program",
+          "heading": "10.1 Manajemen portofolio dan program",
+          "file": "locales/id-001/chapters/10-01-manajemen-portofolio-dan-program.md"
+        },
+        "10.2": {
+          "part": 10,
+          "chapter": 2,
+          "decimal": "10.2",
+          "slug": "10-02-risiko-audit-dan-jaminan",
+          "title": "Risiko, audit, dan jaminan",
+          "heading": "10.2 Risiko, audit, dan jaminan",
+          "file": "locales/id-001/chapters/10-02-risiko-audit-dan-jaminan.md"
+        },
+        "10.3": {
+          "part": 10,
+          "chapter": 3,
+          "decimal": "10.3",
+          "slug": "10-03-pengadaan-sumber-terbuka-dan-lisensi",
+          "title": "Pengadaan, sumber terbuka, dan lisensi",
+          "heading": "10.3 Pengadaan, sumber terbuka, dan lisensi",
+          "file": "locales/id-001/chapters/10-03-pengadaan-sumber-terbuka-dan-lisensi.md"
+        },
+        "10.4": {
+          "part": 10,
+          "chapter": 4,
+          "decimal": "10.4",
+          "slug": "10-04-merawat-sistem-besar-dan-berumur-panjang",
+          "title": "Merawat sistem besar dan berumur panjang",
+          "heading": "10.4 Merawat sistem besar dan berumur panjang",
+          "file": "locales/id-001/chapters/10-04-merawat-sistem-besar-dan-berumur-panjang.md"
+        },
+        "10.5": {
+          "part": 10,
+          "chapter": 5,
+          "decimal": "10.5",
+          "slug": "10-05-etika-akuntabilitas-kepentingan-publik",
+          "title": "Etika, akuntabilitas, dan kepentingan publik",
+          "heading": "10.5 Etika, akuntabilitas, dan kepentingan publik",
+          "file": "locales/id-001/chapters/10-05-etika-akuntabilitas-kepentingan-publik.md"
+        },
+        "10.6": {
+          "part": 10,
+          "chapter": 6,
+          "decimal": "10.6",
+          "slug": "10-06-manajemen-proyek",
+          "title": "Manajemen proyek",
+          "heading": "10.6 Manajemen proyek",
+          "file": "locales/id-001/chapters/10-06-manajemen-proyek.md"
+        },
+        "10.7": {
+          "part": 10,
+          "chapter": 7,
+          "decimal": "10.7",
+          "slug": "10-07-agile",
+          "title": "Agile",
+          "heading": "10.7 Agile",
+          "file": "locales/id-001/chapters/10-07-agile.md"
+        },
+        "10.8": {
+          "part": 10,
+          "chapter": 8,
+          "decimal": "10.8",
+          "slug": "10-08-model-kematangan",
+          "title": "Model kematangan",
+          "heading": "10.8 Model kematangan",
+          "file": "locales/id-001/chapters/10-08-model-kematangan.md"
+        },
+        "10.9": {
+          "part": 10,
+          "chapter": 9,
+          "decimal": "10.9",
+          "slug": "10-09-kemitraan-inovasi",
+          "title": "Kemitraan inovasi",
+          "heading": "10.9 Kemitraan inovasi",
+          "file": "locales/id-001/chapters/10-09-kemitraan-inovasi.md"
+        },
+        "10.10": {
+          "part": 10,
+          "chapter": 10,
+          "decimal": "10.10",
+          "slug": "10-10-ekonomi-rekayasa-perangkat-lunak",
+          "title": "Ekonomi rekayasa perangkat lunak",
+          "heading": "10.10 Ekonomi rekayasa perangkat lunak",
+          "file": "locales/id-001/chapters/10-10-ekonomi-rekayasa-perangkat-lunak.md"
+        },
+        "10.11": {
+          "part": 10,
+          "chapter": 11,
+          "decimal": "10.11",
+          "slug": "10-11-kedaulatan-digital",
+          "title": "Kedaulatan digital",
+          "heading": "10.11 Kedaulatan digital",
+          "file": "locales/id-001/chapters/10-11-kedaulatan-digital.md"
+        },
+        "10.12": {
+          "part": 10,
+          "chapter": 12,
+          "decimal": "10.12",
+          "slug": "10-12-sumber-terbuka-vs-sumber-tertutup",
+          "title": "Sumber terbuka vs sumber tertutup",
+          "heading": "10.12 Sumber terbuka vs sumber tertutup",
+          "file": "locales/id-001/chapters/10-12-sumber-terbuka-vs-sumber-tertutup.md"
+        },
+        "10.13": {
+          "part": 10,
+          "chapter": 13,
+          "decimal": "10.13",
+          "slug": "10-13-kolaborasi-antarorganisasi",
+          "title": "Kolaborasi antarorganisasi",
+          "heading": "10.13 Kolaborasi antarorganisasi",
+          "file": "locales/id-001/chapters/10-13-kolaborasi-antarorganisasi.md"
+        },
+        "10.14": {
+          "part": 10,
+          "chapter": 14,
+          "decimal": "10.14",
+          "slug": "10-14-manajemen-produk-dan-penemuan",
+          "title": "Manajemen produk dan penemuan",
+          "heading": "10.14 Manajemen produk dan penemuan",
+          "file": "locales/id-001/chapters/10-14-manajemen-produk-dan-penemuan.md"
+        },
+        "10.15": {
+          "part": 10,
+          "chapter": 15,
+          "decimal": "10.15",
+          "slug": "10-15-estimasi-dan-peramalan",
+          "title": "Estimasi dan peramalan",
+          "heading": "10.15 Estimasi dan peramalan",
+          "file": "locales/id-001/chapters/10-15-estimasi-dan-peramalan.md"
+        },
+        "10.16": {
+          "part": 10,
+          "chapter": 16,
+          "decimal": "10.16",
+          "slug": "10-16-manajemen-pemangku-kepentingan-dan-komunikasi",
+          "title": "Manajemen pemangku kepentingan dan komunikasi",
+          "heading": "10.16 Manajemen pemangku kepentingan dan komunikasi",
+          "file": "locales/id-001/chapters/10-16-manajemen-pemangku-kepentingan-dan-komunikasi.md"
+        },
+        "10.17": {
+          "part": 10,
+          "chapter": 17,
+          "decimal": "10.17",
+          "slug": "10-17-manajemen-perubahan-organisasi",
+          "title": "Manajemen perubahan organisasi",
+          "heading": "10.17 Manajemen perubahan organisasi",
+          "file": "locales/id-001/chapters/10-17-manajemen-perubahan-organisasi.md"
+        },
+        "10.18": {
+          "part": 10,
+          "chapter": 18,
+          "decimal": "10.18",
+          "slug": "10-18-kantor-program-sumber-terbuka",
+          "title": "Kantor program sumber terbuka (OSPO) dan kontribusi hulu",
+          "heading": "10.18 Kantor program sumber terbuka (OSPO) dan kontribusi hulu",
+          "file": "locales/id-001/chapters/10-18-kantor-program-sumber-terbuka.md"
+        },
+        "11.0": {
+          "part": 11,
+          "chapter": 0,
+          "decimal": "11.0",
+          "slug": "11-00-aliran-penemuan-dan-penyampaian",
+          "title": "Pengantar Bagian 11: Aliran: jalur penemuan dan penyampaian",
+          "heading": "11.0 Pengantar Bagian 11: Aliran: jalur penemuan dan penyampaian",
+          "file": "locales/id-001/chapters/11-00-aliran-penemuan-dan-penyampaian.md"
+        },
+        "11.1": {
+          "part": 11,
+          "chapter": 1,
+          "decimal": "11.1",
+          "slug": "11-01-jalur-penemuan",
+          "title": "Jalur penemuan",
+          "heading": "11.1 Jalur penemuan",
+          "file": "locales/id-001/chapters/11-01-jalur-penemuan.md"
+        },
+        "11.2": {
+          "part": 11,
+          "chapter": 2,
+          "decimal": "11.2",
+          "slug": "11-02-jalur-penyampaian",
+          "title": "Jalur penyampaian",
+          "heading": "11.2 Jalur penyampaian",
+          "file": "locales/id-001/chapters/11-02-jalur-penyampaian.md"
+        },
+        "11.3": {
+          "part": 11,
+          "chapter": 3,
+          "decimal": "11.3",
+          "slug": "11-03-teori-antrean",
+          "title": "Teori antrean",
+          "heading": "11.3 Teori antrean",
+          "file": "locales/id-001/chapters/11-03-teori-antrean.md"
+        },
+        "11.4": {
+          "part": 11,
+          "chapter": 4,
+          "decimal": "11.4",
+          "slug": "11-04-sasaran-dan-hasil-kunci-okr",
+          "title": "Objectives and key results (OKR)",
+          "heading": "11.4 Objectives and key results (OKR)",
+          "file": "locales/id-001/chapters/11-04-sasaran-dan-hasil-kunci-okr.md"
+        },
+        "11.5": {
+          "part": 11,
+          "chapter": 5,
+          "decimal": "11.5",
+          "slug": "11-05-indikator-kinerja-utama-kpi",
+          "title": "Key performance indicator (KPI)",
+          "heading": "11.5 Key performance indicator (KPI)",
+          "file": "locales/id-001/chapters/11-05-indikator-kinerja-utama-kpi.md"
+        },
+        "11.6": {
+          "part": 11,
+          "chapter": 6,
+          "decimal": "11.6",
+          "slug": "11-06-pemetaan-aliran-nilai-dan-biaya-penundaan",
+          "title": "Pemetaan aliran nilai dan biaya penundaan",
+          "heading": "11.6 Pemetaan aliran nilai dan biaya penundaan",
+          "file": "locales/id-001/chapters/11-06-pemetaan-aliran-nilai-dan-biaya-penundaan.md"
+        },
+        "12.0": {
+          "part": 12,
+          "chapter": 0,
+          "decimal": "12.0",
+          "slug": "12-00-lampiran",
+          "title": "Lampiran",
+          "heading": "12.0 Lampiran",
+          "file": "locales/id-001/chapters/12-00-lampiran.md"
+        },
+        "12.1": {
+          "part": 12,
+          "chapter": 1,
+          "decimal": "12.1",
+          "slug": "12-01-glosarium",
+          "title": "Glosarium",
+          "heading": "12.1 Glosarium",
+          "file": "locales/id-001/chapters/12-01-glosarium.md"
+        },
+        "12.2": {
+          "part": 12,
+          "chapter": 2,
+          "decimal": "12.2",
+          "slug": "12-02-daftar-periksa",
+          "title": "Daftar periksa",
+          "heading": "12.2 Daftar periksa",
+          "file": "locales/id-001/chapters/12-02-daftar-periksa.md"
+        },
+        "12.3": {
+          "part": 12,
+          "chapter": 3,
+          "decimal": "12.3",
+          "slug": "12-03-templat",
+          "title": "Templat",
+          "heading": "12.3 Templat",
+          "file": "locales/id-001/chapters/12-03-templat.md"
+        },
+        "12.4": {
+          "part": 12,
+          "chapter": 4,
+          "decimal": "12.4",
+          "slug": "12-04-penilaian-diri-kematangan",
+          "title": "Penilaian diri kematangan",
+          "heading": "12.4 Penilaian diri kematangan",
+          "file": "locales/id-001/chapters/12-04-penilaian-diri-kematangan.md"
+        },
+        "12.5": {
+          "part": 12,
+          "chapter": 5,
+          "decimal": "12.5",
+          "slug": "12-05-referensi",
+          "title": "Referensi",
+          "heading": "12.5 Referensi",
+          "file": "locales/id-001/chapters/12-05-referensi.md"
+        },
+        "12.6": {
+          "part": 12,
+          "chapter": 6,
+          "decimal": "12.6",
+          "slug": "12-06-peta-jalan-adopsi",
+          "title": "Peta jalan adopsi",
+          "heading": "12.6 Peta jalan adopsi",
+          "file": "locales/id-001/chapters/12-06-peta-jalan-adopsi.md"
+        },
+        "12.7": {
+          "part": 12,
+          "chapter": 7,
+          "decimal": "12.7",
+          "slug": "12-07-indeks",
+          "title": "Indeks",
+          "heading": "12.7 Indeks",
+          "file": "locales/id-001/chapters/12-07-indeks.md"
+        }
+      },
+      "order": [
+        "1.0",
+        "1.1",
+        "1.2",
+        "1.3",
+        "1.4",
+        "1.5",
+        "1.6",
+        "1.7",
+        "1.8",
+        "1.9",
+        "1.10",
+        "1.11",
+        "1.12",
+        "1.13",
+        "2.0",
+        "2.1",
+        "2.2",
+        "2.3",
+        "2.4",
+        "2.5",
+        "2.6",
+        "2.7",
+        "2.8",
+        "2.9",
+        "2.10",
+        "2.11",
+        "2.12",
+        "2.13",
+        "2.14",
+        "2.15",
+        "2.16",
+        "2.17",
+        "2.18",
+        "2.19",
+        "2.20",
+        "2.21",
+        "3.0",
+        "3.1",
+        "3.2",
+        "3.3",
+        "3.4",
+        "3.5",
+        "3.6",
+        "3.7",
+        "3.8",
+        "3.9",
+        "3.10",
+        "3.11",
+        "3.12",
+        "3.13",
+        "3.14",
+        "3.15",
+        "3.16",
+        "3.17",
+        "4.0",
+        "4.1",
+        "4.2",
+        "4.3",
+        "4.4",
+        "4.5",
+        "4.6",
+        "4.7",
+        "4.8",
+        "4.9",
+        "4.10",
+        "5.0",
+        "5.1",
+        "5.2",
+        "5.3",
+        "5.4",
+        "5.5",
+        "5.6",
+        "5.7",
+        "5.8",
+        "5.9",
+        "5.10",
+        "6.0",
+        "6.1",
+        "6.2",
+        "6.3",
+        "6.4",
+        "6.5",
+        "6.6",
+        "6.7",
+        "6.8",
+        "6.9",
+        "7.0",
+        "7.1",
+        "7.2",
+        "7.3",
+        "7.4",
+        "7.5",
+        "7.6",
+        "7.7",
+        "7.8",
+        "7.9",
+        "8.0",
+        "8.1",
+        "8.2",
+        "8.3",
+        "8.4",
+        "8.5",
+        "8.6",
+        "8.7",
+        "9.0",
+        "9.1",
+        "9.2",
+        "9.3",
+        "9.4",
+        "9.5",
+        "9.6",
+        "9.7",
+        "9.8",
+        "10.0",
+        "10.1",
+        "10.2",
+        "10.3",
+        "10.4",
+        "10.5",
+        "10.6",
+        "10.7",
+        "10.8",
+        "10.9",
+        "10.10",
+        "10.11",
+        "10.12",
+        "10.13",
+        "10.14",
+        "10.15",
+        "10.16",
+        "10.17",
+        "10.18",
+        "11.0",
+        "11.1",
+        "11.2",
+        "11.3",
+        "11.4",
+        "11.5",
+        "11.6",
+        "12.0",
+        "12.1",
+        "12.2",
+        "12.3",
+        "12.4",
+        "12.5",
+        "12.6",
+        "12.7"
+      ],
+      "hasHomePage": false,
+      "topicsSlug": "topik"
+    },
     "zh-001": {
       "chapters": [
         {
@@ -67280,6 +71480,7 @@
     "fr-001",
     "hi-001",
     "hi-in",
+    "id-001",
     "zh-001",
     "zh-cn"
   ],
