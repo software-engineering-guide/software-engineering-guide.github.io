@@ -19,7 +19,9 @@ export const LOCALE_LABELS = {
   'bn-001': 'বাংলা',
   'id-001': 'Bahasa Indonesia',
   'ja-jp': '日本語',
-  'ja-001': '日本語'
+  'ja-001': '日本語',
+  'ko-kr': '한국어',
+  'ko-001': '한국어'
 };
 
 /** @param {string} code */
