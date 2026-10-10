@@ -21,7 +21,9 @@ export const LOCALE_LABELS = {
   'ja-jp': '日本語',
   'ja-001': '日本語',
   'ko-kr': '한국어',
-  'ko-001': '한국어'
+  'ko-001': '한국어',
+  'sv-se': 'Svenska',
+  'sv-001': 'Svenska'
 };
 
 /** @param {string} code */
