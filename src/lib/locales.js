@@ -23,7 +23,9 @@ export const LOCALE_LABELS = {
   'ko-kr': '한국어',
   'ko-001': '한국어',
   'sv-se': 'Svenska',
-  'sv-001': 'Svenska'
+  'sv-001': 'Svenska',
+  'nl-nl': 'Nederlands',
+  'nl-001': 'Nederlands'
 };
 
 /** @param {string} code */
