@@ -17,7 +17,9 @@ export const LOCALE_LABELS = {
   'fr-001': 'Français',
   'ar-001': 'العربية',
   'bn-001': 'বাংলা',
-  'id-001': 'Bahasa Indonesia'
+  'id-001': 'Bahasa Indonesia',
+  'ja-jp': '日本語',
+  'ja-001': '日本語'
 };
 
 /** @param {string} code */
