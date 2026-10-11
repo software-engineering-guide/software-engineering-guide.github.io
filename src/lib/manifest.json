@@ -96665,6 +96665,4206 @@
       "hasHomePage": false,
       "topicsSlug": "onderwerpen"
     },
+    "pt-001": {
+      "chapters": [
+        {
+          "part": 1,
+          "chapter": 0,
+          "decimal": "1.0",
+          "slug": "01-00-pessoas",
+          "title": "Introdução à Parte 1: Pessoas",
+          "heading": "1.0 Introdução à Parte 1: Pessoas",
+          "file": "locales/pt-001/chapters/01-00-pessoas.md"
+        },
+        {
+          "part": 1,
+          "chapter": 1,
+          "decimal": "1.1",
+          "slug": "01-01-valores-da-engenharia-de-software",
+          "title": "Valores da engenharia de software",
+          "heading": "1.1 Valores da engenharia de software",
+          "file": "locales/pt-001/chapters/01-01-valores-da-engenharia-de-software.md"
+        },
+        {
+          "part": 1,
+          "chapter": 2,
+          "decimal": "1.2",
+          "slug": "01-02-topologias-de-equipes",
+          "title": "Topologias de equipes e desenho organizacional",
+          "heading": "1.2 Topologias de equipes e desenho organizacional",
+          "file": "locales/pt-001/chapters/01-02-topologias-de-equipes.md"
+        },
+        {
+          "part": 1,
+          "chapter": 3,
+          "decimal": "1.3",
+          "slug": "01-03-funções-carreiras-e-crescimento",
+          "title": "Funções, escadas de carreira e crescimento",
+          "heading": "1.3 Funções, escadas de carreira e crescimento",
+          "file": "locales/pt-001/chapters/01-03-funções-carreiras-e-crescimento.md"
+        },
+        {
+          "part": 1,
+          "chapter": 4,
+          "decimal": "1.4",
+          "slug": "01-04-formas-de-trabalhar",
+          "title": "Formas de trabalhar",
+          "heading": "1.4 Formas de trabalhar",
+          "file": "locales/pt-001/chapters/01-04-formas-de-trabalhar.md"
+        },
+        {
+          "part": 1,
+          "chapter": 5,
+          "decimal": "1.5",
+          "slug": "01-05-tomada-de-decisão-e-governança",
+          "title": "Tomada de decisão e governança",
+          "heading": "1.5 Tomada de decisão e governança",
+          "file": "locales/pt-001/chapters/01-05-tomada-de-decisão-e-governança.md"
+        },
+        {
+          "part": 1,
+          "chapter": 6,
+          "decimal": "1.6",
+          "slug": "01-06-registros-de-decisão",
+          "title": "Registros de decisão",
+          "heading": "1.6 Registros de decisão",
+          "file": "locales/pt-001/chapters/01-06-registros-de-decisão.md"
+        },
+        {
+          "part": 1,
+          "chapter": 7,
+          "decimal": "1.7",
+          "slug": "01-07-padrões-de-engenharia-e-exceções",
+          "title": "Padrões de engenharia e exceções",
+          "heading": "1.7 Padrões de engenharia e exceções",
+          "file": "locales/pt-001/chapters/01-07-padrões-de-engenharia-e-exceções.md"
+        },
+        {
+          "part": 1,
+          "chapter": 8,
+          "decimal": "1.8",
+          "slug": "01-08-contratação-entrevistas-e-integração",
+          "title": "Contratação, entrevistas e integração",
+          "heading": "1.8 Contratação, entrevistas e integração",
+          "file": "locales/pt-001/chapters/01-08-contratação-entrevistas-e-integração.md"
+        },
+        {
+          "part": 1,
+          "chapter": 9,
+          "decimal": "1.9",
+          "slug": "01-09-trabalho-distribuído-e-remoto",
+          "title": "Trabalho distribuído e remoto",
+          "heading": "1.9 Trabalho distribuído e remoto",
+          "file": "locales/pt-001/chapters/01-09-trabalho-distribuído-e-remoto.md"
+        },
+        {
+          "part": 1,
+          "chapter": 10,
+          "decimal": "1.10",
+          "slug": "01-10-eficácia-da-engenharia-e-produtividade-dos-desenvolvedores",
+          "title": "Eficácia da engenharia e produtividade dos desenvolvedores",
+          "heading": "1.10 Eficácia da engenharia e produtividade dos desenvolvedores",
+          "file": "locales/pt-001/chapters/01-10-eficácia-da-engenharia-e-produtividade-dos-desenvolvedores.md"
+        },
+        {
+          "part": 1,
+          "chapter": 11,
+          "decimal": "1.11",
+          "slug": "01-11-gestão-de-engenharia",
+          "title": "Gestão de engenharia",
+          "heading": "1.11 Gestão de engenharia",
+          "file": "locales/pt-001/chapters/01-11-gestão-de-engenharia.md"
+        },
+        {
+          "part": 1,
+          "chapter": 12,
+          "decimal": "1.12",
+          "slug": "01-12-diversidade-equidade-inclusão-e-pertencimento",
+          "title": "Diversidade, equidade, inclusão e pertencimento",
+          "heading": "1.12 Diversidade, equidade, inclusão e pertencimento",
+          "file": "locales/pt-001/chapters/01-12-diversidade-equidade-inclusão-e-pertencimento.md"
+        },
+        {
+          "part": 1,
+          "chapter": 13,
+          "decimal": "1.13",
+          "slug": "01-13-mentoria-coaching-e-compartilhamento-de-conhecimento",
+          "title": "Mentoria, coaching e compartilhamento de conhecimento",
+          "heading": "1.13 Mentoria, coaching e compartilhamento de conhecimento",
+          "file": "locales/pt-001/chapters/01-13-mentoria-coaching-e-compartilhamento-de-conhecimento.md"
+        },
+        {
+          "part": 2,
+          "chapter": 0,
+          "decimal": "2.0",
+          "slug": "02-00-programação-de-software",
+          "title": "Introdução à Parte 2: Programação de software",
+          "heading": "2.0 Introdução à Parte 2: Programação de software",
+          "file": "locales/pt-001/chapters/02-00-programação-de-software.md"
+        },
+        {
+          "part": 2,
+          "chapter": 1,
+          "decimal": "2.1",
+          "slug": "02-01-padrões-de-codificação-e-estilo",
+          "title": "Padrões de codificação e estilo",
+          "heading": "2.1 Padrões de codificação e estilo",
+          "file": "locales/pt-001/chapters/02-01-padrões-de-codificação-e-estilo.md"
+        },
+        {
+          "part": 2,
+          "chapter": 2,
+          "decimal": "2.2",
+          "slug": "02-02-princípios-de-design-de-software",
+          "title": "Princípios de design de software",
+          "heading": "2.2 Princípios de design de software",
+          "file": "locales/pt-001/chapters/02-02-princípios-de-design-de-software.md"
+        },
+        {
+          "part": 2,
+          "chapter": 3,
+          "decimal": "2.3",
+          "slug": "02-03-apis-e-design-de-interfaces",
+          "title": "APIs e design de interfaces",
+          "heading": "2.3 APIs e design de interfaces",
+          "file": "locales/pt-001/chapters/02-03-apis-e-design-de-interfaces.md"
+        },
+        {
+          "part": 2,
+          "chapter": 4,
+          "decimal": "2.4",
+          "slug": "02-04-estratégia-de-testes",
+          "title": "Estratégia de testes",
+          "heading": "2.4 Estratégia de testes",
+          "file": "locales/pt-001/chapters/02-04-estratégia-de-testes.md"
+        },
+        {
+          "part": 2,
+          "chapter": 5,
+          "decimal": "2.5",
+          "slug": "02-05-revisão-de-código-e-colaboração",
+          "title": "Revisão de código e colaboração",
+          "heading": "2.5 Revisão de código e colaboração",
+          "file": "locales/pt-001/chapters/02-05-revisão-de-código-e-colaboração.md"
+        },
+        {
+          "part": 2,
+          "chapter": 6,
+          "decimal": "2.6",
+          "slug": "02-06-controle-de-versões-e-gestão-de-código-fonte",
+          "title": "Controle de versões e gestão de código-fonte",
+          "heading": "2.6 Controle de versões e gestão de código-fonte",
+          "file": "locales/pt-001/chapters/02-06-controle-de-versões-e-gestão-de-código-fonte.md"
+        },
+        {
+          "part": 2,
+          "chapter": 7,
+          "decimal": "2.7",
+          "slug": "02-07-documentação",
+          "title": "Documentação",
+          "heading": "2.7 Documentação",
+          "file": "locales/pt-001/chapters/02-07-documentação.md"
+        },
+        {
+          "part": 2,
+          "chapter": 8,
+          "decimal": "2.8",
+          "slug": "02-08-requisitos-de-software",
+          "title": "Requisitos de software",
+          "heading": "2.8 Requisitos de software",
+          "file": "locales/pt-001/chapters/02-08-requisitos-de-software.md"
+        },
+        {
+          "part": 2,
+          "chapter": 9,
+          "decimal": "2.9",
+          "slug": "02-09-construção-de-software",
+          "title": "Construção de software",
+          "heading": "2.9 Construção de software",
+          "file": "locales/pt-001/chapters/02-09-construção-de-software.md"
+        },
+        {
+          "part": 2,
+          "chapter": 10,
+          "decimal": "2.10",
+          "slug": "02-10-gestão-de-configuração-de-software",
+          "title": "Gestão de configuração de software",
+          "heading": "2.10 Gestão de configuração de software",
+          "file": "locales/pt-001/chapters/02-10-gestão-de-configuração-de-software.md"
+        },
+        {
+          "part": 2,
+          "chapter": 11,
+          "decimal": "2.11",
+          "slug": "02-11-qualidade-de-software",
+          "title": "Qualidade de software",
+          "heading": "2.11 Qualidade de software",
+          "file": "locales/pt-001/chapters/02-11-qualidade-de-software.md"
+        },
+        {
+          "part": 2,
+          "chapter": 12,
+          "decimal": "2.12",
+          "slug": "02-12-modelos-e-métodos-de-software",
+          "title": "Modelos e métodos de software",
+          "heading": "2.12 Modelos e métodos de software",
+          "file": "locales/pt-001/chapters/02-12-modelos-e-métodos-de-software.md"
+        },
+        {
+          "part": 2,
+          "chapter": 13,
+          "decimal": "2.13",
+          "slug": "02-13-fundamentos-de-computação-matemática-e-engenharia",
+          "title": "Fundamentos de computação, matemática e engenharia",
+          "heading": "2.13 Fundamentos de computação, matemática e engenharia",
+          "file": "locales/pt-001/chapters/02-13-fundamentos-de-computação-matemática-e-engenharia.md"
+        },
+        {
+          "part": 2,
+          "chapter": 14,
+          "decimal": "2.14",
+          "slug": "02-14-estrutura-de-projetos-e-repositórios",
+          "title": "Estrutura de projetos e repositórios",
+          "heading": "2.14 Estrutura de projetos e repositórios",
+          "file": "locales/pt-001/chapters/02-14-estrutura-de-projetos-e-repositórios.md"
+        },
+        {
+          "part": 2,
+          "chapter": 15,
+          "decimal": "2.15",
+          "slug": "02-15-depuração-e-resolução-de-problemas",
+          "title": "Depuração e resolução de problemas",
+          "heading": "2.15 Depuração e resolução de problemas",
+          "file": "locales/pt-001/chapters/02-15-depuração-e-resolução-de-problemas.md"
+        },
+        {
+          "part": 2,
+          "chapter": 16,
+          "decimal": "2.16",
+          "slug": "02-16-engenharia-de-desempenho",
+          "title": "Engenharia de desempenho",
+          "heading": "2.16 Engenharia de desempenho",
+          "file": "locales/pt-001/chapters/02-16-engenharia-de-desempenho.md"
+        },
+        {
+          "part": 2,
+          "chapter": 17,
+          "decimal": "2.17",
+          "slug": "02-17-concorrência-e-paralelismo",
+          "title": "Concorrência e paralelismo",
+          "heading": "2.17 Concorrência e paralelismo",
+          "file": "locales/pt-001/chapters/02-17-concorrência-e-paralelismo.md"
+        },
+        {
+          "part": 2,
+          "chapter": 18,
+          "decimal": "2.18",
+          "slug": "02-18-gestão-de-dependências-e-da-cadeia-de-suprimentos",
+          "title": "Gestão de dependências e da cadeia de suprimentos",
+          "heading": "2.18 Gestão de dependências e da cadeia de suprimentos",
+          "file": "locales/pt-001/chapters/02-18-gestão-de-dependências-e-da-cadeia-de-suprimentos.md"
+        },
+        {
+          "part": 2,
+          "chapter": 19,
+          "decimal": "2.19",
+          "slug": "02-19-refatoração-e-dívida-técnica",
+          "title": "Refatoração e dívida técnica",
+          "heading": "2.19 Refatoração e dívida técnica",
+          "file": "locales/pt-001/chapters/02-19-refatoração-e-dívida-técnica.md"
+        },
+        {
+          "part": 2,
+          "chapter": 20,
+          "decimal": "2.20",
+          "slug": "02-20-tratamento-de-erros-e-padrões-de-resiliência",
+          "title": "Tratamento de erros e padrões de resiliência",
+          "heading": "2.20 Tratamento de erros e padrões de resiliência",
+          "file": "locales/pt-001/chapters/02-20-tratamento-de-erros-e-padrões-de-resiliência.md"
+        },
+        {
+          "part": 2,
+          "chapter": 21,
+          "decimal": "2.21",
+          "slug": "02-21-sistemas-de-tipos-e-análise-estática",
+          "title": "Sistemas de tipos e análise estática",
+          "heading": "2.21 Sistemas de tipos e análise estática",
+          "file": "locales/pt-001/chapters/02-21-sistemas-de-tipos-e-análise-estática.md"
+        },
+        {
+          "part": 3,
+          "chapter": 0,
+          "decimal": "3.0",
+          "slug": "03-00-sistemas",
+          "title": "Introdução à Parte 3: Sistemas",
+          "heading": "3.0 Introdução à Parte 3: Sistemas",
+          "file": "locales/pt-001/chapters/03-00-sistemas.md"
+        },
+        {
+          "part": 3,
+          "chapter": 1,
+          "decimal": "3.1",
+          "slug": "03-01-fundamentos-de-arquitetura",
+          "title": "Fundamentos de arquitetura",
+          "heading": "3.1 Fundamentos de arquitetura",
+          "file": "locales/pt-001/chapters/03-01-fundamentos-de-arquitetura.md"
+        },
+        {
+          "part": 3,
+          "chapter": 2,
+          "decimal": "3.2",
+          "slug": "03-02-estilos-e-padrões-arquiteturais",
+          "title": "Estilos e padrões arquiteturais",
+          "heading": "3.2 Estilos e padrões arquiteturais",
+          "file": "locales/pt-001/chapters/03-02-estilos-e-padrões-arquiteturais.md"
+        },
+        {
+          "part": 3,
+          "chapter": 3,
+          "decimal": "3.3",
+          "slug": "03-03-sistemas-distribuídos",
+          "title": "Sistemas distribuídos",
+          "heading": "3.3 Sistemas distribuídos",
+          "file": "locales/pt-001/chapters/03-03-sistemas-distribuídos.md"
+        },
+        {
+          "part": 3,
+          "chapter": 4,
+          "decimal": "3.4",
+          "slug": "03-04-arquitetura-de-dados-e-armazenamento",
+          "title": "Arquitetura de dados e armazenamento",
+          "heading": "3.4 Arquitetura de dados e armazenamento",
+          "file": "locales/pt-001/chapters/03-04-arquitetura-de-dados-e-armazenamento.md"
+        },
+        {
+          "part": 3,
+          "chapter": 5,
+          "decimal": "3.5",
+          "slug": "03-05-escalabilidade-desempenho-e-resiliência",
+          "title": "Escalabilidade, desempenho e resiliência",
+          "heading": "3.5 Escalabilidade, desempenho e resiliência",
+          "file": "locales/pt-001/chapters/03-05-escalabilidade-desempenho-e-resiliência.md"
+        },
+        {
+          "part": 3,
+          "chapter": 6,
+          "decimal": "3.6",
+          "slug": "03-06-modernização-de-sistemas-legados",
+          "title": "Modernização de sistemas legados",
+          "heading": "3.6 Modernização de sistemas legados",
+          "file": "locales/pt-001/chapters/03-06-modernização-de-sistemas-legados.md"
+        },
+        {
+          "part": 3,
+          "chapter": 7,
+          "decimal": "3.7",
+          "slug": "03-07-manutenção-de-software",
+          "title": "Manutenção de software",
+          "heading": "3.7 Manutenção de software",
+          "file": "locales/pt-001/chapters/03-07-manutenção-de-software.md"
+        },
+        {
+          "part": 3,
+          "chapter": 8,
+          "decimal": "3.8",
+          "slug": "03-08-interoperabilidade-e-padrões-abertos",
+          "title": "Interoperabilidade e padrões abertos",
+          "heading": "3.8 Interoperabilidade e padrões abertos",
+          "file": "locales/pt-001/chapters/03-08-interoperabilidade-e-padrões-abertos.md"
+        },
+        {
+          "part": 3,
+          "chapter": 9,
+          "decimal": "3.9",
+          "slug": "03-09-engenharia-de-sistemas",
+          "title": "Engenharia de sistemas",
+          "heading": "3.9 Engenharia de sistemas",
+          "file": "locales/pt-001/chapters/03-09-engenharia-de-sistemas.md"
+        },
+        {
+          "part": 3,
+          "chapter": 10,
+          "decimal": "3.10",
+          "slug": "03-10-sistemas-embarcados-e-de-tempo-real",
+          "title": "Sistemas embarcados e de tempo real",
+          "heading": "3.10 Sistemas embarcados e de tempo real",
+          "file": "locales/pt-001/chapters/03-10-sistemas-embarcados-e-de-tempo-real.md"
+        },
+        {
+          "part": 3,
+          "chapter": 11,
+          "decimal": "3.11",
+          "slug": "03-11-arquitetura-na-nuvem",
+          "title": "Arquitetura na nuvem",
+          "heading": "3.11 Arquitetura na nuvem",
+          "file": "locales/pt-001/chapters/03-11-arquitetura-na-nuvem.md"
+        },
+        {
+          "part": 3,
+          "chapter": 12,
+          "decimal": "3.12",
+          "slug": "03-12-arquitetura-orientada-a-eventos-e-mensagens",
+          "title": "Arquitetura orientada a eventos e mensagens",
+          "heading": "3.12 Arquitetura orientada a eventos e mensagens",
+          "file": "locales/pt-001/chapters/03-12-arquitetura-orientada-a-eventos-e-mensagens.md"
+        },
+        {
+          "part": 3,
+          "chapter": 13,
+          "decimal": "3.13",
+          "slug": "03-13-redes-e-conectividade",
+          "title": "Redes e conectividade",
+          "heading": "3.13 Redes e conectividade",
+          "file": "locales/pt-001/chapters/03-13-redes-e-conectividade.md"
+        },
+        {
+          "part": 3,
+          "chapter": 14,
+          "decimal": "3.14",
+          "slug": "03-14-multilocação-e-arquitetura-saas",
+          "title": "Multilocação e arquitetura SaaS",
+          "heading": "3.14 Multilocação e arquitetura SaaS",
+          "file": "locales/pt-001/chapters/03-14-multilocação-e-arquitetura-saas.md"
+        },
+        {
+          "part": 3,
+          "chapter": 15,
+          "decimal": "3.15",
+          "slug": "03-15-cache-e-distribuição-de-conteúdo",
+          "title": "Cache e distribuição de conteúdo",
+          "heading": "3.15 Cache e distribuição de conteúdo",
+          "file": "locales/pt-001/chapters/03-15-cache-e-distribuição-de-conteúdo.md"
+        },
+        {
+          "part": 3,
+          "chapter": 16,
+          "decimal": "3.16",
+          "slug": "03-16-gateways-de-api-e-malha-de-serviços",
+          "title": "Gateways de API e malha de serviços",
+          "heading": "3.16 Gateways de API e malha de serviços",
+          "file": "locales/pt-001/chapters/03-16-gateways-de-api-e-malha-de-serviços.md"
+        },
+        {
+          "part": 3,
+          "chapter": 17,
+          "decimal": "3.17",
+          "slug": "03-17-pesquisa-e-recuperação-de-informação",
+          "title": "Pesquisa e recuperação de informação",
+          "heading": "3.17 Pesquisa e recuperação de informação",
+          "file": "locales/pt-001/chapters/03-17-pesquisa-e-recuperação-de-informação.md"
+        },
+        {
+          "part": 4,
+          "chapter": 0,
+          "decimal": "4.0",
+          "slug": "04-00-segurança",
+          "title": "Introdução à Parte 4: Segurança",
+          "heading": "4.0 Introdução à Parte 4: Segurança",
+          "file": "locales/pt-001/chapters/04-00-segurança.md"
+        },
+        {
+          "part": 4,
+          "chapter": 1,
+          "decimal": "4.1",
+          "slug": "04-01-fundamentos-e-cultura-de-segurança",
+          "title": "Fundamentos e cultura de segurança",
+          "heading": "4.1 Fundamentos e cultura de segurança",
+          "file": "locales/pt-001/chapters/04-01-fundamentos-e-cultura-de-segurança.md"
+        },
+        {
+          "part": 4,
+          "chapter": 2,
+          "decimal": "4.2",
+          "slug": "04-02-segurança-de-aplicações",
+          "title": "Segurança de aplicações",
+          "heading": "4.2 Segurança de aplicações",
+          "file": "locales/pt-001/chapters/04-02-segurança-de-aplicações.md"
+        },
+        {
+          "part": 4,
+          "chapter": 3,
+          "decimal": "4.3",
+          "slug": "04-03-segurança-de-infraestrutura-e-nuvem",
+          "title": "Segurança de infraestrutura e de nuvem",
+          "heading": "4.3 Segurança de infraestrutura e de nuvem",
+          "file": "locales/pt-001/chapters/04-03-segurança-de-infraestrutura-e-nuvem.md"
+        },
+        {
+          "part": 4,
+          "chapter": 4,
+          "decimal": "4.4",
+          "slug": "04-04-operações-de-segurança",
+          "title": "Operações de segurança",
+          "heading": "4.4 Operações de segurança",
+          "file": "locales/pt-001/chapters/04-04-operações-de-segurança.md"
+        },
+        {
+          "part": 4,
+          "chapter": 5,
+          "decimal": "4.5",
+          "slug": "04-05-privacidade-e-proteção-de-dados",
+          "title": "Privacidade e proteção de dados",
+          "heading": "4.5 Privacidade e proteção de dados",
+          "file": "locales/pt-001/chapters/04-05-privacidade-e-proteção-de-dados.md"
+        },
+        {
+          "part": 4,
+          "chapter": 6,
+          "decimal": "4.6",
+          "slug": "04-06-conformidade-e-governança",
+          "title": "Conformidade e governança",
+          "heading": "4.6 Conformidade e governança",
+          "file": "locales/pt-001/chapters/04-06-conformidade-e-governança.md"
+        },
+        {
+          "part": 4,
+          "chapter": 7,
+          "decimal": "4.7",
+          "slug": "04-07-gestão-de-identidades-e-acessos",
+          "title": "Gestão de identidades e acessos",
+          "heading": "4.7 Gestão de identidades e acessos",
+          "file": "locales/pt-001/chapters/04-07-gestão-de-identidades-e-acessos.md"
+        },
+        {
+          "part": 4,
+          "chapter": 8,
+          "decimal": "4.8",
+          "slug": "04-08-criptografia-e-gestão-de-chaves",
+          "title": "Criptografia e gestão de chaves",
+          "heading": "4.8 Criptografia e gestão de chaves",
+          "file": "locales/pt-001/chapters/04-08-criptografia-e-gestão-de-chaves.md"
+        },
+        {
+          "part": 4,
+          "chapter": 9,
+          "decimal": "4.9",
+          "slug": "04-09-ciclo-de-vida-de-desenvolvimento-seguro",
+          "title": "Ciclo de vida de desenvolvimento seguro de software",
+          "heading": "4.9 Ciclo de vida de desenvolvimento seguro de software",
+          "file": "locales/pt-001/chapters/04-09-ciclo-de-vida-de-desenvolvimento-seguro.md"
+        },
+        {
+          "part": 4,
+          "chapter": 10,
+          "decimal": "4.10",
+          "slug": "04-10-testes-de-intrusão-e-red-teaming",
+          "title": "Testes de intrusão e red teaming",
+          "heading": "4.10 Testes de intrusão e red teaming",
+          "file": "locales/pt-001/chapters/04-10-testes-de-intrusão-e-red-teaming.md"
+        },
+        {
+          "part": 5,
+          "chapter": 0,
+          "decimal": "5.0",
+          "slug": "05-00-design-de-ui-e-ux",
+          "title": "Introdução à Parte 5: Design de UI e UX",
+          "heading": "5.0 Introdução à Parte 5: Design de UI e UX",
+          "file": "locales/pt-001/chapters/05-00-design-de-ui-e-ux.md"
+        },
+        {
+          "part": 5,
+          "chapter": 1,
+          "decimal": "5.1",
+          "slug": "05-01-fundamentos-de-ux",
+          "title": "Fundamentos de UX",
+          "heading": "5.1 Fundamentos de UX",
+          "file": "locales/pt-001/chapters/05-01-fundamentos-de-ux.md"
+        },
+        {
+          "part": 5,
+          "chapter": 2,
+          "decimal": "5.2",
+          "slug": "05-02-design-de-ui-e-sistemas-de-design",
+          "title": "Design de UI e sistemas de design",
+          "heading": "5.2 Design de UI e sistemas de design",
+          "file": "locales/pt-001/chapters/05-02-design-de-ui-e-sistemas-de-design.md"
+        },
+        {
+          "part": 5,
+          "chapter": 3,
+          "decimal": "5.3",
+          "slug": "05-03-acessibilidade",
+          "title": "Acessibilidade",
+          "heading": "5.3 Acessibilidade",
+          "file": "locales/pt-001/chapters/05-03-acessibilidade.md"
+        },
+        {
+          "part": 5,
+          "chapter": 4,
+          "decimal": "5.4",
+          "slug": "05-04-design-de-conteúdo-e-comunicação",
+          "title": "Design de conteúdo e comunicação",
+          "heading": "5.4 Design de conteúdo e comunicação",
+          "file": "locales/pt-001/chapters/05-04-design-de-conteúdo-e-comunicação.md"
+        },
+        {
+          "part": 5,
+          "chapter": 5,
+          "decimal": "5.5",
+          "slug": "05-05-internacionalização-e-localização",
+          "title": "Internacionalização e localização",
+          "heading": "5.5 Internacionalização e localização",
+          "file": "locales/pt-001/chapters/05-05-internacionalização-e-localização.md"
+        },
+        {
+          "part": 5,
+          "chapter": 6,
+          "decimal": "5.6",
+          "slug": "05-06-engenharia-de-front-end",
+          "title": "Engenharia de front-end",
+          "heading": "5.6 Engenharia de front-end",
+          "file": "locales/pt-001/chapters/05-06-engenharia-de-front-end.md"
+        },
+        {
+          "part": 5,
+          "chapter": 7,
+          "decimal": "5.7",
+          "slug": "05-07-desenvolvimento-de-aplicativos-móveis",
+          "title": "Desenvolvimento de aplicativos móveis",
+          "heading": "5.7 Desenvolvimento de aplicativos móveis",
+          "file": "locales/pt-001/chapters/05-07-desenvolvimento-de-aplicativos-móveis.md"
+        },
+        {
+          "part": 5,
+          "chapter": 8,
+          "decimal": "5.8",
+          "slug": "05-08-pesquisa-de-design-e-testes-de-usabilidade",
+          "title": "Pesquisa de design e testes de usabilidade",
+          "heading": "5.8 Pesquisa de design e testes de usabilidade",
+          "file": "locales/pt-001/chapters/05-08-pesquisa-de-design-e-testes-de-usabilidade.md"
+        },
+        {
+          "part": 5,
+          "chapter": 9,
+          "decimal": "5.9",
+          "slug": "05-09-design-de-serviços",
+          "title": "Design de serviços",
+          "heading": "5.9 Design de serviços",
+          "file": "locales/pt-001/chapters/05-09-design-de-serviços.md"
+        },
+        {
+          "part": 5,
+          "chapter": 10,
+          "decimal": "5.10",
+          "slug": "05-10-design-de-visualização-de-dados",
+          "title": "Design de visualização de dados",
+          "heading": "5.10 Design de visualização de dados",
+          "file": "locales/pt-001/chapters/05-10-design-de-visualização-de-dados.md"
+        },
+        {
+          "part": 6,
+          "chapter": 0,
+          "decimal": "6.0",
+          "slug": "06-00-inteligência-artificial",
+          "title": "Introdução à Parte 6: Inteligência artificial",
+          "heading": "6.0 Introdução à Parte 6: Inteligência artificial",
+          "file": "locales/pt-001/chapters/06-00-inteligência-artificial.md"
+        },
+        {
+          "part": 6,
+          "chapter": 1,
+          "decimal": "6.1",
+          "slug": "06-01-estratégia-e-prontidão-para-ia",
+          "title": "Estratégia e prontidão para IA",
+          "heading": "6.1 Estratégia e prontidão para IA",
+          "file": "locales/pt-001/chapters/06-01-estratégia-e-prontidão-para-ia.md"
+        },
+        {
+          "part": 6,
+          "chapter": 2,
+          "decimal": "6.2",
+          "slug": "06-02-mlops",
+          "title": "Engenharia de aprendizado de máquina (MLOps)",
+          "heading": "6.2 Engenharia de aprendizado de máquina (MLOps)",
+          "file": "locales/pt-001/chapters/06-02-mlops.md"
+        },
+        {
+          "part": 6,
+          "chapter": 3,
+          "decimal": "6.3",
+          "slug": "06-03-ia-generativa-e-aplicações-llm",
+          "title": "IA generativa e aplicações de LLM",
+          "heading": "6.3 IA generativa e aplicações de LLM",
+          "file": "locales/pt-001/chapters/06-03-ia-generativa-e-aplicações-llm.md"
+        },
+        {
+          "part": 6,
+          "chapter": 4,
+          "decimal": "6.4",
+          "slug": "06-04-desenvolvimento-de-software-assistido-por-ia",
+          "title": "Desenvolvimento de software assistido por IA",
+          "heading": "6.4 Desenvolvimento de software assistido por IA",
+          "file": "locales/pt-001/chapters/06-04-desenvolvimento-de-software-assistido-por-ia.md"
+        },
+        {
+          "part": 6,
+          "chapter": 5,
+          "decimal": "6.5",
+          "slug": "06-05-ia-responsável-e-confiável",
+          "title": "IA responsável e confiável",
+          "heading": "6.5 IA responsável e confiável",
+          "file": "locales/pt-001/chapters/06-05-ia-responsável-e-confiável.md"
+        },
+        {
+          "part": 6,
+          "chapter": 6,
+          "decimal": "6.6",
+          "slug": "06-06-infraestrutura-e-operações-de-ia",
+          "title": "Infraestrutura e operações de IA",
+          "heading": "6.6 Infraestrutura e operações de IA",
+          "file": "locales/pt-001/chapters/06-06-infraestrutura-e-operações-de-ia.md"
+        },
+        {
+          "part": 6,
+          "chapter": 7,
+          "decimal": "6.7",
+          "slug": "06-07-agentes-de-ia-e-sistemas-agênticos",
+          "title": "Agentes de IA e sistemas agênticos",
+          "heading": "6.7 Agentes de IA e sistemas agênticos",
+          "file": "locales/pt-001/chapters/06-07-agentes-de-ia-e-sistemas-agênticos.md"
+        },
+        {
+          "part": 6,
+          "chapter": 8,
+          "decimal": "6.8",
+          "slug": "06-08-avaliação-e-testes-de-ia",
+          "title": "Avaliação e testes de IA",
+          "heading": "6.8 Avaliação e testes de IA",
+          "file": "locales/pt-001/chapters/06-08-avaliação-e-testes-de-ia.md"
+        },
+        {
+          "part": 6,
+          "chapter": 9,
+          "decimal": "6.9",
+          "slug": "06-09-engenharia-de-prompts-e-design-de-contexto",
+          "title": "Engenharia de prompts e design de contexto",
+          "heading": "6.9 Engenharia de prompts e design de contexto",
+          "file": "locales/pt-001/chapters/06-09-engenharia-de-prompts-e-design-de-contexto.md"
+        },
+        {
+          "part": 7,
+          "chapter": 0,
+          "decimal": "7.0",
+          "slug": "07-00-dados-e-análises",
+          "title": "Introdução à Parte 7: Dados, análises e percepção",
+          "heading": "7.0 Introdução à Parte 7: Dados, análises e percepção",
+          "file": "locales/pt-001/chapters/07-00-dados-e-análises.md"
+        },
+        {
+          "part": 7,
+          "chapter": 1,
+          "decimal": "7.1",
+          "slug": "07-01-estratégia-e-governança-de-dados",
+          "title": "Estratégia e governança de dados",
+          "heading": "7.1 Estratégia e governança de dados",
+          "file": "locales/pt-001/chapters/07-01-estratégia-e-governança-de-dados.md"
+        },
+        {
+          "part": 7,
+          "chapter": 2,
+          "decimal": "7.2",
+          "slug": "07-02-engenharia-de-dados",
+          "title": "Engenharia de dados",
+          "heading": "7.2 Engenharia de dados",
+          "file": "locales/pt-001/chapters/07-02-engenharia-de-dados.md"
+        },
+        {
+          "part": 7,
+          "chapter": 3,
+          "decimal": "7.3",
+          "slug": "07-03-análises-e-inteligência-de-negócio",
+          "title": "Análises e inteligência de negócio",
+          "heading": "7.3 Análises e inteligência de negócio",
+          "file": "locales/pt-001/chapters/07-03-análises-e-inteligência-de-negócio.md"
+        },
+        {
+          "part": 7,
+          "chapter": 4,
+          "decimal": "7.4",
+          "slug": "07-04-análises-de-produto-e-experimentação",
+          "title": "Análises de produto e experimentação",
+          "heading": "7.4 Análises de produto e experimentação",
+          "file": "locales/pt-001/chapters/07-04-análises-de-produto-e-experimentação.md"
+        },
+        {
+          "part": 7,
+          "chapter": 5,
+          "decimal": "7.5",
+          "slug": "07-05-ciência-de-decisão-e-cultura-de-dados",
+          "title": "Ciência de decisão e cultura de dados",
+          "heading": "7.5 Ciência de decisão e cultura de dados",
+          "file": "locales/pt-001/chapters/07-05-ciência-de-decisão-e-cultura-de-dados.md"
+        },
+        {
+          "part": 7,
+          "chapter": 6,
+          "decimal": "7.6",
+          "slug": "07-06-dados-em-tempo-real-e-streaming",
+          "title": "Dados em tempo real e streaming",
+          "heading": "7.6 Dados em tempo real e streaming",
+          "file": "locales/pt-001/chapters/07-06-dados-em-tempo-real-e-streaming.md"
+        },
+        {
+          "part": 7,
+          "chapter": 7,
+          "decimal": "7.7",
+          "slug": "07-07-modelagem-de-dados-e-camada-semântica",
+          "title": "Modelagem de dados e camada semântica",
+          "heading": "7.7 Modelagem de dados e camada semântica",
+          "file": "locales/pt-001/chapters/07-07-modelagem-de-dados-e-camada-semântica.md"
+        },
+        {
+          "part": 7,
+          "chapter": 8,
+          "decimal": "7.8",
+          "slug": "07-08-qualidade-e-observabilidade-de-dados",
+          "title": "Qualidade e observabilidade de dados",
+          "heading": "7.8 Qualidade e observabilidade de dados",
+          "file": "locales/pt-001/chapters/07-08-qualidade-e-observabilidade-de-dados.md"
+        },
+        {
+          "part": 7,
+          "chapter": 9,
+          "decimal": "7.9",
+          "slug": "07-09-gestão-de-dados-mestres-e-de-referência",
+          "title": "Gestão de dados mestres e de referência",
+          "heading": "7.9 Gestão de dados mestres e de referência",
+          "file": "locales/pt-001/chapters/07-09-gestão-de-dados-mestres-e-de-referência.md"
+        },
+        {
+          "part": 8,
+          "chapter": 0,
+          "decimal": "8.0",
+          "slug": "08-00-automação",
+          "title": "Introdução à Parte 8: Automação",
+          "heading": "8.0 Introdução à Parte 8: Automação",
+          "file": "locales/pt-001/chapters/08-00-automação.md"
+        },
+        {
+          "part": 8,
+          "chapter": 1,
+          "decimal": "8.1",
+          "slug": "08-01-ci-cd-e-entrega",
+          "title": "CI/CD e entrega",
+          "heading": "8.1 CI/CD e entrega",
+          "file": "locales/pt-001/chapters/08-01-ci-cd-e-entrega.md"
+        },
+        {
+          "part": 8,
+          "chapter": 2,
+          "decimal": "8.2",
+          "slug": "08-02-infraestrutura-como-código-e-configuração",
+          "title": "Infraestrutura como código e configuração",
+          "heading": "8.2 Infraestrutura como código e configuração",
+          "file": "locales/pt-001/chapters/08-02-infraestrutura-como-código-e-configuração.md"
+        },
+        {
+          "part": 8,
+          "chapter": 3,
+          "decimal": "8.3",
+          "slug": "08-03-contêineres-orquestração-e-nativo-da-nuvem",
+          "title": "Contêineres, orquestração e cloud-native",
+          "heading": "8.3 Contêineres, orquestração e cloud-native",
+          "file": "locales/pt-001/chapters/08-03-contêineres-orquestração-e-nativo-da-nuvem.md"
+        },
+        {
+          "part": 8,
+          "chapter": 4,
+          "decimal": "8.4",
+          "slug": "08-04-engenharia-de-plataformas-e-experiência-do-programador",
+          "title": "Engenharia de plataforma e experiência do desenvolvedor",
+          "heading": "8.4 Engenharia de plataforma e experiência do desenvolvedor",
+          "file": "locales/pt-001/chapters/08-04-engenharia-de-plataformas-e-experiência-do-programador.md"
+        },
+        {
+          "part": 8,
+          "chapter": 5,
+          "decimal": "8.5",
+          "slug": "08-05-automação-de-testes-e-de-processos",
+          "title": "Automação de testes e de processos",
+          "heading": "8.5 Automação de testes e de processos",
+          "file": "locales/pt-001/chapters/08-05-automação-de-testes-e-de-processos.md"
+        },
+        {
+          "part": 8,
+          "chapter": 6,
+          "decimal": "8.6",
+          "slug": "08-06-gestão-de-lançamentos-e-entrega-progressiva",
+          "title": "Gestão de lançamentos e entrega progressiva",
+          "heading": "8.6 Gestão de lançamentos e entrega progressiva",
+          "file": "locales/pt-001/chapters/08-06-gestão-de-lançamentos-e-entrega-progressiva.md"
+        },
+        {
+          "part": 8,
+          "chapter": 7,
+          "decimal": "8.7",
+          "slug": "08-07-sistemas-de-build-e-gestão-de-artefatos",
+          "title": "Sistemas de build e gestão de artefatos",
+          "heading": "8.7 Sistemas de build e gestão de artefatos",
+          "file": "locales/pt-001/chapters/08-07-sistemas-de-build-e-gestão-de-artefatos.md"
+        },
+        {
+          "part": 9,
+          "chapter": 0,
+          "decimal": "9.0",
+          "slug": "09-00-operações-e-confiabilidade",
+          "title": "Introdução à Parte 9: Operações, confiabilidade e observabilidade",
+          "heading": "9.0 Introdução à Parte 9: Operações, confiabilidade e observabilidade",
+          "file": "locales/pt-001/chapters/09-00-operações-e-confiabilidade.md"
+        },
+        {
+          "part": 9,
+          "chapter": 1,
+          "decimal": "9.1",
+          "slug": "09-01-engenharia-de-confiabilidade-de-sites",
+          "title": "Engenharia de confiabilidade de sites",
+          "heading": "9.1 Engenharia de confiabilidade de sites",
+          "file": "locales/pt-001/chapters/09-01-engenharia-de-confiabilidade-de-sites.md"
+        },
+        {
+          "part": 9,
+          "chapter": 2,
+          "decimal": "9.2",
+          "slug": "09-02-observabilidade-e-telemetria",
+          "title": "Observabilidade e telemetria",
+          "heading": "9.2 Observabilidade e telemetria",
+          "file": "locales/pt-001/chapters/09-02-observabilidade-e-telemetria.md"
+        },
+        {
+          "part": 9,
+          "chapter": 3,
+          "decimal": "9.3",
+          "slug": "09-03-gestão-de-incidentes",
+          "title": "Gestão de incidentes",
+          "heading": "9.3 Gestão de incidentes",
+          "file": "locales/pt-001/chapters/09-03-gestão-de-incidentes.md"
+        },
+        {
+          "part": 9,
+          "chapter": 4,
+          "decimal": "9.4",
+          "slug": "09-04-custos-sustentabilidade-e-software-verde",
+          "title": "Custo, sustentabilidade e software verde",
+          "heading": "9.4 Custo, sustentabilidade e software verde",
+          "file": "locales/pt-001/chapters/09-04-custos-sustentabilidade-e-software-verde.md"
+        },
+        {
+          "part": 9,
+          "chapter": 5,
+          "decimal": "9.5",
+          "slug": "09-05-recuperação-de-desastres-e-continuidade-de-negócio",
+          "title": "Recuperação de desastres e continuidade de negócio",
+          "heading": "9.5 Recuperação de desastres e continuidade de negócio",
+          "file": "locales/pt-001/chapters/09-05-recuperação-de-desastres-e-continuidade-de-negócio.md"
+        },
+        {
+          "part": 9,
+          "chapter": 6,
+          "decimal": "9.6",
+          "slug": "09-06-engenharia-do-caos-e-testes-de-resiliência",
+          "title": "Engenharia do caos e testes de resiliência",
+          "heading": "9.6 Engenharia do caos e testes de resiliência",
+          "file": "locales/pt-001/chapters/09-06-engenharia-do-caos-e-testes-de-resiliência.md"
+        },
+        {
+          "part": 9,
+          "chapter": 7,
+          "decimal": "9.7",
+          "slug": "09-07-planejamento-de-capacidade-e-previsão-de-demanda",
+          "title": "Planejamento de capacidade e previsão de demanda",
+          "heading": "9.7 Planejamento de capacidade e previsão de demanda",
+          "file": "locales/pt-001/chapters/09-07-planejamento-de-capacidade-e-previsão-de-demanda.md"
+        },
+        {
+          "part": 9,
+          "chapter": 8,
+          "decimal": "9.8",
+          "slug": "09-08-sobreaviso-e-prontidão-operacional",
+          "title": "Sobreaviso e prontidão operacional",
+          "heading": "9.8 Sobreaviso e prontidão operacional",
+          "file": "locales/pt-001/chapters/09-08-sobreaviso-e-prontidão-operacional.md"
+        },
+        {
+          "part": 10,
+          "chapter": 0,
+          "decimal": "10.0",
+          "slug": "10-00-gestão-de-projetos-produtos-e-programas",
+          "title": "Introdução à Parte 10: Gestão de projetos, produtos e programas",
+          "heading": "10.0 Introdução à Parte 10: Gestão de projetos, produtos e programas",
+          "file": "locales/pt-001/chapters/10-00-gestão-de-projetos-produtos-e-programas.md"
+        },
+        {
+          "part": 10,
+          "chapter": 1,
+          "decimal": "10.1",
+          "slug": "10-01-gestão-de-portfólio-e-de-programas",
+          "title": "Gestão de portfólio e de programas",
+          "heading": "10.1 Gestão de portfólio e de programas",
+          "file": "locales/pt-001/chapters/10-01-gestão-de-portfólio-e-de-programas.md"
+        },
+        {
+          "part": 10,
+          "chapter": 2,
+          "decimal": "10.2",
+          "slug": "10-02-risco-auditoria-e-garantia",
+          "title": "Risco, auditoria e garantia",
+          "heading": "10.2 Risco, auditoria e garantia",
+          "file": "locales/pt-001/chapters/10-02-risco-auditoria-e-garantia.md"
+        },
+        {
+          "part": 10,
+          "chapter": 3,
+          "decimal": "10.3",
+          "slug": "10-03-aquisições-código-aberto-e-licenciamento",
+          "title": "Contratação, código aberto e licenciamento",
+          "heading": "10.3 Contratação, código aberto e licenciamento",
+          "file": "locales/pt-001/chapters/10-03-aquisições-código-aberto-e-licenciamento.md"
+        },
+        {
+          "part": 10,
+          "chapter": 4,
+          "decimal": "10.4",
+          "slug": "10-04-sustentação-de-sistemas-grandes-e-duradouros",
+          "title": "Sustentação de sistemas grandes e de vida longa",
+          "heading": "10.4 Sustentação de sistemas grandes e de vida longa",
+          "file": "locales/pt-001/chapters/10-04-sustentação-de-sistemas-grandes-e-duradouros.md"
+        },
+        {
+          "part": 10,
+          "chapter": 5,
+          "decimal": "10.5",
+          "slug": "10-05-ética-responsabilização-e-interesse-público",
+          "title": "Ética, responsabilização e interesse público",
+          "heading": "10.5 Ética, responsabilização e interesse público",
+          "file": "locales/pt-001/chapters/10-05-ética-responsabilização-e-interesse-público.md"
+        },
+        {
+          "part": 10,
+          "chapter": 6,
+          "decimal": "10.6",
+          "slug": "10-06-gestão-de-projetos",
+          "title": "Gestão de projetos",
+          "heading": "10.6 Gestão de projetos",
+          "file": "locales/pt-001/chapters/10-06-gestão-de-projetos.md"
+        },
+        {
+          "part": 10,
+          "chapter": 7,
+          "decimal": "10.7",
+          "slug": "10-07-agilidade",
+          "title": "Agile",
+          "heading": "10.7 Agile",
+          "file": "locales/pt-001/chapters/10-07-agilidade.md"
+        },
+        {
+          "part": 10,
+          "chapter": 8,
+          "decimal": "10.8",
+          "slug": "10-08-modelos-de-maturidade",
+          "title": "Modelos de maturidade",
+          "heading": "10.8 Modelos de maturidade",
+          "file": "locales/pt-001/chapters/10-08-modelos-de-maturidade.md"
+        },
+        {
+          "part": 10,
+          "chapter": 9,
+          "decimal": "10.9",
+          "slug": "10-09-parceria-de-inovação",
+          "title": "Parceria de inovação",
+          "heading": "10.9 Parceria de inovação",
+          "file": "locales/pt-001/chapters/10-09-parceria-de-inovação.md"
+        },
+        {
+          "part": 10,
+          "chapter": 10,
+          "decimal": "10.10",
+          "slug": "10-10-economia-da-engenharia-de-software",
+          "title": "Economia da engenharia de software",
+          "heading": "10.10 Economia da engenharia de software",
+          "file": "locales/pt-001/chapters/10-10-economia-da-engenharia-de-software.md"
+        },
+        {
+          "part": 10,
+          "chapter": 11,
+          "decimal": "10.11",
+          "slug": "10-11-soberania-digital",
+          "title": "Soberania digital",
+          "heading": "10.11 Soberania digital",
+          "file": "locales/pt-001/chapters/10-11-soberania-digital.md"
+        },
+        {
+          "part": 10,
+          "chapter": 12,
+          "decimal": "10.12",
+          "slug": "10-12-código-aberto-versus-código-fechado",
+          "title": "Código aberto versus código fechado",
+          "heading": "10.12 Código aberto versus código fechado",
+          "file": "locales/pt-001/chapters/10-12-código-aberto-versus-código-fechado.md"
+        },
+        {
+          "part": 10,
+          "chapter": 13,
+          "decimal": "10.13",
+          "slug": "10-13-colaboração-entre-organizações",
+          "title": "Colaboração entre organizações",
+          "heading": "10.13 Colaboração entre organizações",
+          "file": "locales/pt-001/chapters/10-13-colaboração-entre-organizações.md"
+        },
+        {
+          "part": 10,
+          "chapter": 14,
+          "decimal": "10.14",
+          "slug": "10-14-gestão-de-produto-e-descoberta",
+          "title": "Gestão de produto e descoberta",
+          "heading": "10.14 Gestão de produto e descoberta",
+          "file": "locales/pt-001/chapters/10-14-gestão-de-produto-e-descoberta.md"
+        },
+        {
+          "part": 10,
+          "chapter": 15,
+          "decimal": "10.15",
+          "slug": "10-15-estimativa-e-previsão",
+          "title": "Estimativa e previsão",
+          "heading": "10.15 Estimativa e previsão",
+          "file": "locales/pt-001/chapters/10-15-estimativa-e-previsão.md"
+        },
+        {
+          "part": 10,
+          "chapter": 16,
+          "decimal": "10.16",
+          "slug": "10-16-gestão-de-partes-interessadas-e-comunicação",
+          "title": "Gestão de partes interessadas e comunicação",
+          "heading": "10.16 Gestão de partes interessadas e comunicação",
+          "file": "locales/pt-001/chapters/10-16-gestão-de-partes-interessadas-e-comunicação.md"
+        },
+        {
+          "part": 10,
+          "chapter": 17,
+          "decimal": "10.17",
+          "slug": "10-17-gestão-da-mudança-organizacional",
+          "title": "Gestão da mudança organizacional",
+          "heading": "10.17 Gestão da mudança organizacional",
+          "file": "locales/pt-001/chapters/10-17-gestão-da-mudança-organizacional.md"
+        },
+        {
+          "part": 10,
+          "chapter": 18,
+          "decimal": "10.18",
+          "slug": "10-18-escritório-de-código-aberto",
+          "title": "Escritório de programa de código aberto (OSPO) e contribuição upstream",
+          "heading": "10.18 Escritório de programa de código aberto (OSPO) e contribuição upstream",
+          "file": "locales/pt-001/chapters/10-18-escritório-de-código-aberto.md"
+        },
+        {
+          "part": 11,
+          "chapter": 0,
+          "decimal": "11.0",
+          "slug": "11-00-fluxo-descoberta-e-entrega",
+          "title": "Introdução à Parte 11: Fluxo: pipelines de descoberta e entrega",
+          "heading": "11.0 Introdução à Parte 11: Fluxo: pipelines de descoberta e entrega",
+          "file": "locales/pt-001/chapters/11-00-fluxo-descoberta-e-entrega.md"
+        },
+        {
+          "part": 11,
+          "chapter": 1,
+          "decimal": "11.1",
+          "slug": "11-01-pipeline-de-descoberta",
+          "title": "O pipeline de descoberta",
+          "heading": "11.1 O pipeline de descoberta",
+          "file": "locales/pt-001/chapters/11-01-pipeline-de-descoberta.md"
+        },
+        {
+          "part": 11,
+          "chapter": 2,
+          "decimal": "11.2",
+          "slug": "11-02-pipeline-de-entrega",
+          "title": "O pipeline de entrega",
+          "heading": "11.2 O pipeline de entrega",
+          "file": "locales/pt-001/chapters/11-02-pipeline-de-entrega.md"
+        },
+        {
+          "part": 11,
+          "chapter": 3,
+          "decimal": "11.3",
+          "slug": "11-03-teoria-das-filas",
+          "title": "Teoria das filas",
+          "heading": "11.3 Teoria das filas",
+          "file": "locales/pt-001/chapters/11-03-teoria-das-filas.md"
+        },
+        {
+          "part": 11,
+          "chapter": 4,
+          "decimal": "11.4",
+          "slug": "11-04-objetivos-e-resultados-chave",
+          "title": "Objetivos e resultados-chave (OKRs)",
+          "heading": "11.4 Objetivos e resultados-chave (OKRs)",
+          "file": "locales/pt-001/chapters/11-04-objetivos-e-resultados-chave.md"
+        },
+        {
+          "part": 11,
+          "chapter": 5,
+          "decimal": "11.5",
+          "slug": "11-05-indicadores-chave-de-desempenho",
+          "title": "Indicadores-chave de desempenho (KPIs)",
+          "heading": "11.5 Indicadores-chave de desempenho (KPIs)",
+          "file": "locales/pt-001/chapters/11-05-indicadores-chave-de-desempenho.md"
+        },
+        {
+          "part": 11,
+          "chapter": 6,
+          "decimal": "11.6",
+          "slug": "11-06-mapeamento-do-fluxo-de-valor-e-custo-do-atraso",
+          "title": "Mapeamento do fluxo de valor e custo do atraso",
+          "heading": "11.6 Mapeamento do fluxo de valor e custo do atraso",
+          "file": "locales/pt-001/chapters/11-06-mapeamento-do-fluxo-de-valor-e-custo-do-atraso.md"
+        },
+        {
+          "part": 12,
+          "chapter": 0,
+          "decimal": "12.0",
+          "slug": "12-00-apêndices",
+          "title": "Apêndices",
+          "heading": "12.0 Apêndices",
+          "file": "locales/pt-001/chapters/12-00-apêndices.md"
+        },
+        {
+          "part": 12,
+          "chapter": 1,
+          "decimal": "12.1",
+          "slug": "12-01-glossário",
+          "title": "Glossário",
+          "heading": "12.1 Glossário",
+          "file": "locales/pt-001/chapters/12-01-glossário.md"
+        },
+        {
+          "part": 12,
+          "chapter": 2,
+          "decimal": "12.2",
+          "slug": "12-02-listas-de-verificação",
+          "title": "Listas de verificação",
+          "heading": "12.2 Listas de verificação",
+          "file": "locales/pt-001/chapters/12-02-listas-de-verificação.md"
+        },
+        {
+          "part": 12,
+          "chapter": 3,
+          "decimal": "12.3",
+          "slug": "12-03-modelos",
+          "title": "Modelos",
+          "heading": "12.3 Modelos",
+          "file": "locales/pt-001/chapters/12-03-modelos.md"
+        },
+        {
+          "part": 12,
+          "chapter": 4,
+          "decimal": "12.4",
+          "slug": "12-04-autoavaliação-de-maturidade",
+          "title": "Autoavaliação de maturidade",
+          "heading": "12.4 Autoavaliação de maturidade",
+          "file": "locales/pt-001/chapters/12-04-autoavaliação-de-maturidade.md"
+        },
+        {
+          "part": 12,
+          "chapter": 5,
+          "decimal": "12.5",
+          "slug": "12-05-referências",
+          "title": "Referências",
+          "heading": "12.5 Referências",
+          "file": "locales/pt-001/chapters/12-05-referências.md"
+        },
+        {
+          "part": 12,
+          "chapter": 6,
+          "decimal": "12.6",
+          "slug": "12-06-roteiro-de-adoção",
+          "title": "Roteiro de adoção",
+          "heading": "12.6 Roteiro de adoção",
+          "file": "locales/pt-001/chapters/12-06-roteiro-de-adoção.md"
+        },
+        {
+          "part": 12,
+          "chapter": 7,
+          "decimal": "12.7",
+          "slug": "12-07-índice-remissivo",
+          "title": "Índice remissivo",
+          "heading": "12.7 Índice remissivo",
+          "file": "locales/pt-001/chapters/12-07-índice-remissivo.md"
+        }
+      ],
+      "parts": [
+        {
+          "number": 1,
+          "title": "People",
+          "chapters": [
+            {
+              "part": 1,
+              "chapter": 0,
+              "decimal": "1.0",
+              "slug": "01-00-pessoas",
+              "title": "Introdução à Parte 1: Pessoas",
+              "heading": "1.0 Introdução à Parte 1: Pessoas",
+              "file": "locales/pt-001/chapters/01-00-pessoas.md"
+            },
+            {
+              "part": 1,
+              "chapter": 1,
+              "decimal": "1.1",
+              "slug": "01-01-valores-da-engenharia-de-software",
+              "title": "Valores da engenharia de software",
+              "heading": "1.1 Valores da engenharia de software",
+              "file": "locales/pt-001/chapters/01-01-valores-da-engenharia-de-software.md"
+            },
+            {
+              "part": 1,
+              "chapter": 2,
+              "decimal": "1.2",
+              "slug": "01-02-topologias-de-equipes",
+              "title": "Topologias de equipes e desenho organizacional",
+              "heading": "1.2 Topologias de equipes e desenho organizacional",
+              "file": "locales/pt-001/chapters/01-02-topologias-de-equipes.md"
+            },
+            {
+              "part": 1,
+              "chapter": 3,
+              "decimal": "1.3",
+              "slug": "01-03-funções-carreiras-e-crescimento",
+              "title": "Funções, escadas de carreira e crescimento",
+              "heading": "1.3 Funções, escadas de carreira e crescimento",
+              "file": "locales/pt-001/chapters/01-03-funções-carreiras-e-crescimento.md"
+            },
+            {
+              "part": 1,
+              "chapter": 4,
+              "decimal": "1.4",
+              "slug": "01-04-formas-de-trabalhar",
+              "title": "Formas de trabalhar",
+              "heading": "1.4 Formas de trabalhar",
+              "file": "locales/pt-001/chapters/01-04-formas-de-trabalhar.md"
+            },
+            {
+              "part": 1,
+              "chapter": 5,
+              "decimal": "1.5",
+              "slug": "01-05-tomada-de-decisão-e-governança",
+              "title": "Tomada de decisão e governança",
+              "heading": "1.5 Tomada de decisão e governança",
+              "file": "locales/pt-001/chapters/01-05-tomada-de-decisão-e-governança.md"
+            },
+            {
+              "part": 1,
+              "chapter": 6,
+              "decimal": "1.6",
+              "slug": "01-06-registros-de-decisão",
+              "title": "Registros de decisão",
+              "heading": "1.6 Registros de decisão",
+              "file": "locales/pt-001/chapters/01-06-registros-de-decisão.md"
+            },
+            {
+              "part": 1,
+              "chapter": 7,
+              "decimal": "1.7",
+              "slug": "01-07-padrões-de-engenharia-e-exceções",
+              "title": "Padrões de engenharia e exceções",
+              "heading": "1.7 Padrões de engenharia e exceções",
+              "file": "locales/pt-001/chapters/01-07-padrões-de-engenharia-e-exceções.md"
+            },
+            {
+              "part": 1,
+              "chapter": 8,
+              "decimal": "1.8",
+              "slug": "01-08-contratação-entrevistas-e-integração",
+              "title": "Contratação, entrevistas e integração",
+              "heading": "1.8 Contratação, entrevistas e integração",
+              "file": "locales/pt-001/chapters/01-08-contratação-entrevistas-e-integração.md"
+            },
+            {
+              "part": 1,
+              "chapter": 9,
+              "decimal": "1.9",
+              "slug": "01-09-trabalho-distribuído-e-remoto",
+              "title": "Trabalho distribuído e remoto",
+              "heading": "1.9 Trabalho distribuído e remoto",
+              "file": "locales/pt-001/chapters/01-09-trabalho-distribuído-e-remoto.md"
+            },
+            {
+              "part": 1,
+              "chapter": 10,
+              "decimal": "1.10",
+              "slug": "01-10-eficácia-da-engenharia-e-produtividade-dos-desenvolvedores",
+              "title": "Eficácia da engenharia e produtividade dos desenvolvedores",
+              "heading": "1.10 Eficácia da engenharia e produtividade dos desenvolvedores",
+              "file": "locales/pt-001/chapters/01-10-eficácia-da-engenharia-e-produtividade-dos-desenvolvedores.md"
+            },
+            {
+              "part": 1,
+              "chapter": 11,
+              "decimal": "1.11",
+              "slug": "01-11-gestão-de-engenharia",
+              "title": "Gestão de engenharia",
+              "heading": "1.11 Gestão de engenharia",
+              "file": "locales/pt-001/chapters/01-11-gestão-de-engenharia.md"
+            },
+            {
+              "part": 1,
+              "chapter": 12,
+              "decimal": "1.12",
+              "slug": "01-12-diversidade-equidade-inclusão-e-pertencimento",
+              "title": "Diversidade, equidade, inclusão e pertencimento",
+              "heading": "1.12 Diversidade, equidade, inclusão e pertencimento",
+              "file": "locales/pt-001/chapters/01-12-diversidade-equidade-inclusão-e-pertencimento.md"
+            },
+            {
+              "part": 1,
+              "chapter": 13,
+              "decimal": "1.13",
+              "slug": "01-13-mentoria-coaching-e-compartilhamento-de-conhecimento",
+              "title": "Mentoria, coaching e compartilhamento de conhecimento",
+              "heading": "1.13 Mentoria, coaching e compartilhamento de conhecimento",
+              "file": "locales/pt-001/chapters/01-13-mentoria-coaching-e-compartilhamento-de-conhecimento.md"
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "title": "Software Programming",
+          "chapters": [
+            {
+              "part": 2,
+              "chapter": 0,
+              "decimal": "2.0",
+              "slug": "02-00-programação-de-software",
+              "title": "Introdução à Parte 2: Programação de software",
+              "heading": "2.0 Introdução à Parte 2: Programação de software",
+              "file": "locales/pt-001/chapters/02-00-programação-de-software.md"
+            },
+            {
+              "part": 2,
+              "chapter": 1,
+              "decimal": "2.1",
+              "slug": "02-01-padrões-de-codificação-e-estilo",
+              "title": "Padrões de codificação e estilo",
+              "heading": "2.1 Padrões de codificação e estilo",
+              "file": "locales/pt-001/chapters/02-01-padrões-de-codificação-e-estilo.md"
+            },
+            {
+              "part": 2,
+              "chapter": 2,
+              "decimal": "2.2",
+              "slug": "02-02-princípios-de-design-de-software",
+              "title": "Princípios de design de software",
+              "heading": "2.2 Princípios de design de software",
+              "file": "locales/pt-001/chapters/02-02-princípios-de-design-de-software.md"
+            },
+            {
+              "part": 2,
+              "chapter": 3,
+              "decimal": "2.3",
+              "slug": "02-03-apis-e-design-de-interfaces",
+              "title": "APIs e design de interfaces",
+              "heading": "2.3 APIs e design de interfaces",
+              "file": "locales/pt-001/chapters/02-03-apis-e-design-de-interfaces.md"
+            },
+            {
+              "part": 2,
+              "chapter": 4,
+              "decimal": "2.4",
+              "slug": "02-04-estratégia-de-testes",
+              "title": "Estratégia de testes",
+              "heading": "2.4 Estratégia de testes",
+              "file": "locales/pt-001/chapters/02-04-estratégia-de-testes.md"
+            },
+            {
+              "part": 2,
+              "chapter": 5,
+              "decimal": "2.5",
+              "slug": "02-05-revisão-de-código-e-colaboração",
+              "title": "Revisão de código e colaboração",
+              "heading": "2.5 Revisão de código e colaboração",
+              "file": "locales/pt-001/chapters/02-05-revisão-de-código-e-colaboração.md"
+            },
+            {
+              "part": 2,
+              "chapter": 6,
+              "decimal": "2.6",
+              "slug": "02-06-controle-de-versões-e-gestão-de-código-fonte",
+              "title": "Controle de versões e gestão de código-fonte",
+              "heading": "2.6 Controle de versões e gestão de código-fonte",
+              "file": "locales/pt-001/chapters/02-06-controle-de-versões-e-gestão-de-código-fonte.md"
+            },
+            {
+              "part": 2,
+              "chapter": 7,
+              "decimal": "2.7",
+              "slug": "02-07-documentação",
+              "title": "Documentação",
+              "heading": "2.7 Documentação",
+              "file": "locales/pt-001/chapters/02-07-documentação.md"
+            },
+            {
+              "part": 2,
+              "chapter": 8,
+              "decimal": "2.8",
+              "slug": "02-08-requisitos-de-software",
+              "title": "Requisitos de software",
+              "heading": "2.8 Requisitos de software",
+              "file": "locales/pt-001/chapters/02-08-requisitos-de-software.md"
+            },
+            {
+              "part": 2,
+              "chapter": 9,
+              "decimal": "2.9",
+              "slug": "02-09-construção-de-software",
+              "title": "Construção de software",
+              "heading": "2.9 Construção de software",
+              "file": "locales/pt-001/chapters/02-09-construção-de-software.md"
+            },
+            {
+              "part": 2,
+              "chapter": 10,
+              "decimal": "2.10",
+              "slug": "02-10-gestão-de-configuração-de-software",
+              "title": "Gestão de configuração de software",
+              "heading": "2.10 Gestão de configuração de software",
+              "file": "locales/pt-001/chapters/02-10-gestão-de-configuração-de-software.md"
+            },
+            {
+              "part": 2,
+              "chapter": 11,
+              "decimal": "2.11",
+              "slug": "02-11-qualidade-de-software",
+              "title": "Qualidade de software",
+              "heading": "2.11 Qualidade de software",
+              "file": "locales/pt-001/chapters/02-11-qualidade-de-software.md"
+            },
+            {
+              "part": 2,
+              "chapter": 12,
+              "decimal": "2.12",
+              "slug": "02-12-modelos-e-métodos-de-software",
+              "title": "Modelos e métodos de software",
+              "heading": "2.12 Modelos e métodos de software",
+              "file": "locales/pt-001/chapters/02-12-modelos-e-métodos-de-software.md"
+            },
+            {
+              "part": 2,
+              "chapter": 13,
+              "decimal": "2.13",
+              "slug": "02-13-fundamentos-de-computação-matemática-e-engenharia",
+              "title": "Fundamentos de computação, matemática e engenharia",
+              "heading": "2.13 Fundamentos de computação, matemática e engenharia",
+              "file": "locales/pt-001/chapters/02-13-fundamentos-de-computação-matemática-e-engenharia.md"
+            },
+            {
+              "part": 2,
+              "chapter": 14,
+              "decimal": "2.14",
+              "slug": "02-14-estrutura-de-projetos-e-repositórios",
+              "title": "Estrutura de projetos e repositórios",
+              "heading": "2.14 Estrutura de projetos e repositórios",
+              "file": "locales/pt-001/chapters/02-14-estrutura-de-projetos-e-repositórios.md"
+            },
+            {
+              "part": 2,
+              "chapter": 15,
+              "decimal": "2.15",
+              "slug": "02-15-depuração-e-resolução-de-problemas",
+              "title": "Depuração e resolução de problemas",
+              "heading": "2.15 Depuração e resolução de problemas",
+              "file": "locales/pt-001/chapters/02-15-depuração-e-resolução-de-problemas.md"
+            },
+            {
+              "part": 2,
+              "chapter": 16,
+              "decimal": "2.16",
+              "slug": "02-16-engenharia-de-desempenho",
+              "title": "Engenharia de desempenho",
+              "heading": "2.16 Engenharia de desempenho",
+              "file": "locales/pt-001/chapters/02-16-engenharia-de-desempenho.md"
+            },
+            {
+              "part": 2,
+              "chapter": 17,
+              "decimal": "2.17",
+              "slug": "02-17-concorrência-e-paralelismo",
+              "title": "Concorrência e paralelismo",
+              "heading": "2.17 Concorrência e paralelismo",
+              "file": "locales/pt-001/chapters/02-17-concorrência-e-paralelismo.md"
+            },
+            {
+              "part": 2,
+              "chapter": 18,
+              "decimal": "2.18",
+              "slug": "02-18-gestão-de-dependências-e-da-cadeia-de-suprimentos",
+              "title": "Gestão de dependências e da cadeia de suprimentos",
+              "heading": "2.18 Gestão de dependências e da cadeia de suprimentos",
+              "file": "locales/pt-001/chapters/02-18-gestão-de-dependências-e-da-cadeia-de-suprimentos.md"
+            },
+            {
+              "part": 2,
+              "chapter": 19,
+              "decimal": "2.19",
+              "slug": "02-19-refatoração-e-dívida-técnica",
+              "title": "Refatoração e dívida técnica",
+              "heading": "2.19 Refatoração e dívida técnica",
+              "file": "locales/pt-001/chapters/02-19-refatoração-e-dívida-técnica.md"
+            },
+            {
+              "part": 2,
+              "chapter": 20,
+              "decimal": "2.20",
+              "slug": "02-20-tratamento-de-erros-e-padrões-de-resiliência",
+              "title": "Tratamento de erros e padrões de resiliência",
+              "heading": "2.20 Tratamento de erros e padrões de resiliência",
+              "file": "locales/pt-001/chapters/02-20-tratamento-de-erros-e-padrões-de-resiliência.md"
+            },
+            {
+              "part": 2,
+              "chapter": 21,
+              "decimal": "2.21",
+              "slug": "02-21-sistemas-de-tipos-e-análise-estática",
+              "title": "Sistemas de tipos e análise estática",
+              "heading": "2.21 Sistemas de tipos e análise estática",
+              "file": "locales/pt-001/chapters/02-21-sistemas-de-tipos-e-análise-estática.md"
+            }
+          ]
+        },
+        {
+          "number": 3,
+          "title": "Systems",
+          "chapters": [
+            {
+              "part": 3,
+              "chapter": 0,
+              "decimal": "3.0",
+              "slug": "03-00-sistemas",
+              "title": "Introdução à Parte 3: Sistemas",
+              "heading": "3.0 Introdução à Parte 3: Sistemas",
+              "file": "locales/pt-001/chapters/03-00-sistemas.md"
+            },
+            {
+              "part": 3,
+              "chapter": 1,
+              "decimal": "3.1",
+              "slug": "03-01-fundamentos-de-arquitetura",
+              "title": "Fundamentos de arquitetura",
+              "heading": "3.1 Fundamentos de arquitetura",
+              "file": "locales/pt-001/chapters/03-01-fundamentos-de-arquitetura.md"
+            },
+            {
+              "part": 3,
+              "chapter": 2,
+              "decimal": "3.2",
+              "slug": "03-02-estilos-e-padrões-arquiteturais",
+              "title": "Estilos e padrões arquiteturais",
+              "heading": "3.2 Estilos e padrões arquiteturais",
+              "file": "locales/pt-001/chapters/03-02-estilos-e-padrões-arquiteturais.md"
+            },
+            {
+              "part": 3,
+              "chapter": 3,
+              "decimal": "3.3",
+              "slug": "03-03-sistemas-distribuídos",
+              "title": "Sistemas distribuídos",
+              "heading": "3.3 Sistemas distribuídos",
+              "file": "locales/pt-001/chapters/03-03-sistemas-distribuídos.md"
+            },
+            {
+              "part": 3,
+              "chapter": 4,
+              "decimal": "3.4",
+              "slug": "03-04-arquitetura-de-dados-e-armazenamento",
+              "title": "Arquitetura de dados e armazenamento",
+              "heading": "3.4 Arquitetura de dados e armazenamento",
+              "file": "locales/pt-001/chapters/03-04-arquitetura-de-dados-e-armazenamento.md"
+            },
+            {
+              "part": 3,
+              "chapter": 5,
+              "decimal": "3.5",
+              "slug": "03-05-escalabilidade-desempenho-e-resiliência",
+              "title": "Escalabilidade, desempenho e resiliência",
+              "heading": "3.5 Escalabilidade, desempenho e resiliência",
+              "file": "locales/pt-001/chapters/03-05-escalabilidade-desempenho-e-resiliência.md"
+            },
+            {
+              "part": 3,
+              "chapter": 6,
+              "decimal": "3.6",
+              "slug": "03-06-modernização-de-sistemas-legados",
+              "title": "Modernização de sistemas legados",
+              "heading": "3.6 Modernização de sistemas legados",
+              "file": "locales/pt-001/chapters/03-06-modernização-de-sistemas-legados.md"
+            },
+            {
+              "part": 3,
+              "chapter": 7,
+              "decimal": "3.7",
+              "slug": "03-07-manutenção-de-software",
+              "title": "Manutenção de software",
+              "heading": "3.7 Manutenção de software",
+              "file": "locales/pt-001/chapters/03-07-manutenção-de-software.md"
+            },
+            {
+              "part": 3,
+              "chapter": 8,
+              "decimal": "3.8",
+              "slug": "03-08-interoperabilidade-e-padrões-abertos",
+              "title": "Interoperabilidade e padrões abertos",
+              "heading": "3.8 Interoperabilidade e padrões abertos",
+              "file": "locales/pt-001/chapters/03-08-interoperabilidade-e-padrões-abertos.md"
+            },
+            {
+              "part": 3,
+              "chapter": 9,
+              "decimal": "3.9",
+              "slug": "03-09-engenharia-de-sistemas",
+              "title": "Engenharia de sistemas",
+              "heading": "3.9 Engenharia de sistemas",
+              "file": "locales/pt-001/chapters/03-09-engenharia-de-sistemas.md"
+            },
+            {
+              "part": 3,
+              "chapter": 10,
+              "decimal": "3.10",
+              "slug": "03-10-sistemas-embarcados-e-de-tempo-real",
+              "title": "Sistemas embarcados e de tempo real",
+              "heading": "3.10 Sistemas embarcados e de tempo real",
+              "file": "locales/pt-001/chapters/03-10-sistemas-embarcados-e-de-tempo-real.md"
+            },
+            {
+              "part": 3,
+              "chapter": 11,
+              "decimal": "3.11",
+              "slug": "03-11-arquitetura-na-nuvem",
+              "title": "Arquitetura na nuvem",
+              "heading": "3.11 Arquitetura na nuvem",
+              "file": "locales/pt-001/chapters/03-11-arquitetura-na-nuvem.md"
+            },
+            {
+              "part": 3,
+              "chapter": 12,
+              "decimal": "3.12",
+              "slug": "03-12-arquitetura-orientada-a-eventos-e-mensagens",
+              "title": "Arquitetura orientada a eventos e mensagens",
+              "heading": "3.12 Arquitetura orientada a eventos e mensagens",
+              "file": "locales/pt-001/chapters/03-12-arquitetura-orientada-a-eventos-e-mensagens.md"
+            },
+            {
+              "part": 3,
+              "chapter": 13,
+              "decimal": "3.13",
+              "slug": "03-13-redes-e-conectividade",
+              "title": "Redes e conectividade",
+              "heading": "3.13 Redes e conectividade",
+              "file": "locales/pt-001/chapters/03-13-redes-e-conectividade.md"
+            },
+            {
+              "part": 3,
+              "chapter": 14,
+              "decimal": "3.14",
+              "slug": "03-14-multilocação-e-arquitetura-saas",
+              "title": "Multilocação e arquitetura SaaS",
+              "heading": "3.14 Multilocação e arquitetura SaaS",
+              "file": "locales/pt-001/chapters/03-14-multilocação-e-arquitetura-saas.md"
+            },
+            {
+              "part": 3,
+              "chapter": 15,
+              "decimal": "3.15",
+              "slug": "03-15-cache-e-distribuição-de-conteúdo",
+              "title": "Cache e distribuição de conteúdo",
+              "heading": "3.15 Cache e distribuição de conteúdo",
+              "file": "locales/pt-001/chapters/03-15-cache-e-distribuição-de-conteúdo.md"
+            },
+            {
+              "part": 3,
+              "chapter": 16,
+              "decimal": "3.16",
+              "slug": "03-16-gateways-de-api-e-malha-de-serviços",
+              "title": "Gateways de API e malha de serviços",
+              "heading": "3.16 Gateways de API e malha de serviços",
+              "file": "locales/pt-001/chapters/03-16-gateways-de-api-e-malha-de-serviços.md"
+            },
+            {
+              "part": 3,
+              "chapter": 17,
+              "decimal": "3.17",
+              "slug": "03-17-pesquisa-e-recuperação-de-informação",
+              "title": "Pesquisa e recuperação de informação",
+              "heading": "3.17 Pesquisa e recuperação de informação",
+              "file": "locales/pt-001/chapters/03-17-pesquisa-e-recuperação-de-informação.md"
+            }
+          ]
+        },
+        {
+          "number": 4,
+          "title": "Security",
+          "chapters": [
+            {
+              "part": 4,
+              "chapter": 0,
+              "decimal": "4.0",
+              "slug": "04-00-segurança",
+              "title": "Introdução à Parte 4: Segurança",
+              "heading": "4.0 Introdução à Parte 4: Segurança",
+              "file": "locales/pt-001/chapters/04-00-segurança.md"
+            },
+            {
+              "part": 4,
+              "chapter": 1,
+              "decimal": "4.1",
+              "slug": "04-01-fundamentos-e-cultura-de-segurança",
+              "title": "Fundamentos e cultura de segurança",
+              "heading": "4.1 Fundamentos e cultura de segurança",
+              "file": "locales/pt-001/chapters/04-01-fundamentos-e-cultura-de-segurança.md"
+            },
+            {
+              "part": 4,
+              "chapter": 2,
+              "decimal": "4.2",
+              "slug": "04-02-segurança-de-aplicações",
+              "title": "Segurança de aplicações",
+              "heading": "4.2 Segurança de aplicações",
+              "file": "locales/pt-001/chapters/04-02-segurança-de-aplicações.md"
+            },
+            {
+              "part": 4,
+              "chapter": 3,
+              "decimal": "4.3",
+              "slug": "04-03-segurança-de-infraestrutura-e-nuvem",
+              "title": "Segurança de infraestrutura e de nuvem",
+              "heading": "4.3 Segurança de infraestrutura e de nuvem",
+              "file": "locales/pt-001/chapters/04-03-segurança-de-infraestrutura-e-nuvem.md"
+            },
+            {
+              "part": 4,
+              "chapter": 4,
+              "decimal": "4.4",
+              "slug": "04-04-operações-de-segurança",
+              "title": "Operações de segurança",
+              "heading": "4.4 Operações de segurança",
+              "file": "locales/pt-001/chapters/04-04-operações-de-segurança.md"
+            },
+            {
+              "part": 4,
+              "chapter": 5,
+              "decimal": "4.5",
+              "slug": "04-05-privacidade-e-proteção-de-dados",
+              "title": "Privacidade e proteção de dados",
+              "heading": "4.5 Privacidade e proteção de dados",
+              "file": "locales/pt-001/chapters/04-05-privacidade-e-proteção-de-dados.md"
+            },
+            {
+              "part": 4,
+              "chapter": 6,
+              "decimal": "4.6",
+              "slug": "04-06-conformidade-e-governança",
+              "title": "Conformidade e governança",
+              "heading": "4.6 Conformidade e governança",
+              "file": "locales/pt-001/chapters/04-06-conformidade-e-governança.md"
+            },
+            {
+              "part": 4,
+              "chapter": 7,
+              "decimal": "4.7",
+              "slug": "04-07-gestão-de-identidades-e-acessos",
+              "title": "Gestão de identidades e acessos",
+              "heading": "4.7 Gestão de identidades e acessos",
+              "file": "locales/pt-001/chapters/04-07-gestão-de-identidades-e-acessos.md"
+            },
+            {
+              "part": 4,
+              "chapter": 8,
+              "decimal": "4.8",
+              "slug": "04-08-criptografia-e-gestão-de-chaves",
+              "title": "Criptografia e gestão de chaves",
+              "heading": "4.8 Criptografia e gestão de chaves",
+              "file": "locales/pt-001/chapters/04-08-criptografia-e-gestão-de-chaves.md"
+            },
+            {
+              "part": 4,
+              "chapter": 9,
+              "decimal": "4.9",
+              "slug": "04-09-ciclo-de-vida-de-desenvolvimento-seguro",
+              "title": "Ciclo de vida de desenvolvimento seguro de software",
+              "heading": "4.9 Ciclo de vida de desenvolvimento seguro de software",
+              "file": "locales/pt-001/chapters/04-09-ciclo-de-vida-de-desenvolvimento-seguro.md"
+            },
+            {
+              "part": 4,
+              "chapter": 10,
+              "decimal": "4.10",
+              "slug": "04-10-testes-de-intrusão-e-red-teaming",
+              "title": "Testes de intrusão e red teaming",
+              "heading": "4.10 Testes de intrusão e red teaming",
+              "file": "locales/pt-001/chapters/04-10-testes-de-intrusão-e-red-teaming.md"
+            }
+          ]
+        },
+        {
+          "number": 5,
+          "title": "UI/UX Design",
+          "chapters": [
+            {
+              "part": 5,
+              "chapter": 0,
+              "decimal": "5.0",
+              "slug": "05-00-design-de-ui-e-ux",
+              "title": "Introdução à Parte 5: Design de UI e UX",
+              "heading": "5.0 Introdução à Parte 5: Design de UI e UX",
+              "file": "locales/pt-001/chapters/05-00-design-de-ui-e-ux.md"
+            },
+            {
+              "part": 5,
+              "chapter": 1,
+              "decimal": "5.1",
+              "slug": "05-01-fundamentos-de-ux",
+              "title": "Fundamentos de UX",
+              "heading": "5.1 Fundamentos de UX",
+              "file": "locales/pt-001/chapters/05-01-fundamentos-de-ux.md"
+            },
+            {
+              "part": 5,
+              "chapter": 2,
+              "decimal": "5.2",
+              "slug": "05-02-design-de-ui-e-sistemas-de-design",
+              "title": "Design de UI e sistemas de design",
+              "heading": "5.2 Design de UI e sistemas de design",
+              "file": "locales/pt-001/chapters/05-02-design-de-ui-e-sistemas-de-design.md"
+            },
+            {
+              "part": 5,
+              "chapter": 3,
+              "decimal": "5.3",
+              "slug": "05-03-acessibilidade",
+              "title": "Acessibilidade",
+              "heading": "5.3 Acessibilidade",
+              "file": "locales/pt-001/chapters/05-03-acessibilidade.md"
+            },
+            {
+              "part": 5,
+              "chapter": 4,
+              "decimal": "5.4",
+              "slug": "05-04-design-de-conteúdo-e-comunicação",
+              "title": "Design de conteúdo e comunicação",
+              "heading": "5.4 Design de conteúdo e comunicação",
+              "file": "locales/pt-001/chapters/05-04-design-de-conteúdo-e-comunicação.md"
+            },
+            {
+              "part": 5,
+              "chapter": 5,
+              "decimal": "5.5",
+              "slug": "05-05-internacionalização-e-localização",
+              "title": "Internacionalização e localização",
+              "heading": "5.5 Internacionalização e localização",
+              "file": "locales/pt-001/chapters/05-05-internacionalização-e-localização.md"
+            },
+            {
+              "part": 5,
+              "chapter": 6,
+              "decimal": "5.6",
+              "slug": "05-06-engenharia-de-front-end",
+              "title": "Engenharia de front-end",
+              "heading": "5.6 Engenharia de front-end",
+              "file": "locales/pt-001/chapters/05-06-engenharia-de-front-end.md"
+            },
+            {
+              "part": 5,
+              "chapter": 7,
+              "decimal": "5.7",
+              "slug": "05-07-desenvolvimento-de-aplicativos-móveis",
+              "title": "Desenvolvimento de aplicativos móveis",
+              "heading": "5.7 Desenvolvimento de aplicativos móveis",
+              "file": "locales/pt-001/chapters/05-07-desenvolvimento-de-aplicativos-móveis.md"
+            },
+            {
+              "part": 5,
+              "chapter": 8,
+              "decimal": "5.8",
+              "slug": "05-08-pesquisa-de-design-e-testes-de-usabilidade",
+              "title": "Pesquisa de design e testes de usabilidade",
+              "heading": "5.8 Pesquisa de design e testes de usabilidade",
+              "file": "locales/pt-001/chapters/05-08-pesquisa-de-design-e-testes-de-usabilidade.md"
+            },
+            {
+              "part": 5,
+              "chapter": 9,
+              "decimal": "5.9",
+              "slug": "05-09-design-de-serviços",
+              "title": "Design de serviços",
+              "heading": "5.9 Design de serviços",
+              "file": "locales/pt-001/chapters/05-09-design-de-serviços.md"
+            },
+            {
+              "part": 5,
+              "chapter": 10,
+              "decimal": "5.10",
+              "slug": "05-10-design-de-visualização-de-dados",
+              "title": "Design de visualização de dados",
+              "heading": "5.10 Design de visualização de dados",
+              "file": "locales/pt-001/chapters/05-10-design-de-visualização-de-dados.md"
+            }
+          ]
+        },
+        {
+          "number": 6,
+          "title": "Artificial Intelligence",
+          "chapters": [
+            {
+              "part": 6,
+              "chapter": 0,
+              "decimal": "6.0",
+              "slug": "06-00-inteligência-artificial",
+              "title": "Introdução à Parte 6: Inteligência artificial",
+              "heading": "6.0 Introdução à Parte 6: Inteligência artificial",
+              "file": "locales/pt-001/chapters/06-00-inteligência-artificial.md"
+            },
+            {
+              "part": 6,
+              "chapter": 1,
+              "decimal": "6.1",
+              "slug": "06-01-estratégia-e-prontidão-para-ia",
+              "title": "Estratégia e prontidão para IA",
+              "heading": "6.1 Estratégia e prontidão para IA",
+              "file": "locales/pt-001/chapters/06-01-estratégia-e-prontidão-para-ia.md"
+            },
+            {
+              "part": 6,
+              "chapter": 2,
+              "decimal": "6.2",
+              "slug": "06-02-mlops",
+              "title": "Engenharia de aprendizado de máquina (MLOps)",
+              "heading": "6.2 Engenharia de aprendizado de máquina (MLOps)",
+              "file": "locales/pt-001/chapters/06-02-mlops.md"
+            },
+            {
+              "part": 6,
+              "chapter": 3,
+              "decimal": "6.3",
+              "slug": "06-03-ia-generativa-e-aplicações-llm",
+              "title": "IA generativa e aplicações de LLM",
+              "heading": "6.3 IA generativa e aplicações de LLM",
+              "file": "locales/pt-001/chapters/06-03-ia-generativa-e-aplicações-llm.md"
+            },
+            {
+              "part": 6,
+              "chapter": 4,
+              "decimal": "6.4",
+              "slug": "06-04-desenvolvimento-de-software-assistido-por-ia",
+              "title": "Desenvolvimento de software assistido por IA",
+              "heading": "6.4 Desenvolvimento de software assistido por IA",
+              "file": "locales/pt-001/chapters/06-04-desenvolvimento-de-software-assistido-por-ia.md"
+            },
+            {
+              "part": 6,
+              "chapter": 5,
+              "decimal": "6.5",
+              "slug": "06-05-ia-responsável-e-confiável",
+              "title": "IA responsável e confiável",
+              "heading": "6.5 IA responsável e confiável",
+              "file": "locales/pt-001/chapters/06-05-ia-responsável-e-confiável.md"
+            },
+            {
+              "part": 6,
+              "chapter": 6,
+              "decimal": "6.6",
+              "slug": "06-06-infraestrutura-e-operações-de-ia",
+              "title": "Infraestrutura e operações de IA",
+              "heading": "6.6 Infraestrutura e operações de IA",
+              "file": "locales/pt-001/chapters/06-06-infraestrutura-e-operações-de-ia.md"
+            },
+            {
+              "part": 6,
+              "chapter": 7,
+              "decimal": "6.7",
+              "slug": "06-07-agentes-de-ia-e-sistemas-agênticos",
+              "title": "Agentes de IA e sistemas agênticos",
+              "heading": "6.7 Agentes de IA e sistemas agênticos",
+              "file": "locales/pt-001/chapters/06-07-agentes-de-ia-e-sistemas-agênticos.md"
+            },
+            {
+              "part": 6,
+              "chapter": 8,
+              "decimal": "6.8",
+              "slug": "06-08-avaliação-e-testes-de-ia",
+              "title": "Avaliação e testes de IA",
+              "heading": "6.8 Avaliação e testes de IA",
+              "file": "locales/pt-001/chapters/06-08-avaliação-e-testes-de-ia.md"
+            },
+            {
+              "part": 6,
+              "chapter": 9,
+              "decimal": "6.9",
+              "slug": "06-09-engenharia-de-prompts-e-design-de-contexto",
+              "title": "Engenharia de prompts e design de contexto",
+              "heading": "6.9 Engenharia de prompts e design de contexto",
+              "file": "locales/pt-001/chapters/06-09-engenharia-de-prompts-e-design-de-contexto.md"
+            }
+          ]
+        },
+        {
+          "number": 7,
+          "title": "Data, Analytics, and Insight",
+          "chapters": [
+            {
+              "part": 7,
+              "chapter": 0,
+              "decimal": "7.0",
+              "slug": "07-00-dados-e-análises",
+              "title": "Introdução à Parte 7: Dados, análises e percepção",
+              "heading": "7.0 Introdução à Parte 7: Dados, análises e percepção",
+              "file": "locales/pt-001/chapters/07-00-dados-e-análises.md"
+            },
+            {
+              "part": 7,
+              "chapter": 1,
+              "decimal": "7.1",
+              "slug": "07-01-estratégia-e-governança-de-dados",
+              "title": "Estratégia e governança de dados",
+              "heading": "7.1 Estratégia e governança de dados",
+              "file": "locales/pt-001/chapters/07-01-estratégia-e-governança-de-dados.md"
+            },
+            {
+              "part": 7,
+              "chapter": 2,
+              "decimal": "7.2",
+              "slug": "07-02-engenharia-de-dados",
+              "title": "Engenharia de dados",
+              "heading": "7.2 Engenharia de dados",
+              "file": "locales/pt-001/chapters/07-02-engenharia-de-dados.md"
+            },
+            {
+              "part": 7,
+              "chapter": 3,
+              "decimal": "7.3",
+              "slug": "07-03-análises-e-inteligência-de-negócio",
+              "title": "Análises e inteligência de negócio",
+              "heading": "7.3 Análises e inteligência de negócio",
+              "file": "locales/pt-001/chapters/07-03-análises-e-inteligência-de-negócio.md"
+            },
+            {
+              "part": 7,
+              "chapter": 4,
+              "decimal": "7.4",
+              "slug": "07-04-análises-de-produto-e-experimentação",
+              "title": "Análises de produto e experimentação",
+              "heading": "7.4 Análises de produto e experimentação",
+              "file": "locales/pt-001/chapters/07-04-análises-de-produto-e-experimentação.md"
+            },
+            {
+              "part": 7,
+              "chapter": 5,
+              "decimal": "7.5",
+              "slug": "07-05-ciência-de-decisão-e-cultura-de-dados",
+              "title": "Ciência de decisão e cultura de dados",
+              "heading": "7.5 Ciência de decisão e cultura de dados",
+              "file": "locales/pt-001/chapters/07-05-ciência-de-decisão-e-cultura-de-dados.md"
+            },
+            {
+              "part": 7,
+              "chapter": 6,
+              "decimal": "7.6",
+              "slug": "07-06-dados-em-tempo-real-e-streaming",
+              "title": "Dados em tempo real e streaming",
+              "heading": "7.6 Dados em tempo real e streaming",
+              "file": "locales/pt-001/chapters/07-06-dados-em-tempo-real-e-streaming.md"
+            },
+            {
+              "part": 7,
+              "chapter": 7,
+              "decimal": "7.7",
+              "slug": "07-07-modelagem-de-dados-e-camada-semântica",
+              "title": "Modelagem de dados e camada semântica",
+              "heading": "7.7 Modelagem de dados e camada semântica",
+              "file": "locales/pt-001/chapters/07-07-modelagem-de-dados-e-camada-semântica.md"
+            },
+            {
+              "part": 7,
+              "chapter": 8,
+              "decimal": "7.8",
+              "slug": "07-08-qualidade-e-observabilidade-de-dados",
+              "title": "Qualidade e observabilidade de dados",
+              "heading": "7.8 Qualidade e observabilidade de dados",
+              "file": "locales/pt-001/chapters/07-08-qualidade-e-observabilidade-de-dados.md"
+            },
+            {
+              "part": 7,
+              "chapter": 9,
+              "decimal": "7.9",
+              "slug": "07-09-gestão-de-dados-mestres-e-de-referência",
+              "title": "Gestão de dados mestres e de referência",
+              "heading": "7.9 Gestão de dados mestres e de referência",
+              "file": "locales/pt-001/chapters/07-09-gestão-de-dados-mestres-e-de-referência.md"
+            }
+          ]
+        },
+        {
+          "number": 8,
+          "title": "Automation",
+          "chapters": [
+            {
+              "part": 8,
+              "chapter": 0,
+              "decimal": "8.0",
+              "slug": "08-00-automação",
+              "title": "Introdução à Parte 8: Automação",
+              "heading": "8.0 Introdução à Parte 8: Automação",
+              "file": "locales/pt-001/chapters/08-00-automação.md"
+            },
+            {
+              "part": 8,
+              "chapter": 1,
+              "decimal": "8.1",
+              "slug": "08-01-ci-cd-e-entrega",
+              "title": "CI/CD e entrega",
+              "heading": "8.1 CI/CD e entrega",
+              "file": "locales/pt-001/chapters/08-01-ci-cd-e-entrega.md"
+            },
+            {
+              "part": 8,
+              "chapter": 2,
+              "decimal": "8.2",
+              "slug": "08-02-infraestrutura-como-código-e-configuração",
+              "title": "Infraestrutura como código e configuração",
+              "heading": "8.2 Infraestrutura como código e configuração",
+              "file": "locales/pt-001/chapters/08-02-infraestrutura-como-código-e-configuração.md"
+            },
+            {
+              "part": 8,
+              "chapter": 3,
+              "decimal": "8.3",
+              "slug": "08-03-contêineres-orquestração-e-nativo-da-nuvem",
+              "title": "Contêineres, orquestração e cloud-native",
+              "heading": "8.3 Contêineres, orquestração e cloud-native",
+              "file": "locales/pt-001/chapters/08-03-contêineres-orquestração-e-nativo-da-nuvem.md"
+            },
+            {
+              "part": 8,
+              "chapter": 4,
+              "decimal": "8.4",
+              "slug": "08-04-engenharia-de-plataformas-e-experiência-do-programador",
+              "title": "Engenharia de plataforma e experiência do desenvolvedor",
+              "heading": "8.4 Engenharia de plataforma e experiência do desenvolvedor",
+              "file": "locales/pt-001/chapters/08-04-engenharia-de-plataformas-e-experiência-do-programador.md"
+            },
+            {
+              "part": 8,
+              "chapter": 5,
+              "decimal": "8.5",
+              "slug": "08-05-automação-de-testes-e-de-processos",
+              "title": "Automação de testes e de processos",
+              "heading": "8.5 Automação de testes e de processos",
+              "file": "locales/pt-001/chapters/08-05-automação-de-testes-e-de-processos.md"
+            },
+            {
+              "part": 8,
+              "chapter": 6,
+              "decimal": "8.6",
+              "slug": "08-06-gestão-de-lançamentos-e-entrega-progressiva",
+              "title": "Gestão de lançamentos e entrega progressiva",
+              "heading": "8.6 Gestão de lançamentos e entrega progressiva",
+              "file": "locales/pt-001/chapters/08-06-gestão-de-lançamentos-e-entrega-progressiva.md"
+            },
+            {
+              "part": 8,
+              "chapter": 7,
+              "decimal": "8.7",
+              "slug": "08-07-sistemas-de-build-e-gestão-de-artefatos",
+              "title": "Sistemas de build e gestão de artefatos",
+              "heading": "8.7 Sistemas de build e gestão de artefatos",
+              "file": "locales/pt-001/chapters/08-07-sistemas-de-build-e-gestão-de-artefatos.md"
+            }
+          ]
+        },
+        {
+          "number": 9,
+          "title": "Operations, Reliability, and Observability",
+          "chapters": [
+            {
+              "part": 9,
+              "chapter": 0,
+              "decimal": "9.0",
+              "slug": "09-00-operações-e-confiabilidade",
+              "title": "Introdução à Parte 9: Operações, confiabilidade e observabilidade",
+              "heading": "9.0 Introdução à Parte 9: Operações, confiabilidade e observabilidade",
+              "file": "locales/pt-001/chapters/09-00-operações-e-confiabilidade.md"
+            },
+            {
+              "part": 9,
+              "chapter": 1,
+              "decimal": "9.1",
+              "slug": "09-01-engenharia-de-confiabilidade-de-sites",
+              "title": "Engenharia de confiabilidade de sites",
+              "heading": "9.1 Engenharia de confiabilidade de sites",
+              "file": "locales/pt-001/chapters/09-01-engenharia-de-confiabilidade-de-sites.md"
+            },
+            {
+              "part": 9,
+              "chapter": 2,
+              "decimal": "9.2",
+              "slug": "09-02-observabilidade-e-telemetria",
+              "title": "Observabilidade e telemetria",
+              "heading": "9.2 Observabilidade e telemetria",
+              "file": "locales/pt-001/chapters/09-02-observabilidade-e-telemetria.md"
+            },
+            {
+              "part": 9,
+              "chapter": 3,
+              "decimal": "9.3",
+              "slug": "09-03-gestão-de-incidentes",
+              "title": "Gestão de incidentes",
+              "heading": "9.3 Gestão de incidentes",
+              "file": "locales/pt-001/chapters/09-03-gestão-de-incidentes.md"
+            },
+            {
+              "part": 9,
+              "chapter": 4,
+              "decimal": "9.4",
+              "slug": "09-04-custos-sustentabilidade-e-software-verde",
+              "title": "Custo, sustentabilidade e software verde",
+              "heading": "9.4 Custo, sustentabilidade e software verde",
+              "file": "locales/pt-001/chapters/09-04-custos-sustentabilidade-e-software-verde.md"
+            },
+            {
+              "part": 9,
+              "chapter": 5,
+              "decimal": "9.5",
+              "slug": "09-05-recuperação-de-desastres-e-continuidade-de-negócio",
+              "title": "Recuperação de desastres e continuidade de negócio",
+              "heading": "9.5 Recuperação de desastres e continuidade de negócio",
+              "file": "locales/pt-001/chapters/09-05-recuperação-de-desastres-e-continuidade-de-negócio.md"
+            },
+            {
+              "part": 9,
+              "chapter": 6,
+              "decimal": "9.6",
+              "slug": "09-06-engenharia-do-caos-e-testes-de-resiliência",
+              "title": "Engenharia do caos e testes de resiliência",
+              "heading": "9.6 Engenharia do caos e testes de resiliência",
+              "file": "locales/pt-001/chapters/09-06-engenharia-do-caos-e-testes-de-resiliência.md"
+            },
+            {
+              "part": 9,
+              "chapter": 7,
+              "decimal": "9.7",
+              "slug": "09-07-planejamento-de-capacidade-e-previsão-de-demanda",
+              "title": "Planejamento de capacidade e previsão de demanda",
+              "heading": "9.7 Planejamento de capacidade e previsão de demanda",
+              "file": "locales/pt-001/chapters/09-07-planejamento-de-capacidade-e-previsão-de-demanda.md"
+            },
+            {
+              "part": 9,
+              "chapter": 8,
+              "decimal": "9.8",
+              "slug": "09-08-sobreaviso-e-prontidão-operacional",
+              "title": "Sobreaviso e prontidão operacional",
+              "heading": "9.8 Sobreaviso e prontidão operacional",
+              "file": "locales/pt-001/chapters/09-08-sobreaviso-e-prontidão-operacional.md"
+            }
+          ]
+        },
+        {
+          "number": 10,
+          "title": "Project/Product/Programme Management",
+          "chapters": [
+            {
+              "part": 10,
+              "chapter": 0,
+              "decimal": "10.0",
+              "slug": "10-00-gestão-de-projetos-produtos-e-programas",
+              "title": "Introdução à Parte 10: Gestão de projetos, produtos e programas",
+              "heading": "10.0 Introdução à Parte 10: Gestão de projetos, produtos e programas",
+              "file": "locales/pt-001/chapters/10-00-gestão-de-projetos-produtos-e-programas.md"
+            },
+            {
+              "part": 10,
+              "chapter": 1,
+              "decimal": "10.1",
+              "slug": "10-01-gestão-de-portfólio-e-de-programas",
+              "title": "Gestão de portfólio e de programas",
+              "heading": "10.1 Gestão de portfólio e de programas",
+              "file": "locales/pt-001/chapters/10-01-gestão-de-portfólio-e-de-programas.md"
+            },
+            {
+              "part": 10,
+              "chapter": 2,
+              "decimal": "10.2",
+              "slug": "10-02-risco-auditoria-e-garantia",
+              "title": "Risco, auditoria e garantia",
+              "heading": "10.2 Risco, auditoria e garantia",
+              "file": "locales/pt-001/chapters/10-02-risco-auditoria-e-garantia.md"
+            },
+            {
+              "part": 10,
+              "chapter": 3,
+              "decimal": "10.3",
+              "slug": "10-03-aquisições-código-aberto-e-licenciamento",
+              "title": "Contratação, código aberto e licenciamento",
+              "heading": "10.3 Contratação, código aberto e licenciamento",
+              "file": "locales/pt-001/chapters/10-03-aquisições-código-aberto-e-licenciamento.md"
+            },
+            {
+              "part": 10,
+              "chapter": 4,
+              "decimal": "10.4",
+              "slug": "10-04-sustentação-de-sistemas-grandes-e-duradouros",
+              "title": "Sustentação de sistemas grandes e de vida longa",
+              "heading": "10.4 Sustentação de sistemas grandes e de vida longa",
+              "file": "locales/pt-001/chapters/10-04-sustentação-de-sistemas-grandes-e-duradouros.md"
+            },
+            {
+              "part": 10,
+              "chapter": 5,
+              "decimal": "10.5",
+              "slug": "10-05-ética-responsabilização-e-interesse-público",
+              "title": "Ética, responsabilização e interesse público",
+              "heading": "10.5 Ética, responsabilização e interesse público",
+              "file": "locales/pt-001/chapters/10-05-ética-responsabilização-e-interesse-público.md"
+            },
+            {
+              "part": 10,
+              "chapter": 6,
+              "decimal": "10.6",
+              "slug": "10-06-gestão-de-projetos",
+              "title": "Gestão de projetos",
+              "heading": "10.6 Gestão de projetos",
+              "file": "locales/pt-001/chapters/10-06-gestão-de-projetos.md"
+            },
+            {
+              "part": 10,
+              "chapter": 7,
+              "decimal": "10.7",
+              "slug": "10-07-agilidade",
+              "title": "Agile",
+              "heading": "10.7 Agile",
+              "file": "locales/pt-001/chapters/10-07-agilidade.md"
+            },
+            {
+              "part": 10,
+              "chapter": 8,
+              "decimal": "10.8",
+              "slug": "10-08-modelos-de-maturidade",
+              "title": "Modelos de maturidade",
+              "heading": "10.8 Modelos de maturidade",
+              "file": "locales/pt-001/chapters/10-08-modelos-de-maturidade.md"
+            },
+            {
+              "part": 10,
+              "chapter": 9,
+              "decimal": "10.9",
+              "slug": "10-09-parceria-de-inovação",
+              "title": "Parceria de inovação",
+              "heading": "10.9 Parceria de inovação",
+              "file": "locales/pt-001/chapters/10-09-parceria-de-inovação.md"
+            },
+            {
+              "part": 10,
+              "chapter": 10,
+              "decimal": "10.10",
+              "slug": "10-10-economia-da-engenharia-de-software",
+              "title": "Economia da engenharia de software",
+              "heading": "10.10 Economia da engenharia de software",
+              "file": "locales/pt-001/chapters/10-10-economia-da-engenharia-de-software.md"
+            },
+            {
+              "part": 10,
+              "chapter": 11,
+              "decimal": "10.11",
+              "slug": "10-11-soberania-digital",
+              "title": "Soberania digital",
+              "heading": "10.11 Soberania digital",
+              "file": "locales/pt-001/chapters/10-11-soberania-digital.md"
+            },
+            {
+              "part": 10,
+              "chapter": 12,
+              "decimal": "10.12",
+              "slug": "10-12-código-aberto-versus-código-fechado",
+              "title": "Código aberto versus código fechado",
+              "heading": "10.12 Código aberto versus código fechado",
+              "file": "locales/pt-001/chapters/10-12-código-aberto-versus-código-fechado.md"
+            },
+            {
+              "part": 10,
+              "chapter": 13,
+              "decimal": "10.13",
+              "slug": "10-13-colaboração-entre-organizações",
+              "title": "Colaboração entre organizações",
+              "heading": "10.13 Colaboração entre organizações",
+              "file": "locales/pt-001/chapters/10-13-colaboração-entre-organizações.md"
+            },
+            {
+              "part": 10,
+              "chapter": 14,
+              "decimal": "10.14",
+              "slug": "10-14-gestão-de-produto-e-descoberta",
+              "title": "Gestão de produto e descoberta",
+              "heading": "10.14 Gestão de produto e descoberta",
+              "file": "locales/pt-001/chapters/10-14-gestão-de-produto-e-descoberta.md"
+            },
+            {
+              "part": 10,
+              "chapter": 15,
+              "decimal": "10.15",
+              "slug": "10-15-estimativa-e-previsão",
+              "title": "Estimativa e previsão",
+              "heading": "10.15 Estimativa e previsão",
+              "file": "locales/pt-001/chapters/10-15-estimativa-e-previsão.md"
+            },
+            {
+              "part": 10,
+              "chapter": 16,
+              "decimal": "10.16",
+              "slug": "10-16-gestão-de-partes-interessadas-e-comunicação",
+              "title": "Gestão de partes interessadas e comunicação",
+              "heading": "10.16 Gestão de partes interessadas e comunicação",
+              "file": "locales/pt-001/chapters/10-16-gestão-de-partes-interessadas-e-comunicação.md"
+            },
+            {
+              "part": 10,
+              "chapter": 17,
+              "decimal": "10.17",
+              "slug": "10-17-gestão-da-mudança-organizacional",
+              "title": "Gestão da mudança organizacional",
+              "heading": "10.17 Gestão da mudança organizacional",
+              "file": "locales/pt-001/chapters/10-17-gestão-da-mudança-organizacional.md"
+            },
+            {
+              "part": 10,
+              "chapter": 18,
+              "decimal": "10.18",
+              "slug": "10-18-escritório-de-código-aberto",
+              "title": "Escritório de programa de código aberto (OSPO) e contribuição upstream",
+              "heading": "10.18 Escritório de programa de código aberto (OSPO) e contribuição upstream",
+              "file": "locales/pt-001/chapters/10-18-escritório-de-código-aberto.md"
+            }
+          ]
+        },
+        {
+          "number": 11,
+          "title": "Flow: Discovery and Delivery Pipelines",
+          "chapters": [
+            {
+              "part": 11,
+              "chapter": 0,
+              "decimal": "11.0",
+              "slug": "11-00-fluxo-descoberta-e-entrega",
+              "title": "Introdução à Parte 11: Fluxo: pipelines de descoberta e entrega",
+              "heading": "11.0 Introdução à Parte 11: Fluxo: pipelines de descoberta e entrega",
+              "file": "locales/pt-001/chapters/11-00-fluxo-descoberta-e-entrega.md"
+            },
+            {
+              "part": 11,
+              "chapter": 1,
+              "decimal": "11.1",
+              "slug": "11-01-pipeline-de-descoberta",
+              "title": "O pipeline de descoberta",
+              "heading": "11.1 O pipeline de descoberta",
+              "file": "locales/pt-001/chapters/11-01-pipeline-de-descoberta.md"
+            },
+            {
+              "part": 11,
+              "chapter": 2,
+              "decimal": "11.2",
+              "slug": "11-02-pipeline-de-entrega",
+              "title": "O pipeline de entrega",
+              "heading": "11.2 O pipeline de entrega",
+              "file": "locales/pt-001/chapters/11-02-pipeline-de-entrega.md"
+            },
+            {
+              "part": 11,
+              "chapter": 3,
+              "decimal": "11.3",
+              "slug": "11-03-teoria-das-filas",
+              "title": "Teoria das filas",
+              "heading": "11.3 Teoria das filas",
+              "file": "locales/pt-001/chapters/11-03-teoria-das-filas.md"
+            },
+            {
+              "part": 11,
+              "chapter": 4,
+              "decimal": "11.4",
+              "slug": "11-04-objetivos-e-resultados-chave",
+              "title": "Objetivos e resultados-chave (OKRs)",
+              "heading": "11.4 Objetivos e resultados-chave (OKRs)",
+              "file": "locales/pt-001/chapters/11-04-objetivos-e-resultados-chave.md"
+            },
+            {
+              "part": 11,
+              "chapter": 5,
+              "decimal": "11.5",
+              "slug": "11-05-indicadores-chave-de-desempenho",
+              "title": "Indicadores-chave de desempenho (KPIs)",
+              "heading": "11.5 Indicadores-chave de desempenho (KPIs)",
+              "file": "locales/pt-001/chapters/11-05-indicadores-chave-de-desempenho.md"
+            },
+            {
+              "part": 11,
+              "chapter": 6,
+              "decimal": "11.6",
+              "slug": "11-06-mapeamento-do-fluxo-de-valor-e-custo-do-atraso",
+              "title": "Mapeamento do fluxo de valor e custo do atraso",
+              "heading": "11.6 Mapeamento do fluxo de valor e custo do atraso",
+              "file": "locales/pt-001/chapters/11-06-mapeamento-do-fluxo-de-valor-e-custo-do-atraso.md"
+            }
+          ]
+        },
+        {
+          "number": 12,
+          "title": "Appendices",
+          "chapters": [
+            {
+              "part": 12,
+              "chapter": 0,
+              "decimal": "12.0",
+              "slug": "12-00-apêndices",
+              "title": "Apêndices",
+              "heading": "12.0 Apêndices",
+              "file": "locales/pt-001/chapters/12-00-apêndices.md"
+            },
+            {
+              "part": 12,
+              "chapter": 1,
+              "decimal": "12.1",
+              "slug": "12-01-glossário",
+              "title": "Glossário",
+              "heading": "12.1 Glossário",
+              "file": "locales/pt-001/chapters/12-01-glossário.md"
+            },
+            {
+              "part": 12,
+              "chapter": 2,
+              "decimal": "12.2",
+              "slug": "12-02-listas-de-verificação",
+              "title": "Listas de verificação",
+              "heading": "12.2 Listas de verificação",
+              "file": "locales/pt-001/chapters/12-02-listas-de-verificação.md"
+            },
+            {
+              "part": 12,
+              "chapter": 3,
+              "decimal": "12.3",
+              "slug": "12-03-modelos",
+              "title": "Modelos",
+              "heading": "12.3 Modelos",
+              "file": "locales/pt-001/chapters/12-03-modelos.md"
+            },
+            {
+              "part": 12,
+              "chapter": 4,
+              "decimal": "12.4",
+              "slug": "12-04-autoavaliação-de-maturidade",
+              "title": "Autoavaliação de maturidade",
+              "heading": "12.4 Autoavaliação de maturidade",
+              "file": "locales/pt-001/chapters/12-04-autoavaliação-de-maturidade.md"
+            },
+            {
+              "part": 12,
+              "chapter": 5,
+              "decimal": "12.5",
+              "slug": "12-05-referências",
+              "title": "Referências",
+              "heading": "12.5 Referências",
+              "file": "locales/pt-001/chapters/12-05-referências.md"
+            },
+            {
+              "part": 12,
+              "chapter": 6,
+              "decimal": "12.6",
+              "slug": "12-06-roteiro-de-adoção",
+              "title": "Roteiro de adoção",
+              "heading": "12.6 Roteiro de adoção",
+              "file": "locales/pt-001/chapters/12-06-roteiro-de-adoção.md"
+            },
+            {
+              "part": 12,
+              "chapter": 7,
+              "decimal": "12.7",
+              "slug": "12-07-índice-remissivo",
+              "title": "Índice remissivo",
+              "heading": "12.7 Índice remissivo",
+              "file": "locales/pt-001/chapters/12-07-índice-remissivo.md"
+            }
+          ]
+        }
+      ],
+      "chaptersByDecimal": {
+        "1.0": {
+          "part": 1,
+          "chapter": 0,
+          "decimal": "1.0",
+          "slug": "01-00-pessoas",
+          "title": "Introdução à Parte 1: Pessoas",
+          "heading": "1.0 Introdução à Parte 1: Pessoas",
+          "file": "locales/pt-001/chapters/01-00-pessoas.md"
+        },
+        "1.1": {
+          "part": 1,
+          "chapter": 1,
+          "decimal": "1.1",
+          "slug": "01-01-valores-da-engenharia-de-software",
+          "title": "Valores da engenharia de software",
+          "heading": "1.1 Valores da engenharia de software",
+          "file": "locales/pt-001/chapters/01-01-valores-da-engenharia-de-software.md"
+        },
+        "1.2": {
+          "part": 1,
+          "chapter": 2,
+          "decimal": "1.2",
+          "slug": "01-02-topologias-de-equipes",
+          "title": "Topologias de equipes e desenho organizacional",
+          "heading": "1.2 Topologias de equipes e desenho organizacional",
+          "file": "locales/pt-001/chapters/01-02-topologias-de-equipes.md"
+        },
+        "1.3": {
+          "part": 1,
+          "chapter": 3,
+          "decimal": "1.3",
+          "slug": "01-03-funções-carreiras-e-crescimento",
+          "title": "Funções, escadas de carreira e crescimento",
+          "heading": "1.3 Funções, escadas de carreira e crescimento",
+          "file": "locales/pt-001/chapters/01-03-funções-carreiras-e-crescimento.md"
+        },
+        "1.4": {
+          "part": 1,
+          "chapter": 4,
+          "decimal": "1.4",
+          "slug": "01-04-formas-de-trabalhar",
+          "title": "Formas de trabalhar",
+          "heading": "1.4 Formas de trabalhar",
+          "file": "locales/pt-001/chapters/01-04-formas-de-trabalhar.md"
+        },
+        "1.5": {
+          "part": 1,
+          "chapter": 5,
+          "decimal": "1.5",
+          "slug": "01-05-tomada-de-decisão-e-governança",
+          "title": "Tomada de decisão e governança",
+          "heading": "1.5 Tomada de decisão e governança",
+          "file": "locales/pt-001/chapters/01-05-tomada-de-decisão-e-governança.md"
+        },
+        "1.6": {
+          "part": 1,
+          "chapter": 6,
+          "decimal": "1.6",
+          "slug": "01-06-registros-de-decisão",
+          "title": "Registros de decisão",
+          "heading": "1.6 Registros de decisão",
+          "file": "locales/pt-001/chapters/01-06-registros-de-decisão.md"
+        },
+        "1.7": {
+          "part": 1,
+          "chapter": 7,
+          "decimal": "1.7",
+          "slug": "01-07-padrões-de-engenharia-e-exceções",
+          "title": "Padrões de engenharia e exceções",
+          "heading": "1.7 Padrões de engenharia e exceções",
+          "file": "locales/pt-001/chapters/01-07-padrões-de-engenharia-e-exceções.md"
+        },
+        "1.8": {
+          "part": 1,
+          "chapter": 8,
+          "decimal": "1.8",
+          "slug": "01-08-contratação-entrevistas-e-integração",
+          "title": "Contratação, entrevistas e integração",
+          "heading": "1.8 Contratação, entrevistas e integração",
+          "file": "locales/pt-001/chapters/01-08-contratação-entrevistas-e-integração.md"
+        },
+        "1.9": {
+          "part": 1,
+          "chapter": 9,
+          "decimal": "1.9",
+          "slug": "01-09-trabalho-distribuído-e-remoto",
+          "title": "Trabalho distribuído e remoto",
+          "heading": "1.9 Trabalho distribuído e remoto",
+          "file": "locales/pt-001/chapters/01-09-trabalho-distribuído-e-remoto.md"
+        },
+        "1.10": {
+          "part": 1,
+          "chapter": 10,
+          "decimal": "1.10",
+          "slug": "01-10-eficácia-da-engenharia-e-produtividade-dos-desenvolvedores",
+          "title": "Eficácia da engenharia e produtividade dos desenvolvedores",
+          "heading": "1.10 Eficácia da engenharia e produtividade dos desenvolvedores",
+          "file": "locales/pt-001/chapters/01-10-eficácia-da-engenharia-e-produtividade-dos-desenvolvedores.md"
+        },
+        "1.11": {
+          "part": 1,
+          "chapter": 11,
+          "decimal": "1.11",
+          "slug": "01-11-gestão-de-engenharia",
+          "title": "Gestão de engenharia",
+          "heading": "1.11 Gestão de engenharia",
+          "file": "locales/pt-001/chapters/01-11-gestão-de-engenharia.md"
+        },
+        "1.12": {
+          "part": 1,
+          "chapter": 12,
+          "decimal": "1.12",
+          "slug": "01-12-diversidade-equidade-inclusão-e-pertencimento",
+          "title": "Diversidade, equidade, inclusão e pertencimento",
+          "heading": "1.12 Diversidade, equidade, inclusão e pertencimento",
+          "file": "locales/pt-001/chapters/01-12-diversidade-equidade-inclusão-e-pertencimento.md"
+        },
+        "1.13": {
+          "part": 1,
+          "chapter": 13,
+          "decimal": "1.13",
+          "slug": "01-13-mentoria-coaching-e-compartilhamento-de-conhecimento",
+          "title": "Mentoria, coaching e compartilhamento de conhecimento",
+          "heading": "1.13 Mentoria, coaching e compartilhamento de conhecimento",
+          "file": "locales/pt-001/chapters/01-13-mentoria-coaching-e-compartilhamento-de-conhecimento.md"
+        },
+        "2.0": {
+          "part": 2,
+          "chapter": 0,
+          "decimal": "2.0",
+          "slug": "02-00-programação-de-software",
+          "title": "Introdução à Parte 2: Programação de software",
+          "heading": "2.0 Introdução à Parte 2: Programação de software",
+          "file": "locales/pt-001/chapters/02-00-programação-de-software.md"
+        },
+        "2.1": {
+          "part": 2,
+          "chapter": 1,
+          "decimal": "2.1",
+          "slug": "02-01-padrões-de-codificação-e-estilo",
+          "title": "Padrões de codificação e estilo",
+          "heading": "2.1 Padrões de codificação e estilo",
+          "file": "locales/pt-001/chapters/02-01-padrões-de-codificação-e-estilo.md"
+        },
+        "2.2": {
+          "part": 2,
+          "chapter": 2,
+          "decimal": "2.2",
+          "slug": "02-02-princípios-de-design-de-software",
+          "title": "Princípios de design de software",
+          "heading": "2.2 Princípios de design de software",
+          "file": "locales/pt-001/chapters/02-02-princípios-de-design-de-software.md"
+        },
+        "2.3": {
+          "part": 2,
+          "chapter": 3,
+          "decimal": "2.3",
+          "slug": "02-03-apis-e-design-de-interfaces",
+          "title": "APIs e design de interfaces",
+          "heading": "2.3 APIs e design de interfaces",
+          "file": "locales/pt-001/chapters/02-03-apis-e-design-de-interfaces.md"
+        },
+        "2.4": {
+          "part": 2,
+          "chapter": 4,
+          "decimal": "2.4",
+          "slug": "02-04-estratégia-de-testes",
+          "title": "Estratégia de testes",
+          "heading": "2.4 Estratégia de testes",
+          "file": "locales/pt-001/chapters/02-04-estratégia-de-testes.md"
+        },
+        "2.5": {
+          "part": 2,
+          "chapter": 5,
+          "decimal": "2.5",
+          "slug": "02-05-revisão-de-código-e-colaboração",
+          "title": "Revisão de código e colaboração",
+          "heading": "2.5 Revisão de código e colaboração",
+          "file": "locales/pt-001/chapters/02-05-revisão-de-código-e-colaboração.md"
+        },
+        "2.6": {
+          "part": 2,
+          "chapter": 6,
+          "decimal": "2.6",
+          "slug": "02-06-controle-de-versões-e-gestão-de-código-fonte",
+          "title": "Controle de versões e gestão de código-fonte",
+          "heading": "2.6 Controle de versões e gestão de código-fonte",
+          "file": "locales/pt-001/chapters/02-06-controle-de-versões-e-gestão-de-código-fonte.md"
+        },
+        "2.7": {
+          "part": 2,
+          "chapter": 7,
+          "decimal": "2.7",
+          "slug": "02-07-documentação",
+          "title": "Documentação",
+          "heading": "2.7 Documentação",
+          "file": "locales/pt-001/chapters/02-07-documentação.md"
+        },
+        "2.8": {
+          "part": 2,
+          "chapter": 8,
+          "decimal": "2.8",
+          "slug": "02-08-requisitos-de-software",
+          "title": "Requisitos de software",
+          "heading": "2.8 Requisitos de software",
+          "file": "locales/pt-001/chapters/02-08-requisitos-de-software.md"
+        },
+        "2.9": {
+          "part": 2,
+          "chapter": 9,
+          "decimal": "2.9",
+          "slug": "02-09-construção-de-software",
+          "title": "Construção de software",
+          "heading": "2.9 Construção de software",
+          "file": "locales/pt-001/chapters/02-09-construção-de-software.md"
+        },
+        "2.10": {
+          "part": 2,
+          "chapter": 10,
+          "decimal": "2.10",
+          "slug": "02-10-gestão-de-configuração-de-software",
+          "title": "Gestão de configuração de software",
+          "heading": "2.10 Gestão de configuração de software",
+          "file": "locales/pt-001/chapters/02-10-gestão-de-configuração-de-software.md"
+        },
+        "2.11": {
+          "part": 2,
+          "chapter": 11,
+          "decimal": "2.11",
+          "slug": "02-11-qualidade-de-software",
+          "title": "Qualidade de software",
+          "heading": "2.11 Qualidade de software",
+          "file": "locales/pt-001/chapters/02-11-qualidade-de-software.md"
+        },
+        "2.12": {
+          "part": 2,
+          "chapter": 12,
+          "decimal": "2.12",
+          "slug": "02-12-modelos-e-métodos-de-software",
+          "title": "Modelos e métodos de software",
+          "heading": "2.12 Modelos e métodos de software",
+          "file": "locales/pt-001/chapters/02-12-modelos-e-métodos-de-software.md"
+        },
+        "2.13": {
+          "part": 2,
+          "chapter": 13,
+          "decimal": "2.13",
+          "slug": "02-13-fundamentos-de-computação-matemática-e-engenharia",
+          "title": "Fundamentos de computação, matemática e engenharia",
+          "heading": "2.13 Fundamentos de computação, matemática e engenharia",
+          "file": "locales/pt-001/chapters/02-13-fundamentos-de-computação-matemática-e-engenharia.md"
+        },
+        "2.14": {
+          "part": 2,
+          "chapter": 14,
+          "decimal": "2.14",
+          "slug": "02-14-estrutura-de-projetos-e-repositórios",
+          "title": "Estrutura de projetos e repositórios",
+          "heading": "2.14 Estrutura de projetos e repositórios",
+          "file": "locales/pt-001/chapters/02-14-estrutura-de-projetos-e-repositórios.md"
+        },
+        "2.15": {
+          "part": 2,
+          "chapter": 15,
+          "decimal": "2.15",
+          "slug": "02-15-depuração-e-resolução-de-problemas",
+          "title": "Depuração e resolução de problemas",
+          "heading": "2.15 Depuração e resolução de problemas",
+          "file": "locales/pt-001/chapters/02-15-depuração-e-resolução-de-problemas.md"
+        },
+        "2.16": {
+          "part": 2,
+          "chapter": 16,
+          "decimal": "2.16",
+          "slug": "02-16-engenharia-de-desempenho",
+          "title": "Engenharia de desempenho",
+          "heading": "2.16 Engenharia de desempenho",
+          "file": "locales/pt-001/chapters/02-16-engenharia-de-desempenho.md"
+        },
+        "2.17": {
+          "part": 2,
+          "chapter": 17,
+          "decimal": "2.17",
+          "slug": "02-17-concorrência-e-paralelismo",
+          "title": "Concorrência e paralelismo",
+          "heading": "2.17 Concorrência e paralelismo",
+          "file": "locales/pt-001/chapters/02-17-concorrência-e-paralelismo.md"
+        },
+        "2.18": {
+          "part": 2,
+          "chapter": 18,
+          "decimal": "2.18",
+          "slug": "02-18-gestão-de-dependências-e-da-cadeia-de-suprimentos",
+          "title": "Gestão de dependências e da cadeia de suprimentos",
+          "heading": "2.18 Gestão de dependências e da cadeia de suprimentos",
+          "file": "locales/pt-001/chapters/02-18-gestão-de-dependências-e-da-cadeia-de-suprimentos.md"
+        },
+        "2.19": {
+          "part": 2,
+          "chapter": 19,
+          "decimal": "2.19",
+          "slug": "02-19-refatoração-e-dívida-técnica",
+          "title": "Refatoração e dívida técnica",
+          "heading": "2.19 Refatoração e dívida técnica",
+          "file": "locales/pt-001/chapters/02-19-refatoração-e-dívida-técnica.md"
+        },
+        "2.20": {
+          "part": 2,
+          "chapter": 20,
+          "decimal": "2.20",
+          "slug": "02-20-tratamento-de-erros-e-padrões-de-resiliência",
+          "title": "Tratamento de erros e padrões de resiliência",
+          "heading": "2.20 Tratamento de erros e padrões de resiliência",
+          "file": "locales/pt-001/chapters/02-20-tratamento-de-erros-e-padrões-de-resiliência.md"
+        },
+        "2.21": {
+          "part": 2,
+          "chapter": 21,
+          "decimal": "2.21",
+          "slug": "02-21-sistemas-de-tipos-e-análise-estática",
+          "title": "Sistemas de tipos e análise estática",
+          "heading": "2.21 Sistemas de tipos e análise estática",
+          "file": "locales/pt-001/chapters/02-21-sistemas-de-tipos-e-análise-estática.md"
+        },
+        "3.0": {
+          "part": 3,
+          "chapter": 0,
+          "decimal": "3.0",
+          "slug": "03-00-sistemas",
+          "title": "Introdução à Parte 3: Sistemas",
+          "heading": "3.0 Introdução à Parte 3: Sistemas",
+          "file": "locales/pt-001/chapters/03-00-sistemas.md"
+        },
+        "3.1": {
+          "part": 3,
+          "chapter": 1,
+          "decimal": "3.1",
+          "slug": "03-01-fundamentos-de-arquitetura",
+          "title": "Fundamentos de arquitetura",
+          "heading": "3.1 Fundamentos de arquitetura",
+          "file": "locales/pt-001/chapters/03-01-fundamentos-de-arquitetura.md"
+        },
+        "3.2": {
+          "part": 3,
+          "chapter": 2,
+          "decimal": "3.2",
+          "slug": "03-02-estilos-e-padrões-arquiteturais",
+          "title": "Estilos e padrões arquiteturais",
+          "heading": "3.2 Estilos e padrões arquiteturais",
+          "file": "locales/pt-001/chapters/03-02-estilos-e-padrões-arquiteturais.md"
+        },
+        "3.3": {
+          "part": 3,
+          "chapter": 3,
+          "decimal": "3.3",
+          "slug": "03-03-sistemas-distribuídos",
+          "title": "Sistemas distribuídos",
+          "heading": "3.3 Sistemas distribuídos",
+          "file": "locales/pt-001/chapters/03-03-sistemas-distribuídos.md"
+        },
+        "3.4": {
+          "part": 3,
+          "chapter": 4,
+          "decimal": "3.4",
+          "slug": "03-04-arquitetura-de-dados-e-armazenamento",
+          "title": "Arquitetura de dados e armazenamento",
+          "heading": "3.4 Arquitetura de dados e armazenamento",
+          "file": "locales/pt-001/chapters/03-04-arquitetura-de-dados-e-armazenamento.md"
+        },
+        "3.5": {
+          "part": 3,
+          "chapter": 5,
+          "decimal": "3.5",
+          "slug": "03-05-escalabilidade-desempenho-e-resiliência",
+          "title": "Escalabilidade, desempenho e resiliência",
+          "heading": "3.5 Escalabilidade, desempenho e resiliência",
+          "file": "locales/pt-001/chapters/03-05-escalabilidade-desempenho-e-resiliência.md"
+        },
+        "3.6": {
+          "part": 3,
+          "chapter": 6,
+          "decimal": "3.6",
+          "slug": "03-06-modernização-de-sistemas-legados",
+          "title": "Modernização de sistemas legados",
+          "heading": "3.6 Modernização de sistemas legados",
+          "file": "locales/pt-001/chapters/03-06-modernização-de-sistemas-legados.md"
+        },
+        "3.7": {
+          "part": 3,
+          "chapter": 7,
+          "decimal": "3.7",
+          "slug": "03-07-manutenção-de-software",
+          "title": "Manutenção de software",
+          "heading": "3.7 Manutenção de software",
+          "file": "locales/pt-001/chapters/03-07-manutenção-de-software.md"
+        },
+        "3.8": {
+          "part": 3,
+          "chapter": 8,
+          "decimal": "3.8",
+          "slug": "03-08-interoperabilidade-e-padrões-abertos",
+          "title": "Interoperabilidade e padrões abertos",
+          "heading": "3.8 Interoperabilidade e padrões abertos",
+          "file": "locales/pt-001/chapters/03-08-interoperabilidade-e-padrões-abertos.md"
+        },
+        "3.9": {
+          "part": 3,
+          "chapter": 9,
+          "decimal": "3.9",
+          "slug": "03-09-engenharia-de-sistemas",
+          "title": "Engenharia de sistemas",
+          "heading": "3.9 Engenharia de sistemas",
+          "file": "locales/pt-001/chapters/03-09-engenharia-de-sistemas.md"
+        },
+        "3.10": {
+          "part": 3,
+          "chapter": 10,
+          "decimal": "3.10",
+          "slug": "03-10-sistemas-embarcados-e-de-tempo-real",
+          "title": "Sistemas embarcados e de tempo real",
+          "heading": "3.10 Sistemas embarcados e de tempo real",
+          "file": "locales/pt-001/chapters/03-10-sistemas-embarcados-e-de-tempo-real.md"
+        },
+        "3.11": {
+          "part": 3,
+          "chapter": 11,
+          "decimal": "3.11",
+          "slug": "03-11-arquitetura-na-nuvem",
+          "title": "Arquitetura na nuvem",
+          "heading": "3.11 Arquitetura na nuvem",
+          "file": "locales/pt-001/chapters/03-11-arquitetura-na-nuvem.md"
+        },
+        "3.12": {
+          "part": 3,
+          "chapter": 12,
+          "decimal": "3.12",
+          "slug": "03-12-arquitetura-orientada-a-eventos-e-mensagens",
+          "title": "Arquitetura orientada a eventos e mensagens",
+          "heading": "3.12 Arquitetura orientada a eventos e mensagens",
+          "file": "locales/pt-001/chapters/03-12-arquitetura-orientada-a-eventos-e-mensagens.md"
+        },
+        "3.13": {
+          "part": 3,
+          "chapter": 13,
+          "decimal": "3.13",
+          "slug": "03-13-redes-e-conectividade",
+          "title": "Redes e conectividade",
+          "heading": "3.13 Redes e conectividade",
+          "file": "locales/pt-001/chapters/03-13-redes-e-conectividade.md"
+        },
+        "3.14": {
+          "part": 3,
+          "chapter": 14,
+          "decimal": "3.14",
+          "slug": "03-14-multilocação-e-arquitetura-saas",
+          "title": "Multilocação e arquitetura SaaS",
+          "heading": "3.14 Multilocação e arquitetura SaaS",
+          "file": "locales/pt-001/chapters/03-14-multilocação-e-arquitetura-saas.md"
+        },
+        "3.15": {
+          "part": 3,
+          "chapter": 15,
+          "decimal": "3.15",
+          "slug": "03-15-cache-e-distribuição-de-conteúdo",
+          "title": "Cache e distribuição de conteúdo",
+          "heading": "3.15 Cache e distribuição de conteúdo",
+          "file": "locales/pt-001/chapters/03-15-cache-e-distribuição-de-conteúdo.md"
+        },
+        "3.16": {
+          "part": 3,
+          "chapter": 16,
+          "decimal": "3.16",
+          "slug": "03-16-gateways-de-api-e-malha-de-serviços",
+          "title": "Gateways de API e malha de serviços",
+          "heading": "3.16 Gateways de API e malha de serviços",
+          "file": "locales/pt-001/chapters/03-16-gateways-de-api-e-malha-de-serviços.md"
+        },
+        "3.17": {
+          "part": 3,
+          "chapter": 17,
+          "decimal": "3.17",
+          "slug": "03-17-pesquisa-e-recuperação-de-informação",
+          "title": "Pesquisa e recuperação de informação",
+          "heading": "3.17 Pesquisa e recuperação de informação",
+          "file": "locales/pt-001/chapters/03-17-pesquisa-e-recuperação-de-informação.md"
+        },
+        "4.0": {
+          "part": 4,
+          "chapter": 0,
+          "decimal": "4.0",
+          "slug": "04-00-segurança",
+          "title": "Introdução à Parte 4: Segurança",
+          "heading": "4.0 Introdução à Parte 4: Segurança",
+          "file": "locales/pt-001/chapters/04-00-segurança.md"
+        },
+        "4.1": {
+          "part": 4,
+          "chapter": 1,
+          "decimal": "4.1",
+          "slug": "04-01-fundamentos-e-cultura-de-segurança",
+          "title": "Fundamentos e cultura de segurança",
+          "heading": "4.1 Fundamentos e cultura de segurança",
+          "file": "locales/pt-001/chapters/04-01-fundamentos-e-cultura-de-segurança.md"
+        },
+        "4.2": {
+          "part": 4,
+          "chapter": 2,
+          "decimal": "4.2",
+          "slug": "04-02-segurança-de-aplicações",
+          "title": "Segurança de aplicações",
+          "heading": "4.2 Segurança de aplicações",
+          "file": "locales/pt-001/chapters/04-02-segurança-de-aplicações.md"
+        },
+        "4.3": {
+          "part": 4,
+          "chapter": 3,
+          "decimal": "4.3",
+          "slug": "04-03-segurança-de-infraestrutura-e-nuvem",
+          "title": "Segurança de infraestrutura e de nuvem",
+          "heading": "4.3 Segurança de infraestrutura e de nuvem",
+          "file": "locales/pt-001/chapters/04-03-segurança-de-infraestrutura-e-nuvem.md"
+        },
+        "4.4": {
+          "part": 4,
+          "chapter": 4,
+          "decimal": "4.4",
+          "slug": "04-04-operações-de-segurança",
+          "title": "Operações de segurança",
+          "heading": "4.4 Operações de segurança",
+          "file": "locales/pt-001/chapters/04-04-operações-de-segurança.md"
+        },
+        "4.5": {
+          "part": 4,
+          "chapter": 5,
+          "decimal": "4.5",
+          "slug": "04-05-privacidade-e-proteção-de-dados",
+          "title": "Privacidade e proteção de dados",
+          "heading": "4.5 Privacidade e proteção de dados",
+          "file": "locales/pt-001/chapters/04-05-privacidade-e-proteção-de-dados.md"
+        },
+        "4.6": {
+          "part": 4,
+          "chapter": 6,
+          "decimal": "4.6",
+          "slug": "04-06-conformidade-e-governança",
+          "title": "Conformidade e governança",
+          "heading": "4.6 Conformidade e governança",
+          "file": "locales/pt-001/chapters/04-06-conformidade-e-governança.md"
+        },
+        "4.7": {
+          "part": 4,
+          "chapter": 7,
+          "decimal": "4.7",
+          "slug": "04-07-gestão-de-identidades-e-acessos",
+          "title": "Gestão de identidades e acessos",
+          "heading": "4.7 Gestão de identidades e acessos",
+          "file": "locales/pt-001/chapters/04-07-gestão-de-identidades-e-acessos.md"
+        },
+        "4.8": {
+          "part": 4,
+          "chapter": 8,
+          "decimal": "4.8",
+          "slug": "04-08-criptografia-e-gestão-de-chaves",
+          "title": "Criptografia e gestão de chaves",
+          "heading": "4.8 Criptografia e gestão de chaves",
+          "file": "locales/pt-001/chapters/04-08-criptografia-e-gestão-de-chaves.md"
+        },
+        "4.9": {
+          "part": 4,
+          "chapter": 9,
+          "decimal": "4.9",
+          "slug": "04-09-ciclo-de-vida-de-desenvolvimento-seguro",
+          "title": "Ciclo de vida de desenvolvimento seguro de software",
+          "heading": "4.9 Ciclo de vida de desenvolvimento seguro de software",
+          "file": "locales/pt-001/chapters/04-09-ciclo-de-vida-de-desenvolvimento-seguro.md"
+        },
+        "4.10": {
+          "part": 4,
+          "chapter": 10,
+          "decimal": "4.10",
+          "slug": "04-10-testes-de-intrusão-e-red-teaming",
+          "title": "Testes de intrusão e red teaming",
+          "heading": "4.10 Testes de intrusão e red teaming",
+          "file": "locales/pt-001/chapters/04-10-testes-de-intrusão-e-red-teaming.md"
+        },
+        "5.0": {
+          "part": 5,
+          "chapter": 0,
+          "decimal": "5.0",
+          "slug": "05-00-design-de-ui-e-ux",
+          "title": "Introdução à Parte 5: Design de UI e UX",
+          "heading": "5.0 Introdução à Parte 5: Design de UI e UX",
+          "file": "locales/pt-001/chapters/05-00-design-de-ui-e-ux.md"
+        },
+        "5.1": {
+          "part": 5,
+          "chapter": 1,
+          "decimal": "5.1",
+          "slug": "05-01-fundamentos-de-ux",
+          "title": "Fundamentos de UX",
+          "heading": "5.1 Fundamentos de UX",
+          "file": "locales/pt-001/chapters/05-01-fundamentos-de-ux.md"
+        },
+        "5.2": {
+          "part": 5,
+          "chapter": 2,
+          "decimal": "5.2",
+          "slug": "05-02-design-de-ui-e-sistemas-de-design",
+          "title": "Design de UI e sistemas de design",
+          "heading": "5.2 Design de UI e sistemas de design",
+          "file": "locales/pt-001/chapters/05-02-design-de-ui-e-sistemas-de-design.md"
+        },
+        "5.3": {
+          "part": 5,
+          "chapter": 3,
+          "decimal": "5.3",
+          "slug": "05-03-acessibilidade",
+          "title": "Acessibilidade",
+          "heading": "5.3 Acessibilidade",
+          "file": "locales/pt-001/chapters/05-03-acessibilidade.md"
+        },
+        "5.4": {
+          "part": 5,
+          "chapter": 4,
+          "decimal": "5.4",
+          "slug": "05-04-design-de-conteúdo-e-comunicação",
+          "title": "Design de conteúdo e comunicação",
+          "heading": "5.4 Design de conteúdo e comunicação",
+          "file": "locales/pt-001/chapters/05-04-design-de-conteúdo-e-comunicação.md"
+        },
+        "5.5": {
+          "part": 5,
+          "chapter": 5,
+          "decimal": "5.5",
+          "slug": "05-05-internacionalização-e-localização",
+          "title": "Internacionalização e localização",
+          "heading": "5.5 Internacionalização e localização",
+          "file": "locales/pt-001/chapters/05-05-internacionalização-e-localização.md"
+        },
+        "5.6": {
+          "part": 5,
+          "chapter": 6,
+          "decimal": "5.6",
+          "slug": "05-06-engenharia-de-front-end",
+          "title": "Engenharia de front-end",
+          "heading": "5.6 Engenharia de front-end",
+          "file": "locales/pt-001/chapters/05-06-engenharia-de-front-end.md"
+        },
+        "5.7": {
+          "part": 5,
+          "chapter": 7,
+          "decimal": "5.7",
+          "slug": "05-07-desenvolvimento-de-aplicativos-móveis",
+          "title": "Desenvolvimento de aplicativos móveis",
+          "heading": "5.7 Desenvolvimento de aplicativos móveis",
+          "file": "locales/pt-001/chapters/05-07-desenvolvimento-de-aplicativos-móveis.md"
+        },
+        "5.8": {
+          "part": 5,
+          "chapter": 8,
+          "decimal": "5.8",
+          "slug": "05-08-pesquisa-de-design-e-testes-de-usabilidade",
+          "title": "Pesquisa de design e testes de usabilidade",
+          "heading": "5.8 Pesquisa de design e testes de usabilidade",
+          "file": "locales/pt-001/chapters/05-08-pesquisa-de-design-e-testes-de-usabilidade.md"
+        },
+        "5.9": {
+          "part": 5,
+          "chapter": 9,
+          "decimal": "5.9",
+          "slug": "05-09-design-de-serviços",
+          "title": "Design de serviços",
+          "heading": "5.9 Design de serviços",
+          "file": "locales/pt-001/chapters/05-09-design-de-serviços.md"
+        },
+        "5.10": {
+          "part": 5,
+          "chapter": 10,
+          "decimal": "5.10",
+          "slug": "05-10-design-de-visualização-de-dados",
+          "title": "Design de visualização de dados",
+          "heading": "5.10 Design de visualização de dados",
+          "file": "locales/pt-001/chapters/05-10-design-de-visualização-de-dados.md"
+        },
+        "6.0": {
+          "part": 6,
+          "chapter": 0,
+          "decimal": "6.0",
+          "slug": "06-00-inteligência-artificial",
+          "title": "Introdução à Parte 6: Inteligência artificial",
+          "heading": "6.0 Introdução à Parte 6: Inteligência artificial",
+          "file": "locales/pt-001/chapters/06-00-inteligência-artificial.md"
+        },
+        "6.1": {
+          "part": 6,
+          "chapter": 1,
+          "decimal": "6.1",
+          "slug": "06-01-estratégia-e-prontidão-para-ia",
+          "title": "Estratégia e prontidão para IA",
+          "heading": "6.1 Estratégia e prontidão para IA",
+          "file": "locales/pt-001/chapters/06-01-estratégia-e-prontidão-para-ia.md"
+        },
+        "6.2": {
+          "part": 6,
+          "chapter": 2,
+          "decimal": "6.2",
+          "slug": "06-02-mlops",
+          "title": "Engenharia de aprendizado de máquina (MLOps)",
+          "heading": "6.2 Engenharia de aprendizado de máquina (MLOps)",
+          "file": "locales/pt-001/chapters/06-02-mlops.md"
+        },
+        "6.3": {
+          "part": 6,
+          "chapter": 3,
+          "decimal": "6.3",
+          "slug": "06-03-ia-generativa-e-aplicações-llm",
+          "title": "IA generativa e aplicações de LLM",
+          "heading": "6.3 IA generativa e aplicações de LLM",
+          "file": "locales/pt-001/chapters/06-03-ia-generativa-e-aplicações-llm.md"
+        },
+        "6.4": {
+          "part": 6,
+          "chapter": 4,
+          "decimal": "6.4",
+          "slug": "06-04-desenvolvimento-de-software-assistido-por-ia",
+          "title": "Desenvolvimento de software assistido por IA",
+          "heading": "6.4 Desenvolvimento de software assistido por IA",
+          "file": "locales/pt-001/chapters/06-04-desenvolvimento-de-software-assistido-por-ia.md"
+        },
+        "6.5": {
+          "part": 6,
+          "chapter": 5,
+          "decimal": "6.5",
+          "slug": "06-05-ia-responsável-e-confiável",
+          "title": "IA responsável e confiável",
+          "heading": "6.5 IA responsável e confiável",
+          "file": "locales/pt-001/chapters/06-05-ia-responsável-e-confiável.md"
+        },
+        "6.6": {
+          "part": 6,
+          "chapter": 6,
+          "decimal": "6.6",
+          "slug": "06-06-infraestrutura-e-operações-de-ia",
+          "title": "Infraestrutura e operações de IA",
+          "heading": "6.6 Infraestrutura e operações de IA",
+          "file": "locales/pt-001/chapters/06-06-infraestrutura-e-operações-de-ia.md"
+        },
+        "6.7": {
+          "part": 6,
+          "chapter": 7,
+          "decimal": "6.7",
+          "slug": "06-07-agentes-de-ia-e-sistemas-agênticos",
+          "title": "Agentes de IA e sistemas agênticos",
+          "heading": "6.7 Agentes de IA e sistemas agênticos",
+          "file": "locales/pt-001/chapters/06-07-agentes-de-ia-e-sistemas-agênticos.md"
+        },
+        "6.8": {
+          "part": 6,
+          "chapter": 8,
+          "decimal": "6.8",
+          "slug": "06-08-avaliação-e-testes-de-ia",
+          "title": "Avaliação e testes de IA",
+          "heading": "6.8 Avaliação e testes de IA",
+          "file": "locales/pt-001/chapters/06-08-avaliação-e-testes-de-ia.md"
+        },
+        "6.9": {
+          "part": 6,
+          "chapter": 9,
+          "decimal": "6.9",
+          "slug": "06-09-engenharia-de-prompts-e-design-de-contexto",
+          "title": "Engenharia de prompts e design de contexto",
+          "heading": "6.9 Engenharia de prompts e design de contexto",
+          "file": "locales/pt-001/chapters/06-09-engenharia-de-prompts-e-design-de-contexto.md"
+        },
+        "7.0": {
+          "part": 7,
+          "chapter": 0,
+          "decimal": "7.0",
+          "slug": "07-00-dados-e-análises",
+          "title": "Introdução à Parte 7: Dados, análises e percepção",
+          "heading": "7.0 Introdução à Parte 7: Dados, análises e percepção",
+          "file": "locales/pt-001/chapters/07-00-dados-e-análises.md"
+        },
+        "7.1": {
+          "part": 7,
+          "chapter": 1,
+          "decimal": "7.1",
+          "slug": "07-01-estratégia-e-governança-de-dados",
+          "title": "Estratégia e governança de dados",
+          "heading": "7.1 Estratégia e governança de dados",
+          "file": "locales/pt-001/chapters/07-01-estratégia-e-governança-de-dados.md"
+        },
+        "7.2": {
+          "part": 7,
+          "chapter": 2,
+          "decimal": "7.2",
+          "slug": "07-02-engenharia-de-dados",
+          "title": "Engenharia de dados",
+          "heading": "7.2 Engenharia de dados",
+          "file": "locales/pt-001/chapters/07-02-engenharia-de-dados.md"
+        },
+        "7.3": {
+          "part": 7,
+          "chapter": 3,
+          "decimal": "7.3",
+          "slug": "07-03-análises-e-inteligência-de-negócio",
+          "title": "Análises e inteligência de negócio",
+          "heading": "7.3 Análises e inteligência de negócio",
+          "file": "locales/pt-001/chapters/07-03-análises-e-inteligência-de-negócio.md"
+        },
+        "7.4": {
+          "part": 7,
+          "chapter": 4,
+          "decimal": "7.4",
+          "slug": "07-04-análises-de-produto-e-experimentação",
+          "title": "Análises de produto e experimentação",
+          "heading": "7.4 Análises de produto e experimentação",
+          "file": "locales/pt-001/chapters/07-04-análises-de-produto-e-experimentação.md"
+        },
+        "7.5": {
+          "part": 7,
+          "chapter": 5,
+          "decimal": "7.5",
+          "slug": "07-05-ciência-de-decisão-e-cultura-de-dados",
+          "title": "Ciência de decisão e cultura de dados",
+          "heading": "7.5 Ciência de decisão e cultura de dados",
+          "file": "locales/pt-001/chapters/07-05-ciência-de-decisão-e-cultura-de-dados.md"
+        },
+        "7.6": {
+          "part": 7,
+          "chapter": 6,
+          "decimal": "7.6",
+          "slug": "07-06-dados-em-tempo-real-e-streaming",
+          "title": "Dados em tempo real e streaming",
+          "heading": "7.6 Dados em tempo real e streaming",
+          "file": "locales/pt-001/chapters/07-06-dados-em-tempo-real-e-streaming.md"
+        },
+        "7.7": {
+          "part": 7,
+          "chapter": 7,
+          "decimal": "7.7",
+          "slug": "07-07-modelagem-de-dados-e-camada-semântica",
+          "title": "Modelagem de dados e camada semântica",
+          "heading": "7.7 Modelagem de dados e camada semântica",
+          "file": "locales/pt-001/chapters/07-07-modelagem-de-dados-e-camada-semântica.md"
+        },
+        "7.8": {
+          "part": 7,
+          "chapter": 8,
+          "decimal": "7.8",
+          "slug": "07-08-qualidade-e-observabilidade-de-dados",
+          "title": "Qualidade e observabilidade de dados",
+          "heading": "7.8 Qualidade e observabilidade de dados",
+          "file": "locales/pt-001/chapters/07-08-qualidade-e-observabilidade-de-dados.md"
+        },
+        "7.9": {
+          "part": 7,
+          "chapter": 9,
+          "decimal": "7.9",
+          "slug": "07-09-gestão-de-dados-mestres-e-de-referência",
+          "title": "Gestão de dados mestres e de referência",
+          "heading": "7.9 Gestão de dados mestres e de referência",
+          "file": "locales/pt-001/chapters/07-09-gestão-de-dados-mestres-e-de-referência.md"
+        },
+        "8.0": {
+          "part": 8,
+          "chapter": 0,
+          "decimal": "8.0",
+          "slug": "08-00-automação",
+          "title": "Introdução à Parte 8: Automação",
+          "heading": "8.0 Introdução à Parte 8: Automação",
+          "file": "locales/pt-001/chapters/08-00-automação.md"
+        },
+        "8.1": {
+          "part": 8,
+          "chapter": 1,
+          "decimal": "8.1",
+          "slug": "08-01-ci-cd-e-entrega",
+          "title": "CI/CD e entrega",
+          "heading": "8.1 CI/CD e entrega",
+          "file": "locales/pt-001/chapters/08-01-ci-cd-e-entrega.md"
+        },
+        "8.2": {
+          "part": 8,
+          "chapter": 2,
+          "decimal": "8.2",
+          "slug": "08-02-infraestrutura-como-código-e-configuração",
+          "title": "Infraestrutura como código e configuração",
+          "heading": "8.2 Infraestrutura como código e configuração",
+          "file": "locales/pt-001/chapters/08-02-infraestrutura-como-código-e-configuração.md"
+        },
+        "8.3": {
+          "part": 8,
+          "chapter": 3,
+          "decimal": "8.3",
+          "slug": "08-03-contêineres-orquestração-e-nativo-da-nuvem",
+          "title": "Contêineres, orquestração e cloud-native",
+          "heading": "8.3 Contêineres, orquestração e cloud-native",
+          "file": "locales/pt-001/chapters/08-03-contêineres-orquestração-e-nativo-da-nuvem.md"
+        },
+        "8.4": {
+          "part": 8,
+          "chapter": 4,
+          "decimal": "8.4",
+          "slug": "08-04-engenharia-de-plataformas-e-experiência-do-programador",
+          "title": "Engenharia de plataforma e experiência do desenvolvedor",
+          "heading": "8.4 Engenharia de plataforma e experiência do desenvolvedor",
+          "file": "locales/pt-001/chapters/08-04-engenharia-de-plataformas-e-experiência-do-programador.md"
+        },
+        "8.5": {
+          "part": 8,
+          "chapter": 5,
+          "decimal": "8.5",
+          "slug": "08-05-automação-de-testes-e-de-processos",
+          "title": "Automação de testes e de processos",
+          "heading": "8.5 Automação de testes e de processos",
+          "file": "locales/pt-001/chapters/08-05-automação-de-testes-e-de-processos.md"
+        },
+        "8.6": {
+          "part": 8,
+          "chapter": 6,
+          "decimal": "8.6",
+          "slug": "08-06-gestão-de-lançamentos-e-entrega-progressiva",
+          "title": "Gestão de lançamentos e entrega progressiva",
+          "heading": "8.6 Gestão de lançamentos e entrega progressiva",
+          "file": "locales/pt-001/chapters/08-06-gestão-de-lançamentos-e-entrega-progressiva.md"
+        },
+        "8.7": {
+          "part": 8,
+          "chapter": 7,
+          "decimal": "8.7",
+          "slug": "08-07-sistemas-de-build-e-gestão-de-artefatos",
+          "title": "Sistemas de build e gestão de artefatos",
+          "heading": "8.7 Sistemas de build e gestão de artefatos",
+          "file": "locales/pt-001/chapters/08-07-sistemas-de-build-e-gestão-de-artefatos.md"
+        },
+        "9.0": {
+          "part": 9,
+          "chapter": 0,
+          "decimal": "9.0",
+          "slug": "09-00-operações-e-confiabilidade",
+          "title": "Introdução à Parte 9: Operações, confiabilidade e observabilidade",
+          "heading": "9.0 Introdução à Parte 9: Operações, confiabilidade e observabilidade",
+          "file": "locales/pt-001/chapters/09-00-operações-e-confiabilidade.md"
+        },
+        "9.1": {
+          "part": 9,
+          "chapter": 1,
+          "decimal": "9.1",
+          "slug": "09-01-engenharia-de-confiabilidade-de-sites",
+          "title": "Engenharia de confiabilidade de sites",
+          "heading": "9.1 Engenharia de confiabilidade de sites",
+          "file": "locales/pt-001/chapters/09-01-engenharia-de-confiabilidade-de-sites.md"
+        },
+        "9.2": {
+          "part": 9,
+          "chapter": 2,
+          "decimal": "9.2",
+          "slug": "09-02-observabilidade-e-telemetria",
+          "title": "Observabilidade e telemetria",
+          "heading": "9.2 Observabilidade e telemetria",
+          "file": "locales/pt-001/chapters/09-02-observabilidade-e-telemetria.md"
+        },
+        "9.3": {
+          "part": 9,
+          "chapter": 3,
+          "decimal": "9.3",
+          "slug": "09-03-gestão-de-incidentes",
+          "title": "Gestão de incidentes",
+          "heading": "9.3 Gestão de incidentes",
+          "file": "locales/pt-001/chapters/09-03-gestão-de-incidentes.md"
+        },
+        "9.4": {
+          "part": 9,
+          "chapter": 4,
+          "decimal": "9.4",
+          "slug": "09-04-custos-sustentabilidade-e-software-verde",
+          "title": "Custo, sustentabilidade e software verde",
+          "heading": "9.4 Custo, sustentabilidade e software verde",
+          "file": "locales/pt-001/chapters/09-04-custos-sustentabilidade-e-software-verde.md"
+        },
+        "9.5": {
+          "part": 9,
+          "chapter": 5,
+          "decimal": "9.5",
+          "slug": "09-05-recuperação-de-desastres-e-continuidade-de-negócio",
+          "title": "Recuperação de desastres e continuidade de negócio",
+          "heading": "9.5 Recuperação de desastres e continuidade de negócio",
+          "file": "locales/pt-001/chapters/09-05-recuperação-de-desastres-e-continuidade-de-negócio.md"
+        },
+        "9.6": {
+          "part": 9,
+          "chapter": 6,
+          "decimal": "9.6",
+          "slug": "09-06-engenharia-do-caos-e-testes-de-resiliência",
+          "title": "Engenharia do caos e testes de resiliência",
+          "heading": "9.6 Engenharia do caos e testes de resiliência",
+          "file": "locales/pt-001/chapters/09-06-engenharia-do-caos-e-testes-de-resiliência.md"
+        },
+        "9.7": {
+          "part": 9,
+          "chapter": 7,
+          "decimal": "9.7",
+          "slug": "09-07-planejamento-de-capacidade-e-previsão-de-demanda",
+          "title": "Planejamento de capacidade e previsão de demanda",
+          "heading": "9.7 Planejamento de capacidade e previsão de demanda",
+          "file": "locales/pt-001/chapters/09-07-planejamento-de-capacidade-e-previsão-de-demanda.md"
+        },
+        "9.8": {
+          "part": 9,
+          "chapter": 8,
+          "decimal": "9.8",
+          "slug": "09-08-sobreaviso-e-prontidão-operacional",
+          "title": "Sobreaviso e prontidão operacional",
+          "heading": "9.8 Sobreaviso e prontidão operacional",
+          "file": "locales/pt-001/chapters/09-08-sobreaviso-e-prontidão-operacional.md"
+        },
+        "10.0": {
+          "part": 10,
+          "chapter": 0,
+          "decimal": "10.0",
+          "slug": "10-00-gestão-de-projetos-produtos-e-programas",
+          "title": "Introdução à Parte 10: Gestão de projetos, produtos e programas",
+          "heading": "10.0 Introdução à Parte 10: Gestão de projetos, produtos e programas",
+          "file": "locales/pt-001/chapters/10-00-gestão-de-projetos-produtos-e-programas.md"
+        },
+        "10.1": {
+          "part": 10,
+          "chapter": 1,
+          "decimal": "10.1",
+          "slug": "10-01-gestão-de-portfólio-e-de-programas",
+          "title": "Gestão de portfólio e de programas",
+          "heading": "10.1 Gestão de portfólio e de programas",
+          "file": "locales/pt-001/chapters/10-01-gestão-de-portfólio-e-de-programas.md"
+        },
+        "10.2": {
+          "part": 10,
+          "chapter": 2,
+          "decimal": "10.2",
+          "slug": "10-02-risco-auditoria-e-garantia",
+          "title": "Risco, auditoria e garantia",
+          "heading": "10.2 Risco, auditoria e garantia",
+          "file": "locales/pt-001/chapters/10-02-risco-auditoria-e-garantia.md"
+        },
+        "10.3": {
+          "part": 10,
+          "chapter": 3,
+          "decimal": "10.3",
+          "slug": "10-03-aquisições-código-aberto-e-licenciamento",
+          "title": "Contratação, código aberto e licenciamento",
+          "heading": "10.3 Contratação, código aberto e licenciamento",
+          "file": "locales/pt-001/chapters/10-03-aquisições-código-aberto-e-licenciamento.md"
+        },
+        "10.4": {
+          "part": 10,
+          "chapter": 4,
+          "decimal": "10.4",
+          "slug": "10-04-sustentação-de-sistemas-grandes-e-duradouros",
+          "title": "Sustentação de sistemas grandes e de vida longa",
+          "heading": "10.4 Sustentação de sistemas grandes e de vida longa",
+          "file": "locales/pt-001/chapters/10-04-sustentação-de-sistemas-grandes-e-duradouros.md"
+        },
+        "10.5": {
+          "part": 10,
+          "chapter": 5,
+          "decimal": "10.5",
+          "slug": "10-05-ética-responsabilização-e-interesse-público",
+          "title": "Ética, responsabilização e interesse público",
+          "heading": "10.5 Ética, responsabilização e interesse público",
+          "file": "locales/pt-001/chapters/10-05-ética-responsabilização-e-interesse-público.md"
+        },
+        "10.6": {
+          "part": 10,
+          "chapter": 6,
+          "decimal": "10.6",
+          "slug": "10-06-gestão-de-projetos",
+          "title": "Gestão de projetos",
+          "heading": "10.6 Gestão de projetos",
+          "file": "locales/pt-001/chapters/10-06-gestão-de-projetos.md"
+        },
+        "10.7": {
+          "part": 10,
+          "chapter": 7,
+          "decimal": "10.7",
+          "slug": "10-07-agilidade",
+          "title": "Agile",
+          "heading": "10.7 Agile",
+          "file": "locales/pt-001/chapters/10-07-agilidade.md"
+        },
+        "10.8": {
+          "part": 10,
+          "chapter": 8,
+          "decimal": "10.8",
+          "slug": "10-08-modelos-de-maturidade",
+          "title": "Modelos de maturidade",
+          "heading": "10.8 Modelos de maturidade",
+          "file": "locales/pt-001/chapters/10-08-modelos-de-maturidade.md"
+        },
+        "10.9": {
+          "part": 10,
+          "chapter": 9,
+          "decimal": "10.9",
+          "slug": "10-09-parceria-de-inovação",
+          "title": "Parceria de inovação",
+          "heading": "10.9 Parceria de inovação",
+          "file": "locales/pt-001/chapters/10-09-parceria-de-inovação.md"
+        },
+        "10.10": {
+          "part": 10,
+          "chapter": 10,
+          "decimal": "10.10",
+          "slug": "10-10-economia-da-engenharia-de-software",
+          "title": "Economia da engenharia de software",
+          "heading": "10.10 Economia da engenharia de software",
+          "file": "locales/pt-001/chapters/10-10-economia-da-engenharia-de-software.md"
+        },
+        "10.11": {
+          "part": 10,
+          "chapter": 11,
+          "decimal": "10.11",
+          "slug": "10-11-soberania-digital",
+          "title": "Soberania digital",
+          "heading": "10.11 Soberania digital",
+          "file": "locales/pt-001/chapters/10-11-soberania-digital.md"
+        },
+        "10.12": {
+          "part": 10,
+          "chapter": 12,
+          "decimal": "10.12",
+          "slug": "10-12-código-aberto-versus-código-fechado",
+          "title": "Código aberto versus código fechado",
+          "heading": "10.12 Código aberto versus código fechado",
+          "file": "locales/pt-001/chapters/10-12-código-aberto-versus-código-fechado.md"
+        },
+        "10.13": {
+          "part": 10,
+          "chapter": 13,
+          "decimal": "10.13",
+          "slug": "10-13-colaboração-entre-organizações",
+          "title": "Colaboração entre organizações",
+          "heading": "10.13 Colaboração entre organizações",
+          "file": "locales/pt-001/chapters/10-13-colaboração-entre-organizações.md"
+        },
+        "10.14": {
+          "part": 10,
+          "chapter": 14,
+          "decimal": "10.14",
+          "slug": "10-14-gestão-de-produto-e-descoberta",
+          "title": "Gestão de produto e descoberta",
+          "heading": "10.14 Gestão de produto e descoberta",
+          "file": "locales/pt-001/chapters/10-14-gestão-de-produto-e-descoberta.md"
+        },
+        "10.15": {
+          "part": 10,
+          "chapter": 15,
+          "decimal": "10.15",
+          "slug": "10-15-estimativa-e-previsão",
+          "title": "Estimativa e previsão",
+          "heading": "10.15 Estimativa e previsão",
+          "file": "locales/pt-001/chapters/10-15-estimativa-e-previsão.md"
+        },
+        "10.16": {
+          "part": 10,
+          "chapter": 16,
+          "decimal": "10.16",
+          "slug": "10-16-gestão-de-partes-interessadas-e-comunicação",
+          "title": "Gestão de partes interessadas e comunicação",
+          "heading": "10.16 Gestão de partes interessadas e comunicação",
+          "file": "locales/pt-001/chapters/10-16-gestão-de-partes-interessadas-e-comunicação.md"
+        },
+        "10.17": {
+          "part": 10,
+          "chapter": 17,
+          "decimal": "10.17",
+          "slug": "10-17-gestão-da-mudança-organizacional",
+          "title": "Gestão da mudança organizacional",
+          "heading": "10.17 Gestão da mudança organizacional",
+          "file": "locales/pt-001/chapters/10-17-gestão-da-mudança-organizacional.md"
+        },
+        "10.18": {
+          "part": 10,
+          "chapter": 18,
+          "decimal": "10.18",
+          "slug": "10-18-escritório-de-código-aberto",
+          "title": "Escritório de programa de código aberto (OSPO) e contribuição upstream",
+          "heading": "10.18 Escritório de programa de código aberto (OSPO) e contribuição upstream",
+          "file": "locales/pt-001/chapters/10-18-escritório-de-código-aberto.md"
+        },
+        "11.0": {
+          "part": 11,
+          "chapter": 0,
+          "decimal": "11.0",
+          "slug": "11-00-fluxo-descoberta-e-entrega",
+          "title": "Introdução à Parte 11: Fluxo: pipelines de descoberta e entrega",
+          "heading": "11.0 Introdução à Parte 11: Fluxo: pipelines de descoberta e entrega",
+          "file": "locales/pt-001/chapters/11-00-fluxo-descoberta-e-entrega.md"
+        },
+        "11.1": {
+          "part": 11,
+          "chapter": 1,
+          "decimal": "11.1",
+          "slug": "11-01-pipeline-de-descoberta",
+          "title": "O pipeline de descoberta",
+          "heading": "11.1 O pipeline de descoberta",
+          "file": "locales/pt-001/chapters/11-01-pipeline-de-descoberta.md"
+        },
+        "11.2": {
+          "part": 11,
+          "chapter": 2,
+          "decimal": "11.2",
+          "slug": "11-02-pipeline-de-entrega",
+          "title": "O pipeline de entrega",
+          "heading": "11.2 O pipeline de entrega",
+          "file": "locales/pt-001/chapters/11-02-pipeline-de-entrega.md"
+        },
+        "11.3": {
+          "part": 11,
+          "chapter": 3,
+          "decimal": "11.3",
+          "slug": "11-03-teoria-das-filas",
+          "title": "Teoria das filas",
+          "heading": "11.3 Teoria das filas",
+          "file": "locales/pt-001/chapters/11-03-teoria-das-filas.md"
+        },
+        "11.4": {
+          "part": 11,
+          "chapter": 4,
+          "decimal": "11.4",
+          "slug": "11-04-objetivos-e-resultados-chave",
+          "title": "Objetivos e resultados-chave (OKRs)",
+          "heading": "11.4 Objetivos e resultados-chave (OKRs)",
+          "file": "locales/pt-001/chapters/11-04-objetivos-e-resultados-chave.md"
+        },
+        "11.5": {
+          "part": 11,
+          "chapter": 5,
+          "decimal": "11.5",
+          "slug": "11-05-indicadores-chave-de-desempenho",
+          "title": "Indicadores-chave de desempenho (KPIs)",
+          "heading": "11.5 Indicadores-chave de desempenho (KPIs)",
+          "file": "locales/pt-001/chapters/11-05-indicadores-chave-de-desempenho.md"
+        },
+        "11.6": {
+          "part": 11,
+          "chapter": 6,
+          "decimal": "11.6",
+          "slug": "11-06-mapeamento-do-fluxo-de-valor-e-custo-do-atraso",
+          "title": "Mapeamento do fluxo de valor e custo do atraso",
+          "heading": "11.6 Mapeamento do fluxo de valor e custo do atraso",
+          "file": "locales/pt-001/chapters/11-06-mapeamento-do-fluxo-de-valor-e-custo-do-atraso.md"
+        },
+        "12.0": {
+          "part": 12,
+          "chapter": 0,
+          "decimal": "12.0",
+          "slug": "12-00-apêndices",
+          "title": "Apêndices",
+          "heading": "12.0 Apêndices",
+          "file": "locales/pt-001/chapters/12-00-apêndices.md"
+        },
+        "12.1": {
+          "part": 12,
+          "chapter": 1,
+          "decimal": "12.1",
+          "slug": "12-01-glossário",
+          "title": "Glossário",
+          "heading": "12.1 Glossário",
+          "file": "locales/pt-001/chapters/12-01-glossário.md"
+        },
+        "12.2": {
+          "part": 12,
+          "chapter": 2,
+          "decimal": "12.2",
+          "slug": "12-02-listas-de-verificação",
+          "title": "Listas de verificação",
+          "heading": "12.2 Listas de verificação",
+          "file": "locales/pt-001/chapters/12-02-listas-de-verificação.md"
+        },
+        "12.3": {
+          "part": 12,
+          "chapter": 3,
+          "decimal": "12.3",
+          "slug": "12-03-modelos",
+          "title": "Modelos",
+          "heading": "12.3 Modelos",
+          "file": "locales/pt-001/chapters/12-03-modelos.md"
+        },
+        "12.4": {
+          "part": 12,
+          "chapter": 4,
+          "decimal": "12.4",
+          "slug": "12-04-autoavaliação-de-maturidade",
+          "title": "Autoavaliação de maturidade",
+          "heading": "12.4 Autoavaliação de maturidade",
+          "file": "locales/pt-001/chapters/12-04-autoavaliação-de-maturidade.md"
+        },
+        "12.5": {
+          "part": 12,
+          "chapter": 5,
+          "decimal": "12.5",
+          "slug": "12-05-referências",
+          "title": "Referências",
+          "heading": "12.5 Referências",
+          "file": "locales/pt-001/chapters/12-05-referências.md"
+        },
+        "12.6": {
+          "part": 12,
+          "chapter": 6,
+          "decimal": "12.6",
+          "slug": "12-06-roteiro-de-adoção",
+          "title": "Roteiro de adoção",
+          "heading": "12.6 Roteiro de adoção",
+          "file": "locales/pt-001/chapters/12-06-roteiro-de-adoção.md"
+        },
+        "12.7": {
+          "part": 12,
+          "chapter": 7,
+          "decimal": "12.7",
+          "slug": "12-07-índice-remissivo",
+          "title": "Índice remissivo",
+          "heading": "12.7 Índice remissivo",
+          "file": "locales/pt-001/chapters/12-07-índice-remissivo.md"
+        }
+      },
+      "order": [
+        "1.0",
+        "1.1",
+        "1.2",
+        "1.3",
+        "1.4",
+        "1.5",
+        "1.6",
+        "1.7",
+        "1.8",
+        "1.9",
+        "1.10",
+        "1.11",
+        "1.12",
+        "1.13",
+        "2.0",
+        "2.1",
+        "2.2",
+        "2.3",
+        "2.4",
+        "2.5",
+        "2.6",
+        "2.7",
+        "2.8",
+        "2.9",
+        "2.10",
+        "2.11",
+        "2.12",
+        "2.13",
+        "2.14",
+        "2.15",
+        "2.16",
+        "2.17",
+        "2.18",
+        "2.19",
+        "2.20",
+        "2.21",
+        "3.0",
+        "3.1",
+        "3.2",
+        "3.3",
+        "3.4",
+        "3.5",
+        "3.6",
+        "3.7",
+        "3.8",
+        "3.9",
+        "3.10",
+        "3.11",
+        "3.12",
+        "3.13",
+        "3.14",
+        "3.15",
+        "3.16",
+        "3.17",
+        "4.0",
+        "4.1",
+        "4.2",
+        "4.3",
+        "4.4",
+        "4.5",
+        "4.6",
+        "4.7",
+        "4.8",
+        "4.9",
+        "4.10",
+        "5.0",
+        "5.1",
+        "5.2",
+        "5.3",
+        "5.4",
+        "5.5",
+        "5.6",
+        "5.7",
+        "5.8",
+        "5.9",
+        "5.10",
+        "6.0",
+        "6.1",
+        "6.2",
+        "6.3",
+        "6.4",
+        "6.5",
+        "6.6",
+        "6.7",
+        "6.8",
+        "6.9",
+        "7.0",
+        "7.1",
+        "7.2",
+        "7.3",
+        "7.4",
+        "7.5",
+        "7.6",
+        "7.7",
+        "7.8",
+        "7.9",
+        "8.0",
+        "8.1",
+        "8.2",
+        "8.3",
+        "8.4",
+        "8.5",
+        "8.6",
+        "8.7",
+        "9.0",
+        "9.1",
+        "9.2",
+        "9.3",
+        "9.4",
+        "9.5",
+        "9.6",
+        "9.7",
+        "9.8",
+        "10.0",
+        "10.1",
+        "10.2",
+        "10.3",
+        "10.4",
+        "10.5",
+        "10.6",
+        "10.7",
+        "10.8",
+        "10.9",
+        "10.10",
+        "10.11",
+        "10.12",
+        "10.13",
+        "10.14",
+        "10.15",
+        "10.16",
+        "10.17",
+        "10.18",
+        "11.0",
+        "11.1",
+        "11.2",
+        "11.3",
+        "11.4",
+        "11.5",
+        "11.6",
+        "12.0",
+        "12.1",
+        "12.2",
+        "12.3",
+        "12.4",
+        "12.5",
+        "12.6",
+        "12.7"
+      ],
+      "hasHomePage": false,
+      "topicsSlug": "tópicos"
+    },
     "sv-001": {
       "chapters": [
         {
@@ -113489,6 +117689,7 @@
     "ko-kr",
     "nl-001",
     "nl-nl",
+    "pt-001",
     "sv-001",
     "sv-se",
     "zh-001",
