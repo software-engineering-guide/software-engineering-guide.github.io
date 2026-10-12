@@ -185,7 +185,7 @@ kbd {
   background: #eef2ff;
 }
 
-/* Picker bar (theme, locale, text size, share) */
+/* Picker bar (link, search, theme, locale, text size, share) */
 /*
  * The lily picker components are headless: they ship no CSS. Two things
  * are our responsibility per their docs (docs/styling.md in each
@@ -211,7 +211,10 @@ kbd {
   align-items: center;
 }
 
-.icon-button,
+.theme-picker-button,
+.locale-picker-button,
+.text-size-picker-button,
+.share-picker-button,
 .search-picker-button,
 .link-picker-button {
   display: inline-flex;
@@ -219,6 +222,10 @@ kbd {
   justify-content: center;
   width: 2.25rem;
   height: 2.25rem;
+  /* The Lily themes give every picker button min-width/min-height 2.5rem;
+   * without these the explicit size above loses to them. */
+  min-width: 2.25rem;
+  min-height: 2.25rem;
   padding: 0;
   /* A visible resting-state border, not just a hover background, so
    * these read as buttons rather than bare floating icons. */
@@ -230,10 +237,16 @@ kbd {
   line-height: 1;
   transition: background 150ms, color 150ms, border-color 150ms;
 }
-.icon-button:hover,
+.theme-picker-button:hover,
+.locale-picker-button:hover,
+.text-size-picker-button:hover,
+.share-picker-button:hover,
 .search-picker-button:hover,
 .link-picker-button:hover { background: var(--lily-border); color: var(--lily-text); }
-.icon-button[aria-expanded="true"],
+.theme-picker-button[aria-expanded="true"],
+.locale-picker-button[aria-expanded="true"],
+.text-size-picker-button[aria-expanded="true"],
+.share-picker-button[aria-expanded="true"],
 .search-picker-button[aria-expanded="true"],
 .link-picker-button[aria-expanded="true"] {
   background: var(--lily-border);
@@ -243,7 +256,10 @@ kbd {
 /* Explicit and self-sufficient rather than relying on the Lily theme's
  * own [class$="-button"]:focus-visible rule (static/themes/*.css), which
  * only applies once a theme stylesheet has actually loaded. */
-.icon-button:focus-visible,
+.theme-picker-button:focus-visible,
+.locale-picker-button:focus-visible,
+.text-size-picker-button:focus-visible,
+.share-picker-button:focus-visible,
 .search-picker-button:focus-visible,
 .link-picker-button:focus-visible {
   outline: 3px solid var(--lily-primary);
