@@ -28,7 +28,8 @@ export const LOCALE_LABELS = {
   'nl-001': 'Nederlands',
   'is-is': 'Íslenska',
   'is-001': 'Íslenska',
-  'pt-001': 'Português'
+  'pt-001': 'Português',
+  'ru-001': 'Русский'
 };
 
 /** @param {string} code */
