@@ -267,8 +267,8 @@ kbd {
 }
 
 /* Search picker: a button that opens a panel holding the search field and its
- * submit button in a row. The themes in static/themes predate the search
- * picker, so its panel and field are styled here. */
+ * submit button in a row. Its panel and field are styled here, as the site's
+ * own look, over the Lily theme's generic picker rules. */
 .search-picker-icon { width: 1.05rem; height: 1.05rem; }
 .search-picker-panel {
   position: absolute;

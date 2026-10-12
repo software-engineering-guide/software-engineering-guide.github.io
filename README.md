@@ -52,9 +52,11 @@ pnpm run preview   # serve the production build locally
 pnpm run check     # svelte-check
 ```
 
-`pnpm run dev` and `pnpm run build` both regenerate `src/lib/manifest.json`
-first (see the `manifest` script), so it never needs to be committed stale —
-though it is committed, since `src/content/` is committed too.
+`pnpm run dev` and `pnpm run build` both copy the Lily themes into
+`static/themes/` and regenerate `src/lib/manifest.json` first (see the
+`themes` and `manifest` scripts). The manifest never needs to be committed
+stale — though it is committed, since `src/content/` is committed too; the
+themes are not committed at all.
 
 ## Structure
 
@@ -81,6 +83,13 @@ though it is committed, since `src/content/` is committed too.
 - `static/assets/style.css` : the whole design — Lily is headless and ships
   no CSS, so this hand-authored stylesheet (using Lily's semantic class
   hooks: `.button`, `.card`, `.prose`, …) is the site's look.
+- `static/themes/` : the 45 Lily reference themes the theme picker loads
+  (`themesUrl="/themes/"`). Not committed: `scripts/copy-lily-themes.mjs`
+  copies them from the
+  [`@lilydesignsystem/themes`](https://www.npmjs.com/package/@lilydesignsystem/themes)
+  package before every `dev` and `build` (or run `pnpm run themes`). To update
+  the themes, bump that package's version in `package.json`; never edit the
+  copies.
 
 ## Deployment
 
