@@ -1088,3 +1088,15 @@ details.faq-item p { margin-top: 0.75rem; }
     overflow-y: auto;
   }
 }
+
+/* Home hero: the list of translations under the buttons. */
+.hero-translations {
+  margin-top: var(--lily-space-md);
+  font-size: 0.875em;
+  color: var(--lily-text-muted);
+}
+
+.hero-translations a[aria-current='page'] {
+  font-weight: 700;
+  text-decoration: none;
+}

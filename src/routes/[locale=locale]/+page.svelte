@@ -1,35 +1,41 @@
 <script>
   import manifest from '#lib/manifest.json';
+  import { HERO, ENDONYMS } from '#lib/hero.js';
 
   let { data } = $props();
   let localeManifest = $derived(manifest.locales[data.locale]);
+  let hero = $derived(HERO[data.locale] ?? HERO['en-001']);
+  let isEnglish = $derived(data.lang.startsWith('en'));
+  let firstChapter = $derived(localeManifest.chapters[0]?.slug);
+  const translations = Object.keys(manifest.locales).filter((code) => code in ENDONYMS);
 </script>
 
 <svelte:head>
-  <title>{data.ui.siteName} — {data.localeLabel}</title>
+  <title>{hero.headline} — {data.localeLabel}</title>
 </svelte:head>
 
 {#if data.hasHomePage}
   <data.content />
 {:else}
   <section class="hero">
-    <h1>{data.ui.siteName}</h1>
-    {#if data.lang.startsWith('en')}
-      <p class="hero-eyebrow">Free · open · community-maintained</p>
-      <p class="hero-tagline">
-        A guidebook of good practices for software developer teams, spanning ways of working,
-        programming craft, architecture, security, AI, data and analytics, UI/UX, automation,
-        delivery, operations, flow, and management, for startups, enterprises, and government
-        organizations alike.
-      </p>
-      <div class="button-row">
-        <a class="button button-primary" href="/front-matter/what-is-software-engineering/">Start reading</a>
-        <a class="button button-secondary" href="{data.base}/contents/">{data.ui.tableOfContents}</a>
-        <a class="button button-secondary" href="/examples/">{data.ui.examples}</a>
-      </div>
-    {:else}
-      <p><a href="{data.base}/contents/">{data.ui.tableOfContents}</a></p>
-    {/if}
+    <p class="hero-eyebrow">{hero.tagline}</p>
+    <h1>{hero.headline}</h1>
+    <p class="hero-tagline">{hero.intro}</p>
+    <div class="button-row">
+      {#if isEnglish}
+        <a class="button button-primary" href="/front-matter/what-is-software-engineering/">{hero.start}</a>
+      {:else if firstChapter}
+        <a class="button button-primary" href="{data.topicsBase}/{firstChapter}/">{hero.start}</a>
+      {/if}
+      <a class="button button-secondary" href="{data.base}/contents/">{hero.contents}</a>
+      {#if isEnglish}<a class="button button-secondary" href="/examples/">{data.ui.examples}</a>{/if}
+    </div>
+    <p class="hero-translations">
+      {hero.translations}{#each translations as code, i (code)}{i ? ', ' : ''}<a
+          href="/{code}/"
+          aria-current={code === data.locale ? 'page' : undefined}>{ENDONYMS[code]}</a
+        >{/each}
+    </p>
   </section>
 
   <section class="section">
