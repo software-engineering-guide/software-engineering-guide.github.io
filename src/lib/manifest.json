@@ -102194,7 +102194,7 @@
       "parts": [
         {
           "number": 1,
-          "title": "People",
+          "title": "Люди",
           "chapters": [
             {
               "part": 1,
@@ -102326,7 +102326,7 @@
         },
         {
           "number": 2,
-          "title": "Software Programming",
+          "title": "Программирование",
           "chapters": [
             {
               "part": 2,
@@ -102530,7 +102530,7 @@
         },
         {
           "number": 3,
-          "title": "Systems",
+          "title": "Системы",
           "chapters": [
             {
               "part": 3,
@@ -102698,7 +102698,7 @@
         },
         {
           "number": 4,
-          "title": "Security",
+          "title": "Безопасность",
           "chapters": [
             {
               "part": 4,
@@ -102803,7 +102803,7 @@
         },
         {
           "number": 5,
-          "title": "UI/UX Design",
+          "title": "Дизайн UI/UX",
           "chapters": [
             {
               "part": 5,
@@ -102908,7 +102908,7 @@
         },
         {
           "number": 6,
-          "title": "Artificial Intelligence",
+          "title": "Искусственный интеллект",
           "chapters": [
             {
               "part": 6,
@@ -103004,7 +103004,7 @@
         },
         {
           "number": 7,
-          "title": "Data, Analytics, and Insight",
+          "title": "Данные, аналитика и озарение",
           "chapters": [
             {
               "part": 7,
@@ -103100,7 +103100,7 @@
         },
         {
           "number": 8,
-          "title": "Automation",
+          "title": "Автоматизация",
           "chapters": [
             {
               "part": 8,
@@ -103178,7 +103178,7 @@
         },
         {
           "number": 9,
-          "title": "Operations, Reliability, and Observability",
+          "title": "Эксплуатация, надёжность и наблюдаемость",
           "chapters": [
             {
               "part": 9,
@@ -103265,7 +103265,7 @@
         },
         {
           "number": 10,
-          "title": "Project/Product/Programme Management",
+          "title": "Управление проектами, продуктами и программами",
           "chapters": [
             {
               "part": 10,
@@ -103442,7 +103442,7 @@
         },
         {
           "number": 11,
-          "title": "Flow: Discovery and Delivery Pipelines",
+          "title": "Поток: конвейеры исследования и поставки",
           "chapters": [
             {
               "part": 11,
@@ -103511,7 +103511,7 @@
         },
         {
           "number": 12,
-          "title": "Appendices",
+          "title": "Приложения",
           "chapters": [
             {
               "part": 12,

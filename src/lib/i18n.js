@@ -182,6 +182,39 @@ const OVERRIDES = {
     footerLedBy: 'Dirigé par',
     contentSource: 'Source du contenu',
     siteSource: 'Source du site'
+  },
+  'ru-001': {
+    siteName: 'Руководство по программной инженерии',
+    skipToContent: 'Перейти к основному содержимому',
+    home: 'Главная',
+    startHere: 'Начать здесь',
+    tableOfContents: 'Содержание',
+    examples: 'Примеры',
+    contributing: 'Участие',
+    project: 'Проект',
+    part: 'Часть',
+    chapter: 'Глава',
+    previous: 'Назад',
+    next: 'Далее',
+    pickerLink: 'Ссылки сайта',
+    pickerTheme: 'Тема',
+    pickerLocale: 'Язык',
+    pickerTextSize: 'Размер текста',
+    pickerShare: 'Поделиться',
+    shareEmail: 'Эл. почта',
+    shareCopyLink: 'Копировать ссылку',
+    notTranslated: 'Эта глава пока не переведена на этот язык. Показан английский оригинал.',
+    otherLanguages: 'Также доступно на',
+    viewInEnglish: 'Смотреть на английском',
+    filterChapters: 'Фильтр глав…',
+    search: 'Поиск',
+    searchInput: 'Поиск по сайту',
+    searchSubmit: 'Искать',
+    footerTagline: 'Руководство по хорошим практикам для команд разработки программного обеспечения, опубликованное в',
+    footerOrgSuffix: 'организации.',
+    footerLedBy: 'Руководитель',
+    contentSource: 'Источник содержимого',
+    siteSource: 'Источник сайта'
   }
 };
 
@@ -282,6 +315,20 @@ export const PART_TITLE_OVERRIDES = {
     10: 'Gestion de projets/produits/programmes',
     11: 'Flux : lignes de découverte et de livraison',
     12: 'Annexes'
+  },
+  'ru-001': {
+    1: 'Люди',
+    2: 'Программирование',
+    3: 'Системы',
+    4: 'Безопасность',
+    5: 'Дизайн UI/UX',
+    6: 'Искусственный интеллект',
+    7: 'Данные, аналитика и озарение',
+    8: 'Автоматизация',
+    9: 'Эксплуатация, надёжность и наблюдаемость',
+    10: 'Управление проектами, продуктами и программами',
+    11: 'Поток: конвейеры исследования и поставки',
+    12: 'Приложения'
   }
 };
 

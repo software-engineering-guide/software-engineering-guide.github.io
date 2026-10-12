@@ -28,11 +28,6 @@
         <a class="button button-secondary" href="/examples/">{data.ui.examples}</a>
       </div>
     {:else}
-      <p class="hero-tagline">
-        {localeManifest.chapters.length}/{manifest.totals.chapters}
-        {data.ui.chapter.toLowerCase()}{localeManifest.chapters.length === 1 ? '' : 's'}
-        &middot; <a href="/en-us/">{data.ui.viewInEnglish}</a>
-      </p>
       <p><a href="{data.base}/contents/">{data.ui.tableOfContents}</a></p>
     {/if}
   </section>
