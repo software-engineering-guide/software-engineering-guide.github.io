@@ -7,7 +7,7 @@
   let hero = $derived(HERO[data.locale] ?? HERO['en-001']);
   let isEnglish = $derived(data.lang.startsWith('en'));
   let firstChapter = $derived(localeManifest.chapters[0]?.slug);
-  const translations = Object.keys(manifest.locales).filter((code) => code in ENDONYMS);
+  const translations = Object.keys(manifest.locales).filter((code) => code.endsWith('-001') && code in ENDONYMS);
 </script>
 
 <svelte:head>
