@@ -8,3 +8,6 @@ yarn.lock
 /.env.*
 !/.env.example
 /test-results/
+
+# Generated from @lilydesignsystem/themes by scripts/copy-lily-themes.mjs
+/static/themes/
