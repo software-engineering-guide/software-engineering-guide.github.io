@@ -29,7 +29,8 @@ export const LOCALE_LABELS = {
   'is-is': 'Íslenska',
   'is-001': 'Íslenska',
   'pt-001': 'Português',
-  'ru-001': 'Русский'
+  'ru-001': 'Русский',
+  'ur-001': 'اردو'
 };
 
 /** @param {string} code */
@@ -38,7 +39,7 @@ export function localeLabel(code) {
 }
 
 /** Right-to-left locale codes among the ones this site publishes. */
-export const RTL_LOCALES = new Set(['ar-001']);
+export const RTL_LOCALES = new Set(['ar-001', 'ur-001']);
 
 /**
  * @param {string} code
