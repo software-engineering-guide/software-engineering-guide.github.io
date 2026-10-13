@@ -33,6 +33,14 @@ export const HERO = {
   "contents": "Cynnwys",
   "translations": "Cyfieithiadau: "
  },
+ "da-001": {
+  "headline": "Guide til softwareudvikling",
+  "tagline": "Gratis · åben · vedligeholdt af fællesskabet",
+  "intro": "En guidebog med gode praksisser til softwareudviklingsteams, der dækker arbejdsformer, programmeringshåndværk, arkitektur, sikkerhed, AI, data og analyse, UI/UX, automatisering, levering, drift, flow og ledelse, for startups, virksomheder og offentlige organisationer.",
+  "start": "Begynd at læse",
+  "contents": "Indhold",
+  "translations": "Oversættelser: "
+ },
  "de-001": {
   "headline": "Leitfaden Softwareentwicklung",
   "tagline": "Kostenlos · offen · von der Community gepflegt",
@@ -241,6 +249,7 @@ export const ENDONYMS = {
  "bn-001": "বাংলা",
  "cy-001": "Cymraeg",
  "cy-gb": "Cymraeg (Y Deyrnas Unedig)",
+ "da-001": "Dansk",
  "de-001": "Deutsch",
  "de-de": "Deutsch (Deutschland)",
  "en-001": "English",

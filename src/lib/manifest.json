@@ -21065,6 +21065,4206 @@
       "hasHomePage": false,
       "topicsSlug": "pynciau"
     },
+    "da-001": {
+      "chapters": [
+        {
+          "part": 1,
+          "chapter": 0,
+          "decimal": "1.0",
+          "slug": "01-00-mennesker",
+          "title": "Introduktion til del 1: Mennesker",
+          "heading": "1.0 Introduktion til del 1: Mennesker",
+          "file": "locales/da-001/chapters/01-00-mennesker.md"
+        },
+        {
+          "part": 1,
+          "chapter": 1,
+          "decimal": "1.1",
+          "slug": "01-01-værdier-i-softwareudvikling",
+          "title": "Værdier i softwareudvikling",
+          "heading": "1.1 Værdier i softwareudvikling",
+          "file": "locales/da-001/chapters/01-01-værdier-i-softwareudvikling.md"
+        },
+        {
+          "part": 1,
+          "chapter": 2,
+          "decimal": "1.2",
+          "slug": "01-02-teamtopologier-og-organisationsdesign",
+          "title": "Teamtopologier og organisationsdesign",
+          "heading": "1.2 Teamtopologier og organisationsdesign",
+          "file": "locales/da-001/chapters/01-02-teamtopologier-og-organisationsdesign.md"
+        },
+        {
+          "part": 1,
+          "chapter": 3,
+          "decimal": "1.3",
+          "slug": "01-03-roller-karrierestiger-og-vækst",
+          "title": "Roller, karrierestiger og vækst",
+          "heading": "1.3 Roller, karrierestiger og vækst",
+          "file": "locales/da-001/chapters/01-03-roller-karrierestiger-og-vækst.md"
+        },
+        {
+          "part": 1,
+          "chapter": 4,
+          "decimal": "1.4",
+          "slug": "01-04-arbejdsmetoder",
+          "title": "Arbejdsmetoder",
+          "heading": "1.4 Arbejdsmetoder",
+          "file": "locales/da-001/chapters/01-04-arbejdsmetoder.md"
+        },
+        {
+          "part": 1,
+          "chapter": 5,
+          "decimal": "1.5",
+          "slug": "01-05-beslutningstagning-og-styring",
+          "title": "Beslutningstagning og styring",
+          "heading": "1.5 Beslutningstagning og styring",
+          "file": "locales/da-001/chapters/01-05-beslutningstagning-og-styring.md"
+        },
+        {
+          "part": 1,
+          "chapter": 6,
+          "decimal": "1.6",
+          "slug": "01-06-beslutningsregistre",
+          "title": "Beslutningsregistre",
+          "heading": "1.6 Beslutningsregistre",
+          "file": "locales/da-001/chapters/01-06-beslutningsregistre.md"
+        },
+        {
+          "part": 1,
+          "chapter": 7,
+          "decimal": "1.7",
+          "slug": "01-07-tekniske-standarder-og-undtagelser",
+          "title": "Tekniske standarder og undtagelser",
+          "heading": "1.7 Tekniske standarder og undtagelser",
+          "file": "locales/da-001/chapters/01-07-tekniske-standarder-og-undtagelser.md"
+        },
+        {
+          "part": 1,
+          "chapter": 8,
+          "decimal": "1.8",
+          "slug": "01-08-ansættelse-jobsamtaler-og-onboarding",
+          "title": "Ansættelse, jobsamtaler og onboarding",
+          "heading": "1.8 Ansættelse, jobsamtaler og onboarding",
+          "file": "locales/da-001/chapters/01-08-ansættelse-jobsamtaler-og-onboarding.md"
+        },
+        {
+          "part": 1,
+          "chapter": 9,
+          "decimal": "1.9",
+          "slug": "01-09-distribueret-arbejde-og-fjernarbejde",
+          "title": "Distribueret arbejde og fjernarbejde",
+          "heading": "1.9 Distribueret arbejde og fjernarbejde",
+          "file": "locales/da-001/chapters/01-09-distribueret-arbejde-og-fjernarbejde.md"
+        },
+        {
+          "part": 1,
+          "chapter": 10,
+          "decimal": "1.10",
+          "slug": "01-10-teknisk-effektivitet-og-udvikleres-produktivitet",
+          "title": "Teknisk effektivitet og udvikleres produktivitet",
+          "heading": "1.10 Teknisk effektivitet og udvikleres produktivitet",
+          "file": "locales/da-001/chapters/01-10-teknisk-effektivitet-og-udvikleres-produktivitet.md"
+        },
+        {
+          "part": 1,
+          "chapter": 11,
+          "decimal": "1.11",
+          "slug": "01-11-teknisk-ledelse",
+          "title": "Teknisk ledelse",
+          "heading": "1.11 Teknisk ledelse",
+          "file": "locales/da-001/chapters/01-11-teknisk-ledelse.md"
+        },
+        {
+          "part": 1,
+          "chapter": 12,
+          "decimal": "1.12",
+          "slug": "01-12-mangfoldighed-lighed-inklusion-og-tilhørsforhold",
+          "title": "Mangfoldighed, lighed, inklusion og tilhørsforhold",
+          "heading": "1.12 Mangfoldighed, lighed, inklusion og tilhørsforhold",
+          "file": "locales/da-001/chapters/01-12-mangfoldighed-lighed-inklusion-og-tilhørsforhold.md"
+        },
+        {
+          "part": 1,
+          "chapter": 13,
+          "decimal": "1.13",
+          "slug": "01-13-mentorskab-coaching-og-vidensdeling",
+          "title": "Mentorordning, coaching og vidensdeling",
+          "heading": "1.13 Mentorordning, coaching og vidensdeling",
+          "file": "locales/da-001/chapters/01-13-mentorskab-coaching-og-vidensdeling.md"
+        },
+        {
+          "part": 2,
+          "chapter": 0,
+          "decimal": "2.0",
+          "slug": "02-00-softwareprogrammering",
+          "title": "Introduktion til del 2: Softwareprogrammering",
+          "heading": "2.0 Introduktion til del 2: Softwareprogrammering",
+          "file": "locales/da-001/chapters/02-00-softwareprogrammering.md"
+        },
+        {
+          "part": 2,
+          "chapter": 1,
+          "decimal": "2.1",
+          "slug": "02-01-kodestandarder-og-stil",
+          "title": "Kodestandarder og stil",
+          "heading": "2.1 Kodestandarder og stil",
+          "file": "locales/da-001/chapters/02-01-kodestandarder-og-stil.md"
+        },
+        {
+          "part": 2,
+          "chapter": 2,
+          "decimal": "2.2",
+          "slug": "02-02-principper-for-softwaredesign",
+          "title": "Principper for softwaredesign",
+          "heading": "2.2 Principper for softwaredesign",
+          "file": "locales/da-001/chapters/02-02-principper-for-softwaredesign.md"
+        },
+        {
+          "part": 2,
+          "chapter": 3,
+          "decimal": "2.3",
+          "slug": "02-03-api-er-og-grænsefladedesign",
+          "title": "API'er og grænsefladedesign",
+          "heading": "2.3 API'er og grænsefladedesign",
+          "file": "locales/da-001/chapters/02-03-api-er-og-grænsefladedesign.md"
+        },
+        {
+          "part": 2,
+          "chapter": 4,
+          "decimal": "2.4",
+          "slug": "02-04-teststrategi",
+          "title": "Teststrategi",
+          "heading": "2.4 Teststrategi",
+          "file": "locales/da-001/chapters/02-04-teststrategi.md"
+        },
+        {
+          "part": 2,
+          "chapter": 5,
+          "decimal": "2.5",
+          "slug": "02-05-kodegennemgang-og-samarbejde",
+          "title": "Kodegennemgang og samarbejde",
+          "heading": "2.5 Kodegennemgang og samarbejde",
+          "file": "locales/da-001/chapters/02-05-kodegennemgang-og-samarbejde.md"
+        },
+        {
+          "part": 2,
+          "chapter": 6,
+          "decimal": "2.6",
+          "slug": "02-06-versionsstyring-og-kildekodestyring",
+          "title": "Versionsstyring og kildekodestyring",
+          "heading": "2.6 Versionsstyring og kildekodestyring",
+          "file": "locales/da-001/chapters/02-06-versionsstyring-og-kildekodestyring.md"
+        },
+        {
+          "part": 2,
+          "chapter": 7,
+          "decimal": "2.7",
+          "slug": "02-07-dokumentation",
+          "title": "Dokumentation",
+          "heading": "2.7 Dokumentation",
+          "file": "locales/da-001/chapters/02-07-dokumentation.md"
+        },
+        {
+          "part": 2,
+          "chapter": 8,
+          "decimal": "2.8",
+          "slug": "02-08-softwarekrav",
+          "title": "Softwarekrav",
+          "heading": "2.8 Softwarekrav",
+          "file": "locales/da-001/chapters/02-08-softwarekrav.md"
+        },
+        {
+          "part": 2,
+          "chapter": 9,
+          "decimal": "2.9",
+          "slug": "02-09-softwarekonstruktion",
+          "title": "Softwarekonstruktion",
+          "heading": "2.9 Softwarekonstruktion",
+          "file": "locales/da-001/chapters/02-09-softwarekonstruktion.md"
+        },
+        {
+          "part": 2,
+          "chapter": 10,
+          "decimal": "2.10",
+          "slug": "02-10-softwarekonfigurationsstyring",
+          "title": "Softwarekonfigurationsstyring",
+          "heading": "2.10 Softwarekonfigurationsstyring",
+          "file": "locales/da-001/chapters/02-10-softwarekonfigurationsstyring.md"
+        },
+        {
+          "part": 2,
+          "chapter": 11,
+          "decimal": "2.11",
+          "slug": "02-11-softwarekvalitet",
+          "title": "Softwarekvalitet",
+          "heading": "2.11 Softwarekvalitet",
+          "file": "locales/da-001/chapters/02-11-softwarekvalitet.md"
+        },
+        {
+          "part": 2,
+          "chapter": 12,
+          "decimal": "2.12",
+          "slug": "02-12-softwaremodeller-og-metoder",
+          "title": "Softwaremodeller og metoder",
+          "heading": "2.12 Softwaremodeller og metoder",
+          "file": "locales/da-001/chapters/02-12-softwaremodeller-og-metoder.md"
+        },
+        {
+          "part": 2,
+          "chapter": 13,
+          "decimal": "2.13",
+          "slug": "02-13-datalogiske-matematiske-og-tekniske-grundlag",
+          "title": "Datalogiske, matematiske og tekniske grundlag",
+          "heading": "2.13 Datalogiske, matematiske og tekniske grundlag",
+          "file": "locales/da-001/chapters/02-13-datalogiske-matematiske-og-tekniske-grundlag.md"
+        },
+        {
+          "part": 2,
+          "chapter": 14,
+          "decimal": "2.14",
+          "slug": "02-14-projekt-og-repositoriestruktur",
+          "title": "Projekt- og repositoriestruktur",
+          "heading": "2.14 Projekt- og repositoriestruktur",
+          "file": "locales/da-001/chapters/02-14-projekt-og-repositoriestruktur.md"
+        },
+        {
+          "part": 2,
+          "chapter": 15,
+          "decimal": "2.15",
+          "slug": "02-15-fejlsøgning-og-problemløsning",
+          "title": "Fejlsøgning og problemløsning",
+          "heading": "2.15 Fejlsøgning og problemløsning",
+          "file": "locales/da-001/chapters/02-15-fejlsøgning-og-problemløsning.md"
+        },
+        {
+          "part": 2,
+          "chapter": 16,
+          "decimal": "2.16",
+          "slug": "02-16-ydeevneoptimering",
+          "title": "Ydeevneoptimering",
+          "heading": "2.16 Ydeevneoptimering",
+          "file": "locales/da-001/chapters/02-16-ydeevneoptimering.md"
+        },
+        {
+          "part": 2,
+          "chapter": 17,
+          "decimal": "2.17",
+          "slug": "02-17-samtidighed-og-parallelisme",
+          "title": "Samtidighed og parallelisme",
+          "heading": "2.17 Samtidighed og parallelisme",
+          "file": "locales/da-001/chapters/02-17-samtidighed-og-parallelisme.md"
+        },
+        {
+          "part": 2,
+          "chapter": 18,
+          "decimal": "2.18",
+          "slug": "02-18-afhængigheds-og-forsyningskædestyring",
+          "title": "Afhængigheds- og forsyningskædestyring",
+          "heading": "2.18 Afhængigheds- og forsyningskædestyring",
+          "file": "locales/da-001/chapters/02-18-afhængigheds-og-forsyningskædestyring.md"
+        },
+        {
+          "part": 2,
+          "chapter": 19,
+          "decimal": "2.19",
+          "slug": "02-19-refaktorering-og-teknisk-gæld",
+          "title": "Refaktorering og teknisk gæld",
+          "heading": "2.19 Refaktorering og teknisk gæld",
+          "file": "locales/da-001/chapters/02-19-refaktorering-og-teknisk-gæld.md"
+        },
+        {
+          "part": 2,
+          "chapter": 20,
+          "decimal": "2.20",
+          "slug": "02-20-fejlhåndtering-og-robusthedsmønstre",
+          "title": "Fejlhåndtering og robusthedsmønstre",
+          "heading": "2.20 Fejlhåndtering og robusthedsmønstre",
+          "file": "locales/da-001/chapters/02-20-fejlhåndtering-og-robusthedsmønstre.md"
+        },
+        {
+          "part": 2,
+          "chapter": 21,
+          "decimal": "2.21",
+          "slug": "02-21-typesystemer-og-statisk-analyse",
+          "title": "Typesystemer og statisk analyse",
+          "heading": "2.21 Typesystemer og statisk analyse",
+          "file": "locales/da-001/chapters/02-21-typesystemer-og-statisk-analyse.md"
+        },
+        {
+          "part": 3,
+          "chapter": 0,
+          "decimal": "3.0",
+          "slug": "03-00-systemer",
+          "title": "Introduktion til del 3: Systemer",
+          "heading": "3.0 Introduktion til del 3: Systemer",
+          "file": "locales/da-001/chapters/03-00-systemer.md"
+        },
+        {
+          "part": 3,
+          "chapter": 1,
+          "decimal": "3.1",
+          "slug": "03-01-grundlæggende-arkitektur",
+          "title": "Grundlæggende arkitektur",
+          "heading": "3.1 Grundlæggende arkitektur",
+          "file": "locales/da-001/chapters/03-01-grundlæggende-arkitektur.md"
+        },
+        {
+          "part": 3,
+          "chapter": 2,
+          "decimal": "3.2",
+          "slug": "03-02-arkitekturstilarter-og-mønstre",
+          "title": "Arkitekturstilarter og mønstre",
+          "heading": "3.2 Arkitekturstilarter og mønstre",
+          "file": "locales/da-001/chapters/03-02-arkitekturstilarter-og-mønstre.md"
+        },
+        {
+          "part": 3,
+          "chapter": 3,
+          "decimal": "3.3",
+          "slug": "03-03-distribuerede-systemer",
+          "title": "Distribuerede systemer",
+          "heading": "3.3 Distribuerede systemer",
+          "file": "locales/da-001/chapters/03-03-distribuerede-systemer.md"
+        },
+        {
+          "part": 3,
+          "chapter": 4,
+          "decimal": "3.4",
+          "slug": "03-04-dataarkitektur-og-lagring",
+          "title": "Dataarkitektur og lagring",
+          "heading": "3.4 Dataarkitektur og lagring",
+          "file": "locales/da-001/chapters/03-04-dataarkitektur-og-lagring.md"
+        },
+        {
+          "part": 3,
+          "chapter": 5,
+          "decimal": "3.5",
+          "slug": "03-05-skalerbarhed-ydeevne-og-robusthed",
+          "title": "Skalerbarhed, ydeevne og robusthed",
+          "heading": "3.5 Skalerbarhed, ydeevne og robusthed",
+          "file": "locales/da-001/chapters/03-05-skalerbarhed-ydeevne-og-robusthed.md"
+        },
+        {
+          "part": 3,
+          "chapter": 6,
+          "decimal": "3.6",
+          "slug": "03-06-modernisering-af-ældre-systemer",
+          "title": "Modernisering af ældre systemer",
+          "heading": "3.6 Modernisering af ældre systemer",
+          "file": "locales/da-001/chapters/03-06-modernisering-af-ældre-systemer.md"
+        },
+        {
+          "part": 3,
+          "chapter": 7,
+          "decimal": "3.7",
+          "slug": "03-07-softwarevedligeholdelse",
+          "title": "Softwarevedligeholdelse",
+          "heading": "3.7 Softwarevedligeholdelse",
+          "file": "locales/da-001/chapters/03-07-softwarevedligeholdelse.md"
+        },
+        {
+          "part": 3,
+          "chapter": 8,
+          "decimal": "3.8",
+          "slug": "03-08-interoperabilitet-og-åbne-standarder",
+          "title": "Interoperabilitet og åbne standarder",
+          "heading": "3.8 Interoperabilitet og åbne standarder",
+          "file": "locales/da-001/chapters/03-08-interoperabilitet-og-åbne-standarder.md"
+        },
+        {
+          "part": 3,
+          "chapter": 9,
+          "decimal": "3.9",
+          "slug": "03-09-systemteknik",
+          "title": "Systemteknik",
+          "heading": "3.9 Systemteknik",
+          "file": "locales/da-001/chapters/03-09-systemteknik.md"
+        },
+        {
+          "part": 3,
+          "chapter": 10,
+          "decimal": "3.10",
+          "slug": "03-10-indlejrede-systemer-og-realtidssystemer",
+          "title": "Indlejrede systemer og realtidssystemer",
+          "heading": "3.10 Indlejrede systemer og realtidssystemer",
+          "file": "locales/da-001/chapters/03-10-indlejrede-systemer-og-realtidssystemer.md"
+        },
+        {
+          "part": 3,
+          "chapter": 11,
+          "decimal": "3.11",
+          "slug": "03-11-cloudarkitektur",
+          "title": "Cloudarkitektur",
+          "heading": "3.11 Cloudarkitektur",
+          "file": "locales/da-001/chapters/03-11-cloudarkitektur.md"
+        },
+        {
+          "part": 3,
+          "chapter": 12,
+          "decimal": "3.12",
+          "slug": "03-12-hændelsesdrevet-arkitektur-og-messaging",
+          "title": "Hændelsesdrevet arkitektur og beskedudveksling",
+          "heading": "3.12 Hændelsesdrevet arkitektur og beskedudveksling",
+          "file": "locales/da-001/chapters/03-12-hændelsesdrevet-arkitektur-og-messaging.md"
+        },
+        {
+          "part": 3,
+          "chapter": 13,
+          "decimal": "3.13",
+          "slug": "03-13-netværk-og-konnektivitet",
+          "title": "Netværk og konnektivitet",
+          "heading": "3.13 Netværk og konnektivitet",
+          "file": "locales/da-001/chapters/03-13-netværk-og-konnektivitet.md"
+        },
+        {
+          "part": 3,
+          "chapter": 14,
+          "decimal": "3.14",
+          "slug": "03-14-multitenancy-og-saas-arkitektur",
+          "title": "Multitenancy og SaaS-arkitektur",
+          "heading": "3.14 Multitenancy og SaaS-arkitektur",
+          "file": "locales/da-001/chapters/03-14-multitenancy-og-saas-arkitektur.md"
+        },
+        {
+          "part": 3,
+          "chapter": 15,
+          "decimal": "3.15",
+          "slug": "03-15-caching-og-indholdslevering",
+          "title": "Caching og indholdslevering",
+          "heading": "3.15 Caching og indholdslevering",
+          "file": "locales/da-001/chapters/03-15-caching-og-indholdslevering.md"
+        },
+        {
+          "part": 3,
+          "chapter": 16,
+          "decimal": "3.16",
+          "slug": "03-16-api-gateways-og-service-mesh",
+          "title": "API-gateways og service mesh",
+          "heading": "3.16 API-gateways og service mesh",
+          "file": "locales/da-001/chapters/03-16-api-gateways-og-service-mesh.md"
+        },
+        {
+          "part": 3,
+          "chapter": 17,
+          "decimal": "3.17",
+          "slug": "03-17-søgning-og-informationssøgning",
+          "title": "Søgning og informationssøgning",
+          "heading": "3.17 Søgning og informationssøgning",
+          "file": "locales/da-001/chapters/03-17-søgning-og-informationssøgning.md"
+        },
+        {
+          "part": 4,
+          "chapter": 0,
+          "decimal": "4.0",
+          "slug": "04-00-sikkerhed",
+          "title": "Introduktion til del 4: Sikkerhed",
+          "heading": "4.0 Introduktion til del 4: Sikkerhed",
+          "file": "locales/da-001/chapters/04-00-sikkerhed.md"
+        },
+        {
+          "part": 4,
+          "chapter": 1,
+          "decimal": "4.1",
+          "slug": "04-01-sikkerhedsgrundlag-og-kultur",
+          "title": "Sikkerhedsgrundlag og kultur",
+          "heading": "4.1 Sikkerhedsgrundlag og kultur",
+          "file": "locales/da-001/chapters/04-01-sikkerhedsgrundlag-og-kultur.md"
+        },
+        {
+          "part": 4,
+          "chapter": 2,
+          "decimal": "4.2",
+          "slug": "04-02-applikationssikkerhed",
+          "title": "Applikationssikkerhed",
+          "heading": "4.2 Applikationssikkerhed",
+          "file": "locales/da-001/chapters/04-02-applikationssikkerhed.md"
+        },
+        {
+          "part": 4,
+          "chapter": 3,
+          "decimal": "4.3",
+          "slug": "04-03-infrastruktur-og-cloudsikkerhed",
+          "title": "Infrastruktur- og cloudsikkerhed",
+          "heading": "4.3 Infrastruktur- og cloudsikkerhed",
+          "file": "locales/da-001/chapters/04-03-infrastruktur-og-cloudsikkerhed.md"
+        },
+        {
+          "part": 4,
+          "chapter": 4,
+          "decimal": "4.4",
+          "slug": "04-04-sikkerhedsdrift",
+          "title": "Sikkerhedsdrift",
+          "heading": "4.4 Sikkerhedsdrift",
+          "file": "locales/da-001/chapters/04-04-sikkerhedsdrift.md"
+        },
+        {
+          "part": 4,
+          "chapter": 5,
+          "decimal": "4.5",
+          "slug": "04-05-privatliv-og-databeskyttelse",
+          "title": "Privatliv og databeskyttelse",
+          "heading": "4.5 Privatliv og databeskyttelse",
+          "file": "locales/da-001/chapters/04-05-privatliv-og-databeskyttelse.md"
+        },
+        {
+          "part": 4,
+          "chapter": 6,
+          "decimal": "4.6",
+          "slug": "04-06-compliance-og-styring",
+          "title": "Compliance og styring",
+          "heading": "4.6 Compliance og styring",
+          "file": "locales/da-001/chapters/04-06-compliance-og-styring.md"
+        },
+        {
+          "part": 4,
+          "chapter": 7,
+          "decimal": "4.7",
+          "slug": "04-07-identitets-og-adgangsstyring",
+          "title": "Identitets- og adgangsstyring",
+          "heading": "4.7 Identitets- og adgangsstyring",
+          "file": "locales/da-001/chapters/04-07-identitets-og-adgangsstyring.md"
+        },
+        {
+          "part": 4,
+          "chapter": 8,
+          "decimal": "4.8",
+          "slug": "04-08-kryptografi-og-nøglestyring",
+          "title": "Kryptografi og nøglestyring",
+          "heading": "4.8 Kryptografi og nøglestyring",
+          "file": "locales/da-001/chapters/04-08-kryptografi-og-nøglestyring.md"
+        },
+        {
+          "part": 4,
+          "chapter": 9,
+          "decimal": "4.9",
+          "slug": "04-09-sikker-softwareudviklingslivscyklus",
+          "title": "Sikker softwareudviklingslivscyklus",
+          "heading": "4.9 Sikker softwareudviklingslivscyklus",
+          "file": "locales/da-001/chapters/04-09-sikker-softwareudviklingslivscyklus.md"
+        },
+        {
+          "part": 4,
+          "chapter": 10,
+          "decimal": "4.10",
+          "slug": "04-10-penetrationstest-og-red-teaming",
+          "title": "Penetrationstest og red teaming",
+          "heading": "4.10 Penetrationstest og red teaming",
+          "file": "locales/da-001/chapters/04-10-penetrationstest-og-red-teaming.md"
+        },
+        {
+          "part": 5,
+          "chapter": 0,
+          "decimal": "5.0",
+          "slug": "05-00-ui-ux-design",
+          "title": "Introduktion til del 5: UI/UX-design",
+          "heading": "5.0 Introduktion til del 5: UI/UX-design",
+          "file": "locales/da-001/chapters/05-00-ui-ux-design.md"
+        },
+        {
+          "part": 5,
+          "chapter": 1,
+          "decimal": "5.1",
+          "slug": "05-01-ux-grundlag",
+          "title": "UX-grundlag",
+          "heading": "5.1 UX-grundlag",
+          "file": "locales/da-001/chapters/05-01-ux-grundlag.md"
+        },
+        {
+          "part": 5,
+          "chapter": 2,
+          "decimal": "5.2",
+          "slug": "05-02-ui-design-og-designsystemer",
+          "title": "UI-design og designsystemer",
+          "heading": "5.2 UI-design og designsystemer",
+          "file": "locales/da-001/chapters/05-02-ui-design-og-designsystemer.md"
+        },
+        {
+          "part": 5,
+          "chapter": 3,
+          "decimal": "5.3",
+          "slug": "05-03-tilgængelighed",
+          "title": "Tilgængelighed",
+          "heading": "5.3 Tilgængelighed",
+          "file": "locales/da-001/chapters/05-03-tilgængelighed.md"
+        },
+        {
+          "part": 5,
+          "chapter": 4,
+          "decimal": "5.4",
+          "slug": "05-04-indholds-og-kommunikationsdesign",
+          "title": "Indholds- og kommunikationsdesign",
+          "heading": "5.4 Indholds- og kommunikationsdesign",
+          "file": "locales/da-001/chapters/05-04-indholds-og-kommunikationsdesign.md"
+        },
+        {
+          "part": 5,
+          "chapter": 5,
+          "decimal": "5.5",
+          "slug": "05-05-internationalisering-og-lokalisering",
+          "title": "Internationalisering og lokalisering",
+          "heading": "5.5 Internationalisering og lokalisering",
+          "file": "locales/da-001/chapters/05-05-internationalisering-og-lokalisering.md"
+        },
+        {
+          "part": 5,
+          "chapter": 6,
+          "decimal": "5.6",
+          "slug": "05-06-frontendudvikling",
+          "title": "Frontendudvikling",
+          "heading": "5.6 Frontendudvikling",
+          "file": "locales/da-001/chapters/05-06-frontendudvikling.md"
+        },
+        {
+          "part": 5,
+          "chapter": 7,
+          "decimal": "5.7",
+          "slug": "05-07-udvikling-af-mobilapplikationer",
+          "title": "Udvikling af mobilapplikationer",
+          "heading": "5.7 Udvikling af mobilapplikationer",
+          "file": "locales/da-001/chapters/05-07-udvikling-af-mobilapplikationer.md"
+        },
+        {
+          "part": 5,
+          "chapter": 8,
+          "decimal": "5.8",
+          "slug": "05-08-designforskning-og-brugbarhedstest",
+          "title": "Designresearch og brugbarhedstest",
+          "heading": "5.8 Designresearch og brugbarhedstest",
+          "file": "locales/da-001/chapters/05-08-designforskning-og-brugbarhedstest.md"
+        },
+        {
+          "part": 5,
+          "chapter": 9,
+          "decimal": "5.9",
+          "slug": "05-09-servicedesign",
+          "title": "Servicedesign",
+          "heading": "5.9 Servicedesign",
+          "file": "locales/da-001/chapters/05-09-servicedesign.md"
+        },
+        {
+          "part": 5,
+          "chapter": 10,
+          "decimal": "5.10",
+          "slug": "05-10-design-af-datavisualisering",
+          "title": "Design af datavisualisering",
+          "heading": "5.10 Design af datavisualisering",
+          "file": "locales/da-001/chapters/05-10-design-af-datavisualisering.md"
+        },
+        {
+          "part": 6,
+          "chapter": 0,
+          "decimal": "6.0",
+          "slug": "06-00-kunstig-intelligens",
+          "title": "Introduktion til del 6: Kunstig intelligens",
+          "heading": "6.0 Introduktion til del 6: Kunstig intelligens",
+          "file": "locales/da-001/chapters/06-00-kunstig-intelligens.md"
+        },
+        {
+          "part": 6,
+          "chapter": 1,
+          "decimal": "6.1",
+          "slug": "06-01-ai-strategi-og-parathed",
+          "title": "AI-strategi og parathed",
+          "heading": "6.1 AI-strategi og parathed",
+          "file": "locales/da-001/chapters/06-01-ai-strategi-og-parathed.md"
+        },
+        {
+          "part": 6,
+          "chapter": 2,
+          "decimal": "6.2",
+          "slug": "06-02-maskinlæringsudvikling-mlops",
+          "title": "Maskinlæringsudvikling (MLOps)",
+          "heading": "6.2 Maskinlæringsudvikling (MLOps)",
+          "file": "locales/da-001/chapters/06-02-maskinlæringsudvikling-mlops.md"
+        },
+        {
+          "part": 6,
+          "chapter": 3,
+          "decimal": "6.3",
+          "slug": "06-03-generativ-ai-og-llm-applikationer",
+          "title": "Generativ AI og LLM-applikationer",
+          "heading": "6.3 Generativ AI og LLM-applikationer",
+          "file": "locales/da-001/chapters/06-03-generativ-ai-og-llm-applikationer.md"
+        },
+        {
+          "part": 6,
+          "chapter": 4,
+          "decimal": "6.4",
+          "slug": "06-04-ai-understøttet-softwareudvikling",
+          "title": "AI-understøttet softwareudvikling",
+          "heading": "6.4 AI-understøttet softwareudvikling",
+          "file": "locales/da-001/chapters/06-04-ai-understøttet-softwareudvikling.md"
+        },
+        {
+          "part": 6,
+          "chapter": 5,
+          "decimal": "6.5",
+          "slug": "06-05-ansvarlig-og-troværdig-ai",
+          "title": "Ansvarlig og troværdig AI",
+          "heading": "6.5 Ansvarlig og troværdig AI",
+          "file": "locales/da-001/chapters/06-05-ansvarlig-og-troværdig-ai.md"
+        },
+        {
+          "part": 6,
+          "chapter": 6,
+          "decimal": "6.6",
+          "slug": "06-06-ai-infrastruktur-og-drift",
+          "title": "AI-infrastruktur og drift",
+          "heading": "6.6 AI-infrastruktur og drift",
+          "file": "locales/da-001/chapters/06-06-ai-infrastruktur-og-drift.md"
+        },
+        {
+          "part": 6,
+          "chapter": 7,
+          "decimal": "6.7",
+          "slug": "06-07-ai-agenter-og-agentiske-systemer",
+          "title": "AI-agenter og agentiske systemer",
+          "heading": "6.7 AI-agenter og agentiske systemer",
+          "file": "locales/da-001/chapters/06-07-ai-agenter-og-agentiske-systemer.md"
+        },
+        {
+          "part": 6,
+          "chapter": 8,
+          "decimal": "6.8",
+          "slug": "06-08-ai-evaluering-og-test",
+          "title": "AI-evaluering og -test",
+          "heading": "6.8 AI-evaluering og -test",
+          "file": "locales/da-001/chapters/06-08-ai-evaluering-og-test.md"
+        },
+        {
+          "part": 6,
+          "chapter": 9,
+          "decimal": "6.9",
+          "slug": "06-09-promptudvikling-og-kontekstdesign",
+          "title": "Promptudvikling og kontekstdesign",
+          "heading": "6.9 Promptudvikling og kontekstdesign",
+          "file": "locales/da-001/chapters/06-09-promptudvikling-og-kontekstdesign.md"
+        },
+        {
+          "part": 7,
+          "chapter": 0,
+          "decimal": "7.0",
+          "slug": "07-00-data-analyse-og-indsigt",
+          "title": "Introduktion til del 7: Data, analyse og indsigt",
+          "heading": "7.0 Introduktion til del 7: Data, analyse og indsigt",
+          "file": "locales/da-001/chapters/07-00-data-analyse-og-indsigt.md"
+        },
+        {
+          "part": 7,
+          "chapter": 1,
+          "decimal": "7.1",
+          "slug": "07-01-datastrategi-og-datastyring",
+          "title": "Datastrategi og datastyring",
+          "heading": "7.1 Datastrategi og datastyring",
+          "file": "locales/da-001/chapters/07-01-datastrategi-og-datastyring.md"
+        },
+        {
+          "part": 7,
+          "chapter": 2,
+          "decimal": "7.2",
+          "slug": "07-02-datateknik",
+          "title": "Datateknik",
+          "heading": "7.2 Datateknik",
+          "file": "locales/da-001/chapters/07-02-datateknik.md"
+        },
+        {
+          "part": 7,
+          "chapter": 3,
+          "decimal": "7.3",
+          "slug": "07-03-analyse-og-business-intelligence",
+          "title": "Analyse og business intelligence",
+          "heading": "7.3 Analyse og business intelligence",
+          "file": "locales/da-001/chapters/07-03-analyse-og-business-intelligence.md"
+        },
+        {
+          "part": 7,
+          "chapter": 4,
+          "decimal": "7.4",
+          "slug": "07-04-produktanalyse-og-eksperimenter",
+          "title": "Produktanalyse og eksperimenter",
+          "heading": "7.4 Produktanalyse og eksperimenter",
+          "file": "locales/da-001/chapters/07-04-produktanalyse-og-eksperimenter.md"
+        },
+        {
+          "part": 7,
+          "chapter": 5,
+          "decimal": "7.5",
+          "slug": "07-05-beslutningsvidenskab-og-datainformeret-kultur",
+          "title": "Beslutningsvidenskab og datainformeret kultur",
+          "heading": "7.5 Beslutningsvidenskab og datainformeret kultur",
+          "file": "locales/da-001/chapters/07-05-beslutningsvidenskab-og-datainformeret-kultur.md"
+        },
+        {
+          "part": 7,
+          "chapter": 6,
+          "decimal": "7.6",
+          "slug": "07-06-realtids-og-streamingdata",
+          "title": "Realtids- og streamingdata",
+          "heading": "7.6 Realtids- og streamingdata",
+          "file": "locales/da-001/chapters/07-06-realtids-og-streamingdata.md"
+        },
+        {
+          "part": 7,
+          "chapter": 7,
+          "decimal": "7.7",
+          "slug": "07-07-datamodellering-og-det-semantiske-lag",
+          "title": "Datamodellering og det semantiske lag",
+          "heading": "7.7 Datamodellering og det semantiske lag",
+          "file": "locales/da-001/chapters/07-07-datamodellering-og-det-semantiske-lag.md"
+        },
+        {
+          "part": 7,
+          "chapter": 8,
+          "decimal": "7.8",
+          "slug": "07-08-datakvalitet-og-observerbarhed",
+          "title": "Datakvalitet og observerbarhed",
+          "heading": "7.8 Datakvalitet og observerbarhed",
+          "file": "locales/da-001/chapters/07-08-datakvalitet-og-observerbarhed.md"
+        },
+        {
+          "part": 7,
+          "chapter": 9,
+          "decimal": "7.9",
+          "slug": "07-09-stamdata-og-referencedatastyring",
+          "title": "Stamdata- og referencedatastyring",
+          "heading": "7.9 Stamdata- og referencedatastyring",
+          "file": "locales/da-001/chapters/07-09-stamdata-og-referencedatastyring.md"
+        },
+        {
+          "part": 8,
+          "chapter": 0,
+          "decimal": "8.0",
+          "slug": "08-00-automatisering",
+          "title": "Introduktion til del 8: Automatisering",
+          "heading": "8.0 Introduktion til del 8: Automatisering",
+          "file": "locales/da-001/chapters/08-00-automatisering.md"
+        },
+        {
+          "part": 8,
+          "chapter": 1,
+          "decimal": "8.1",
+          "slug": "08-01-ci-cd-og-levering",
+          "title": "CI/CD og levering",
+          "heading": "8.1 CI/CD og levering",
+          "file": "locales/da-001/chapters/08-01-ci-cd-og-levering.md"
+        },
+        {
+          "part": 8,
+          "chapter": 2,
+          "decimal": "8.2",
+          "slug": "08-02-infrastruktur-som-kode-og-konfiguration",
+          "title": "Infrastruktur som kode og konfiguration",
+          "heading": "8.2 Infrastruktur som kode og konfiguration",
+          "file": "locales/da-001/chapters/08-02-infrastruktur-som-kode-og-konfiguration.md"
+        },
+        {
+          "part": 8,
+          "chapter": 3,
+          "decimal": "8.3",
+          "slug": "08-03-containere-orkestrering-og-cloud-native",
+          "title": "Containere, orkestrering og cloud-native",
+          "heading": "8.3 Containere, orkestrering og cloud-native",
+          "file": "locales/da-001/chapters/08-03-containere-orkestrering-og-cloud-native.md"
+        },
+        {
+          "part": 8,
+          "chapter": 4,
+          "decimal": "8.4",
+          "slug": "08-04-platformsudvikling-og-udvikleroplevelse",
+          "title": "Platformsudvikling og udvikleroplevelse",
+          "heading": "8.4 Platformsudvikling og udvikleroplevelse",
+          "file": "locales/da-001/chapters/08-04-platformsudvikling-og-udvikleroplevelse.md"
+        },
+        {
+          "part": 8,
+          "chapter": 5,
+          "decimal": "8.5",
+          "slug": "08-05-test-og-procesautomatisering",
+          "title": "Test og procesautomatisering",
+          "heading": "8.5 Test og procesautomatisering",
+          "file": "locales/da-001/chapters/08-05-test-og-procesautomatisering.md"
+        },
+        {
+          "part": 8,
+          "chapter": 6,
+          "decimal": "8.6",
+          "slug": "08-06-releasestyring-og-progressiv-levering",
+          "title": "Releasestyring og progressiv levering",
+          "heading": "8.6 Releasestyring og progressiv levering",
+          "file": "locales/da-001/chapters/08-06-releasestyring-og-progressiv-levering.md"
+        },
+        {
+          "part": 8,
+          "chapter": 7,
+          "decimal": "8.7",
+          "slug": "08-07-buildsystemer-og-artefaktstyring",
+          "title": "Buildsystemer og artefaktstyring",
+          "heading": "8.7 Buildsystemer og artefaktstyring",
+          "file": "locales/da-001/chapters/08-07-buildsystemer-og-artefaktstyring.md"
+        },
+        {
+          "part": 9,
+          "chapter": 0,
+          "decimal": "9.0",
+          "slug": "09-00-drift-pålidelighed-og-observerbarhed",
+          "title": "Introduktion til del 9: Drift, pålidelighed og observerbarhed",
+          "heading": "9.0 Introduktion til del 9: Drift, pålidelighed og observerbarhed",
+          "file": "locales/da-001/chapters/09-00-drift-pålidelighed-og-observerbarhed.md"
+        },
+        {
+          "part": 9,
+          "chapter": 1,
+          "decimal": "9.1",
+          "slug": "09-01-site-reliability-engineering",
+          "title": "Site reliability engineering",
+          "heading": "9.1 Site reliability engineering",
+          "file": "locales/da-001/chapters/09-01-site-reliability-engineering.md"
+        },
+        {
+          "part": 9,
+          "chapter": 2,
+          "decimal": "9.2",
+          "slug": "09-02-observerbarhed-og-telemetri",
+          "title": "Observerbarhed og telemetri",
+          "heading": "9.2 Observerbarhed og telemetri",
+          "file": "locales/da-001/chapters/09-02-observerbarhed-og-telemetri.md"
+        },
+        {
+          "part": 9,
+          "chapter": 3,
+          "decimal": "9.3",
+          "slug": "09-03-hændelseshåndtering",
+          "title": "Hændelseshåndtering",
+          "heading": "9.3 Hændelseshåndtering",
+          "file": "locales/da-001/chapters/09-03-hændelseshåndtering.md"
+        },
+        {
+          "part": 9,
+          "chapter": 4,
+          "decimal": "9.4",
+          "slug": "09-04-omkostninger-bæredygtighed-og-grøn-software",
+          "title": "Omkostninger, bæredygtighed og grøn software",
+          "heading": "9.4 Omkostninger, bæredygtighed og grøn software",
+          "file": "locales/da-001/chapters/09-04-omkostninger-bæredygtighed-og-grøn-software.md"
+        },
+        {
+          "part": 9,
+          "chapter": 5,
+          "decimal": "9.5",
+          "slug": "09-05-katastrofeberedskab-og-forretningskontinuitet",
+          "title": "Katastrofeberedskab og forretningskontinuitet",
+          "heading": "9.5 Katastrofeberedskab og forretningskontinuitet",
+          "file": "locales/da-001/chapters/09-05-katastrofeberedskab-og-forretningskontinuitet.md"
+        },
+        {
+          "part": 9,
+          "chapter": 6,
+          "decimal": "9.6",
+          "slug": "09-06-chaos-engineering-og-robusthedstest",
+          "title": "Chaos engineering og robusthedstest",
+          "heading": "9.6 Chaos engineering og robusthedstest",
+          "file": "locales/da-001/chapters/09-06-chaos-engineering-og-robusthedstest.md"
+        },
+        {
+          "part": 9,
+          "chapter": 7,
+          "decimal": "9.7",
+          "slug": "09-07-kapacitetsplanlægning-og-efterspørgselsprognoser",
+          "title": "Kapacitetsplanlægning og efterspørgselsprognoser",
+          "heading": "9.7 Kapacitetsplanlægning og efterspørgselsprognoser",
+          "file": "locales/da-001/chapters/09-07-kapacitetsplanlægning-og-efterspørgselsprognoser.md"
+        },
+        {
+          "part": 9,
+          "chapter": 8,
+          "decimal": "9.8",
+          "slug": "09-08-vagtberedskab-og-driftsparathed",
+          "title": "Vagtberedskab og driftsparathed",
+          "heading": "9.8 Vagtberedskab og driftsparathed",
+          "file": "locales/da-001/chapters/09-08-vagtberedskab-og-driftsparathed.md"
+        },
+        {
+          "part": 10,
+          "chapter": 0,
+          "decimal": "10.0",
+          "slug": "10-00-projekt-produkt-og-programstyring",
+          "title": "Introduktion til del 10: Projekt-, produkt- og programstyring",
+          "heading": "10.0 Introduktion til del 10: Projekt-, produkt- og programstyring",
+          "file": "locales/da-001/chapters/10-00-projekt-produkt-og-programstyring.md"
+        },
+        {
+          "part": 10,
+          "chapter": 1,
+          "decimal": "10.1",
+          "slug": "10-01-portefølje-og-programstyring",
+          "title": "Portefølje- og programstyring",
+          "heading": "10.1 Portefølje- og programstyring",
+          "file": "locales/da-001/chapters/10-01-portefølje-og-programstyring.md"
+        },
+        {
+          "part": 10,
+          "chapter": 2,
+          "decimal": "10.2",
+          "slug": "10-02-risiko-revision-og-assurance",
+          "title": "Risiko, revision og assurance",
+          "heading": "10.2 Risiko, revision og assurance",
+          "file": "locales/da-001/chapters/10-02-risiko-revision-og-assurance.md"
+        },
+        {
+          "part": 10,
+          "chapter": 3,
+          "decimal": "10.3",
+          "slug": "10-03-indkøb-open-source-og-licenser",
+          "title": "Indkøb, open source og licenser",
+          "heading": "10.3 Indkøb, open source og licenser",
+          "file": "locales/da-001/chapters/10-03-indkøb-open-source-og-licenser.md"
+        },
+        {
+          "part": 10,
+          "chapter": 4,
+          "decimal": "10.4",
+          "slug": "10-04-vedligeholdelse-af-store-og-langlivede-systemer",
+          "title": "Vedligeholdelse af store og langlivede systemer",
+          "heading": "10.4 Vedligeholdelse af store og langlivede systemer",
+          "file": "locales/da-001/chapters/10-04-vedligeholdelse-af-store-og-langlivede-systemer.md"
+        },
+        {
+          "part": 10,
+          "chapter": 5,
+          "decimal": "10.5",
+          "slug": "10-05-etik-ansvarlighed-og-almenvellet",
+          "title": "Etik, ansvarlighed og almenvellet",
+          "heading": "10.5 Etik, ansvarlighed og almenvellet",
+          "file": "locales/da-001/chapters/10-05-etik-ansvarlighed-og-almenvellet.md"
+        },
+        {
+          "part": 10,
+          "chapter": 6,
+          "decimal": "10.6",
+          "slug": "10-06-projektstyring",
+          "title": "Projektstyring",
+          "heading": "10.6 Projektstyring",
+          "file": "locales/da-001/chapters/10-06-projektstyring.md"
+        },
+        {
+          "part": 10,
+          "chapter": 7,
+          "decimal": "10.7",
+          "slug": "10-07-agil",
+          "title": "Agil",
+          "heading": "10.7 Agil",
+          "file": "locales/da-001/chapters/10-07-agil.md"
+        },
+        {
+          "part": 10,
+          "chapter": 8,
+          "decimal": "10.8",
+          "slug": "10-08-modenhedsmodeller",
+          "title": "Modenhedsmodeller",
+          "heading": "10.8 Modenhedsmodeller",
+          "file": "locales/da-001/chapters/10-08-modenhedsmodeller.md"
+        },
+        {
+          "part": 10,
+          "chapter": 9,
+          "decimal": "10.9",
+          "slug": "10-09-innovationspartnerskab",
+          "title": "Innovationspartnerskab",
+          "heading": "10.9 Innovationspartnerskab",
+          "file": "locales/da-001/chapters/10-09-innovationspartnerskab.md"
+        },
+        {
+          "part": 10,
+          "chapter": 10,
+          "decimal": "10.10",
+          "slug": "10-10-softwareudviklingens-økonomi",
+          "title": "Softwareudviklingens økonomi",
+          "heading": "10.10 Softwareudviklingens økonomi",
+          "file": "locales/da-001/chapters/10-10-softwareudviklingens-økonomi.md"
+        },
+        {
+          "part": 10,
+          "chapter": 11,
+          "decimal": "10.11",
+          "slug": "10-11-digital-suverænitet",
+          "title": "Digital suverænitet",
+          "heading": "10.11 Digital suverænitet",
+          "file": "locales/da-001/chapters/10-11-digital-suverænitet.md"
+        },
+        {
+          "part": 10,
+          "chapter": 12,
+          "decimal": "10.12",
+          "slug": "10-12-open-source-versus-closed-source",
+          "title": "Open source versus closed source",
+          "heading": "10.12 Open source versus closed source",
+          "file": "locales/da-001/chapters/10-12-open-source-versus-closed-source.md"
+        },
+        {
+          "part": 10,
+          "chapter": 13,
+          "decimal": "10.13",
+          "slug": "10-13-samarbejde-på-tværs-af-organisationer",
+          "title": "Samarbejde på tværs af organisationer",
+          "heading": "10.13 Samarbejde på tværs af organisationer",
+          "file": "locales/da-001/chapters/10-13-samarbejde-på-tværs-af-organisationer.md"
+        },
+        {
+          "part": 10,
+          "chapter": 14,
+          "decimal": "10.14",
+          "slug": "10-14-produktstyring-og-opdagelse",
+          "title": "Produktstyring og opdagelse",
+          "heading": "10.14 Produktstyring og opdagelse",
+          "file": "locales/da-001/chapters/10-14-produktstyring-og-opdagelse.md"
+        },
+        {
+          "part": 10,
+          "chapter": 15,
+          "decimal": "10.15",
+          "slug": "10-15-estimering-og-prognoser",
+          "title": "Estimering og prognoser",
+          "heading": "10.15 Estimering og prognoser",
+          "file": "locales/da-001/chapters/10-15-estimering-og-prognoser.md"
+        },
+        {
+          "part": 10,
+          "chapter": 16,
+          "decimal": "10.16",
+          "slug": "10-16-interessenthåndtering-og-kommunikation",
+          "title": "Interessenthåndtering og kommunikation",
+          "heading": "10.16 Interessenthåndtering og kommunikation",
+          "file": "locales/da-001/chapters/10-16-interessenthåndtering-og-kommunikation.md"
+        },
+        {
+          "part": 10,
+          "chapter": 17,
+          "decimal": "10.17",
+          "slug": "10-17-organisatorisk-forandringsledelse",
+          "title": "Organisatorisk forandringsledelse",
+          "heading": "10.17 Organisatorisk forandringsledelse",
+          "file": "locales/da-001/chapters/10-17-organisatorisk-forandringsledelse.md"
+        },
+        {
+          "part": 10,
+          "chapter": 18,
+          "decimal": "10.18",
+          "slug": "10-18-open-source-programkontor-og-upstream-bidrag",
+          "title": "Open source-programkontor (OSPO) og upstream-bidrag",
+          "heading": "10.18 Open source-programkontor (OSPO) og upstream-bidrag",
+          "file": "locales/da-001/chapters/10-18-open-source-programkontor-og-upstream-bidrag.md"
+        },
+        {
+          "part": 11,
+          "chapter": 0,
+          "decimal": "11.0",
+          "slug": "11-00-flow-opdagelse-og-leveringspipelines",
+          "title": "Introduktion til del 11: Flow: opdagelses- og leveringspipelines",
+          "heading": "11.0 Introduktion til del 11: Flow: opdagelses- og leveringspipelines",
+          "file": "locales/da-001/chapters/11-00-flow-opdagelse-og-leveringspipelines.md"
+        },
+        {
+          "part": 11,
+          "chapter": 1,
+          "decimal": "11.1",
+          "slug": "11-01-opdagelsespipelinen",
+          "title": "Opdagelsespipelinen",
+          "heading": "11.1 Opdagelsespipelinen",
+          "file": "locales/da-001/chapters/11-01-opdagelsespipelinen.md"
+        },
+        {
+          "part": 11,
+          "chapter": 2,
+          "decimal": "11.2",
+          "slug": "11-02-leveringspipelinen",
+          "title": "Leveringspipelinen",
+          "heading": "11.2 Leveringspipelinen",
+          "file": "locales/da-001/chapters/11-02-leveringspipelinen.md"
+        },
+        {
+          "part": 11,
+          "chapter": 3,
+          "decimal": "11.3",
+          "slug": "11-03-køteori",
+          "title": "Køteori",
+          "heading": "11.3 Køteori",
+          "file": "locales/da-001/chapters/11-03-køteori.md"
+        },
+        {
+          "part": 11,
+          "chapter": 4,
+          "decimal": "11.4",
+          "slug": "11-04-mål-og-nøgleresultater",
+          "title": "Mål og nøgleresultater (OKR'er)",
+          "heading": "11.4 Mål og nøgleresultater (OKR'er)",
+          "file": "locales/da-001/chapters/11-04-mål-og-nøgleresultater.md"
+        },
+        {
+          "part": 11,
+          "chapter": 5,
+          "decimal": "11.5",
+          "slug": "11-05-nøgleindikatorer",
+          "title": "Nøgleindikatorer (KPI'er)",
+          "heading": "11.5 Nøgleindikatorer (KPI'er)",
+          "file": "locales/da-001/chapters/11-05-nøgleindikatorer.md"
+        },
+        {
+          "part": 11,
+          "chapter": 6,
+          "decimal": "11.6",
+          "slug": "11-06-værdistrømskortlægning-og-forsinkelsesomkostning",
+          "title": "Værdistrømskortlægning og forsinkelsesomkostning",
+          "heading": "11.6 Værdistrømskortlægning og forsinkelsesomkostning",
+          "file": "locales/da-001/chapters/11-06-værdistrømskortlægning-og-forsinkelsesomkostning.md"
+        },
+        {
+          "part": 12,
+          "chapter": 0,
+          "decimal": "12.0",
+          "slug": "12-00-bilag",
+          "title": "Bilag",
+          "heading": "12.0 Bilag",
+          "file": "locales/da-001/chapters/12-00-bilag.md"
+        },
+        {
+          "part": 12,
+          "chapter": 1,
+          "decimal": "12.1",
+          "slug": "12-01-ordliste",
+          "title": "Ordliste",
+          "heading": "12.1 Ordliste",
+          "file": "locales/da-001/chapters/12-01-ordliste.md"
+        },
+        {
+          "part": 12,
+          "chapter": 2,
+          "decimal": "12.2",
+          "slug": "12-02-tjeklister",
+          "title": "Tjeklister",
+          "heading": "12.2 Tjeklister",
+          "file": "locales/da-001/chapters/12-02-tjeklister.md"
+        },
+        {
+          "part": 12,
+          "chapter": 3,
+          "decimal": "12.3",
+          "slug": "12-03-skabeloner",
+          "title": "Skabeloner",
+          "heading": "12.3 Skabeloner",
+          "file": "locales/da-001/chapters/12-03-skabeloner.md"
+        },
+        {
+          "part": 12,
+          "chapter": 4,
+          "decimal": "12.4",
+          "slug": "12-04-selvvurdering-af-modenhed",
+          "title": "Selvvurdering af modenhed",
+          "heading": "12.4 Selvvurdering af modenhed",
+          "file": "locales/da-001/chapters/12-04-selvvurdering-af-modenhed.md"
+        },
+        {
+          "part": 12,
+          "chapter": 5,
+          "decimal": "12.5",
+          "slug": "12-05-referencer",
+          "title": "Referencer",
+          "heading": "12.5 Referencer",
+          "file": "locales/da-001/chapters/12-05-referencer.md"
+        },
+        {
+          "part": 12,
+          "chapter": 6,
+          "decimal": "12.6",
+          "slug": "12-06-køreplan-for-indførelse",
+          "title": "Køreplan for indførelse",
+          "heading": "12.6 Køreplan for indførelse",
+          "file": "locales/da-001/chapters/12-06-køreplan-for-indførelse.md"
+        },
+        {
+          "part": 12,
+          "chapter": 7,
+          "decimal": "12.7",
+          "slug": "12-07-stikordsregister",
+          "title": "Stikordsregister",
+          "heading": "12.7 Stikordsregister",
+          "file": "locales/da-001/chapters/12-07-stikordsregister.md"
+        }
+      ],
+      "parts": [
+        {
+          "number": 1,
+          "title": "Mennesker",
+          "chapters": [
+            {
+              "part": 1,
+              "chapter": 0,
+              "decimal": "1.0",
+              "slug": "01-00-mennesker",
+              "title": "Introduktion til del 1: Mennesker",
+              "heading": "1.0 Introduktion til del 1: Mennesker",
+              "file": "locales/da-001/chapters/01-00-mennesker.md"
+            },
+            {
+              "part": 1,
+              "chapter": 1,
+              "decimal": "1.1",
+              "slug": "01-01-værdier-i-softwareudvikling",
+              "title": "Værdier i softwareudvikling",
+              "heading": "1.1 Værdier i softwareudvikling",
+              "file": "locales/da-001/chapters/01-01-værdier-i-softwareudvikling.md"
+            },
+            {
+              "part": 1,
+              "chapter": 2,
+              "decimal": "1.2",
+              "slug": "01-02-teamtopologier-og-organisationsdesign",
+              "title": "Teamtopologier og organisationsdesign",
+              "heading": "1.2 Teamtopologier og organisationsdesign",
+              "file": "locales/da-001/chapters/01-02-teamtopologier-og-organisationsdesign.md"
+            },
+            {
+              "part": 1,
+              "chapter": 3,
+              "decimal": "1.3",
+              "slug": "01-03-roller-karrierestiger-og-vækst",
+              "title": "Roller, karrierestiger og vækst",
+              "heading": "1.3 Roller, karrierestiger og vækst",
+              "file": "locales/da-001/chapters/01-03-roller-karrierestiger-og-vækst.md"
+            },
+            {
+              "part": 1,
+              "chapter": 4,
+              "decimal": "1.4",
+              "slug": "01-04-arbejdsmetoder",
+              "title": "Arbejdsmetoder",
+              "heading": "1.4 Arbejdsmetoder",
+              "file": "locales/da-001/chapters/01-04-arbejdsmetoder.md"
+            },
+            {
+              "part": 1,
+              "chapter": 5,
+              "decimal": "1.5",
+              "slug": "01-05-beslutningstagning-og-styring",
+              "title": "Beslutningstagning og styring",
+              "heading": "1.5 Beslutningstagning og styring",
+              "file": "locales/da-001/chapters/01-05-beslutningstagning-og-styring.md"
+            },
+            {
+              "part": 1,
+              "chapter": 6,
+              "decimal": "1.6",
+              "slug": "01-06-beslutningsregistre",
+              "title": "Beslutningsregistre",
+              "heading": "1.6 Beslutningsregistre",
+              "file": "locales/da-001/chapters/01-06-beslutningsregistre.md"
+            },
+            {
+              "part": 1,
+              "chapter": 7,
+              "decimal": "1.7",
+              "slug": "01-07-tekniske-standarder-og-undtagelser",
+              "title": "Tekniske standarder og undtagelser",
+              "heading": "1.7 Tekniske standarder og undtagelser",
+              "file": "locales/da-001/chapters/01-07-tekniske-standarder-og-undtagelser.md"
+            },
+            {
+              "part": 1,
+              "chapter": 8,
+              "decimal": "1.8",
+              "slug": "01-08-ansættelse-jobsamtaler-og-onboarding",
+              "title": "Ansættelse, jobsamtaler og onboarding",
+              "heading": "1.8 Ansættelse, jobsamtaler og onboarding",
+              "file": "locales/da-001/chapters/01-08-ansættelse-jobsamtaler-og-onboarding.md"
+            },
+            {
+              "part": 1,
+              "chapter": 9,
+              "decimal": "1.9",
+              "slug": "01-09-distribueret-arbejde-og-fjernarbejde",
+              "title": "Distribueret arbejde og fjernarbejde",
+              "heading": "1.9 Distribueret arbejde og fjernarbejde",
+              "file": "locales/da-001/chapters/01-09-distribueret-arbejde-og-fjernarbejde.md"
+            },
+            {
+              "part": 1,
+              "chapter": 10,
+              "decimal": "1.10",
+              "slug": "01-10-teknisk-effektivitet-og-udvikleres-produktivitet",
+              "title": "Teknisk effektivitet og udvikleres produktivitet",
+              "heading": "1.10 Teknisk effektivitet og udvikleres produktivitet",
+              "file": "locales/da-001/chapters/01-10-teknisk-effektivitet-og-udvikleres-produktivitet.md"
+            },
+            {
+              "part": 1,
+              "chapter": 11,
+              "decimal": "1.11",
+              "slug": "01-11-teknisk-ledelse",
+              "title": "Teknisk ledelse",
+              "heading": "1.11 Teknisk ledelse",
+              "file": "locales/da-001/chapters/01-11-teknisk-ledelse.md"
+            },
+            {
+              "part": 1,
+              "chapter": 12,
+              "decimal": "1.12",
+              "slug": "01-12-mangfoldighed-lighed-inklusion-og-tilhørsforhold",
+              "title": "Mangfoldighed, lighed, inklusion og tilhørsforhold",
+              "heading": "1.12 Mangfoldighed, lighed, inklusion og tilhørsforhold",
+              "file": "locales/da-001/chapters/01-12-mangfoldighed-lighed-inklusion-og-tilhørsforhold.md"
+            },
+            {
+              "part": 1,
+              "chapter": 13,
+              "decimal": "1.13",
+              "slug": "01-13-mentorskab-coaching-og-vidensdeling",
+              "title": "Mentorordning, coaching og vidensdeling",
+              "heading": "1.13 Mentorordning, coaching og vidensdeling",
+              "file": "locales/da-001/chapters/01-13-mentorskab-coaching-og-vidensdeling.md"
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "title": "Softwareprogrammering",
+          "chapters": [
+            {
+              "part": 2,
+              "chapter": 0,
+              "decimal": "2.0",
+              "slug": "02-00-softwareprogrammering",
+              "title": "Introduktion til del 2: Softwareprogrammering",
+              "heading": "2.0 Introduktion til del 2: Softwareprogrammering",
+              "file": "locales/da-001/chapters/02-00-softwareprogrammering.md"
+            },
+            {
+              "part": 2,
+              "chapter": 1,
+              "decimal": "2.1",
+              "slug": "02-01-kodestandarder-og-stil",
+              "title": "Kodestandarder og stil",
+              "heading": "2.1 Kodestandarder og stil",
+              "file": "locales/da-001/chapters/02-01-kodestandarder-og-stil.md"
+            },
+            {
+              "part": 2,
+              "chapter": 2,
+              "decimal": "2.2",
+              "slug": "02-02-principper-for-softwaredesign",
+              "title": "Principper for softwaredesign",
+              "heading": "2.2 Principper for softwaredesign",
+              "file": "locales/da-001/chapters/02-02-principper-for-softwaredesign.md"
+            },
+            {
+              "part": 2,
+              "chapter": 3,
+              "decimal": "2.3",
+              "slug": "02-03-api-er-og-grænsefladedesign",
+              "title": "API'er og grænsefladedesign",
+              "heading": "2.3 API'er og grænsefladedesign",
+              "file": "locales/da-001/chapters/02-03-api-er-og-grænsefladedesign.md"
+            },
+            {
+              "part": 2,
+              "chapter": 4,
+              "decimal": "2.4",
+              "slug": "02-04-teststrategi",
+              "title": "Teststrategi",
+              "heading": "2.4 Teststrategi",
+              "file": "locales/da-001/chapters/02-04-teststrategi.md"
+            },
+            {
+              "part": 2,
+              "chapter": 5,
+              "decimal": "2.5",
+              "slug": "02-05-kodegennemgang-og-samarbejde",
+              "title": "Kodegennemgang og samarbejde",
+              "heading": "2.5 Kodegennemgang og samarbejde",
+              "file": "locales/da-001/chapters/02-05-kodegennemgang-og-samarbejde.md"
+            },
+            {
+              "part": 2,
+              "chapter": 6,
+              "decimal": "2.6",
+              "slug": "02-06-versionsstyring-og-kildekodestyring",
+              "title": "Versionsstyring og kildekodestyring",
+              "heading": "2.6 Versionsstyring og kildekodestyring",
+              "file": "locales/da-001/chapters/02-06-versionsstyring-og-kildekodestyring.md"
+            },
+            {
+              "part": 2,
+              "chapter": 7,
+              "decimal": "2.7",
+              "slug": "02-07-dokumentation",
+              "title": "Dokumentation",
+              "heading": "2.7 Dokumentation",
+              "file": "locales/da-001/chapters/02-07-dokumentation.md"
+            },
+            {
+              "part": 2,
+              "chapter": 8,
+              "decimal": "2.8",
+              "slug": "02-08-softwarekrav",
+              "title": "Softwarekrav",
+              "heading": "2.8 Softwarekrav",
+              "file": "locales/da-001/chapters/02-08-softwarekrav.md"
+            },
+            {
+              "part": 2,
+              "chapter": 9,
+              "decimal": "2.9",
+              "slug": "02-09-softwarekonstruktion",
+              "title": "Softwarekonstruktion",
+              "heading": "2.9 Softwarekonstruktion",
+              "file": "locales/da-001/chapters/02-09-softwarekonstruktion.md"
+            },
+            {
+              "part": 2,
+              "chapter": 10,
+              "decimal": "2.10",
+              "slug": "02-10-softwarekonfigurationsstyring",
+              "title": "Softwarekonfigurationsstyring",
+              "heading": "2.10 Softwarekonfigurationsstyring",
+              "file": "locales/da-001/chapters/02-10-softwarekonfigurationsstyring.md"
+            },
+            {
+              "part": 2,
+              "chapter": 11,
+              "decimal": "2.11",
+              "slug": "02-11-softwarekvalitet",
+              "title": "Softwarekvalitet",
+              "heading": "2.11 Softwarekvalitet",
+              "file": "locales/da-001/chapters/02-11-softwarekvalitet.md"
+            },
+            {
+              "part": 2,
+              "chapter": 12,
+              "decimal": "2.12",
+              "slug": "02-12-softwaremodeller-og-metoder",
+              "title": "Softwaremodeller og metoder",
+              "heading": "2.12 Softwaremodeller og metoder",
+              "file": "locales/da-001/chapters/02-12-softwaremodeller-og-metoder.md"
+            },
+            {
+              "part": 2,
+              "chapter": 13,
+              "decimal": "2.13",
+              "slug": "02-13-datalogiske-matematiske-og-tekniske-grundlag",
+              "title": "Datalogiske, matematiske og tekniske grundlag",
+              "heading": "2.13 Datalogiske, matematiske og tekniske grundlag",
+              "file": "locales/da-001/chapters/02-13-datalogiske-matematiske-og-tekniske-grundlag.md"
+            },
+            {
+              "part": 2,
+              "chapter": 14,
+              "decimal": "2.14",
+              "slug": "02-14-projekt-og-repositoriestruktur",
+              "title": "Projekt- og repositoriestruktur",
+              "heading": "2.14 Projekt- og repositoriestruktur",
+              "file": "locales/da-001/chapters/02-14-projekt-og-repositoriestruktur.md"
+            },
+            {
+              "part": 2,
+              "chapter": 15,
+              "decimal": "2.15",
+              "slug": "02-15-fejlsøgning-og-problemløsning",
+              "title": "Fejlsøgning og problemløsning",
+              "heading": "2.15 Fejlsøgning og problemløsning",
+              "file": "locales/da-001/chapters/02-15-fejlsøgning-og-problemløsning.md"
+            },
+            {
+              "part": 2,
+              "chapter": 16,
+              "decimal": "2.16",
+              "slug": "02-16-ydeevneoptimering",
+              "title": "Ydeevneoptimering",
+              "heading": "2.16 Ydeevneoptimering",
+              "file": "locales/da-001/chapters/02-16-ydeevneoptimering.md"
+            },
+            {
+              "part": 2,
+              "chapter": 17,
+              "decimal": "2.17",
+              "slug": "02-17-samtidighed-og-parallelisme",
+              "title": "Samtidighed og parallelisme",
+              "heading": "2.17 Samtidighed og parallelisme",
+              "file": "locales/da-001/chapters/02-17-samtidighed-og-parallelisme.md"
+            },
+            {
+              "part": 2,
+              "chapter": 18,
+              "decimal": "2.18",
+              "slug": "02-18-afhængigheds-og-forsyningskædestyring",
+              "title": "Afhængigheds- og forsyningskædestyring",
+              "heading": "2.18 Afhængigheds- og forsyningskædestyring",
+              "file": "locales/da-001/chapters/02-18-afhængigheds-og-forsyningskædestyring.md"
+            },
+            {
+              "part": 2,
+              "chapter": 19,
+              "decimal": "2.19",
+              "slug": "02-19-refaktorering-og-teknisk-gæld",
+              "title": "Refaktorering og teknisk gæld",
+              "heading": "2.19 Refaktorering og teknisk gæld",
+              "file": "locales/da-001/chapters/02-19-refaktorering-og-teknisk-gæld.md"
+            },
+            {
+              "part": 2,
+              "chapter": 20,
+              "decimal": "2.20",
+              "slug": "02-20-fejlhåndtering-og-robusthedsmønstre",
+              "title": "Fejlhåndtering og robusthedsmønstre",
+              "heading": "2.20 Fejlhåndtering og robusthedsmønstre",
+              "file": "locales/da-001/chapters/02-20-fejlhåndtering-og-robusthedsmønstre.md"
+            },
+            {
+              "part": 2,
+              "chapter": 21,
+              "decimal": "2.21",
+              "slug": "02-21-typesystemer-og-statisk-analyse",
+              "title": "Typesystemer og statisk analyse",
+              "heading": "2.21 Typesystemer og statisk analyse",
+              "file": "locales/da-001/chapters/02-21-typesystemer-og-statisk-analyse.md"
+            }
+          ]
+        },
+        {
+          "number": 3,
+          "title": "Systemer",
+          "chapters": [
+            {
+              "part": 3,
+              "chapter": 0,
+              "decimal": "3.0",
+              "slug": "03-00-systemer",
+              "title": "Introduktion til del 3: Systemer",
+              "heading": "3.0 Introduktion til del 3: Systemer",
+              "file": "locales/da-001/chapters/03-00-systemer.md"
+            },
+            {
+              "part": 3,
+              "chapter": 1,
+              "decimal": "3.1",
+              "slug": "03-01-grundlæggende-arkitektur",
+              "title": "Grundlæggende arkitektur",
+              "heading": "3.1 Grundlæggende arkitektur",
+              "file": "locales/da-001/chapters/03-01-grundlæggende-arkitektur.md"
+            },
+            {
+              "part": 3,
+              "chapter": 2,
+              "decimal": "3.2",
+              "slug": "03-02-arkitekturstilarter-og-mønstre",
+              "title": "Arkitekturstilarter og mønstre",
+              "heading": "3.2 Arkitekturstilarter og mønstre",
+              "file": "locales/da-001/chapters/03-02-arkitekturstilarter-og-mønstre.md"
+            },
+            {
+              "part": 3,
+              "chapter": 3,
+              "decimal": "3.3",
+              "slug": "03-03-distribuerede-systemer",
+              "title": "Distribuerede systemer",
+              "heading": "3.3 Distribuerede systemer",
+              "file": "locales/da-001/chapters/03-03-distribuerede-systemer.md"
+            },
+            {
+              "part": 3,
+              "chapter": 4,
+              "decimal": "3.4",
+              "slug": "03-04-dataarkitektur-og-lagring",
+              "title": "Dataarkitektur og lagring",
+              "heading": "3.4 Dataarkitektur og lagring",
+              "file": "locales/da-001/chapters/03-04-dataarkitektur-og-lagring.md"
+            },
+            {
+              "part": 3,
+              "chapter": 5,
+              "decimal": "3.5",
+              "slug": "03-05-skalerbarhed-ydeevne-og-robusthed",
+              "title": "Skalerbarhed, ydeevne og robusthed",
+              "heading": "3.5 Skalerbarhed, ydeevne og robusthed",
+              "file": "locales/da-001/chapters/03-05-skalerbarhed-ydeevne-og-robusthed.md"
+            },
+            {
+              "part": 3,
+              "chapter": 6,
+              "decimal": "3.6",
+              "slug": "03-06-modernisering-af-ældre-systemer",
+              "title": "Modernisering af ældre systemer",
+              "heading": "3.6 Modernisering af ældre systemer",
+              "file": "locales/da-001/chapters/03-06-modernisering-af-ældre-systemer.md"
+            },
+            {
+              "part": 3,
+              "chapter": 7,
+              "decimal": "3.7",
+              "slug": "03-07-softwarevedligeholdelse",
+              "title": "Softwarevedligeholdelse",
+              "heading": "3.7 Softwarevedligeholdelse",
+              "file": "locales/da-001/chapters/03-07-softwarevedligeholdelse.md"
+            },
+            {
+              "part": 3,
+              "chapter": 8,
+              "decimal": "3.8",
+              "slug": "03-08-interoperabilitet-og-åbne-standarder",
+              "title": "Interoperabilitet og åbne standarder",
+              "heading": "3.8 Interoperabilitet og åbne standarder",
+              "file": "locales/da-001/chapters/03-08-interoperabilitet-og-åbne-standarder.md"
+            },
+            {
+              "part": 3,
+              "chapter": 9,
+              "decimal": "3.9",
+              "slug": "03-09-systemteknik",
+              "title": "Systemteknik",
+              "heading": "3.9 Systemteknik",
+              "file": "locales/da-001/chapters/03-09-systemteknik.md"
+            },
+            {
+              "part": 3,
+              "chapter": 10,
+              "decimal": "3.10",
+              "slug": "03-10-indlejrede-systemer-og-realtidssystemer",
+              "title": "Indlejrede systemer og realtidssystemer",
+              "heading": "3.10 Indlejrede systemer og realtidssystemer",
+              "file": "locales/da-001/chapters/03-10-indlejrede-systemer-og-realtidssystemer.md"
+            },
+            {
+              "part": 3,
+              "chapter": 11,
+              "decimal": "3.11",
+              "slug": "03-11-cloudarkitektur",
+              "title": "Cloudarkitektur",
+              "heading": "3.11 Cloudarkitektur",
+              "file": "locales/da-001/chapters/03-11-cloudarkitektur.md"
+            },
+            {
+              "part": 3,
+              "chapter": 12,
+              "decimal": "3.12",
+              "slug": "03-12-hændelsesdrevet-arkitektur-og-messaging",
+              "title": "Hændelsesdrevet arkitektur og beskedudveksling",
+              "heading": "3.12 Hændelsesdrevet arkitektur og beskedudveksling",
+              "file": "locales/da-001/chapters/03-12-hændelsesdrevet-arkitektur-og-messaging.md"
+            },
+            {
+              "part": 3,
+              "chapter": 13,
+              "decimal": "3.13",
+              "slug": "03-13-netværk-og-konnektivitet",
+              "title": "Netværk og konnektivitet",
+              "heading": "3.13 Netværk og konnektivitet",
+              "file": "locales/da-001/chapters/03-13-netværk-og-konnektivitet.md"
+            },
+            {
+              "part": 3,
+              "chapter": 14,
+              "decimal": "3.14",
+              "slug": "03-14-multitenancy-og-saas-arkitektur",
+              "title": "Multitenancy og SaaS-arkitektur",
+              "heading": "3.14 Multitenancy og SaaS-arkitektur",
+              "file": "locales/da-001/chapters/03-14-multitenancy-og-saas-arkitektur.md"
+            },
+            {
+              "part": 3,
+              "chapter": 15,
+              "decimal": "3.15",
+              "slug": "03-15-caching-og-indholdslevering",
+              "title": "Caching og indholdslevering",
+              "heading": "3.15 Caching og indholdslevering",
+              "file": "locales/da-001/chapters/03-15-caching-og-indholdslevering.md"
+            },
+            {
+              "part": 3,
+              "chapter": 16,
+              "decimal": "3.16",
+              "slug": "03-16-api-gateways-og-service-mesh",
+              "title": "API-gateways og service mesh",
+              "heading": "3.16 API-gateways og service mesh",
+              "file": "locales/da-001/chapters/03-16-api-gateways-og-service-mesh.md"
+            },
+            {
+              "part": 3,
+              "chapter": 17,
+              "decimal": "3.17",
+              "slug": "03-17-søgning-og-informationssøgning",
+              "title": "Søgning og informationssøgning",
+              "heading": "3.17 Søgning og informationssøgning",
+              "file": "locales/da-001/chapters/03-17-søgning-og-informationssøgning.md"
+            }
+          ]
+        },
+        {
+          "number": 4,
+          "title": "Sikkerhed",
+          "chapters": [
+            {
+              "part": 4,
+              "chapter": 0,
+              "decimal": "4.0",
+              "slug": "04-00-sikkerhed",
+              "title": "Introduktion til del 4: Sikkerhed",
+              "heading": "4.0 Introduktion til del 4: Sikkerhed",
+              "file": "locales/da-001/chapters/04-00-sikkerhed.md"
+            },
+            {
+              "part": 4,
+              "chapter": 1,
+              "decimal": "4.1",
+              "slug": "04-01-sikkerhedsgrundlag-og-kultur",
+              "title": "Sikkerhedsgrundlag og kultur",
+              "heading": "4.1 Sikkerhedsgrundlag og kultur",
+              "file": "locales/da-001/chapters/04-01-sikkerhedsgrundlag-og-kultur.md"
+            },
+            {
+              "part": 4,
+              "chapter": 2,
+              "decimal": "4.2",
+              "slug": "04-02-applikationssikkerhed",
+              "title": "Applikationssikkerhed",
+              "heading": "4.2 Applikationssikkerhed",
+              "file": "locales/da-001/chapters/04-02-applikationssikkerhed.md"
+            },
+            {
+              "part": 4,
+              "chapter": 3,
+              "decimal": "4.3",
+              "slug": "04-03-infrastruktur-og-cloudsikkerhed",
+              "title": "Infrastruktur- og cloudsikkerhed",
+              "heading": "4.3 Infrastruktur- og cloudsikkerhed",
+              "file": "locales/da-001/chapters/04-03-infrastruktur-og-cloudsikkerhed.md"
+            },
+            {
+              "part": 4,
+              "chapter": 4,
+              "decimal": "4.4",
+              "slug": "04-04-sikkerhedsdrift",
+              "title": "Sikkerhedsdrift",
+              "heading": "4.4 Sikkerhedsdrift",
+              "file": "locales/da-001/chapters/04-04-sikkerhedsdrift.md"
+            },
+            {
+              "part": 4,
+              "chapter": 5,
+              "decimal": "4.5",
+              "slug": "04-05-privatliv-og-databeskyttelse",
+              "title": "Privatliv og databeskyttelse",
+              "heading": "4.5 Privatliv og databeskyttelse",
+              "file": "locales/da-001/chapters/04-05-privatliv-og-databeskyttelse.md"
+            },
+            {
+              "part": 4,
+              "chapter": 6,
+              "decimal": "4.6",
+              "slug": "04-06-compliance-og-styring",
+              "title": "Compliance og styring",
+              "heading": "4.6 Compliance og styring",
+              "file": "locales/da-001/chapters/04-06-compliance-og-styring.md"
+            },
+            {
+              "part": 4,
+              "chapter": 7,
+              "decimal": "4.7",
+              "slug": "04-07-identitets-og-adgangsstyring",
+              "title": "Identitets- og adgangsstyring",
+              "heading": "4.7 Identitets- og adgangsstyring",
+              "file": "locales/da-001/chapters/04-07-identitets-og-adgangsstyring.md"
+            },
+            {
+              "part": 4,
+              "chapter": 8,
+              "decimal": "4.8",
+              "slug": "04-08-kryptografi-og-nøglestyring",
+              "title": "Kryptografi og nøglestyring",
+              "heading": "4.8 Kryptografi og nøglestyring",
+              "file": "locales/da-001/chapters/04-08-kryptografi-og-nøglestyring.md"
+            },
+            {
+              "part": 4,
+              "chapter": 9,
+              "decimal": "4.9",
+              "slug": "04-09-sikker-softwareudviklingslivscyklus",
+              "title": "Sikker softwareudviklingslivscyklus",
+              "heading": "4.9 Sikker softwareudviklingslivscyklus",
+              "file": "locales/da-001/chapters/04-09-sikker-softwareudviklingslivscyklus.md"
+            },
+            {
+              "part": 4,
+              "chapter": 10,
+              "decimal": "4.10",
+              "slug": "04-10-penetrationstest-og-red-teaming",
+              "title": "Penetrationstest og red teaming",
+              "heading": "4.10 Penetrationstest og red teaming",
+              "file": "locales/da-001/chapters/04-10-penetrationstest-og-red-teaming.md"
+            }
+          ]
+        },
+        {
+          "number": 5,
+          "title": "UI/UX-design",
+          "chapters": [
+            {
+              "part": 5,
+              "chapter": 0,
+              "decimal": "5.0",
+              "slug": "05-00-ui-ux-design",
+              "title": "Introduktion til del 5: UI/UX-design",
+              "heading": "5.0 Introduktion til del 5: UI/UX-design",
+              "file": "locales/da-001/chapters/05-00-ui-ux-design.md"
+            },
+            {
+              "part": 5,
+              "chapter": 1,
+              "decimal": "5.1",
+              "slug": "05-01-ux-grundlag",
+              "title": "UX-grundlag",
+              "heading": "5.1 UX-grundlag",
+              "file": "locales/da-001/chapters/05-01-ux-grundlag.md"
+            },
+            {
+              "part": 5,
+              "chapter": 2,
+              "decimal": "5.2",
+              "slug": "05-02-ui-design-og-designsystemer",
+              "title": "UI-design og designsystemer",
+              "heading": "5.2 UI-design og designsystemer",
+              "file": "locales/da-001/chapters/05-02-ui-design-og-designsystemer.md"
+            },
+            {
+              "part": 5,
+              "chapter": 3,
+              "decimal": "5.3",
+              "slug": "05-03-tilgængelighed",
+              "title": "Tilgængelighed",
+              "heading": "5.3 Tilgængelighed",
+              "file": "locales/da-001/chapters/05-03-tilgængelighed.md"
+            },
+            {
+              "part": 5,
+              "chapter": 4,
+              "decimal": "5.4",
+              "slug": "05-04-indholds-og-kommunikationsdesign",
+              "title": "Indholds- og kommunikationsdesign",
+              "heading": "5.4 Indholds- og kommunikationsdesign",
+              "file": "locales/da-001/chapters/05-04-indholds-og-kommunikationsdesign.md"
+            },
+            {
+              "part": 5,
+              "chapter": 5,
+              "decimal": "5.5",
+              "slug": "05-05-internationalisering-og-lokalisering",
+              "title": "Internationalisering og lokalisering",
+              "heading": "5.5 Internationalisering og lokalisering",
+              "file": "locales/da-001/chapters/05-05-internationalisering-og-lokalisering.md"
+            },
+            {
+              "part": 5,
+              "chapter": 6,
+              "decimal": "5.6",
+              "slug": "05-06-frontendudvikling",
+              "title": "Frontendudvikling",
+              "heading": "5.6 Frontendudvikling",
+              "file": "locales/da-001/chapters/05-06-frontendudvikling.md"
+            },
+            {
+              "part": 5,
+              "chapter": 7,
+              "decimal": "5.7",
+              "slug": "05-07-udvikling-af-mobilapplikationer",
+              "title": "Udvikling af mobilapplikationer",
+              "heading": "5.7 Udvikling af mobilapplikationer",
+              "file": "locales/da-001/chapters/05-07-udvikling-af-mobilapplikationer.md"
+            },
+            {
+              "part": 5,
+              "chapter": 8,
+              "decimal": "5.8",
+              "slug": "05-08-designforskning-og-brugbarhedstest",
+              "title": "Designresearch og brugbarhedstest",
+              "heading": "5.8 Designresearch og brugbarhedstest",
+              "file": "locales/da-001/chapters/05-08-designforskning-og-brugbarhedstest.md"
+            },
+            {
+              "part": 5,
+              "chapter": 9,
+              "decimal": "5.9",
+              "slug": "05-09-servicedesign",
+              "title": "Servicedesign",
+              "heading": "5.9 Servicedesign",
+              "file": "locales/da-001/chapters/05-09-servicedesign.md"
+            },
+            {
+              "part": 5,
+              "chapter": 10,
+              "decimal": "5.10",
+              "slug": "05-10-design-af-datavisualisering",
+              "title": "Design af datavisualisering",
+              "heading": "5.10 Design af datavisualisering",
+              "file": "locales/da-001/chapters/05-10-design-af-datavisualisering.md"
+            }
+          ]
+        },
+        {
+          "number": 6,
+          "title": "Kunstig intelligens",
+          "chapters": [
+            {
+              "part": 6,
+              "chapter": 0,
+              "decimal": "6.0",
+              "slug": "06-00-kunstig-intelligens",
+              "title": "Introduktion til del 6: Kunstig intelligens",
+              "heading": "6.0 Introduktion til del 6: Kunstig intelligens",
+              "file": "locales/da-001/chapters/06-00-kunstig-intelligens.md"
+            },
+            {
+              "part": 6,
+              "chapter": 1,
+              "decimal": "6.1",
+              "slug": "06-01-ai-strategi-og-parathed",
+              "title": "AI-strategi og parathed",
+              "heading": "6.1 AI-strategi og parathed",
+              "file": "locales/da-001/chapters/06-01-ai-strategi-og-parathed.md"
+            },
+            {
+              "part": 6,
+              "chapter": 2,
+              "decimal": "6.2",
+              "slug": "06-02-maskinlæringsudvikling-mlops",
+              "title": "Maskinlæringsudvikling (MLOps)",
+              "heading": "6.2 Maskinlæringsudvikling (MLOps)",
+              "file": "locales/da-001/chapters/06-02-maskinlæringsudvikling-mlops.md"
+            },
+            {
+              "part": 6,
+              "chapter": 3,
+              "decimal": "6.3",
+              "slug": "06-03-generativ-ai-og-llm-applikationer",
+              "title": "Generativ AI og LLM-applikationer",
+              "heading": "6.3 Generativ AI og LLM-applikationer",
+              "file": "locales/da-001/chapters/06-03-generativ-ai-og-llm-applikationer.md"
+            },
+            {
+              "part": 6,
+              "chapter": 4,
+              "decimal": "6.4",
+              "slug": "06-04-ai-understøttet-softwareudvikling",
+              "title": "AI-understøttet softwareudvikling",
+              "heading": "6.4 AI-understøttet softwareudvikling",
+              "file": "locales/da-001/chapters/06-04-ai-understøttet-softwareudvikling.md"
+            },
+            {
+              "part": 6,
+              "chapter": 5,
+              "decimal": "6.5",
+              "slug": "06-05-ansvarlig-og-troværdig-ai",
+              "title": "Ansvarlig og troværdig AI",
+              "heading": "6.5 Ansvarlig og troværdig AI",
+              "file": "locales/da-001/chapters/06-05-ansvarlig-og-troværdig-ai.md"
+            },
+            {
+              "part": 6,
+              "chapter": 6,
+              "decimal": "6.6",
+              "slug": "06-06-ai-infrastruktur-og-drift",
+              "title": "AI-infrastruktur og drift",
+              "heading": "6.6 AI-infrastruktur og drift",
+              "file": "locales/da-001/chapters/06-06-ai-infrastruktur-og-drift.md"
+            },
+            {
+              "part": 6,
+              "chapter": 7,
+              "decimal": "6.7",
+              "slug": "06-07-ai-agenter-og-agentiske-systemer",
+              "title": "AI-agenter og agentiske systemer",
+              "heading": "6.7 AI-agenter og agentiske systemer",
+              "file": "locales/da-001/chapters/06-07-ai-agenter-og-agentiske-systemer.md"
+            },
+            {
+              "part": 6,
+              "chapter": 8,
+              "decimal": "6.8",
+              "slug": "06-08-ai-evaluering-og-test",
+              "title": "AI-evaluering og -test",
+              "heading": "6.8 AI-evaluering og -test",
+              "file": "locales/da-001/chapters/06-08-ai-evaluering-og-test.md"
+            },
+            {
+              "part": 6,
+              "chapter": 9,
+              "decimal": "6.9",
+              "slug": "06-09-promptudvikling-og-kontekstdesign",
+              "title": "Promptudvikling og kontekstdesign",
+              "heading": "6.9 Promptudvikling og kontekstdesign",
+              "file": "locales/da-001/chapters/06-09-promptudvikling-og-kontekstdesign.md"
+            }
+          ]
+        },
+        {
+          "number": 7,
+          "title": "Data, analyse og indsigt",
+          "chapters": [
+            {
+              "part": 7,
+              "chapter": 0,
+              "decimal": "7.0",
+              "slug": "07-00-data-analyse-og-indsigt",
+              "title": "Introduktion til del 7: Data, analyse og indsigt",
+              "heading": "7.0 Introduktion til del 7: Data, analyse og indsigt",
+              "file": "locales/da-001/chapters/07-00-data-analyse-og-indsigt.md"
+            },
+            {
+              "part": 7,
+              "chapter": 1,
+              "decimal": "7.1",
+              "slug": "07-01-datastrategi-og-datastyring",
+              "title": "Datastrategi og datastyring",
+              "heading": "7.1 Datastrategi og datastyring",
+              "file": "locales/da-001/chapters/07-01-datastrategi-og-datastyring.md"
+            },
+            {
+              "part": 7,
+              "chapter": 2,
+              "decimal": "7.2",
+              "slug": "07-02-datateknik",
+              "title": "Datateknik",
+              "heading": "7.2 Datateknik",
+              "file": "locales/da-001/chapters/07-02-datateknik.md"
+            },
+            {
+              "part": 7,
+              "chapter": 3,
+              "decimal": "7.3",
+              "slug": "07-03-analyse-og-business-intelligence",
+              "title": "Analyse og business intelligence",
+              "heading": "7.3 Analyse og business intelligence",
+              "file": "locales/da-001/chapters/07-03-analyse-og-business-intelligence.md"
+            },
+            {
+              "part": 7,
+              "chapter": 4,
+              "decimal": "7.4",
+              "slug": "07-04-produktanalyse-og-eksperimenter",
+              "title": "Produktanalyse og eksperimenter",
+              "heading": "7.4 Produktanalyse og eksperimenter",
+              "file": "locales/da-001/chapters/07-04-produktanalyse-og-eksperimenter.md"
+            },
+            {
+              "part": 7,
+              "chapter": 5,
+              "decimal": "7.5",
+              "slug": "07-05-beslutningsvidenskab-og-datainformeret-kultur",
+              "title": "Beslutningsvidenskab og datainformeret kultur",
+              "heading": "7.5 Beslutningsvidenskab og datainformeret kultur",
+              "file": "locales/da-001/chapters/07-05-beslutningsvidenskab-og-datainformeret-kultur.md"
+            },
+            {
+              "part": 7,
+              "chapter": 6,
+              "decimal": "7.6",
+              "slug": "07-06-realtids-og-streamingdata",
+              "title": "Realtids- og streamingdata",
+              "heading": "7.6 Realtids- og streamingdata",
+              "file": "locales/da-001/chapters/07-06-realtids-og-streamingdata.md"
+            },
+            {
+              "part": 7,
+              "chapter": 7,
+              "decimal": "7.7",
+              "slug": "07-07-datamodellering-og-det-semantiske-lag",
+              "title": "Datamodellering og det semantiske lag",
+              "heading": "7.7 Datamodellering og det semantiske lag",
+              "file": "locales/da-001/chapters/07-07-datamodellering-og-det-semantiske-lag.md"
+            },
+            {
+              "part": 7,
+              "chapter": 8,
+              "decimal": "7.8",
+              "slug": "07-08-datakvalitet-og-observerbarhed",
+              "title": "Datakvalitet og observerbarhed",
+              "heading": "7.8 Datakvalitet og observerbarhed",
+              "file": "locales/da-001/chapters/07-08-datakvalitet-og-observerbarhed.md"
+            },
+            {
+              "part": 7,
+              "chapter": 9,
+              "decimal": "7.9",
+              "slug": "07-09-stamdata-og-referencedatastyring",
+              "title": "Stamdata- og referencedatastyring",
+              "heading": "7.9 Stamdata- og referencedatastyring",
+              "file": "locales/da-001/chapters/07-09-stamdata-og-referencedatastyring.md"
+            }
+          ]
+        },
+        {
+          "number": 8,
+          "title": "Automatisering",
+          "chapters": [
+            {
+              "part": 8,
+              "chapter": 0,
+              "decimal": "8.0",
+              "slug": "08-00-automatisering",
+              "title": "Introduktion til del 8: Automatisering",
+              "heading": "8.0 Introduktion til del 8: Automatisering",
+              "file": "locales/da-001/chapters/08-00-automatisering.md"
+            },
+            {
+              "part": 8,
+              "chapter": 1,
+              "decimal": "8.1",
+              "slug": "08-01-ci-cd-og-levering",
+              "title": "CI/CD og levering",
+              "heading": "8.1 CI/CD og levering",
+              "file": "locales/da-001/chapters/08-01-ci-cd-og-levering.md"
+            },
+            {
+              "part": 8,
+              "chapter": 2,
+              "decimal": "8.2",
+              "slug": "08-02-infrastruktur-som-kode-og-konfiguration",
+              "title": "Infrastruktur som kode og konfiguration",
+              "heading": "8.2 Infrastruktur som kode og konfiguration",
+              "file": "locales/da-001/chapters/08-02-infrastruktur-som-kode-og-konfiguration.md"
+            },
+            {
+              "part": 8,
+              "chapter": 3,
+              "decimal": "8.3",
+              "slug": "08-03-containere-orkestrering-og-cloud-native",
+              "title": "Containere, orkestrering og cloud-native",
+              "heading": "8.3 Containere, orkestrering og cloud-native",
+              "file": "locales/da-001/chapters/08-03-containere-orkestrering-og-cloud-native.md"
+            },
+            {
+              "part": 8,
+              "chapter": 4,
+              "decimal": "8.4",
+              "slug": "08-04-platformsudvikling-og-udvikleroplevelse",
+              "title": "Platformsudvikling og udvikleroplevelse",
+              "heading": "8.4 Platformsudvikling og udvikleroplevelse",
+              "file": "locales/da-001/chapters/08-04-platformsudvikling-og-udvikleroplevelse.md"
+            },
+            {
+              "part": 8,
+              "chapter": 5,
+              "decimal": "8.5",
+              "slug": "08-05-test-og-procesautomatisering",
+              "title": "Test og procesautomatisering",
+              "heading": "8.5 Test og procesautomatisering",
+              "file": "locales/da-001/chapters/08-05-test-og-procesautomatisering.md"
+            },
+            {
+              "part": 8,
+              "chapter": 6,
+              "decimal": "8.6",
+              "slug": "08-06-releasestyring-og-progressiv-levering",
+              "title": "Releasestyring og progressiv levering",
+              "heading": "8.6 Releasestyring og progressiv levering",
+              "file": "locales/da-001/chapters/08-06-releasestyring-og-progressiv-levering.md"
+            },
+            {
+              "part": 8,
+              "chapter": 7,
+              "decimal": "8.7",
+              "slug": "08-07-buildsystemer-og-artefaktstyring",
+              "title": "Buildsystemer og artefaktstyring",
+              "heading": "8.7 Buildsystemer og artefaktstyring",
+              "file": "locales/da-001/chapters/08-07-buildsystemer-og-artefaktstyring.md"
+            }
+          ]
+        },
+        {
+          "number": 9,
+          "title": "Drift, pålidelighed og observerbarhed",
+          "chapters": [
+            {
+              "part": 9,
+              "chapter": 0,
+              "decimal": "9.0",
+              "slug": "09-00-drift-pålidelighed-og-observerbarhed",
+              "title": "Introduktion til del 9: Drift, pålidelighed og observerbarhed",
+              "heading": "9.0 Introduktion til del 9: Drift, pålidelighed og observerbarhed",
+              "file": "locales/da-001/chapters/09-00-drift-pålidelighed-og-observerbarhed.md"
+            },
+            {
+              "part": 9,
+              "chapter": 1,
+              "decimal": "9.1",
+              "slug": "09-01-site-reliability-engineering",
+              "title": "Site reliability engineering",
+              "heading": "9.1 Site reliability engineering",
+              "file": "locales/da-001/chapters/09-01-site-reliability-engineering.md"
+            },
+            {
+              "part": 9,
+              "chapter": 2,
+              "decimal": "9.2",
+              "slug": "09-02-observerbarhed-og-telemetri",
+              "title": "Observerbarhed og telemetri",
+              "heading": "9.2 Observerbarhed og telemetri",
+              "file": "locales/da-001/chapters/09-02-observerbarhed-og-telemetri.md"
+            },
+            {
+              "part": 9,
+              "chapter": 3,
+              "decimal": "9.3",
+              "slug": "09-03-hændelseshåndtering",
+              "title": "Hændelseshåndtering",
+              "heading": "9.3 Hændelseshåndtering",
+              "file": "locales/da-001/chapters/09-03-hændelseshåndtering.md"
+            },
+            {
+              "part": 9,
+              "chapter": 4,
+              "decimal": "9.4",
+              "slug": "09-04-omkostninger-bæredygtighed-og-grøn-software",
+              "title": "Omkostninger, bæredygtighed og grøn software",
+              "heading": "9.4 Omkostninger, bæredygtighed og grøn software",
+              "file": "locales/da-001/chapters/09-04-omkostninger-bæredygtighed-og-grøn-software.md"
+            },
+            {
+              "part": 9,
+              "chapter": 5,
+              "decimal": "9.5",
+              "slug": "09-05-katastrofeberedskab-og-forretningskontinuitet",
+              "title": "Katastrofeberedskab og forretningskontinuitet",
+              "heading": "9.5 Katastrofeberedskab og forretningskontinuitet",
+              "file": "locales/da-001/chapters/09-05-katastrofeberedskab-og-forretningskontinuitet.md"
+            },
+            {
+              "part": 9,
+              "chapter": 6,
+              "decimal": "9.6",
+              "slug": "09-06-chaos-engineering-og-robusthedstest",
+              "title": "Chaos engineering og robusthedstest",
+              "heading": "9.6 Chaos engineering og robusthedstest",
+              "file": "locales/da-001/chapters/09-06-chaos-engineering-og-robusthedstest.md"
+            },
+            {
+              "part": 9,
+              "chapter": 7,
+              "decimal": "9.7",
+              "slug": "09-07-kapacitetsplanlægning-og-efterspørgselsprognoser",
+              "title": "Kapacitetsplanlægning og efterspørgselsprognoser",
+              "heading": "9.7 Kapacitetsplanlægning og efterspørgselsprognoser",
+              "file": "locales/da-001/chapters/09-07-kapacitetsplanlægning-og-efterspørgselsprognoser.md"
+            },
+            {
+              "part": 9,
+              "chapter": 8,
+              "decimal": "9.8",
+              "slug": "09-08-vagtberedskab-og-driftsparathed",
+              "title": "Vagtberedskab og driftsparathed",
+              "heading": "9.8 Vagtberedskab og driftsparathed",
+              "file": "locales/da-001/chapters/09-08-vagtberedskab-og-driftsparathed.md"
+            }
+          ]
+        },
+        {
+          "number": 10,
+          "title": "Projekt-, produkt- og programstyring",
+          "chapters": [
+            {
+              "part": 10,
+              "chapter": 0,
+              "decimal": "10.0",
+              "slug": "10-00-projekt-produkt-og-programstyring",
+              "title": "Introduktion til del 10: Projekt-, produkt- og programstyring",
+              "heading": "10.0 Introduktion til del 10: Projekt-, produkt- og programstyring",
+              "file": "locales/da-001/chapters/10-00-projekt-produkt-og-programstyring.md"
+            },
+            {
+              "part": 10,
+              "chapter": 1,
+              "decimal": "10.1",
+              "slug": "10-01-portefølje-og-programstyring",
+              "title": "Portefølje- og programstyring",
+              "heading": "10.1 Portefølje- og programstyring",
+              "file": "locales/da-001/chapters/10-01-portefølje-og-programstyring.md"
+            },
+            {
+              "part": 10,
+              "chapter": 2,
+              "decimal": "10.2",
+              "slug": "10-02-risiko-revision-og-assurance",
+              "title": "Risiko, revision og assurance",
+              "heading": "10.2 Risiko, revision og assurance",
+              "file": "locales/da-001/chapters/10-02-risiko-revision-og-assurance.md"
+            },
+            {
+              "part": 10,
+              "chapter": 3,
+              "decimal": "10.3",
+              "slug": "10-03-indkøb-open-source-og-licenser",
+              "title": "Indkøb, open source og licenser",
+              "heading": "10.3 Indkøb, open source og licenser",
+              "file": "locales/da-001/chapters/10-03-indkøb-open-source-og-licenser.md"
+            },
+            {
+              "part": 10,
+              "chapter": 4,
+              "decimal": "10.4",
+              "slug": "10-04-vedligeholdelse-af-store-og-langlivede-systemer",
+              "title": "Vedligeholdelse af store og langlivede systemer",
+              "heading": "10.4 Vedligeholdelse af store og langlivede systemer",
+              "file": "locales/da-001/chapters/10-04-vedligeholdelse-af-store-og-langlivede-systemer.md"
+            },
+            {
+              "part": 10,
+              "chapter": 5,
+              "decimal": "10.5",
+              "slug": "10-05-etik-ansvarlighed-og-almenvellet",
+              "title": "Etik, ansvarlighed og almenvellet",
+              "heading": "10.5 Etik, ansvarlighed og almenvellet",
+              "file": "locales/da-001/chapters/10-05-etik-ansvarlighed-og-almenvellet.md"
+            },
+            {
+              "part": 10,
+              "chapter": 6,
+              "decimal": "10.6",
+              "slug": "10-06-projektstyring",
+              "title": "Projektstyring",
+              "heading": "10.6 Projektstyring",
+              "file": "locales/da-001/chapters/10-06-projektstyring.md"
+            },
+            {
+              "part": 10,
+              "chapter": 7,
+              "decimal": "10.7",
+              "slug": "10-07-agil",
+              "title": "Agil",
+              "heading": "10.7 Agil",
+              "file": "locales/da-001/chapters/10-07-agil.md"
+            },
+            {
+              "part": 10,
+              "chapter": 8,
+              "decimal": "10.8",
+              "slug": "10-08-modenhedsmodeller",
+              "title": "Modenhedsmodeller",
+              "heading": "10.8 Modenhedsmodeller",
+              "file": "locales/da-001/chapters/10-08-modenhedsmodeller.md"
+            },
+            {
+              "part": 10,
+              "chapter": 9,
+              "decimal": "10.9",
+              "slug": "10-09-innovationspartnerskab",
+              "title": "Innovationspartnerskab",
+              "heading": "10.9 Innovationspartnerskab",
+              "file": "locales/da-001/chapters/10-09-innovationspartnerskab.md"
+            },
+            {
+              "part": 10,
+              "chapter": 10,
+              "decimal": "10.10",
+              "slug": "10-10-softwareudviklingens-økonomi",
+              "title": "Softwareudviklingens økonomi",
+              "heading": "10.10 Softwareudviklingens økonomi",
+              "file": "locales/da-001/chapters/10-10-softwareudviklingens-økonomi.md"
+            },
+            {
+              "part": 10,
+              "chapter": 11,
+              "decimal": "10.11",
+              "slug": "10-11-digital-suverænitet",
+              "title": "Digital suverænitet",
+              "heading": "10.11 Digital suverænitet",
+              "file": "locales/da-001/chapters/10-11-digital-suverænitet.md"
+            },
+            {
+              "part": 10,
+              "chapter": 12,
+              "decimal": "10.12",
+              "slug": "10-12-open-source-versus-closed-source",
+              "title": "Open source versus closed source",
+              "heading": "10.12 Open source versus closed source",
+              "file": "locales/da-001/chapters/10-12-open-source-versus-closed-source.md"
+            },
+            {
+              "part": 10,
+              "chapter": 13,
+              "decimal": "10.13",
+              "slug": "10-13-samarbejde-på-tværs-af-organisationer",
+              "title": "Samarbejde på tværs af organisationer",
+              "heading": "10.13 Samarbejde på tværs af organisationer",
+              "file": "locales/da-001/chapters/10-13-samarbejde-på-tværs-af-organisationer.md"
+            },
+            {
+              "part": 10,
+              "chapter": 14,
+              "decimal": "10.14",
+              "slug": "10-14-produktstyring-og-opdagelse",
+              "title": "Produktstyring og opdagelse",
+              "heading": "10.14 Produktstyring og opdagelse",
+              "file": "locales/da-001/chapters/10-14-produktstyring-og-opdagelse.md"
+            },
+            {
+              "part": 10,
+              "chapter": 15,
+              "decimal": "10.15",
+              "slug": "10-15-estimering-og-prognoser",
+              "title": "Estimering og prognoser",
+              "heading": "10.15 Estimering og prognoser",
+              "file": "locales/da-001/chapters/10-15-estimering-og-prognoser.md"
+            },
+            {
+              "part": 10,
+              "chapter": 16,
+              "decimal": "10.16",
+              "slug": "10-16-interessenthåndtering-og-kommunikation",
+              "title": "Interessenthåndtering og kommunikation",
+              "heading": "10.16 Interessenthåndtering og kommunikation",
+              "file": "locales/da-001/chapters/10-16-interessenthåndtering-og-kommunikation.md"
+            },
+            {
+              "part": 10,
+              "chapter": 17,
+              "decimal": "10.17",
+              "slug": "10-17-organisatorisk-forandringsledelse",
+              "title": "Organisatorisk forandringsledelse",
+              "heading": "10.17 Organisatorisk forandringsledelse",
+              "file": "locales/da-001/chapters/10-17-organisatorisk-forandringsledelse.md"
+            },
+            {
+              "part": 10,
+              "chapter": 18,
+              "decimal": "10.18",
+              "slug": "10-18-open-source-programkontor-og-upstream-bidrag",
+              "title": "Open source-programkontor (OSPO) og upstream-bidrag",
+              "heading": "10.18 Open source-programkontor (OSPO) og upstream-bidrag",
+              "file": "locales/da-001/chapters/10-18-open-source-programkontor-og-upstream-bidrag.md"
+            }
+          ]
+        },
+        {
+          "number": 11,
+          "title": "Flow: opdagelses- og leveringspipelines",
+          "chapters": [
+            {
+              "part": 11,
+              "chapter": 0,
+              "decimal": "11.0",
+              "slug": "11-00-flow-opdagelse-og-leveringspipelines",
+              "title": "Introduktion til del 11: Flow: opdagelses- og leveringspipelines",
+              "heading": "11.0 Introduktion til del 11: Flow: opdagelses- og leveringspipelines",
+              "file": "locales/da-001/chapters/11-00-flow-opdagelse-og-leveringspipelines.md"
+            },
+            {
+              "part": 11,
+              "chapter": 1,
+              "decimal": "11.1",
+              "slug": "11-01-opdagelsespipelinen",
+              "title": "Opdagelsespipelinen",
+              "heading": "11.1 Opdagelsespipelinen",
+              "file": "locales/da-001/chapters/11-01-opdagelsespipelinen.md"
+            },
+            {
+              "part": 11,
+              "chapter": 2,
+              "decimal": "11.2",
+              "slug": "11-02-leveringspipelinen",
+              "title": "Leveringspipelinen",
+              "heading": "11.2 Leveringspipelinen",
+              "file": "locales/da-001/chapters/11-02-leveringspipelinen.md"
+            },
+            {
+              "part": 11,
+              "chapter": 3,
+              "decimal": "11.3",
+              "slug": "11-03-køteori",
+              "title": "Køteori",
+              "heading": "11.3 Køteori",
+              "file": "locales/da-001/chapters/11-03-køteori.md"
+            },
+            {
+              "part": 11,
+              "chapter": 4,
+              "decimal": "11.4",
+              "slug": "11-04-mål-og-nøgleresultater",
+              "title": "Mål og nøgleresultater (OKR'er)",
+              "heading": "11.4 Mål og nøgleresultater (OKR'er)",
+              "file": "locales/da-001/chapters/11-04-mål-og-nøgleresultater.md"
+            },
+            {
+              "part": 11,
+              "chapter": 5,
+              "decimal": "11.5",
+              "slug": "11-05-nøgleindikatorer",
+              "title": "Nøgleindikatorer (KPI'er)",
+              "heading": "11.5 Nøgleindikatorer (KPI'er)",
+              "file": "locales/da-001/chapters/11-05-nøgleindikatorer.md"
+            },
+            {
+              "part": 11,
+              "chapter": 6,
+              "decimal": "11.6",
+              "slug": "11-06-værdistrømskortlægning-og-forsinkelsesomkostning",
+              "title": "Værdistrømskortlægning og forsinkelsesomkostning",
+              "heading": "11.6 Værdistrømskortlægning og forsinkelsesomkostning",
+              "file": "locales/da-001/chapters/11-06-værdistrømskortlægning-og-forsinkelsesomkostning.md"
+            }
+          ]
+        },
+        {
+          "number": 12,
+          "title": "Bilag",
+          "chapters": [
+            {
+              "part": 12,
+              "chapter": 0,
+              "decimal": "12.0",
+              "slug": "12-00-bilag",
+              "title": "Bilag",
+              "heading": "12.0 Bilag",
+              "file": "locales/da-001/chapters/12-00-bilag.md"
+            },
+            {
+              "part": 12,
+              "chapter": 1,
+              "decimal": "12.1",
+              "slug": "12-01-ordliste",
+              "title": "Ordliste",
+              "heading": "12.1 Ordliste",
+              "file": "locales/da-001/chapters/12-01-ordliste.md"
+            },
+            {
+              "part": 12,
+              "chapter": 2,
+              "decimal": "12.2",
+              "slug": "12-02-tjeklister",
+              "title": "Tjeklister",
+              "heading": "12.2 Tjeklister",
+              "file": "locales/da-001/chapters/12-02-tjeklister.md"
+            },
+            {
+              "part": 12,
+              "chapter": 3,
+              "decimal": "12.3",
+              "slug": "12-03-skabeloner",
+              "title": "Skabeloner",
+              "heading": "12.3 Skabeloner",
+              "file": "locales/da-001/chapters/12-03-skabeloner.md"
+            },
+            {
+              "part": 12,
+              "chapter": 4,
+              "decimal": "12.4",
+              "slug": "12-04-selvvurdering-af-modenhed",
+              "title": "Selvvurdering af modenhed",
+              "heading": "12.4 Selvvurdering af modenhed",
+              "file": "locales/da-001/chapters/12-04-selvvurdering-af-modenhed.md"
+            },
+            {
+              "part": 12,
+              "chapter": 5,
+              "decimal": "12.5",
+              "slug": "12-05-referencer",
+              "title": "Referencer",
+              "heading": "12.5 Referencer",
+              "file": "locales/da-001/chapters/12-05-referencer.md"
+            },
+            {
+              "part": 12,
+              "chapter": 6,
+              "decimal": "12.6",
+              "slug": "12-06-køreplan-for-indførelse",
+              "title": "Køreplan for indførelse",
+              "heading": "12.6 Køreplan for indførelse",
+              "file": "locales/da-001/chapters/12-06-køreplan-for-indførelse.md"
+            },
+            {
+              "part": 12,
+              "chapter": 7,
+              "decimal": "12.7",
+              "slug": "12-07-stikordsregister",
+              "title": "Stikordsregister",
+              "heading": "12.7 Stikordsregister",
+              "file": "locales/da-001/chapters/12-07-stikordsregister.md"
+            }
+          ]
+        }
+      ],
+      "chaptersByDecimal": {
+        "1.0": {
+          "part": 1,
+          "chapter": 0,
+          "decimal": "1.0",
+          "slug": "01-00-mennesker",
+          "title": "Introduktion til del 1: Mennesker",
+          "heading": "1.0 Introduktion til del 1: Mennesker",
+          "file": "locales/da-001/chapters/01-00-mennesker.md"
+        },
+        "1.1": {
+          "part": 1,
+          "chapter": 1,
+          "decimal": "1.1",
+          "slug": "01-01-værdier-i-softwareudvikling",
+          "title": "Værdier i softwareudvikling",
+          "heading": "1.1 Værdier i softwareudvikling",
+          "file": "locales/da-001/chapters/01-01-værdier-i-softwareudvikling.md"
+        },
+        "1.2": {
+          "part": 1,
+          "chapter": 2,
+          "decimal": "1.2",
+          "slug": "01-02-teamtopologier-og-organisationsdesign",
+          "title": "Teamtopologier og organisationsdesign",
+          "heading": "1.2 Teamtopologier og organisationsdesign",
+          "file": "locales/da-001/chapters/01-02-teamtopologier-og-organisationsdesign.md"
+        },
+        "1.3": {
+          "part": 1,
+          "chapter": 3,
+          "decimal": "1.3",
+          "slug": "01-03-roller-karrierestiger-og-vækst",
+          "title": "Roller, karrierestiger og vækst",
+          "heading": "1.3 Roller, karrierestiger og vækst",
+          "file": "locales/da-001/chapters/01-03-roller-karrierestiger-og-vækst.md"
+        },
+        "1.4": {
+          "part": 1,
+          "chapter": 4,
+          "decimal": "1.4",
+          "slug": "01-04-arbejdsmetoder",
+          "title": "Arbejdsmetoder",
+          "heading": "1.4 Arbejdsmetoder",
+          "file": "locales/da-001/chapters/01-04-arbejdsmetoder.md"
+        },
+        "1.5": {
+          "part": 1,
+          "chapter": 5,
+          "decimal": "1.5",
+          "slug": "01-05-beslutningstagning-og-styring",
+          "title": "Beslutningstagning og styring",
+          "heading": "1.5 Beslutningstagning og styring",
+          "file": "locales/da-001/chapters/01-05-beslutningstagning-og-styring.md"
+        },
+        "1.6": {
+          "part": 1,
+          "chapter": 6,
+          "decimal": "1.6",
+          "slug": "01-06-beslutningsregistre",
+          "title": "Beslutningsregistre",
+          "heading": "1.6 Beslutningsregistre",
+          "file": "locales/da-001/chapters/01-06-beslutningsregistre.md"
+        },
+        "1.7": {
+          "part": 1,
+          "chapter": 7,
+          "decimal": "1.7",
+          "slug": "01-07-tekniske-standarder-og-undtagelser",
+          "title": "Tekniske standarder og undtagelser",
+          "heading": "1.7 Tekniske standarder og undtagelser",
+          "file": "locales/da-001/chapters/01-07-tekniske-standarder-og-undtagelser.md"
+        },
+        "1.8": {
+          "part": 1,
+          "chapter": 8,
+          "decimal": "1.8",
+          "slug": "01-08-ansættelse-jobsamtaler-og-onboarding",
+          "title": "Ansættelse, jobsamtaler og onboarding",
+          "heading": "1.8 Ansættelse, jobsamtaler og onboarding",
+          "file": "locales/da-001/chapters/01-08-ansættelse-jobsamtaler-og-onboarding.md"
+        },
+        "1.9": {
+          "part": 1,
+          "chapter": 9,
+          "decimal": "1.9",
+          "slug": "01-09-distribueret-arbejde-og-fjernarbejde",
+          "title": "Distribueret arbejde og fjernarbejde",
+          "heading": "1.9 Distribueret arbejde og fjernarbejde",
+          "file": "locales/da-001/chapters/01-09-distribueret-arbejde-og-fjernarbejde.md"
+        },
+        "1.10": {
+          "part": 1,
+          "chapter": 10,
+          "decimal": "1.10",
+          "slug": "01-10-teknisk-effektivitet-og-udvikleres-produktivitet",
+          "title": "Teknisk effektivitet og udvikleres produktivitet",
+          "heading": "1.10 Teknisk effektivitet og udvikleres produktivitet",
+          "file": "locales/da-001/chapters/01-10-teknisk-effektivitet-og-udvikleres-produktivitet.md"
+        },
+        "1.11": {
+          "part": 1,
+          "chapter": 11,
+          "decimal": "1.11",
+          "slug": "01-11-teknisk-ledelse",
+          "title": "Teknisk ledelse",
+          "heading": "1.11 Teknisk ledelse",
+          "file": "locales/da-001/chapters/01-11-teknisk-ledelse.md"
+        },
+        "1.12": {
+          "part": 1,
+          "chapter": 12,
+          "decimal": "1.12",
+          "slug": "01-12-mangfoldighed-lighed-inklusion-og-tilhørsforhold",
+          "title": "Mangfoldighed, lighed, inklusion og tilhørsforhold",
+          "heading": "1.12 Mangfoldighed, lighed, inklusion og tilhørsforhold",
+          "file": "locales/da-001/chapters/01-12-mangfoldighed-lighed-inklusion-og-tilhørsforhold.md"
+        },
+        "1.13": {
+          "part": 1,
+          "chapter": 13,
+          "decimal": "1.13",
+          "slug": "01-13-mentorskab-coaching-og-vidensdeling",
+          "title": "Mentorordning, coaching og vidensdeling",
+          "heading": "1.13 Mentorordning, coaching og vidensdeling",
+          "file": "locales/da-001/chapters/01-13-mentorskab-coaching-og-vidensdeling.md"
+        },
+        "2.0": {
+          "part": 2,
+          "chapter": 0,
+          "decimal": "2.0",
+          "slug": "02-00-softwareprogrammering",
+          "title": "Introduktion til del 2: Softwareprogrammering",
+          "heading": "2.0 Introduktion til del 2: Softwareprogrammering",
+          "file": "locales/da-001/chapters/02-00-softwareprogrammering.md"
+        },
+        "2.1": {
+          "part": 2,
+          "chapter": 1,
+          "decimal": "2.1",
+          "slug": "02-01-kodestandarder-og-stil",
+          "title": "Kodestandarder og stil",
+          "heading": "2.1 Kodestandarder og stil",
+          "file": "locales/da-001/chapters/02-01-kodestandarder-og-stil.md"
+        },
+        "2.2": {
+          "part": 2,
+          "chapter": 2,
+          "decimal": "2.2",
+          "slug": "02-02-principper-for-softwaredesign",
+          "title": "Principper for softwaredesign",
+          "heading": "2.2 Principper for softwaredesign",
+          "file": "locales/da-001/chapters/02-02-principper-for-softwaredesign.md"
+        },
+        "2.3": {
+          "part": 2,
+          "chapter": 3,
+          "decimal": "2.3",
+          "slug": "02-03-api-er-og-grænsefladedesign",
+          "title": "API'er og grænsefladedesign",
+          "heading": "2.3 API'er og grænsefladedesign",
+          "file": "locales/da-001/chapters/02-03-api-er-og-grænsefladedesign.md"
+        },
+        "2.4": {
+          "part": 2,
+          "chapter": 4,
+          "decimal": "2.4",
+          "slug": "02-04-teststrategi",
+          "title": "Teststrategi",
+          "heading": "2.4 Teststrategi",
+          "file": "locales/da-001/chapters/02-04-teststrategi.md"
+        },
+        "2.5": {
+          "part": 2,
+          "chapter": 5,
+          "decimal": "2.5",
+          "slug": "02-05-kodegennemgang-og-samarbejde",
+          "title": "Kodegennemgang og samarbejde",
+          "heading": "2.5 Kodegennemgang og samarbejde",
+          "file": "locales/da-001/chapters/02-05-kodegennemgang-og-samarbejde.md"
+        },
+        "2.6": {
+          "part": 2,
+          "chapter": 6,
+          "decimal": "2.6",
+          "slug": "02-06-versionsstyring-og-kildekodestyring",
+          "title": "Versionsstyring og kildekodestyring",
+          "heading": "2.6 Versionsstyring og kildekodestyring",
+          "file": "locales/da-001/chapters/02-06-versionsstyring-og-kildekodestyring.md"
+        },
+        "2.7": {
+          "part": 2,
+          "chapter": 7,
+          "decimal": "2.7",
+          "slug": "02-07-dokumentation",
+          "title": "Dokumentation",
+          "heading": "2.7 Dokumentation",
+          "file": "locales/da-001/chapters/02-07-dokumentation.md"
+        },
+        "2.8": {
+          "part": 2,
+          "chapter": 8,
+          "decimal": "2.8",
+          "slug": "02-08-softwarekrav",
+          "title": "Softwarekrav",
+          "heading": "2.8 Softwarekrav",
+          "file": "locales/da-001/chapters/02-08-softwarekrav.md"
+        },
+        "2.9": {
+          "part": 2,
+          "chapter": 9,
+          "decimal": "2.9",
+          "slug": "02-09-softwarekonstruktion",
+          "title": "Softwarekonstruktion",
+          "heading": "2.9 Softwarekonstruktion",
+          "file": "locales/da-001/chapters/02-09-softwarekonstruktion.md"
+        },
+        "2.10": {
+          "part": 2,
+          "chapter": 10,
+          "decimal": "2.10",
+          "slug": "02-10-softwarekonfigurationsstyring",
+          "title": "Softwarekonfigurationsstyring",
+          "heading": "2.10 Softwarekonfigurationsstyring",
+          "file": "locales/da-001/chapters/02-10-softwarekonfigurationsstyring.md"
+        },
+        "2.11": {
+          "part": 2,
+          "chapter": 11,
+          "decimal": "2.11",
+          "slug": "02-11-softwarekvalitet",
+          "title": "Softwarekvalitet",
+          "heading": "2.11 Softwarekvalitet",
+          "file": "locales/da-001/chapters/02-11-softwarekvalitet.md"
+        },
+        "2.12": {
+          "part": 2,
+          "chapter": 12,
+          "decimal": "2.12",
+          "slug": "02-12-softwaremodeller-og-metoder",
+          "title": "Softwaremodeller og metoder",
+          "heading": "2.12 Softwaremodeller og metoder",
+          "file": "locales/da-001/chapters/02-12-softwaremodeller-og-metoder.md"
+        },
+        "2.13": {
+          "part": 2,
+          "chapter": 13,
+          "decimal": "2.13",
+          "slug": "02-13-datalogiske-matematiske-og-tekniske-grundlag",
+          "title": "Datalogiske, matematiske og tekniske grundlag",
+          "heading": "2.13 Datalogiske, matematiske og tekniske grundlag",
+          "file": "locales/da-001/chapters/02-13-datalogiske-matematiske-og-tekniske-grundlag.md"
+        },
+        "2.14": {
+          "part": 2,
+          "chapter": 14,
+          "decimal": "2.14",
+          "slug": "02-14-projekt-og-repositoriestruktur",
+          "title": "Projekt- og repositoriestruktur",
+          "heading": "2.14 Projekt- og repositoriestruktur",
+          "file": "locales/da-001/chapters/02-14-projekt-og-repositoriestruktur.md"
+        },
+        "2.15": {
+          "part": 2,
+          "chapter": 15,
+          "decimal": "2.15",
+          "slug": "02-15-fejlsøgning-og-problemløsning",
+          "title": "Fejlsøgning og problemløsning",
+          "heading": "2.15 Fejlsøgning og problemløsning",
+          "file": "locales/da-001/chapters/02-15-fejlsøgning-og-problemløsning.md"
+        },
+        "2.16": {
+          "part": 2,
+          "chapter": 16,
+          "decimal": "2.16",
+          "slug": "02-16-ydeevneoptimering",
+          "title": "Ydeevneoptimering",
+          "heading": "2.16 Ydeevneoptimering",
+          "file": "locales/da-001/chapters/02-16-ydeevneoptimering.md"
+        },
+        "2.17": {
+          "part": 2,
+          "chapter": 17,
+          "decimal": "2.17",
+          "slug": "02-17-samtidighed-og-parallelisme",
+          "title": "Samtidighed og parallelisme",
+          "heading": "2.17 Samtidighed og parallelisme",
+          "file": "locales/da-001/chapters/02-17-samtidighed-og-parallelisme.md"
+        },
+        "2.18": {
+          "part": 2,
+          "chapter": 18,
+          "decimal": "2.18",
+          "slug": "02-18-afhængigheds-og-forsyningskædestyring",
+          "title": "Afhængigheds- og forsyningskædestyring",
+          "heading": "2.18 Afhængigheds- og forsyningskædestyring",
+          "file": "locales/da-001/chapters/02-18-afhængigheds-og-forsyningskædestyring.md"
+        },
+        "2.19": {
+          "part": 2,
+          "chapter": 19,
+          "decimal": "2.19",
+          "slug": "02-19-refaktorering-og-teknisk-gæld",
+          "title": "Refaktorering og teknisk gæld",
+          "heading": "2.19 Refaktorering og teknisk gæld",
+          "file": "locales/da-001/chapters/02-19-refaktorering-og-teknisk-gæld.md"
+        },
+        "2.20": {
+          "part": 2,
+          "chapter": 20,
+          "decimal": "2.20",
+          "slug": "02-20-fejlhåndtering-og-robusthedsmønstre",
+          "title": "Fejlhåndtering og robusthedsmønstre",
+          "heading": "2.20 Fejlhåndtering og robusthedsmønstre",
+          "file": "locales/da-001/chapters/02-20-fejlhåndtering-og-robusthedsmønstre.md"
+        },
+        "2.21": {
+          "part": 2,
+          "chapter": 21,
+          "decimal": "2.21",
+          "slug": "02-21-typesystemer-og-statisk-analyse",
+          "title": "Typesystemer og statisk analyse",
+          "heading": "2.21 Typesystemer og statisk analyse",
+          "file": "locales/da-001/chapters/02-21-typesystemer-og-statisk-analyse.md"
+        },
+        "3.0": {
+          "part": 3,
+          "chapter": 0,
+          "decimal": "3.0",
+          "slug": "03-00-systemer",
+          "title": "Introduktion til del 3: Systemer",
+          "heading": "3.0 Introduktion til del 3: Systemer",
+          "file": "locales/da-001/chapters/03-00-systemer.md"
+        },
+        "3.1": {
+          "part": 3,
+          "chapter": 1,
+          "decimal": "3.1",
+          "slug": "03-01-grundlæggende-arkitektur",
+          "title": "Grundlæggende arkitektur",
+          "heading": "3.1 Grundlæggende arkitektur",
+          "file": "locales/da-001/chapters/03-01-grundlæggende-arkitektur.md"
+        },
+        "3.2": {
+          "part": 3,
+          "chapter": 2,
+          "decimal": "3.2",
+          "slug": "03-02-arkitekturstilarter-og-mønstre",
+          "title": "Arkitekturstilarter og mønstre",
+          "heading": "3.2 Arkitekturstilarter og mønstre",
+          "file": "locales/da-001/chapters/03-02-arkitekturstilarter-og-mønstre.md"
+        },
+        "3.3": {
+          "part": 3,
+          "chapter": 3,
+          "decimal": "3.3",
+          "slug": "03-03-distribuerede-systemer",
+          "title": "Distribuerede systemer",
+          "heading": "3.3 Distribuerede systemer",
+          "file": "locales/da-001/chapters/03-03-distribuerede-systemer.md"
+        },
+        "3.4": {
+          "part": 3,
+          "chapter": 4,
+          "decimal": "3.4",
+          "slug": "03-04-dataarkitektur-og-lagring",
+          "title": "Dataarkitektur og lagring",
+          "heading": "3.4 Dataarkitektur og lagring",
+          "file": "locales/da-001/chapters/03-04-dataarkitektur-og-lagring.md"
+        },
+        "3.5": {
+          "part": 3,
+          "chapter": 5,
+          "decimal": "3.5",
+          "slug": "03-05-skalerbarhed-ydeevne-og-robusthed",
+          "title": "Skalerbarhed, ydeevne og robusthed",
+          "heading": "3.5 Skalerbarhed, ydeevne og robusthed",
+          "file": "locales/da-001/chapters/03-05-skalerbarhed-ydeevne-og-robusthed.md"
+        },
+        "3.6": {
+          "part": 3,
+          "chapter": 6,
+          "decimal": "3.6",
+          "slug": "03-06-modernisering-af-ældre-systemer",
+          "title": "Modernisering af ældre systemer",
+          "heading": "3.6 Modernisering af ældre systemer",
+          "file": "locales/da-001/chapters/03-06-modernisering-af-ældre-systemer.md"
+        },
+        "3.7": {
+          "part": 3,
+          "chapter": 7,
+          "decimal": "3.7",
+          "slug": "03-07-softwarevedligeholdelse",
+          "title": "Softwarevedligeholdelse",
+          "heading": "3.7 Softwarevedligeholdelse",
+          "file": "locales/da-001/chapters/03-07-softwarevedligeholdelse.md"
+        },
+        "3.8": {
+          "part": 3,
+          "chapter": 8,
+          "decimal": "3.8",
+          "slug": "03-08-interoperabilitet-og-åbne-standarder",
+          "title": "Interoperabilitet og åbne standarder",
+          "heading": "3.8 Interoperabilitet og åbne standarder",
+          "file": "locales/da-001/chapters/03-08-interoperabilitet-og-åbne-standarder.md"
+        },
+        "3.9": {
+          "part": 3,
+          "chapter": 9,
+          "decimal": "3.9",
+          "slug": "03-09-systemteknik",
+          "title": "Systemteknik",
+          "heading": "3.9 Systemteknik",
+          "file": "locales/da-001/chapters/03-09-systemteknik.md"
+        },
+        "3.10": {
+          "part": 3,
+          "chapter": 10,
+          "decimal": "3.10",
+          "slug": "03-10-indlejrede-systemer-og-realtidssystemer",
+          "title": "Indlejrede systemer og realtidssystemer",
+          "heading": "3.10 Indlejrede systemer og realtidssystemer",
+          "file": "locales/da-001/chapters/03-10-indlejrede-systemer-og-realtidssystemer.md"
+        },
+        "3.11": {
+          "part": 3,
+          "chapter": 11,
+          "decimal": "3.11",
+          "slug": "03-11-cloudarkitektur",
+          "title": "Cloudarkitektur",
+          "heading": "3.11 Cloudarkitektur",
+          "file": "locales/da-001/chapters/03-11-cloudarkitektur.md"
+        },
+        "3.12": {
+          "part": 3,
+          "chapter": 12,
+          "decimal": "3.12",
+          "slug": "03-12-hændelsesdrevet-arkitektur-og-messaging",
+          "title": "Hændelsesdrevet arkitektur og beskedudveksling",
+          "heading": "3.12 Hændelsesdrevet arkitektur og beskedudveksling",
+          "file": "locales/da-001/chapters/03-12-hændelsesdrevet-arkitektur-og-messaging.md"
+        },
+        "3.13": {
+          "part": 3,
+          "chapter": 13,
+          "decimal": "3.13",
+          "slug": "03-13-netværk-og-konnektivitet",
+          "title": "Netværk og konnektivitet",
+          "heading": "3.13 Netværk og konnektivitet",
+          "file": "locales/da-001/chapters/03-13-netværk-og-konnektivitet.md"
+        },
+        "3.14": {
+          "part": 3,
+          "chapter": 14,
+          "decimal": "3.14",
+          "slug": "03-14-multitenancy-og-saas-arkitektur",
+          "title": "Multitenancy og SaaS-arkitektur",
+          "heading": "3.14 Multitenancy og SaaS-arkitektur",
+          "file": "locales/da-001/chapters/03-14-multitenancy-og-saas-arkitektur.md"
+        },
+        "3.15": {
+          "part": 3,
+          "chapter": 15,
+          "decimal": "3.15",
+          "slug": "03-15-caching-og-indholdslevering",
+          "title": "Caching og indholdslevering",
+          "heading": "3.15 Caching og indholdslevering",
+          "file": "locales/da-001/chapters/03-15-caching-og-indholdslevering.md"
+        },
+        "3.16": {
+          "part": 3,
+          "chapter": 16,
+          "decimal": "3.16",
+          "slug": "03-16-api-gateways-og-service-mesh",
+          "title": "API-gateways og service mesh",
+          "heading": "3.16 API-gateways og service mesh",
+          "file": "locales/da-001/chapters/03-16-api-gateways-og-service-mesh.md"
+        },
+        "3.17": {
+          "part": 3,
+          "chapter": 17,
+          "decimal": "3.17",
+          "slug": "03-17-søgning-og-informationssøgning",
+          "title": "Søgning og informationssøgning",
+          "heading": "3.17 Søgning og informationssøgning",
+          "file": "locales/da-001/chapters/03-17-søgning-og-informationssøgning.md"
+        },
+        "4.0": {
+          "part": 4,
+          "chapter": 0,
+          "decimal": "4.0",
+          "slug": "04-00-sikkerhed",
+          "title": "Introduktion til del 4: Sikkerhed",
+          "heading": "4.0 Introduktion til del 4: Sikkerhed",
+          "file": "locales/da-001/chapters/04-00-sikkerhed.md"
+        },
+        "4.1": {
+          "part": 4,
+          "chapter": 1,
+          "decimal": "4.1",
+          "slug": "04-01-sikkerhedsgrundlag-og-kultur",
+          "title": "Sikkerhedsgrundlag og kultur",
+          "heading": "4.1 Sikkerhedsgrundlag og kultur",
+          "file": "locales/da-001/chapters/04-01-sikkerhedsgrundlag-og-kultur.md"
+        },
+        "4.2": {
+          "part": 4,
+          "chapter": 2,
+          "decimal": "4.2",
+          "slug": "04-02-applikationssikkerhed",
+          "title": "Applikationssikkerhed",
+          "heading": "4.2 Applikationssikkerhed",
+          "file": "locales/da-001/chapters/04-02-applikationssikkerhed.md"
+        },
+        "4.3": {
+          "part": 4,
+          "chapter": 3,
+          "decimal": "4.3",
+          "slug": "04-03-infrastruktur-og-cloudsikkerhed",
+          "title": "Infrastruktur- og cloudsikkerhed",
+          "heading": "4.3 Infrastruktur- og cloudsikkerhed",
+          "file": "locales/da-001/chapters/04-03-infrastruktur-og-cloudsikkerhed.md"
+        },
+        "4.4": {
+          "part": 4,
+          "chapter": 4,
+          "decimal": "4.4",
+          "slug": "04-04-sikkerhedsdrift",
+          "title": "Sikkerhedsdrift",
+          "heading": "4.4 Sikkerhedsdrift",
+          "file": "locales/da-001/chapters/04-04-sikkerhedsdrift.md"
+        },
+        "4.5": {
+          "part": 4,
+          "chapter": 5,
+          "decimal": "4.5",
+          "slug": "04-05-privatliv-og-databeskyttelse",
+          "title": "Privatliv og databeskyttelse",
+          "heading": "4.5 Privatliv og databeskyttelse",
+          "file": "locales/da-001/chapters/04-05-privatliv-og-databeskyttelse.md"
+        },
+        "4.6": {
+          "part": 4,
+          "chapter": 6,
+          "decimal": "4.6",
+          "slug": "04-06-compliance-og-styring",
+          "title": "Compliance og styring",
+          "heading": "4.6 Compliance og styring",
+          "file": "locales/da-001/chapters/04-06-compliance-og-styring.md"
+        },
+        "4.7": {
+          "part": 4,
+          "chapter": 7,
+          "decimal": "4.7",
+          "slug": "04-07-identitets-og-adgangsstyring",
+          "title": "Identitets- og adgangsstyring",
+          "heading": "4.7 Identitets- og adgangsstyring",
+          "file": "locales/da-001/chapters/04-07-identitets-og-adgangsstyring.md"
+        },
+        "4.8": {
+          "part": 4,
+          "chapter": 8,
+          "decimal": "4.8",
+          "slug": "04-08-kryptografi-og-nøglestyring",
+          "title": "Kryptografi og nøglestyring",
+          "heading": "4.8 Kryptografi og nøglestyring",
+          "file": "locales/da-001/chapters/04-08-kryptografi-og-nøglestyring.md"
+        },
+        "4.9": {
+          "part": 4,
+          "chapter": 9,
+          "decimal": "4.9",
+          "slug": "04-09-sikker-softwareudviklingslivscyklus",
+          "title": "Sikker softwareudviklingslivscyklus",
+          "heading": "4.9 Sikker softwareudviklingslivscyklus",
+          "file": "locales/da-001/chapters/04-09-sikker-softwareudviklingslivscyklus.md"
+        },
+        "4.10": {
+          "part": 4,
+          "chapter": 10,
+          "decimal": "4.10",
+          "slug": "04-10-penetrationstest-og-red-teaming",
+          "title": "Penetrationstest og red teaming",
+          "heading": "4.10 Penetrationstest og red teaming",
+          "file": "locales/da-001/chapters/04-10-penetrationstest-og-red-teaming.md"
+        },
+        "5.0": {
+          "part": 5,
+          "chapter": 0,
+          "decimal": "5.0",
+          "slug": "05-00-ui-ux-design",
+          "title": "Introduktion til del 5: UI/UX-design",
+          "heading": "5.0 Introduktion til del 5: UI/UX-design",
+          "file": "locales/da-001/chapters/05-00-ui-ux-design.md"
+        },
+        "5.1": {
+          "part": 5,
+          "chapter": 1,
+          "decimal": "5.1",
+          "slug": "05-01-ux-grundlag",
+          "title": "UX-grundlag",
+          "heading": "5.1 UX-grundlag",
+          "file": "locales/da-001/chapters/05-01-ux-grundlag.md"
+        },
+        "5.2": {
+          "part": 5,
+          "chapter": 2,
+          "decimal": "5.2",
+          "slug": "05-02-ui-design-og-designsystemer",
+          "title": "UI-design og designsystemer",
+          "heading": "5.2 UI-design og designsystemer",
+          "file": "locales/da-001/chapters/05-02-ui-design-og-designsystemer.md"
+        },
+        "5.3": {
+          "part": 5,
+          "chapter": 3,
+          "decimal": "5.3",
+          "slug": "05-03-tilgængelighed",
+          "title": "Tilgængelighed",
+          "heading": "5.3 Tilgængelighed",
+          "file": "locales/da-001/chapters/05-03-tilgængelighed.md"
+        },
+        "5.4": {
+          "part": 5,
+          "chapter": 4,
+          "decimal": "5.4",
+          "slug": "05-04-indholds-og-kommunikationsdesign",
+          "title": "Indholds- og kommunikationsdesign",
+          "heading": "5.4 Indholds- og kommunikationsdesign",
+          "file": "locales/da-001/chapters/05-04-indholds-og-kommunikationsdesign.md"
+        },
+        "5.5": {
+          "part": 5,
+          "chapter": 5,
+          "decimal": "5.5",
+          "slug": "05-05-internationalisering-og-lokalisering",
+          "title": "Internationalisering og lokalisering",
+          "heading": "5.5 Internationalisering og lokalisering",
+          "file": "locales/da-001/chapters/05-05-internationalisering-og-lokalisering.md"
+        },
+        "5.6": {
+          "part": 5,
+          "chapter": 6,
+          "decimal": "5.6",
+          "slug": "05-06-frontendudvikling",
+          "title": "Frontendudvikling",
+          "heading": "5.6 Frontendudvikling",
+          "file": "locales/da-001/chapters/05-06-frontendudvikling.md"
+        },
+        "5.7": {
+          "part": 5,
+          "chapter": 7,
+          "decimal": "5.7",
+          "slug": "05-07-udvikling-af-mobilapplikationer",
+          "title": "Udvikling af mobilapplikationer",
+          "heading": "5.7 Udvikling af mobilapplikationer",
+          "file": "locales/da-001/chapters/05-07-udvikling-af-mobilapplikationer.md"
+        },
+        "5.8": {
+          "part": 5,
+          "chapter": 8,
+          "decimal": "5.8",
+          "slug": "05-08-designforskning-og-brugbarhedstest",
+          "title": "Designresearch og brugbarhedstest",
+          "heading": "5.8 Designresearch og brugbarhedstest",
+          "file": "locales/da-001/chapters/05-08-designforskning-og-brugbarhedstest.md"
+        },
+        "5.9": {
+          "part": 5,
+          "chapter": 9,
+          "decimal": "5.9",
+          "slug": "05-09-servicedesign",
+          "title": "Servicedesign",
+          "heading": "5.9 Servicedesign",
+          "file": "locales/da-001/chapters/05-09-servicedesign.md"
+        },
+        "5.10": {
+          "part": 5,
+          "chapter": 10,
+          "decimal": "5.10",
+          "slug": "05-10-design-af-datavisualisering",
+          "title": "Design af datavisualisering",
+          "heading": "5.10 Design af datavisualisering",
+          "file": "locales/da-001/chapters/05-10-design-af-datavisualisering.md"
+        },
+        "6.0": {
+          "part": 6,
+          "chapter": 0,
+          "decimal": "6.0",
+          "slug": "06-00-kunstig-intelligens",
+          "title": "Introduktion til del 6: Kunstig intelligens",
+          "heading": "6.0 Introduktion til del 6: Kunstig intelligens",
+          "file": "locales/da-001/chapters/06-00-kunstig-intelligens.md"
+        },
+        "6.1": {
+          "part": 6,
+          "chapter": 1,
+          "decimal": "6.1",
+          "slug": "06-01-ai-strategi-og-parathed",
+          "title": "AI-strategi og parathed",
+          "heading": "6.1 AI-strategi og parathed",
+          "file": "locales/da-001/chapters/06-01-ai-strategi-og-parathed.md"
+        },
+        "6.2": {
+          "part": 6,
+          "chapter": 2,
+          "decimal": "6.2",
+          "slug": "06-02-maskinlæringsudvikling-mlops",
+          "title": "Maskinlæringsudvikling (MLOps)",
+          "heading": "6.2 Maskinlæringsudvikling (MLOps)",
+          "file": "locales/da-001/chapters/06-02-maskinlæringsudvikling-mlops.md"
+        },
+        "6.3": {
+          "part": 6,
+          "chapter": 3,
+          "decimal": "6.3",
+          "slug": "06-03-generativ-ai-og-llm-applikationer",
+          "title": "Generativ AI og LLM-applikationer",
+          "heading": "6.3 Generativ AI og LLM-applikationer",
+          "file": "locales/da-001/chapters/06-03-generativ-ai-og-llm-applikationer.md"
+        },
+        "6.4": {
+          "part": 6,
+          "chapter": 4,
+          "decimal": "6.4",
+          "slug": "06-04-ai-understøttet-softwareudvikling",
+          "title": "AI-understøttet softwareudvikling",
+          "heading": "6.4 AI-understøttet softwareudvikling",
+          "file": "locales/da-001/chapters/06-04-ai-understøttet-softwareudvikling.md"
+        },
+        "6.5": {
+          "part": 6,
+          "chapter": 5,
+          "decimal": "6.5",
+          "slug": "06-05-ansvarlig-og-troværdig-ai",
+          "title": "Ansvarlig og troværdig AI",
+          "heading": "6.5 Ansvarlig og troværdig AI",
+          "file": "locales/da-001/chapters/06-05-ansvarlig-og-troværdig-ai.md"
+        },
+        "6.6": {
+          "part": 6,
+          "chapter": 6,
+          "decimal": "6.6",
+          "slug": "06-06-ai-infrastruktur-og-drift",
+          "title": "AI-infrastruktur og drift",
+          "heading": "6.6 AI-infrastruktur og drift",
+          "file": "locales/da-001/chapters/06-06-ai-infrastruktur-og-drift.md"
+        },
+        "6.7": {
+          "part": 6,
+          "chapter": 7,
+          "decimal": "6.7",
+          "slug": "06-07-ai-agenter-og-agentiske-systemer",
+          "title": "AI-agenter og agentiske systemer",
+          "heading": "6.7 AI-agenter og agentiske systemer",
+          "file": "locales/da-001/chapters/06-07-ai-agenter-og-agentiske-systemer.md"
+        },
+        "6.8": {
+          "part": 6,
+          "chapter": 8,
+          "decimal": "6.8",
+          "slug": "06-08-ai-evaluering-og-test",
+          "title": "AI-evaluering og -test",
+          "heading": "6.8 AI-evaluering og -test",
+          "file": "locales/da-001/chapters/06-08-ai-evaluering-og-test.md"
+        },
+        "6.9": {
+          "part": 6,
+          "chapter": 9,
+          "decimal": "6.9",
+          "slug": "06-09-promptudvikling-og-kontekstdesign",
+          "title": "Promptudvikling og kontekstdesign",
+          "heading": "6.9 Promptudvikling og kontekstdesign",
+          "file": "locales/da-001/chapters/06-09-promptudvikling-og-kontekstdesign.md"
+        },
+        "7.0": {
+          "part": 7,
+          "chapter": 0,
+          "decimal": "7.0",
+          "slug": "07-00-data-analyse-og-indsigt",
+          "title": "Introduktion til del 7: Data, analyse og indsigt",
+          "heading": "7.0 Introduktion til del 7: Data, analyse og indsigt",
+          "file": "locales/da-001/chapters/07-00-data-analyse-og-indsigt.md"
+        },
+        "7.1": {
+          "part": 7,
+          "chapter": 1,
+          "decimal": "7.1",
+          "slug": "07-01-datastrategi-og-datastyring",
+          "title": "Datastrategi og datastyring",
+          "heading": "7.1 Datastrategi og datastyring",
+          "file": "locales/da-001/chapters/07-01-datastrategi-og-datastyring.md"
+        },
+        "7.2": {
+          "part": 7,
+          "chapter": 2,
+          "decimal": "7.2",
+          "slug": "07-02-datateknik",
+          "title": "Datateknik",
+          "heading": "7.2 Datateknik",
+          "file": "locales/da-001/chapters/07-02-datateknik.md"
+        },
+        "7.3": {
+          "part": 7,
+          "chapter": 3,
+          "decimal": "7.3",
+          "slug": "07-03-analyse-og-business-intelligence",
+          "title": "Analyse og business intelligence",
+          "heading": "7.3 Analyse og business intelligence",
+          "file": "locales/da-001/chapters/07-03-analyse-og-business-intelligence.md"
+        },
+        "7.4": {
+          "part": 7,
+          "chapter": 4,
+          "decimal": "7.4",
+          "slug": "07-04-produktanalyse-og-eksperimenter",
+          "title": "Produktanalyse og eksperimenter",
+          "heading": "7.4 Produktanalyse og eksperimenter",
+          "file": "locales/da-001/chapters/07-04-produktanalyse-og-eksperimenter.md"
+        },
+        "7.5": {
+          "part": 7,
+          "chapter": 5,
+          "decimal": "7.5",
+          "slug": "07-05-beslutningsvidenskab-og-datainformeret-kultur",
+          "title": "Beslutningsvidenskab og datainformeret kultur",
+          "heading": "7.5 Beslutningsvidenskab og datainformeret kultur",
+          "file": "locales/da-001/chapters/07-05-beslutningsvidenskab-og-datainformeret-kultur.md"
+        },
+        "7.6": {
+          "part": 7,
+          "chapter": 6,
+          "decimal": "7.6",
+          "slug": "07-06-realtids-og-streamingdata",
+          "title": "Realtids- og streamingdata",
+          "heading": "7.6 Realtids- og streamingdata",
+          "file": "locales/da-001/chapters/07-06-realtids-og-streamingdata.md"
+        },
+        "7.7": {
+          "part": 7,
+          "chapter": 7,
+          "decimal": "7.7",
+          "slug": "07-07-datamodellering-og-det-semantiske-lag",
+          "title": "Datamodellering og det semantiske lag",
+          "heading": "7.7 Datamodellering og det semantiske lag",
+          "file": "locales/da-001/chapters/07-07-datamodellering-og-det-semantiske-lag.md"
+        },
+        "7.8": {
+          "part": 7,
+          "chapter": 8,
+          "decimal": "7.8",
+          "slug": "07-08-datakvalitet-og-observerbarhed",
+          "title": "Datakvalitet og observerbarhed",
+          "heading": "7.8 Datakvalitet og observerbarhed",
+          "file": "locales/da-001/chapters/07-08-datakvalitet-og-observerbarhed.md"
+        },
+        "7.9": {
+          "part": 7,
+          "chapter": 9,
+          "decimal": "7.9",
+          "slug": "07-09-stamdata-og-referencedatastyring",
+          "title": "Stamdata- og referencedatastyring",
+          "heading": "7.9 Stamdata- og referencedatastyring",
+          "file": "locales/da-001/chapters/07-09-stamdata-og-referencedatastyring.md"
+        },
+        "8.0": {
+          "part": 8,
+          "chapter": 0,
+          "decimal": "8.0",
+          "slug": "08-00-automatisering",
+          "title": "Introduktion til del 8: Automatisering",
+          "heading": "8.0 Introduktion til del 8: Automatisering",
+          "file": "locales/da-001/chapters/08-00-automatisering.md"
+        },
+        "8.1": {
+          "part": 8,
+          "chapter": 1,
+          "decimal": "8.1",
+          "slug": "08-01-ci-cd-og-levering",
+          "title": "CI/CD og levering",
+          "heading": "8.1 CI/CD og levering",
+          "file": "locales/da-001/chapters/08-01-ci-cd-og-levering.md"
+        },
+        "8.2": {
+          "part": 8,
+          "chapter": 2,
+          "decimal": "8.2",
+          "slug": "08-02-infrastruktur-som-kode-og-konfiguration",
+          "title": "Infrastruktur som kode og konfiguration",
+          "heading": "8.2 Infrastruktur som kode og konfiguration",
+          "file": "locales/da-001/chapters/08-02-infrastruktur-som-kode-og-konfiguration.md"
+        },
+        "8.3": {
+          "part": 8,
+          "chapter": 3,
+          "decimal": "8.3",
+          "slug": "08-03-containere-orkestrering-og-cloud-native",
+          "title": "Containere, orkestrering og cloud-native",
+          "heading": "8.3 Containere, orkestrering og cloud-native",
+          "file": "locales/da-001/chapters/08-03-containere-orkestrering-og-cloud-native.md"
+        },
+        "8.4": {
+          "part": 8,
+          "chapter": 4,
+          "decimal": "8.4",
+          "slug": "08-04-platformsudvikling-og-udvikleroplevelse",
+          "title": "Platformsudvikling og udvikleroplevelse",
+          "heading": "8.4 Platformsudvikling og udvikleroplevelse",
+          "file": "locales/da-001/chapters/08-04-platformsudvikling-og-udvikleroplevelse.md"
+        },
+        "8.5": {
+          "part": 8,
+          "chapter": 5,
+          "decimal": "8.5",
+          "slug": "08-05-test-og-procesautomatisering",
+          "title": "Test og procesautomatisering",
+          "heading": "8.5 Test og procesautomatisering",
+          "file": "locales/da-001/chapters/08-05-test-og-procesautomatisering.md"
+        },
+        "8.6": {
+          "part": 8,
+          "chapter": 6,
+          "decimal": "8.6",
+          "slug": "08-06-releasestyring-og-progressiv-levering",
+          "title": "Releasestyring og progressiv levering",
+          "heading": "8.6 Releasestyring og progressiv levering",
+          "file": "locales/da-001/chapters/08-06-releasestyring-og-progressiv-levering.md"
+        },
+        "8.7": {
+          "part": 8,
+          "chapter": 7,
+          "decimal": "8.7",
+          "slug": "08-07-buildsystemer-og-artefaktstyring",
+          "title": "Buildsystemer og artefaktstyring",
+          "heading": "8.7 Buildsystemer og artefaktstyring",
+          "file": "locales/da-001/chapters/08-07-buildsystemer-og-artefaktstyring.md"
+        },
+        "9.0": {
+          "part": 9,
+          "chapter": 0,
+          "decimal": "9.0",
+          "slug": "09-00-drift-pålidelighed-og-observerbarhed",
+          "title": "Introduktion til del 9: Drift, pålidelighed og observerbarhed",
+          "heading": "9.0 Introduktion til del 9: Drift, pålidelighed og observerbarhed",
+          "file": "locales/da-001/chapters/09-00-drift-pålidelighed-og-observerbarhed.md"
+        },
+        "9.1": {
+          "part": 9,
+          "chapter": 1,
+          "decimal": "9.1",
+          "slug": "09-01-site-reliability-engineering",
+          "title": "Site reliability engineering",
+          "heading": "9.1 Site reliability engineering",
+          "file": "locales/da-001/chapters/09-01-site-reliability-engineering.md"
+        },
+        "9.2": {
+          "part": 9,
+          "chapter": 2,
+          "decimal": "9.2",
+          "slug": "09-02-observerbarhed-og-telemetri",
+          "title": "Observerbarhed og telemetri",
+          "heading": "9.2 Observerbarhed og telemetri",
+          "file": "locales/da-001/chapters/09-02-observerbarhed-og-telemetri.md"
+        },
+        "9.3": {
+          "part": 9,
+          "chapter": 3,
+          "decimal": "9.3",
+          "slug": "09-03-hændelseshåndtering",
+          "title": "Hændelseshåndtering",
+          "heading": "9.3 Hændelseshåndtering",
+          "file": "locales/da-001/chapters/09-03-hændelseshåndtering.md"
+        },
+        "9.4": {
+          "part": 9,
+          "chapter": 4,
+          "decimal": "9.4",
+          "slug": "09-04-omkostninger-bæredygtighed-og-grøn-software",
+          "title": "Omkostninger, bæredygtighed og grøn software",
+          "heading": "9.4 Omkostninger, bæredygtighed og grøn software",
+          "file": "locales/da-001/chapters/09-04-omkostninger-bæredygtighed-og-grøn-software.md"
+        },
+        "9.5": {
+          "part": 9,
+          "chapter": 5,
+          "decimal": "9.5",
+          "slug": "09-05-katastrofeberedskab-og-forretningskontinuitet",
+          "title": "Katastrofeberedskab og forretningskontinuitet",
+          "heading": "9.5 Katastrofeberedskab og forretningskontinuitet",
+          "file": "locales/da-001/chapters/09-05-katastrofeberedskab-og-forretningskontinuitet.md"
+        },
+        "9.6": {
+          "part": 9,
+          "chapter": 6,
+          "decimal": "9.6",
+          "slug": "09-06-chaos-engineering-og-robusthedstest",
+          "title": "Chaos engineering og robusthedstest",
+          "heading": "9.6 Chaos engineering og robusthedstest",
+          "file": "locales/da-001/chapters/09-06-chaos-engineering-og-robusthedstest.md"
+        },
+        "9.7": {
+          "part": 9,
+          "chapter": 7,
+          "decimal": "9.7",
+          "slug": "09-07-kapacitetsplanlægning-og-efterspørgselsprognoser",
+          "title": "Kapacitetsplanlægning og efterspørgselsprognoser",
+          "heading": "9.7 Kapacitetsplanlægning og efterspørgselsprognoser",
+          "file": "locales/da-001/chapters/09-07-kapacitetsplanlægning-og-efterspørgselsprognoser.md"
+        },
+        "9.8": {
+          "part": 9,
+          "chapter": 8,
+          "decimal": "9.8",
+          "slug": "09-08-vagtberedskab-og-driftsparathed",
+          "title": "Vagtberedskab og driftsparathed",
+          "heading": "9.8 Vagtberedskab og driftsparathed",
+          "file": "locales/da-001/chapters/09-08-vagtberedskab-og-driftsparathed.md"
+        },
+        "10.0": {
+          "part": 10,
+          "chapter": 0,
+          "decimal": "10.0",
+          "slug": "10-00-projekt-produkt-og-programstyring",
+          "title": "Introduktion til del 10: Projekt-, produkt- og programstyring",
+          "heading": "10.0 Introduktion til del 10: Projekt-, produkt- og programstyring",
+          "file": "locales/da-001/chapters/10-00-projekt-produkt-og-programstyring.md"
+        },
+        "10.1": {
+          "part": 10,
+          "chapter": 1,
+          "decimal": "10.1",
+          "slug": "10-01-portefølje-og-programstyring",
+          "title": "Portefølje- og programstyring",
+          "heading": "10.1 Portefølje- og programstyring",
+          "file": "locales/da-001/chapters/10-01-portefølje-og-programstyring.md"
+        },
+        "10.2": {
+          "part": 10,
+          "chapter": 2,
+          "decimal": "10.2",
+          "slug": "10-02-risiko-revision-og-assurance",
+          "title": "Risiko, revision og assurance",
+          "heading": "10.2 Risiko, revision og assurance",
+          "file": "locales/da-001/chapters/10-02-risiko-revision-og-assurance.md"
+        },
+        "10.3": {
+          "part": 10,
+          "chapter": 3,
+          "decimal": "10.3",
+          "slug": "10-03-indkøb-open-source-og-licenser",
+          "title": "Indkøb, open source og licenser",
+          "heading": "10.3 Indkøb, open source og licenser",
+          "file": "locales/da-001/chapters/10-03-indkøb-open-source-og-licenser.md"
+        },
+        "10.4": {
+          "part": 10,
+          "chapter": 4,
+          "decimal": "10.4",
+          "slug": "10-04-vedligeholdelse-af-store-og-langlivede-systemer",
+          "title": "Vedligeholdelse af store og langlivede systemer",
+          "heading": "10.4 Vedligeholdelse af store og langlivede systemer",
+          "file": "locales/da-001/chapters/10-04-vedligeholdelse-af-store-og-langlivede-systemer.md"
+        },
+        "10.5": {
+          "part": 10,
+          "chapter": 5,
+          "decimal": "10.5",
+          "slug": "10-05-etik-ansvarlighed-og-almenvellet",
+          "title": "Etik, ansvarlighed og almenvellet",
+          "heading": "10.5 Etik, ansvarlighed og almenvellet",
+          "file": "locales/da-001/chapters/10-05-etik-ansvarlighed-og-almenvellet.md"
+        },
+        "10.6": {
+          "part": 10,
+          "chapter": 6,
+          "decimal": "10.6",
+          "slug": "10-06-projektstyring",
+          "title": "Projektstyring",
+          "heading": "10.6 Projektstyring",
+          "file": "locales/da-001/chapters/10-06-projektstyring.md"
+        },
+        "10.7": {
+          "part": 10,
+          "chapter": 7,
+          "decimal": "10.7",
+          "slug": "10-07-agil",
+          "title": "Agil",
+          "heading": "10.7 Agil",
+          "file": "locales/da-001/chapters/10-07-agil.md"
+        },
+        "10.8": {
+          "part": 10,
+          "chapter": 8,
+          "decimal": "10.8",
+          "slug": "10-08-modenhedsmodeller",
+          "title": "Modenhedsmodeller",
+          "heading": "10.8 Modenhedsmodeller",
+          "file": "locales/da-001/chapters/10-08-modenhedsmodeller.md"
+        },
+        "10.9": {
+          "part": 10,
+          "chapter": 9,
+          "decimal": "10.9",
+          "slug": "10-09-innovationspartnerskab",
+          "title": "Innovationspartnerskab",
+          "heading": "10.9 Innovationspartnerskab",
+          "file": "locales/da-001/chapters/10-09-innovationspartnerskab.md"
+        },
+        "10.10": {
+          "part": 10,
+          "chapter": 10,
+          "decimal": "10.10",
+          "slug": "10-10-softwareudviklingens-økonomi",
+          "title": "Softwareudviklingens økonomi",
+          "heading": "10.10 Softwareudviklingens økonomi",
+          "file": "locales/da-001/chapters/10-10-softwareudviklingens-økonomi.md"
+        },
+        "10.11": {
+          "part": 10,
+          "chapter": 11,
+          "decimal": "10.11",
+          "slug": "10-11-digital-suverænitet",
+          "title": "Digital suverænitet",
+          "heading": "10.11 Digital suverænitet",
+          "file": "locales/da-001/chapters/10-11-digital-suverænitet.md"
+        },
+        "10.12": {
+          "part": 10,
+          "chapter": 12,
+          "decimal": "10.12",
+          "slug": "10-12-open-source-versus-closed-source",
+          "title": "Open source versus closed source",
+          "heading": "10.12 Open source versus closed source",
+          "file": "locales/da-001/chapters/10-12-open-source-versus-closed-source.md"
+        },
+        "10.13": {
+          "part": 10,
+          "chapter": 13,
+          "decimal": "10.13",
+          "slug": "10-13-samarbejde-på-tværs-af-organisationer",
+          "title": "Samarbejde på tværs af organisationer",
+          "heading": "10.13 Samarbejde på tværs af organisationer",
+          "file": "locales/da-001/chapters/10-13-samarbejde-på-tværs-af-organisationer.md"
+        },
+        "10.14": {
+          "part": 10,
+          "chapter": 14,
+          "decimal": "10.14",
+          "slug": "10-14-produktstyring-og-opdagelse",
+          "title": "Produktstyring og opdagelse",
+          "heading": "10.14 Produktstyring og opdagelse",
+          "file": "locales/da-001/chapters/10-14-produktstyring-og-opdagelse.md"
+        },
+        "10.15": {
+          "part": 10,
+          "chapter": 15,
+          "decimal": "10.15",
+          "slug": "10-15-estimering-og-prognoser",
+          "title": "Estimering og prognoser",
+          "heading": "10.15 Estimering og prognoser",
+          "file": "locales/da-001/chapters/10-15-estimering-og-prognoser.md"
+        },
+        "10.16": {
+          "part": 10,
+          "chapter": 16,
+          "decimal": "10.16",
+          "slug": "10-16-interessenthåndtering-og-kommunikation",
+          "title": "Interessenthåndtering og kommunikation",
+          "heading": "10.16 Interessenthåndtering og kommunikation",
+          "file": "locales/da-001/chapters/10-16-interessenthåndtering-og-kommunikation.md"
+        },
+        "10.17": {
+          "part": 10,
+          "chapter": 17,
+          "decimal": "10.17",
+          "slug": "10-17-organisatorisk-forandringsledelse",
+          "title": "Organisatorisk forandringsledelse",
+          "heading": "10.17 Organisatorisk forandringsledelse",
+          "file": "locales/da-001/chapters/10-17-organisatorisk-forandringsledelse.md"
+        },
+        "10.18": {
+          "part": 10,
+          "chapter": 18,
+          "decimal": "10.18",
+          "slug": "10-18-open-source-programkontor-og-upstream-bidrag",
+          "title": "Open source-programkontor (OSPO) og upstream-bidrag",
+          "heading": "10.18 Open source-programkontor (OSPO) og upstream-bidrag",
+          "file": "locales/da-001/chapters/10-18-open-source-programkontor-og-upstream-bidrag.md"
+        },
+        "11.0": {
+          "part": 11,
+          "chapter": 0,
+          "decimal": "11.0",
+          "slug": "11-00-flow-opdagelse-og-leveringspipelines",
+          "title": "Introduktion til del 11: Flow: opdagelses- og leveringspipelines",
+          "heading": "11.0 Introduktion til del 11: Flow: opdagelses- og leveringspipelines",
+          "file": "locales/da-001/chapters/11-00-flow-opdagelse-og-leveringspipelines.md"
+        },
+        "11.1": {
+          "part": 11,
+          "chapter": 1,
+          "decimal": "11.1",
+          "slug": "11-01-opdagelsespipelinen",
+          "title": "Opdagelsespipelinen",
+          "heading": "11.1 Opdagelsespipelinen",
+          "file": "locales/da-001/chapters/11-01-opdagelsespipelinen.md"
+        },
+        "11.2": {
+          "part": 11,
+          "chapter": 2,
+          "decimal": "11.2",
+          "slug": "11-02-leveringspipelinen",
+          "title": "Leveringspipelinen",
+          "heading": "11.2 Leveringspipelinen",
+          "file": "locales/da-001/chapters/11-02-leveringspipelinen.md"
+        },
+        "11.3": {
+          "part": 11,
+          "chapter": 3,
+          "decimal": "11.3",
+          "slug": "11-03-køteori",
+          "title": "Køteori",
+          "heading": "11.3 Køteori",
+          "file": "locales/da-001/chapters/11-03-køteori.md"
+        },
+        "11.4": {
+          "part": 11,
+          "chapter": 4,
+          "decimal": "11.4",
+          "slug": "11-04-mål-og-nøgleresultater",
+          "title": "Mål og nøgleresultater (OKR'er)",
+          "heading": "11.4 Mål og nøgleresultater (OKR'er)",
+          "file": "locales/da-001/chapters/11-04-mål-og-nøgleresultater.md"
+        },
+        "11.5": {
+          "part": 11,
+          "chapter": 5,
+          "decimal": "11.5",
+          "slug": "11-05-nøgleindikatorer",
+          "title": "Nøgleindikatorer (KPI'er)",
+          "heading": "11.5 Nøgleindikatorer (KPI'er)",
+          "file": "locales/da-001/chapters/11-05-nøgleindikatorer.md"
+        },
+        "11.6": {
+          "part": 11,
+          "chapter": 6,
+          "decimal": "11.6",
+          "slug": "11-06-værdistrømskortlægning-og-forsinkelsesomkostning",
+          "title": "Værdistrømskortlægning og forsinkelsesomkostning",
+          "heading": "11.6 Værdistrømskortlægning og forsinkelsesomkostning",
+          "file": "locales/da-001/chapters/11-06-værdistrømskortlægning-og-forsinkelsesomkostning.md"
+        },
+        "12.0": {
+          "part": 12,
+          "chapter": 0,
+          "decimal": "12.0",
+          "slug": "12-00-bilag",
+          "title": "Bilag",
+          "heading": "12.0 Bilag",
+          "file": "locales/da-001/chapters/12-00-bilag.md"
+        },
+        "12.1": {
+          "part": 12,
+          "chapter": 1,
+          "decimal": "12.1",
+          "slug": "12-01-ordliste",
+          "title": "Ordliste",
+          "heading": "12.1 Ordliste",
+          "file": "locales/da-001/chapters/12-01-ordliste.md"
+        },
+        "12.2": {
+          "part": 12,
+          "chapter": 2,
+          "decimal": "12.2",
+          "slug": "12-02-tjeklister",
+          "title": "Tjeklister",
+          "heading": "12.2 Tjeklister",
+          "file": "locales/da-001/chapters/12-02-tjeklister.md"
+        },
+        "12.3": {
+          "part": 12,
+          "chapter": 3,
+          "decimal": "12.3",
+          "slug": "12-03-skabeloner",
+          "title": "Skabeloner",
+          "heading": "12.3 Skabeloner",
+          "file": "locales/da-001/chapters/12-03-skabeloner.md"
+        },
+        "12.4": {
+          "part": 12,
+          "chapter": 4,
+          "decimal": "12.4",
+          "slug": "12-04-selvvurdering-af-modenhed",
+          "title": "Selvvurdering af modenhed",
+          "heading": "12.4 Selvvurdering af modenhed",
+          "file": "locales/da-001/chapters/12-04-selvvurdering-af-modenhed.md"
+        },
+        "12.5": {
+          "part": 12,
+          "chapter": 5,
+          "decimal": "12.5",
+          "slug": "12-05-referencer",
+          "title": "Referencer",
+          "heading": "12.5 Referencer",
+          "file": "locales/da-001/chapters/12-05-referencer.md"
+        },
+        "12.6": {
+          "part": 12,
+          "chapter": 6,
+          "decimal": "12.6",
+          "slug": "12-06-køreplan-for-indførelse",
+          "title": "Køreplan for indførelse",
+          "heading": "12.6 Køreplan for indførelse",
+          "file": "locales/da-001/chapters/12-06-køreplan-for-indførelse.md"
+        },
+        "12.7": {
+          "part": 12,
+          "chapter": 7,
+          "decimal": "12.7",
+          "slug": "12-07-stikordsregister",
+          "title": "Stikordsregister",
+          "heading": "12.7 Stikordsregister",
+          "file": "locales/da-001/chapters/12-07-stikordsregister.md"
+        }
+      },
+      "order": [
+        "1.0",
+        "1.1",
+        "1.2",
+        "1.3",
+        "1.4",
+        "1.5",
+        "1.6",
+        "1.7",
+        "1.8",
+        "1.9",
+        "1.10",
+        "1.11",
+        "1.12",
+        "1.13",
+        "2.0",
+        "2.1",
+        "2.2",
+        "2.3",
+        "2.4",
+        "2.5",
+        "2.6",
+        "2.7",
+        "2.8",
+        "2.9",
+        "2.10",
+        "2.11",
+        "2.12",
+        "2.13",
+        "2.14",
+        "2.15",
+        "2.16",
+        "2.17",
+        "2.18",
+        "2.19",
+        "2.20",
+        "2.21",
+        "3.0",
+        "3.1",
+        "3.2",
+        "3.3",
+        "3.4",
+        "3.5",
+        "3.6",
+        "3.7",
+        "3.8",
+        "3.9",
+        "3.10",
+        "3.11",
+        "3.12",
+        "3.13",
+        "3.14",
+        "3.15",
+        "3.16",
+        "3.17",
+        "4.0",
+        "4.1",
+        "4.2",
+        "4.3",
+        "4.4",
+        "4.5",
+        "4.6",
+        "4.7",
+        "4.8",
+        "4.9",
+        "4.10",
+        "5.0",
+        "5.1",
+        "5.2",
+        "5.3",
+        "5.4",
+        "5.5",
+        "5.6",
+        "5.7",
+        "5.8",
+        "5.9",
+        "5.10",
+        "6.0",
+        "6.1",
+        "6.2",
+        "6.3",
+        "6.4",
+        "6.5",
+        "6.6",
+        "6.7",
+        "6.8",
+        "6.9",
+        "7.0",
+        "7.1",
+        "7.2",
+        "7.3",
+        "7.4",
+        "7.5",
+        "7.6",
+        "7.7",
+        "7.8",
+        "7.9",
+        "8.0",
+        "8.1",
+        "8.2",
+        "8.3",
+        "8.4",
+        "8.5",
+        "8.6",
+        "8.7",
+        "9.0",
+        "9.1",
+        "9.2",
+        "9.3",
+        "9.4",
+        "9.5",
+        "9.6",
+        "9.7",
+        "9.8",
+        "10.0",
+        "10.1",
+        "10.2",
+        "10.3",
+        "10.4",
+        "10.5",
+        "10.6",
+        "10.7",
+        "10.8",
+        "10.9",
+        "10.10",
+        "10.11",
+        "10.12",
+        "10.13",
+        "10.14",
+        "10.15",
+        "10.16",
+        "10.17",
+        "10.18",
+        "11.0",
+        "11.1",
+        "11.2",
+        "11.3",
+        "11.4",
+        "11.5",
+        "11.6",
+        "12.0",
+        "12.1",
+        "12.2",
+        "12.3",
+        "12.4",
+        "12.5",
+        "12.6",
+        "12.7"
+      ],
+      "hasHomePage": false,
+      "topicsSlug": "emner"
+    },
     "de-001": {
       "chapters": [
         {
@@ -126071,6 +130271,7 @@
     "bn-001",
     "cy-001",
     "cy-gb",
+    "da-001",
     "de-001",
     "de-de",
     "en-001",
