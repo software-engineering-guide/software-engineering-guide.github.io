@@ -121865,6 +121865,4206 @@
       "hasHomePage": false,
       "topicsSlug": "mada"
     },
+    "sw-tz": {
+      "chapters": [
+        {
+          "part": 1,
+          "chapter": 0,
+          "decimal": "1.0",
+          "slug": "01-00-utangulizi-wa-sehemu-ya-1-watu",
+          "title": "Utangulizi wa Sehemu ya 1: Watu",
+          "heading": "1.0 Utangulizi wa Sehemu ya 1: Watu",
+          "file": "locales/sw-tz/chapters/01-00-utangulizi-wa-sehemu-ya-1-watu.md"
+        },
+        {
+          "part": 1,
+          "chapter": 1,
+          "decimal": "1.1",
+          "slug": "01-01-maadili-ya-uhandisi-wa-programu",
+          "title": "Maadili ya uhandisi wa programu",
+          "heading": "1.1 Maadili ya uhandisi wa programu",
+          "file": "locales/sw-tz/chapters/01-01-maadili-ya-uhandisi-wa-programu.md"
+        },
+        {
+          "part": 1,
+          "chapter": 2,
+          "decimal": "1.2",
+          "slug": "01-02-topolojia-za-timu-na-usanifu-wa-shirika",
+          "title": "Topolojia za timu na usanifu wa shirika",
+          "heading": "1.2 Topolojia za timu na usanifu wa shirika",
+          "file": "locales/sw-tz/chapters/01-02-topolojia-za-timu-na-usanifu-wa-shirika.md"
+        },
+        {
+          "part": 1,
+          "chapter": 3,
+          "decimal": "1.3",
+          "slug": "01-03-majukumu-ngazi-za-taaluma-na-ukuaji",
+          "title": "Majukumu, ngazi za taaluma, na ukuaji",
+          "heading": "1.3 Majukumu, ngazi za taaluma, na ukuaji",
+          "file": "locales/sw-tz/chapters/01-03-majukumu-ngazi-za-taaluma-na-ukuaji.md"
+        },
+        {
+          "part": 1,
+          "chapter": 4,
+          "decimal": "1.4",
+          "slug": "01-04-njia-za-kufanya-kazi",
+          "title": "Njia za kufanya kazi",
+          "heading": "1.4 Njia za kufanya kazi",
+          "file": "locales/sw-tz/chapters/01-04-njia-za-kufanya-kazi.md"
+        },
+        {
+          "part": 1,
+          "chapter": 5,
+          "decimal": "1.5",
+          "slug": "01-05-kufanya-maamuzi-na-utawala",
+          "title": "Kufanya maamuzi na utawala",
+          "heading": "1.5 Kufanya maamuzi na utawala",
+          "file": "locales/sw-tz/chapters/01-05-kufanya-maamuzi-na-utawala.md"
+        },
+        {
+          "part": 1,
+          "chapter": 6,
+          "decimal": "1.6",
+          "slug": "01-06-rekodi-za-maamuzi",
+          "title": "Rekodi za maamuzi",
+          "heading": "1.6 Rekodi za maamuzi",
+          "file": "locales/sw-tz/chapters/01-06-rekodi-za-maamuzi.md"
+        },
+        {
+          "part": 1,
+          "chapter": 7,
+          "decimal": "1.7",
+          "slug": "01-07-viwango-vya-uhandisi-na-vighairi",
+          "title": "Viwango vya uhandisi na vighairi",
+          "heading": "1.7 Viwango vya uhandisi na vighairi",
+          "file": "locales/sw-tz/chapters/01-07-viwango-vya-uhandisi-na-vighairi.md"
+        },
+        {
+          "part": 1,
+          "chapter": 8,
+          "decimal": "1.8",
+          "slug": "01-08-kuajiri-usaili-na-utambulisho",
+          "title": "Kuajiri, usaili, na utambulisho",
+          "heading": "1.8 Kuajiri, usaili, na utambulisho",
+          "file": "locales/sw-tz/chapters/01-08-kuajiri-usaili-na-utambulisho.md"
+        },
+        {
+          "part": 1,
+          "chapter": 9,
+          "decimal": "1.9",
+          "slug": "01-09-kazi-iliyosambazwa-na-ya-mbali",
+          "title": "Kazi iliyosambazwa na ya mbali",
+          "heading": "1.9 Kazi iliyosambazwa na ya mbali",
+          "file": "locales/sw-tz/chapters/01-09-kazi-iliyosambazwa-na-ya-mbali.md"
+        },
+        {
+          "part": 1,
+          "chapter": 10,
+          "decimal": "1.10",
+          "slug": "01-10-ufanisi-wa-uhandisi-na-tija-ya-wasanidi",
+          "title": "Ufanisi wa uhandisi na tija ya wasanidi",
+          "heading": "1.10 Ufanisi wa uhandisi na tija ya wasanidi",
+          "file": "locales/sw-tz/chapters/01-10-ufanisi-wa-uhandisi-na-tija-ya-wasanidi.md"
+        },
+        {
+          "part": 1,
+          "chapter": 11,
+          "decimal": "1.11",
+          "slug": "01-11-usimamizi-wa-uhandisi",
+          "title": "Usimamizi wa uhandisi",
+          "heading": "1.11 Usimamizi wa uhandisi",
+          "file": "locales/sw-tz/chapters/01-11-usimamizi-wa-uhandisi.md"
+        },
+        {
+          "part": 1,
+          "chapter": 12,
+          "decimal": "1.12",
+          "slug": "01-12-utofauti-usawa-ujumuishi-na-kuhisi-kukubalika",
+          "title": "Utofauti, usawa, ujumuishi, na kuhisi kukubalika",
+          "heading": "1.12 Utofauti, usawa, ujumuishi, na kuhisi kukubalika",
+          "file": "locales/sw-tz/chapters/01-12-utofauti-usawa-ujumuishi-na-kuhisi-kukubalika.md"
+        },
+        {
+          "part": 1,
+          "chapter": 13,
+          "decimal": "1.13",
+          "slug": "01-13-ushauri-ukocha-na-kushiriki-maarifa",
+          "title": "Ushauri, ukocha, na kushiriki maarifa",
+          "heading": "1.13 Ushauri, ukocha, na kushiriki maarifa",
+          "file": "locales/sw-tz/chapters/01-13-ushauri-ukocha-na-kushiriki-maarifa.md"
+        },
+        {
+          "part": 2,
+          "chapter": 0,
+          "decimal": "2.0",
+          "slug": "02-00-utangulizi-wa-sehemu-ya-2-uandishi-wa-programu",
+          "title": "Utangulizi wa Sehemu ya 2: Uandishi wa Programu",
+          "heading": "2.0 Utangulizi wa Sehemu ya 2: Uandishi wa Programu",
+          "file": "locales/sw-tz/chapters/02-00-utangulizi-wa-sehemu-ya-2-uandishi-wa-programu.md"
+        },
+        {
+          "part": 2,
+          "chapter": 1,
+          "decimal": "2.1",
+          "slug": "02-01-viwango-vya-uandishi-wa-msimbo-na-mtindo",
+          "title": "Viwango vya uandishi wa msimbo na mtindo",
+          "heading": "2.1 Viwango vya uandishi wa msimbo na mtindo",
+          "file": "locales/sw-tz/chapters/02-01-viwango-vya-uandishi-wa-msimbo-na-mtindo.md"
+        },
+        {
+          "part": 2,
+          "chapter": 2,
+          "decimal": "2.2",
+          "slug": "02-02-kanuni-za-usanifu-wa-programu",
+          "title": "Kanuni za usanifu wa programu",
+          "heading": "2.2 Kanuni za usanifu wa programu",
+          "file": "locales/sw-tz/chapters/02-02-kanuni-za-usanifu-wa-programu.md"
+        },
+        {
+          "part": 2,
+          "chapter": 3,
+          "decimal": "2.3",
+          "slug": "02-03-api-na-usanifu-wa-violesura",
+          "title": "API na usanifu wa violesura",
+          "heading": "2.3 API na usanifu wa violesura",
+          "file": "locales/sw-tz/chapters/02-03-api-na-usanifu-wa-violesura.md"
+        },
+        {
+          "part": 2,
+          "chapter": 4,
+          "decimal": "2.4",
+          "slug": "02-04-mkakati-wa-majaribio",
+          "title": "Mkakati wa majaribio",
+          "heading": "2.4 Mkakati wa majaribio",
+          "file": "locales/sw-tz/chapters/02-04-mkakati-wa-majaribio.md"
+        },
+        {
+          "part": 2,
+          "chapter": 5,
+          "decimal": "2.5",
+          "slug": "02-05-mapitio-ya-msimbo-na-ushirikiano",
+          "title": "Mapitio ya msimbo na ushirikiano",
+          "heading": "2.5 Mapitio ya msimbo na ushirikiano",
+          "file": "locales/sw-tz/chapters/02-05-mapitio-ya-msimbo-na-ushirikiano.md"
+        },
+        {
+          "part": 2,
+          "chapter": 6,
+          "decimal": "2.6",
+          "slug": "02-06-udhibiti-wa-matoleo-na-usimamizi-wa-chanzo",
+          "title": "Udhibiti wa matoleo na usimamizi wa chanzo",
+          "heading": "2.6 Udhibiti wa matoleo na usimamizi wa chanzo",
+          "file": "locales/sw-tz/chapters/02-06-udhibiti-wa-matoleo-na-usimamizi-wa-chanzo.md"
+        },
+        {
+          "part": 2,
+          "chapter": 7,
+          "decimal": "2.7",
+          "slug": "02-07-nyaraka",
+          "title": "Nyaraka",
+          "heading": "2.7 Nyaraka",
+          "file": "locales/sw-tz/chapters/02-07-nyaraka.md"
+        },
+        {
+          "part": 2,
+          "chapter": 8,
+          "decimal": "2.8",
+          "slug": "02-08-mahitaji-ya-programu",
+          "title": "Mahitaji ya programu",
+          "heading": "2.8 Mahitaji ya programu",
+          "file": "locales/sw-tz/chapters/02-08-mahitaji-ya-programu.md"
+        },
+        {
+          "part": 2,
+          "chapter": 9,
+          "decimal": "2.9",
+          "slug": "02-09-ujenzi-wa-programu",
+          "title": "Ujenzi wa programu",
+          "heading": "2.9 Ujenzi wa programu",
+          "file": "locales/sw-tz/chapters/02-09-ujenzi-wa-programu.md"
+        },
+        {
+          "part": 2,
+          "chapter": 10,
+          "decimal": "2.10",
+          "slug": "02-10-usimamizi-wa-usanidi-wa-programu",
+          "title": "Usimamizi wa usanidi wa programu",
+          "heading": "2.10 Usimamizi wa usanidi wa programu",
+          "file": "locales/sw-tz/chapters/02-10-usimamizi-wa-usanidi-wa-programu.md"
+        },
+        {
+          "part": 2,
+          "chapter": 11,
+          "decimal": "2.11",
+          "slug": "02-11-ubora-wa-programu",
+          "title": "Ubora wa programu",
+          "heading": "2.11 Ubora wa programu",
+          "file": "locales/sw-tz/chapters/02-11-ubora-wa-programu.md"
+        },
+        {
+          "part": 2,
+          "chapter": 12,
+          "decimal": "2.12",
+          "slug": "02-12-mifano-na-mbinu-za-programu",
+          "title": "Mifano na mbinu za programu",
+          "heading": "2.12 Mifano na mbinu za programu",
+          "file": "locales/sw-tz/chapters/02-12-mifano-na-mbinu-za-programu.md"
+        },
+        {
+          "part": 2,
+          "chapter": 13,
+          "decimal": "2.13",
+          "slug": "02-13-misingi-ya-kompyuta-hisabati-na-uhandisi",
+          "title": "Misingi ya kompyuta, hisabati, na uhandisi",
+          "heading": "2.13 Misingi ya kompyuta, hisabati, na uhandisi",
+          "file": "locales/sw-tz/chapters/02-13-misingi-ya-kompyuta-hisabati-na-uhandisi.md"
+        },
+        {
+          "part": 2,
+          "chapter": 14,
+          "decimal": "2.14",
+          "slug": "02-14-muundo-wa-mradi-na-hazina",
+          "title": "Muundo wa mradi na hazina",
+          "heading": "2.14 Muundo wa mradi na hazina",
+          "file": "locales/sw-tz/chapters/02-14-muundo-wa-mradi-na-hazina.md"
+        },
+        {
+          "part": 2,
+          "chapter": 15,
+          "decimal": "2.15",
+          "slug": "02-15-utatuzi-wa-hitilafu-na-kutatua-matatizo",
+          "title": "Utatuzi wa hitilafu na kutatua matatizo",
+          "heading": "2.15 Utatuzi wa hitilafu na kutatua matatizo",
+          "file": "locales/sw-tz/chapters/02-15-utatuzi-wa-hitilafu-na-kutatua-matatizo.md"
+        },
+        {
+          "part": 2,
+          "chapter": 16,
+          "decimal": "2.16",
+          "slug": "02-16-uhandisi-wa-utendaji",
+          "title": "Uhandisi wa utendaji",
+          "heading": "2.16 Uhandisi wa utendaji",
+          "file": "locales/sw-tz/chapters/02-16-uhandisi-wa-utendaji.md"
+        },
+        {
+          "part": 2,
+          "chapter": 17,
+          "decimal": "2.17",
+          "slug": "02-17-ulinganifu-na-usambamba",
+          "title": "Ulinganifu na usambamba",
+          "heading": "2.17 Ulinganifu na usambamba",
+          "file": "locales/sw-tz/chapters/02-17-ulinganifu-na-usambamba.md"
+        },
+        {
+          "part": 2,
+          "chapter": 18,
+          "decimal": "2.18",
+          "slug": "02-18-usimamizi-wa-utegemezi-na-mnyororo-wa-ugavi",
+          "title": "Usimamizi wa utegemezi na mnyororo wa ugavi",
+          "heading": "2.18 Usimamizi wa utegemezi na mnyororo wa ugavi",
+          "file": "locales/sw-tz/chapters/02-18-usimamizi-wa-utegemezi-na-mnyororo-wa-ugavi.md"
+        },
+        {
+          "part": 2,
+          "chapter": 19,
+          "decimal": "2.19",
+          "slug": "02-19-urekebishaji-wa-muundo-na-deni-la-kiufundi",
+          "title": "Urekebishaji wa muundo na deni la kiufundi",
+          "heading": "2.19 Urekebishaji wa muundo na deni la kiufundi",
+          "file": "locales/sw-tz/chapters/02-19-urekebishaji-wa-muundo-na-deni-la-kiufundi.md"
+        },
+        {
+          "part": 2,
+          "chapter": 20,
+          "decimal": "2.20",
+          "slug": "02-20-ushughulikiaji-wa-makosa-na-mifumo-ya-ustahimilivu",
+          "title": "Ushughulikiaji wa makosa na mifumo ya ustahimilivu",
+          "heading": "2.20 Ushughulikiaji wa makosa na mifumo ya ustahimilivu",
+          "file": "locales/sw-tz/chapters/02-20-ushughulikiaji-wa-makosa-na-mifumo-ya-ustahimilivu.md"
+        },
+        {
+          "part": 2,
+          "chapter": 21,
+          "decimal": "2.21",
+          "slug": "02-21-mifumo-ya-aina-na-uchambuzi-tuli",
+          "title": "Mifumo ya aina na uchambuzi tuli",
+          "heading": "2.21 Mifumo ya aina na uchambuzi tuli",
+          "file": "locales/sw-tz/chapters/02-21-mifumo-ya-aina-na-uchambuzi-tuli.md"
+        },
+        {
+          "part": 3,
+          "chapter": 0,
+          "decimal": "3.0",
+          "slug": "03-00-utangulizi-wa-sehemu-ya-3-mifumo",
+          "title": "Utangulizi wa Sehemu ya 3: Mifumo",
+          "heading": "3.0 Utangulizi wa Sehemu ya 3: Mifumo",
+          "file": "locales/sw-tz/chapters/03-00-utangulizi-wa-sehemu-ya-3-mifumo.md"
+        },
+        {
+          "part": 3,
+          "chapter": 1,
+          "decimal": "3.1",
+          "slug": "03-01-misingi-ya-usanifu",
+          "title": "Misingi ya usanifu",
+          "heading": "3.1 Misingi ya usanifu",
+          "file": "locales/sw-tz/chapters/03-01-misingi-ya-usanifu.md"
+        },
+        {
+          "part": 3,
+          "chapter": 2,
+          "decimal": "3.2",
+          "slug": "03-02-mitindo-na-mifumo-ya-usanifu",
+          "title": "Mitindo na mifumo ya usanifu",
+          "heading": "3.2 Mitindo na mifumo ya usanifu",
+          "file": "locales/sw-tz/chapters/03-02-mitindo-na-mifumo-ya-usanifu.md"
+        },
+        {
+          "part": 3,
+          "chapter": 3,
+          "decimal": "3.3",
+          "slug": "03-03-mifumo-iliyosambazwa",
+          "title": "Mifumo iliyosambazwa",
+          "heading": "3.3 Mifumo iliyosambazwa",
+          "file": "locales/sw-tz/chapters/03-03-mifumo-iliyosambazwa.md"
+        },
+        {
+          "part": 3,
+          "chapter": 4,
+          "decimal": "3.4",
+          "slug": "03-04-usanifu-wa-data-na-uhifadhi",
+          "title": "Usanifu wa data na uhifadhi",
+          "heading": "3.4 Usanifu wa data na uhifadhi",
+          "file": "locales/sw-tz/chapters/03-04-usanifu-wa-data-na-uhifadhi.md"
+        },
+        {
+          "part": 3,
+          "chapter": 5,
+          "decimal": "3.5",
+          "slug": "03-05-ukubwa-utendaji-na-ustahimilivu",
+          "title": "Ukubwa, utendaji, na ustahimilivu",
+          "heading": "3.5 Ukubwa, utendaji, na ustahimilivu",
+          "file": "locales/sw-tz/chapters/03-05-ukubwa-utendaji-na-ustahimilivu.md"
+        },
+        {
+          "part": 3,
+          "chapter": 6,
+          "decimal": "3.6",
+          "slug": "03-06-uboreshaji-wa-mifumo-ya-urithi",
+          "title": "Uboreshaji wa mifumo ya urithi",
+          "heading": "3.6 Uboreshaji wa mifumo ya urithi",
+          "file": "locales/sw-tz/chapters/03-06-uboreshaji-wa-mifumo-ya-urithi.md"
+        },
+        {
+          "part": 3,
+          "chapter": 7,
+          "decimal": "3.7",
+          "slug": "03-07-matengenezo-ya-programu",
+          "title": "Matengenezo ya programu",
+          "heading": "3.7 Matengenezo ya programu",
+          "file": "locales/sw-tz/chapters/03-07-matengenezo-ya-programu.md"
+        },
+        {
+          "part": 3,
+          "chapter": 8,
+          "decimal": "3.8",
+          "slug": "03-08-uwezo-wa-kuingiliana-na-viwango-huria",
+          "title": "Uwezo wa kuingiliana na viwango huria",
+          "heading": "3.8 Uwezo wa kuingiliana na viwango huria",
+          "file": "locales/sw-tz/chapters/03-08-uwezo-wa-kuingiliana-na-viwango-huria.md"
+        },
+        {
+          "part": 3,
+          "chapter": 9,
+          "decimal": "3.9",
+          "slug": "03-09-uhandisi-wa-mifumo",
+          "title": "Uhandisi wa mifumo",
+          "heading": "3.9 Uhandisi wa mifumo",
+          "file": "locales/sw-tz/chapters/03-09-uhandisi-wa-mifumo.md"
+        },
+        {
+          "part": 3,
+          "chapter": 10,
+          "decimal": "3.10",
+          "slug": "03-10-mifumo-iliyopachikwa-na-ya-wakati-halisi",
+          "title": "Mifumo iliyopachikwa na ya wakati halisi",
+          "heading": "3.10 Mifumo iliyopachikwa na ya wakati halisi",
+          "file": "locales/sw-tz/chapters/03-10-mifumo-iliyopachikwa-na-ya-wakati-halisi.md"
+        },
+        {
+          "part": 3,
+          "chapter": 11,
+          "decimal": "3.11",
+          "slug": "03-11-usanifu-wa-wingu",
+          "title": "Usanifu wa wingu",
+          "heading": "3.11 Usanifu wa wingu",
+          "file": "locales/sw-tz/chapters/03-11-usanifu-wa-wingu.md"
+        },
+        {
+          "part": 3,
+          "chapter": 12,
+          "decimal": "3.12",
+          "slug": "03-12-usanifu-unaoendeshwa-na-matukio-na-ujumbe",
+          "title": "Usanifu unaoendeshwa na matukio na ujumbe",
+          "heading": "3.12 Usanifu unaoendeshwa na matukio na ujumbe",
+          "file": "locales/sw-tz/chapters/03-12-usanifu-unaoendeshwa-na-matukio-na-ujumbe.md"
+        },
+        {
+          "part": 3,
+          "chapter": 13,
+          "decimal": "3.13",
+          "slug": "03-13-mitandao-na-muunganisho",
+          "title": "Mitandao na muunganisho",
+          "heading": "3.13 Mitandao na muunganisho",
+          "file": "locales/sw-tz/chapters/03-13-mitandao-na-muunganisho.md"
+        },
+        {
+          "part": 3,
+          "chapter": 14,
+          "decimal": "3.14",
+          "slug": "03-14-wapangaji-wengi-na-usanifu-wa-saas",
+          "title": "Wapangaji wengi na usanifu wa SaaS",
+          "heading": "3.14 Wapangaji wengi na usanifu wa SaaS",
+          "file": "locales/sw-tz/chapters/03-14-wapangaji-wengi-na-usanifu-wa-saas.md"
+        },
+        {
+          "part": 3,
+          "chapter": 15,
+          "decimal": "3.15",
+          "slug": "03-15-kache-na-usambazaji-wa-maudhui",
+          "title": "Kache na usambazaji wa maudhui",
+          "heading": "3.15 Kache na usambazaji wa maudhui",
+          "file": "locales/sw-tz/chapters/03-15-kache-na-usambazaji-wa-maudhui.md"
+        },
+        {
+          "part": 3,
+          "chapter": 16,
+          "decimal": "3.16",
+          "slug": "03-16-lango-la-api-na-mesh-ya-huduma",
+          "title": "Lango la API na mesh ya huduma",
+          "heading": "3.16 Lango la API na mesh ya huduma",
+          "file": "locales/sw-tz/chapters/03-16-lango-la-api-na-mesh-ya-huduma.md"
+        },
+        {
+          "part": 3,
+          "chapter": 17,
+          "decimal": "3.17",
+          "slug": "03-17-utafutaji-na-urejeshaji-wa-taarifa",
+          "title": "Utafutaji na urejeshaji wa taarifa",
+          "heading": "3.17 Utafutaji na urejeshaji wa taarifa",
+          "file": "locales/sw-tz/chapters/03-17-utafutaji-na-urejeshaji-wa-taarifa.md"
+        },
+        {
+          "part": 4,
+          "chapter": 0,
+          "decimal": "4.0",
+          "slug": "04-00-utangulizi-wa-sehemu-ya-4-usalama",
+          "title": "Utangulizi wa Sehemu ya 4: Usalama",
+          "heading": "4.0 Utangulizi wa Sehemu ya 4: Usalama",
+          "file": "locales/sw-tz/chapters/04-00-utangulizi-wa-sehemu-ya-4-usalama.md"
+        },
+        {
+          "part": 4,
+          "chapter": 1,
+          "decimal": "4.1",
+          "slug": "04-01-misingi-ya-usalama-na-utamaduni",
+          "title": "Misingi ya usalama na utamaduni",
+          "heading": "4.1 Misingi ya usalama na utamaduni",
+          "file": "locales/sw-tz/chapters/04-01-misingi-ya-usalama-na-utamaduni.md"
+        },
+        {
+          "part": 4,
+          "chapter": 2,
+          "decimal": "4.2",
+          "slug": "04-02-usalama-wa-programu",
+          "title": "Usalama wa programu",
+          "heading": "4.2 Usalama wa programu",
+          "file": "locales/sw-tz/chapters/04-02-usalama-wa-programu.md"
+        },
+        {
+          "part": 4,
+          "chapter": 3,
+          "decimal": "4.3",
+          "slug": "04-03-usalama-wa-miundombinu-na-wingu",
+          "title": "Usalama wa miundombinu na wingu",
+          "heading": "4.3 Usalama wa miundombinu na wingu",
+          "file": "locales/sw-tz/chapters/04-03-usalama-wa-miundombinu-na-wingu.md"
+        },
+        {
+          "part": 4,
+          "chapter": 4,
+          "decimal": "4.4",
+          "slug": "04-04-operesheni-za-usalama",
+          "title": "Operesheni za usalama",
+          "heading": "4.4 Operesheni za usalama",
+          "file": "locales/sw-tz/chapters/04-04-operesheni-za-usalama.md"
+        },
+        {
+          "part": 4,
+          "chapter": 5,
+          "decimal": "4.5",
+          "slug": "04-05-faragha-na-ulinzi-wa-data",
+          "title": "Faragha na ulinzi wa data",
+          "heading": "4.5 Faragha na ulinzi wa data",
+          "file": "locales/sw-tz/chapters/04-05-faragha-na-ulinzi-wa-data.md"
+        },
+        {
+          "part": 4,
+          "chapter": 6,
+          "decimal": "4.6",
+          "slug": "04-06-uzingatiaji-na-utawala",
+          "title": "Uzingatiaji na utawala",
+          "heading": "4.6 Uzingatiaji na utawala",
+          "file": "locales/sw-tz/chapters/04-06-uzingatiaji-na-utawala.md"
+        },
+        {
+          "part": 4,
+          "chapter": 7,
+          "decimal": "4.7",
+          "slug": "04-07-usimamizi-wa-utambulisho-na-ufikiaji",
+          "title": "Usimamizi wa utambulisho na ufikiaji",
+          "heading": "4.7 Usimamizi wa utambulisho na ufikiaji",
+          "file": "locales/sw-tz/chapters/04-07-usimamizi-wa-utambulisho-na-ufikiaji.md"
+        },
+        {
+          "part": 4,
+          "chapter": 8,
+          "decimal": "4.8",
+          "slug": "04-08-kriptografia-na-usimamizi-wa-funguo",
+          "title": "Kriptografia na usimamizi wa funguo",
+          "heading": "4.8 Kriptografia na usimamizi wa funguo",
+          "file": "locales/sw-tz/chapters/04-08-kriptografia-na-usimamizi-wa-funguo.md"
+        },
+        {
+          "part": 4,
+          "chapter": 9,
+          "decimal": "4.9",
+          "slug": "04-09-mzunguko-salama-wa-uendelezaji-wa-programu",
+          "title": "Mzunguko salama wa uendelezaji wa programu",
+          "heading": "4.9 Mzunguko salama wa uendelezaji wa programu",
+          "file": "locales/sw-tz/chapters/04-09-mzunguko-salama-wa-uendelezaji-wa-programu.md"
+        },
+        {
+          "part": 4,
+          "chapter": 10,
+          "decimal": "4.10",
+          "slug": "04-10-majaribio-ya-kupenya-na-red-teaming",
+          "title": "Majaribio ya kupenya na red teaming",
+          "heading": "4.10 Majaribio ya kupenya na red teaming",
+          "file": "locales/sw-tz/chapters/04-10-majaribio-ya-kupenya-na-red-teaming.md"
+        },
+        {
+          "part": 5,
+          "chapter": 0,
+          "decimal": "5.0",
+          "slug": "05-00-utangulizi-wa-sehemu-ya-5-usanifu-wa-ui-ux",
+          "title": "Utangulizi wa Sehemu ya 5: Usanifu wa UI/UX",
+          "heading": "5.0 Utangulizi wa Sehemu ya 5: Usanifu wa UI/UX",
+          "file": "locales/sw-tz/chapters/05-00-utangulizi-wa-sehemu-ya-5-usanifu-wa-ui-ux.md"
+        },
+        {
+          "part": 5,
+          "chapter": 1,
+          "decimal": "5.1",
+          "slug": "05-01-misingi-ya-ux",
+          "title": "Misingi ya UX",
+          "heading": "5.1 Misingi ya UX",
+          "file": "locales/sw-tz/chapters/05-01-misingi-ya-ux.md"
+        },
+        {
+          "part": 5,
+          "chapter": 2,
+          "decimal": "5.2",
+          "slug": "05-02-usanifu-wa-ui-na-mifumo-ya-usanifu",
+          "title": "Usanifu wa UI na mifumo ya usanifu",
+          "heading": "5.2 Usanifu wa UI na mifumo ya usanifu",
+          "file": "locales/sw-tz/chapters/05-02-usanifu-wa-ui-na-mifumo-ya-usanifu.md"
+        },
+        {
+          "part": 5,
+          "chapter": 3,
+          "decimal": "5.3",
+          "slug": "05-03-ufikivu",
+          "title": "Ufikivu",
+          "heading": "5.3 Ufikivu",
+          "file": "locales/sw-tz/chapters/05-03-ufikivu.md"
+        },
+        {
+          "part": 5,
+          "chapter": 4,
+          "decimal": "5.4",
+          "slug": "05-04-usanifu-wa-maudhui-na-mawasiliano",
+          "title": "Usanifu wa maudhui na mawasiliano",
+          "heading": "5.4 Usanifu wa maudhui na mawasiliano",
+          "file": "locales/sw-tz/chapters/05-04-usanifu-wa-maudhui-na-mawasiliano.md"
+        },
+        {
+          "part": 5,
+          "chapter": 5,
+          "decimal": "5.5",
+          "slug": "05-05-uandaaji-wa-kimataifa-na-ulokalishaji",
+          "title": "Uandaaji wa kimataifa na ulokalishaji",
+          "heading": "5.5 Uandaaji wa kimataifa na ulokalishaji",
+          "file": "locales/sw-tz/chapters/05-05-uandaaji-wa-kimataifa-na-ulokalishaji.md"
+        },
+        {
+          "part": 5,
+          "chapter": 6,
+          "decimal": "5.6",
+          "slug": "05-06-uhandisi-wa-frontend",
+          "title": "Uhandisi wa frontend",
+          "heading": "5.6 Uhandisi wa frontend",
+          "file": "locales/sw-tz/chapters/05-06-uhandisi-wa-frontend.md"
+        },
+        {
+          "part": 5,
+          "chapter": 7,
+          "decimal": "5.7",
+          "slug": "05-07-uendelezaji-wa-programu-za-simu",
+          "title": "Uendelezaji wa programu za simu",
+          "heading": "5.7 Uendelezaji wa programu za simu",
+          "file": "locales/sw-tz/chapters/05-07-uendelezaji-wa-programu-za-simu.md"
+        },
+        {
+          "part": 5,
+          "chapter": 8,
+          "decimal": "5.8",
+          "slug": "05-08-utafiti-wa-usanifu-na-majaribio-ya-utumiaji",
+          "title": "Utafiti wa usanifu na majaribio ya utumiaji",
+          "heading": "5.8 Utafiti wa usanifu na majaribio ya utumiaji",
+          "file": "locales/sw-tz/chapters/05-08-utafiti-wa-usanifu-na-majaribio-ya-utumiaji.md"
+        },
+        {
+          "part": 5,
+          "chapter": 9,
+          "decimal": "5.9",
+          "slug": "05-09-usanifu-wa-huduma",
+          "title": "Usanifu wa huduma",
+          "heading": "5.9 Usanifu wa huduma",
+          "file": "locales/sw-tz/chapters/05-09-usanifu-wa-huduma.md"
+        },
+        {
+          "part": 5,
+          "chapter": 10,
+          "decimal": "5.10",
+          "slug": "05-10-usanifu-wa-taswira-za-data",
+          "title": "Usanifu wa taswira za data",
+          "heading": "5.10 Usanifu wa taswira za data",
+          "file": "locales/sw-tz/chapters/05-10-usanifu-wa-taswira-za-data.md"
+        },
+        {
+          "part": 6,
+          "chapter": 0,
+          "decimal": "6.0",
+          "slug": "06-00-utangulizi-wa-sehemu-ya-6-akili-bandia",
+          "title": "Utangulizi wa Sehemu ya 6: Akili Bandia",
+          "heading": "6.0 Utangulizi wa Sehemu ya 6: Akili Bandia",
+          "file": "locales/sw-tz/chapters/06-00-utangulizi-wa-sehemu-ya-6-akili-bandia.md"
+        },
+        {
+          "part": 6,
+          "chapter": 1,
+          "decimal": "6.1",
+          "slug": "06-01-mkakati-wa-ai-na-utayari",
+          "title": "Mkakati wa AI na utayari",
+          "heading": "6.1 Mkakati wa AI na utayari",
+          "file": "locales/sw-tz/chapters/06-01-mkakati-wa-ai-na-utayari.md"
+        },
+        {
+          "part": 6,
+          "chapter": 2,
+          "decimal": "6.2",
+          "slug": "06-02-uhandisi-wa-kujifunza-kwa-mashine",
+          "title": "Uhandisi wa kujifunza kwa mashine (MLOps)",
+          "heading": "6.2 Uhandisi wa kujifunza kwa mashine (MLOps)",
+          "file": "locales/sw-tz/chapters/06-02-uhandisi-wa-kujifunza-kwa-mashine.md"
+        },
+        {
+          "part": 6,
+          "chapter": 3,
+          "decimal": "6.3",
+          "slug": "06-03-ai-ya-kuzalisha-na-programu-za-llm",
+          "title": "AI ya kuzalisha na programu za LLM",
+          "heading": "6.3 AI ya kuzalisha na programu za LLM",
+          "file": "locales/sw-tz/chapters/06-03-ai-ya-kuzalisha-na-programu-za-llm.md"
+        },
+        {
+          "part": 6,
+          "chapter": 4,
+          "decimal": "6.4",
+          "slug": "06-04-uendelezaji-wa-programu-unaosaidiwa-na-ai",
+          "title": "Uendelezaji wa programu unaosaidiwa na AI",
+          "heading": "6.4 Uendelezaji wa programu unaosaidiwa na AI",
+          "file": "locales/sw-tz/chapters/06-04-uendelezaji-wa-programu-unaosaidiwa-na-ai.md"
+        },
+        {
+          "part": 6,
+          "chapter": 5,
+          "decimal": "6.5",
+          "slug": "06-05-ai-ya-kuwajibika-na-ya-kuaminika",
+          "title": "AI ya kuwajibika na ya kuaminika",
+          "heading": "6.5 AI ya kuwajibika na ya kuaminika",
+          "file": "locales/sw-tz/chapters/06-05-ai-ya-kuwajibika-na-ya-kuaminika.md"
+        },
+        {
+          "part": 6,
+          "chapter": 6,
+          "decimal": "6.6",
+          "slug": "06-06-miundombinu-na-operesheni-za-ai",
+          "title": "Miundombinu na operesheni za AI",
+          "heading": "6.6 Miundombinu na operesheni za AI",
+          "file": "locales/sw-tz/chapters/06-06-miundombinu-na-operesheni-za-ai.md"
+        },
+        {
+          "part": 6,
+          "chapter": 7,
+          "decimal": "6.7",
+          "slug": "06-07-mawakala-wa-ai-na-mifumo-ya-kiwakala",
+          "title": "Mawakala wa AI na mifumo ya kiwakala",
+          "heading": "6.7 Mawakala wa AI na mifumo ya kiwakala",
+          "file": "locales/sw-tz/chapters/06-07-mawakala-wa-ai-na-mifumo-ya-kiwakala.md"
+        },
+        {
+          "part": 6,
+          "chapter": 8,
+          "decimal": "6.8",
+          "slug": "06-08-tathmini-na-majaribio-ya-ai",
+          "title": "Tathmini na majaribio ya AI",
+          "heading": "6.8 Tathmini na majaribio ya AI",
+          "file": "locales/sw-tz/chapters/06-08-tathmini-na-majaribio-ya-ai.md"
+        },
+        {
+          "part": 6,
+          "chapter": 9,
+          "decimal": "6.9",
+          "slug": "06-09-uhandisi-wa-maagizo-na-usanifu-wa-muktadha",
+          "title": "Uhandisi wa maagizo na usanifu wa muktadha",
+          "heading": "6.9 Uhandisi wa maagizo na usanifu wa muktadha",
+          "file": "locales/sw-tz/chapters/06-09-uhandisi-wa-maagizo-na-usanifu-wa-muktadha.md"
+        },
+        {
+          "part": 7,
+          "chapter": 0,
+          "decimal": "7.0",
+          "slug": "07-00-utangulizi-wa-sehemu-ya-7-data-uchanganuzi-na-ufahamu",
+          "title": "Utangulizi wa Sehemu ya 7: Data, Uchanganuzi, na Ufahamu",
+          "heading": "7.0 Utangulizi wa Sehemu ya 7: Data, Uchanganuzi, na Ufahamu",
+          "file": "locales/sw-tz/chapters/07-00-utangulizi-wa-sehemu-ya-7-data-uchanganuzi-na-ufahamu.md"
+        },
+        {
+          "part": 7,
+          "chapter": 1,
+          "decimal": "7.1",
+          "slug": "07-01-mkakati-wa-data-na-utawala",
+          "title": "Mkakati wa data na utawala",
+          "heading": "7.1 Mkakati wa data na utawala",
+          "file": "locales/sw-tz/chapters/07-01-mkakati-wa-data-na-utawala.md"
+        },
+        {
+          "part": 7,
+          "chapter": 2,
+          "decimal": "7.2",
+          "slug": "07-02-uhandisi-wa-data",
+          "title": "Uhandisi wa data",
+          "heading": "7.2 Uhandisi wa data",
+          "file": "locales/sw-tz/chapters/07-02-uhandisi-wa-data.md"
+        },
+        {
+          "part": 7,
+          "chapter": 3,
+          "decimal": "7.3",
+          "slug": "07-03-uchanganuzi-na-akili-ya-biashara",
+          "title": "Uchanganuzi na akili ya biashara",
+          "heading": "7.3 Uchanganuzi na akili ya biashara",
+          "file": "locales/sw-tz/chapters/07-03-uchanganuzi-na-akili-ya-biashara.md"
+        },
+        {
+          "part": 7,
+          "chapter": 4,
+          "decimal": "7.4",
+          "slug": "07-04-uchanganuzi-wa-bidhaa-na-majaribio",
+          "title": "Uchanganuzi wa bidhaa na majaribio",
+          "heading": "7.4 Uchanganuzi wa bidhaa na majaribio",
+          "file": "locales/sw-tz/chapters/07-04-uchanganuzi-wa-bidhaa-na-majaribio.md"
+        },
+        {
+          "part": 7,
+          "chapter": 5,
+          "decimal": "7.5",
+          "slug": "07-05-sayansi-ya-maamuzi-na-utamaduni-wa-data",
+          "title": "Sayansi ya maamuzi na utamaduni wa data",
+          "heading": "7.5 Sayansi ya maamuzi na utamaduni wa data",
+          "file": "locales/sw-tz/chapters/07-05-sayansi-ya-maamuzi-na-utamaduni-wa-data.md"
+        },
+        {
+          "part": 7,
+          "chapter": 6,
+          "decimal": "7.6",
+          "slug": "07-06-data-ya-wakati-halisi-na-ya-kutiririka",
+          "title": "Data ya wakati halisi na ya kutiririka",
+          "heading": "7.6 Data ya wakati halisi na ya kutiririka",
+          "file": "locales/sw-tz/chapters/07-06-data-ya-wakati-halisi-na-ya-kutiririka.md"
+        },
+        {
+          "part": 7,
+          "chapter": 7,
+          "decimal": "7.7",
+          "slug": "07-07-uundaji-wa-data-na-safu-ya-kisemantiki",
+          "title": "Uundaji wa data na safu ya kisemantiki",
+          "heading": "7.7 Uundaji wa data na safu ya kisemantiki",
+          "file": "locales/sw-tz/chapters/07-07-uundaji-wa-data-na-safu-ya-kisemantiki.md"
+        },
+        {
+          "part": 7,
+          "chapter": 8,
+          "decimal": "7.8",
+          "slug": "07-08-ubora-wa-data-na-uonekanaji",
+          "title": "Ubora wa data na uonekanaji",
+          "heading": "7.8 Ubora wa data na uonekanaji",
+          "file": "locales/sw-tz/chapters/07-08-ubora-wa-data-na-uonekanaji.md"
+        },
+        {
+          "part": 7,
+          "chapter": 9,
+          "decimal": "7.9",
+          "slug": "07-09-usimamizi-wa-data-kuu-na-data-ya-rejeo",
+          "title": "Usimamizi wa data kuu na data ya rejeo",
+          "heading": "7.9 Usimamizi wa data kuu na data ya rejeo",
+          "file": "locales/sw-tz/chapters/07-09-usimamizi-wa-data-kuu-na-data-ya-rejeo.md"
+        },
+        {
+          "part": 8,
+          "chapter": 0,
+          "decimal": "8.0",
+          "slug": "08-00-utangulizi-wa-sehemu-ya-8-uotomatishaji",
+          "title": "Utangulizi wa Sehemu ya 8: Uotomatishaji",
+          "heading": "8.0 Utangulizi wa Sehemu ya 8: Uotomatishaji",
+          "file": "locales/sw-tz/chapters/08-00-utangulizi-wa-sehemu-ya-8-uotomatishaji.md"
+        },
+        {
+          "part": 8,
+          "chapter": 1,
+          "decimal": "8.1",
+          "slug": "08-01-ci-cd-na-utoaji",
+          "title": "CI/CD na utoaji",
+          "heading": "8.1 CI/CD na utoaji",
+          "file": "locales/sw-tz/chapters/08-01-ci-cd-na-utoaji.md"
+        },
+        {
+          "part": 8,
+          "chapter": 2,
+          "decimal": "8.2",
+          "slug": "08-02-miundombinu-kama-msimbo-na-usanidi",
+          "title": "Miundombinu-kama-msimbo na usanidi",
+          "heading": "8.2 Miundombinu-kama-msimbo na usanidi",
+          "file": "locales/sw-tz/chapters/08-02-miundombinu-kama-msimbo-na-usanidi.md"
+        },
+        {
+          "part": 8,
+          "chapter": 3,
+          "decimal": "8.3",
+          "slug": "08-03-kontena-uratibu-na-asili-ya-wingu",
+          "title": "Kontena, uratibu, na asili ya wingu",
+          "heading": "8.3 Kontena, uratibu, na asili ya wingu",
+          "file": "locales/sw-tz/chapters/08-03-kontena-uratibu-na-asili-ya-wingu.md"
+        },
+        {
+          "part": 8,
+          "chapter": 4,
+          "decimal": "8.4",
+          "slug": "08-04-uhandisi-wa-jukwaa-na-uzoefu-wa-msanidi",
+          "title": "Uhandisi wa jukwaa na uzoefu wa msanidi",
+          "heading": "8.4 Uhandisi wa jukwaa na uzoefu wa msanidi",
+          "file": "locales/sw-tz/chapters/08-04-uhandisi-wa-jukwaa-na-uzoefu-wa-msanidi.md"
+        },
+        {
+          "part": 8,
+          "chapter": 5,
+          "decimal": "8.5",
+          "slug": "08-05-uotomatishaji-wa-majaribio-na-mchakato",
+          "title": "Uotomatishaji wa majaribio na mchakato",
+          "heading": "8.5 Uotomatishaji wa majaribio na mchakato",
+          "file": "locales/sw-tz/chapters/08-05-uotomatishaji-wa-majaribio-na-mchakato.md"
+        },
+        {
+          "part": 8,
+          "chapter": 6,
+          "decimal": "8.6",
+          "slug": "08-06-usimamizi-wa-matoleo-na-utoaji-wa-hatua-kwa-hatua",
+          "title": "Usimamizi wa matoleo na utoaji wa hatua kwa hatua",
+          "heading": "8.6 Usimamizi wa matoleo na utoaji wa hatua kwa hatua",
+          "file": "locales/sw-tz/chapters/08-06-usimamizi-wa-matoleo-na-utoaji-wa-hatua-kwa-hatua.md"
+        },
+        {
+          "part": 8,
+          "chapter": 7,
+          "decimal": "8.7",
+          "slug": "08-07-mifumo-ya-ujenzi-na-usimamizi-wa-mabaki",
+          "title": "Mifumo ya ujenzi na usimamizi wa mabaki",
+          "heading": "8.7 Mifumo ya ujenzi na usimamizi wa mabaki",
+          "file": "locales/sw-tz/chapters/08-07-mifumo-ya-ujenzi-na-usimamizi-wa-mabaki.md"
+        },
+        {
+          "part": 9,
+          "chapter": 0,
+          "decimal": "9.0",
+          "slug": "09-00-utangulizi-wa-sehemu-ya-9-operesheni-kutegemewa-na-uonekanaji",
+          "title": "Utangulizi wa Sehemu ya 9: Operesheni, Kutegemewa, na Uonekanaji",
+          "heading": "9.0 Utangulizi wa Sehemu ya 9: Operesheni, Kutegemewa, na Uonekanaji",
+          "file": "locales/sw-tz/chapters/09-00-utangulizi-wa-sehemu-ya-9-operesheni-kutegemewa-na-uonekanaji.md"
+        },
+        {
+          "part": 9,
+          "chapter": 1,
+          "decimal": "9.1",
+          "slug": "09-01-uhandisi-wa-kutegemewa-wa-tovuti",
+          "title": "Uhandisi wa kutegemewa wa tovuti",
+          "heading": "9.1 Uhandisi wa kutegemewa wa tovuti",
+          "file": "locales/sw-tz/chapters/09-01-uhandisi-wa-kutegemewa-wa-tovuti.md"
+        },
+        {
+          "part": 9,
+          "chapter": 2,
+          "decimal": "9.2",
+          "slug": "09-02-uonekanaji-na-telemetry",
+          "title": "Uonekanaji na telemetry",
+          "heading": "9.2 Uonekanaji na telemetry",
+          "file": "locales/sw-tz/chapters/09-02-uonekanaji-na-telemetry.md"
+        },
+        {
+          "part": 9,
+          "chapter": 3,
+          "decimal": "9.3",
+          "slug": "09-03-usimamizi-wa-matukio",
+          "title": "Usimamizi wa matukio",
+          "heading": "9.3 Usimamizi wa matukio",
+          "file": "locales/sw-tz/chapters/09-03-usimamizi-wa-matukio.md"
+        },
+        {
+          "part": 9,
+          "chapter": 4,
+          "decimal": "9.4",
+          "slug": "09-04-gharama-uendelevu-na-programu-ya-kijani",
+          "title": "Gharama, uendelevu, na programu ya kijani",
+          "heading": "9.4 Gharama, uendelevu, na programu ya kijani",
+          "file": "locales/sw-tz/chapters/09-04-gharama-uendelevu-na-programu-ya-kijani.md"
+        },
+        {
+          "part": 9,
+          "chapter": 5,
+          "decimal": "9.5",
+          "slug": "09-05-kupona-kutoka-maafa-na-mwendelezo-wa-biashara",
+          "title": "Kupona kutoka maafa na mwendelezo wa biashara",
+          "heading": "9.5 Kupona kutoka maafa na mwendelezo wa biashara",
+          "file": "locales/sw-tz/chapters/09-05-kupona-kutoka-maafa-na-mwendelezo-wa-biashara.md"
+        },
+        {
+          "part": 9,
+          "chapter": 6,
+          "decimal": "9.6",
+          "slug": "09-06-uhandisi-wa-machafuko-na-majaribio-ya-ustahimilivu",
+          "title": "Uhandisi wa machafuko na majaribio ya ustahimilivu",
+          "heading": "9.6 Uhandisi wa machafuko na majaribio ya ustahimilivu",
+          "file": "locales/sw-tz/chapters/09-06-uhandisi-wa-machafuko-na-majaribio-ya-ustahimilivu.md"
+        },
+        {
+          "part": 9,
+          "chapter": 7,
+          "decimal": "9.7",
+          "slug": "09-07-upangaji-wa-uwezo-na-utabiri-wa-mahitaji",
+          "title": "Upangaji wa uwezo na utabiri wa mahitaji",
+          "heading": "9.7 Upangaji wa uwezo na utabiri wa mahitaji",
+          "file": "locales/sw-tz/chapters/09-07-upangaji-wa-uwezo-na-utabiri-wa-mahitaji.md"
+        },
+        {
+          "part": 9,
+          "chapter": 8,
+          "decimal": "9.8",
+          "slug": "09-08-simu-ya-dharura-na-utayari-wa-uendeshaji",
+          "title": "Simu ya dharura na utayari wa uendeshaji",
+          "heading": "9.8 Simu ya dharura na utayari wa uendeshaji",
+          "file": "locales/sw-tz/chapters/09-08-simu-ya-dharura-na-utayari-wa-uendeshaji.md"
+        },
+        {
+          "part": 10,
+          "chapter": 0,
+          "decimal": "10.0",
+          "slug": "10-00-utangulizi-wa-sehemu-ya-10-usimamizi-wa-miradi-bidhaa-na-programu",
+          "title": "Utangulizi wa Sehemu ya 10: Usimamizi wa Miradi, Bidhaa, na Programu",
+          "heading": "10.0 Utangulizi wa Sehemu ya 10: Usimamizi wa Miradi, Bidhaa, na Programu",
+          "file": "locales/sw-tz/chapters/10-00-utangulizi-wa-sehemu-ya-10-usimamizi-wa-miradi-bidhaa-na-programu.md"
+        },
+        {
+          "part": 10,
+          "chapter": 1,
+          "decimal": "10.1",
+          "slug": "10-01-usimamizi-wa-jalada-na-programu",
+          "title": "Usimamizi wa jalada na programu",
+          "heading": "10.1 Usimamizi wa jalada na programu",
+          "file": "locales/sw-tz/chapters/10-01-usimamizi-wa-jalada-na-programu.md"
+        },
+        {
+          "part": 10,
+          "chapter": 2,
+          "decimal": "10.2",
+          "slug": "10-02-hatari-ukaguzi-na-uhakikisho",
+          "title": "Hatari, ukaguzi, na uhakikisho",
+          "heading": "10.2 Hatari, ukaguzi, na uhakikisho",
+          "file": "locales/sw-tz/chapters/10-02-hatari-ukaguzi-na-uhakikisho.md"
+        },
+        {
+          "part": 10,
+          "chapter": 3,
+          "decimal": "10.3",
+          "slug": "10-03-ununuzi-chanzo-huria-na-leseni",
+          "title": "Ununuzi, chanzo huria, na leseni",
+          "heading": "10.3 Ununuzi, chanzo huria, na leseni",
+          "file": "locales/sw-tz/chapters/10-03-ununuzi-chanzo-huria-na-leseni.md"
+        },
+        {
+          "part": 10,
+          "chapter": 4,
+          "decimal": "10.4",
+          "slug": "10-04-kudumisha-mifumo-mikubwa-na-ya-muda-mrefu",
+          "title": "Kudumisha mifumo mikubwa na ya muda mrefu",
+          "heading": "10.4 Kudumisha mifumo mikubwa na ya muda mrefu",
+          "file": "locales/sw-tz/chapters/10-04-kudumisha-mifumo-mikubwa-na-ya-muda-mrefu.md"
+        },
+        {
+          "part": 10,
+          "chapter": 5,
+          "decimal": "10.5",
+          "slug": "10-05-maadili-uwajibikaji-na-maslahi-ya-umma",
+          "title": "Maadili, uwajibikaji, na maslahi ya umma",
+          "heading": "10.5 Maadili, uwajibikaji, na maslahi ya umma",
+          "file": "locales/sw-tz/chapters/10-05-maadili-uwajibikaji-na-maslahi-ya-umma.md"
+        },
+        {
+          "part": 10,
+          "chapter": 6,
+          "decimal": "10.6",
+          "slug": "10-06-usimamizi-wa-miradi",
+          "title": "Usimamizi wa miradi",
+          "heading": "10.6 Usimamizi wa miradi",
+          "file": "locales/sw-tz/chapters/10-06-usimamizi-wa-miradi.md"
+        },
+        {
+          "part": 10,
+          "chapter": 7,
+          "decimal": "10.7",
+          "slug": "10-07-agile",
+          "title": "Agile",
+          "heading": "10.7 Agile",
+          "file": "locales/sw-tz/chapters/10-07-agile.md"
+        },
+        {
+          "part": 10,
+          "chapter": 8,
+          "decimal": "10.8",
+          "slug": "10-08-vielelezo-vya-ukomavu",
+          "title": "Vielelezo vya ukomavu",
+          "heading": "10.8 Vielelezo vya ukomavu",
+          "file": "locales/sw-tz/chapters/10-08-vielelezo-vya-ukomavu.md"
+        },
+        {
+          "part": 10,
+          "chapter": 9,
+          "decimal": "10.9",
+          "slug": "10-09-ushirikiano-wa-ubunifu",
+          "title": "Ushirikiano wa ubunifu",
+          "heading": "10.9 Ushirikiano wa ubunifu",
+          "file": "locales/sw-tz/chapters/10-09-ushirikiano-wa-ubunifu.md"
+        },
+        {
+          "part": 10,
+          "chapter": 10,
+          "decimal": "10.10",
+          "slug": "10-10-uchumi-wa-uhandisi-wa-programu",
+          "title": "Uchumi wa uhandisi wa programu",
+          "heading": "10.10 Uchumi wa uhandisi wa programu",
+          "file": "locales/sw-tz/chapters/10-10-uchumi-wa-uhandisi-wa-programu.md"
+        },
+        {
+          "part": 10,
+          "chapter": 11,
+          "decimal": "10.11",
+          "slug": "10-11-enzi-ya-kidijitali",
+          "title": "Enzi ya kidijitali",
+          "heading": "10.11 Enzi ya kidijitali",
+          "file": "locales/sw-tz/chapters/10-11-enzi-ya-kidijitali.md"
+        },
+        {
+          "part": 10,
+          "chapter": 12,
+          "decimal": "10.12",
+          "slug": "10-12-chanzo-huria-dhidi-ya-chanzo-funge",
+          "title": "Chanzo huria dhidi ya chanzo funge",
+          "heading": "10.12 Chanzo huria dhidi ya chanzo funge",
+          "file": "locales/sw-tz/chapters/10-12-chanzo-huria-dhidi-ya-chanzo-funge.md"
+        },
+        {
+          "part": 10,
+          "chapter": 13,
+          "decimal": "10.13",
+          "slug": "10-13-ushirikiano-kati-ya-mashirika",
+          "title": "Ushirikiano kati ya mashirika",
+          "heading": "10.13 Ushirikiano kati ya mashirika",
+          "file": "locales/sw-tz/chapters/10-13-ushirikiano-kati-ya-mashirika.md"
+        },
+        {
+          "part": 10,
+          "chapter": 14,
+          "decimal": "10.14",
+          "slug": "10-14-usimamizi-wa-bidhaa-na-ugunduzi",
+          "title": "Usimamizi wa bidhaa na ugunduzi",
+          "heading": "10.14 Usimamizi wa bidhaa na ugunduzi",
+          "file": "locales/sw-tz/chapters/10-14-usimamizi-wa-bidhaa-na-ugunduzi.md"
+        },
+        {
+          "part": 10,
+          "chapter": 15,
+          "decimal": "10.15",
+          "slug": "10-15-ukadiriaji-na-utabiri",
+          "title": "Ukadiriaji na utabiri",
+          "heading": "10.15 Ukadiriaji na utabiri",
+          "file": "locales/sw-tz/chapters/10-15-ukadiriaji-na-utabiri.md"
+        },
+        {
+          "part": 10,
+          "chapter": 16,
+          "decimal": "10.16",
+          "slug": "10-16-usimamizi-wa-wadau-na-mawasiliano",
+          "title": "Usimamizi wa wadau na mawasiliano",
+          "heading": "10.16 Usimamizi wa wadau na mawasiliano",
+          "file": "locales/sw-tz/chapters/10-16-usimamizi-wa-wadau-na-mawasiliano.md"
+        },
+        {
+          "part": 10,
+          "chapter": 17,
+          "decimal": "10.17",
+          "slug": "10-17-usimamizi-wa-mabadiliko-ya-shirika",
+          "title": "Usimamizi wa mabadiliko ya shirika",
+          "heading": "10.17 Usimamizi wa mabadiliko ya shirika",
+          "file": "locales/sw-tz/chapters/10-17-usimamizi-wa-mabadiliko-ya-shirika.md"
+        },
+        {
+          "part": 10,
+          "chapter": 18,
+          "decimal": "10.18",
+          "slug": "10-18-ofisi-ya-programu-ya-chanzo-huria-na-mchango-wa-chanzo-cha-juu",
+          "title": "Ofisi ya programu ya chanzo huria (OSPO) na mchango wa chanzo cha juu",
+          "heading": "10.18 Ofisi ya programu ya chanzo huria (OSPO) na mchango wa chanzo cha juu",
+          "file": "locales/sw-tz/chapters/10-18-ofisi-ya-programu-ya-chanzo-huria-na-mchango-wa-chanzo-cha-juu.md"
+        },
+        {
+          "part": 11,
+          "chapter": 0,
+          "decimal": "11.0",
+          "slug": "11-00-utangulizi-wa-sehemu-ya-11-mtiririko-mabomba-ya-ugunduzi-na-utoaji",
+          "title": "Utangulizi wa Sehemu ya 11: Mtiririko: Mabomba ya Ugunduzi na Utoaji",
+          "heading": "11.0 Utangulizi wa Sehemu ya 11: Mtiririko: Mabomba ya Ugunduzi na Utoaji",
+          "file": "locales/sw-tz/chapters/11-00-utangulizi-wa-sehemu-ya-11-mtiririko-mabomba-ya-ugunduzi-na-utoaji.md"
+        },
+        {
+          "part": 11,
+          "chapter": 1,
+          "decimal": "11.1",
+          "slug": "11-01-bomba-la-ugunduzi",
+          "title": "Bomba la ugunduzi",
+          "heading": "11.1 Bomba la ugunduzi",
+          "file": "locales/sw-tz/chapters/11-01-bomba-la-ugunduzi.md"
+        },
+        {
+          "part": 11,
+          "chapter": 2,
+          "decimal": "11.2",
+          "slug": "11-02-bomba-la-utoaji",
+          "title": "Bomba la utoaji",
+          "heading": "11.2 Bomba la utoaji",
+          "file": "locales/sw-tz/chapters/11-02-bomba-la-utoaji.md"
+        },
+        {
+          "part": 11,
+          "chapter": 3,
+          "decimal": "11.3",
+          "slug": "11-03-nadharia-ya-foleni",
+          "title": "Nadharia ya foleni",
+          "heading": "11.3 Nadharia ya foleni",
+          "file": "locales/sw-tz/chapters/11-03-nadharia-ya-foleni.md"
+        },
+        {
+          "part": 11,
+          "chapter": 4,
+          "decimal": "11.4",
+          "slug": "11-04-malengo-na-matokeo-muhimu",
+          "title": "Malengo na matokeo muhimu (OKR)",
+          "heading": "11.4 Malengo na matokeo muhimu (OKR)",
+          "file": "locales/sw-tz/chapters/11-04-malengo-na-matokeo-muhimu.md"
+        },
+        {
+          "part": 11,
+          "chapter": 5,
+          "decimal": "11.5",
+          "slug": "11-05-viashiria-muhimu-vya-utendaji",
+          "title": "Viashiria muhimu vya utendaji (KPI)",
+          "heading": "11.5 Viashiria muhimu vya utendaji (KPI)",
+          "file": "locales/sw-tz/chapters/11-05-viashiria-muhimu-vya-utendaji.md"
+        },
+        {
+          "part": 11,
+          "chapter": 6,
+          "decimal": "11.6",
+          "slug": "11-06-ramani-ya-mkondo-wa-thamani-na-gharama-ya-kuchelewa",
+          "title": "Ramani ya mkondo wa thamani na gharama ya kuchelewa",
+          "heading": "11.6 Ramani ya mkondo wa thamani na gharama ya kuchelewa",
+          "file": "locales/sw-tz/chapters/11-06-ramani-ya-mkondo-wa-thamani-na-gharama-ya-kuchelewa.md"
+        },
+        {
+          "part": 12,
+          "chapter": 0,
+          "decimal": "12.0",
+          "slug": "12-00-viambatisho",
+          "title": "Viambatisho",
+          "heading": "12.0 Viambatisho",
+          "file": "locales/sw-tz/chapters/12-00-viambatisho.md"
+        },
+        {
+          "part": 12,
+          "chapter": 1,
+          "decimal": "12.1",
+          "slug": "12-01-faharasa-ya-istilahi",
+          "title": "Faharasa ya istilahi",
+          "heading": "12.1 Faharasa ya istilahi",
+          "file": "locales/sw-tz/chapters/12-01-faharasa-ya-istilahi.md"
+        },
+        {
+          "part": 12,
+          "chapter": 2,
+          "decimal": "12.2",
+          "slug": "12-02-orodha-hakiki",
+          "title": "Orodha hakiki",
+          "heading": "12.2 Orodha hakiki",
+          "file": "locales/sw-tz/chapters/12-02-orodha-hakiki.md"
+        },
+        {
+          "part": 12,
+          "chapter": 3,
+          "decimal": "12.3",
+          "slug": "12-03-violezo",
+          "title": "Violezo",
+          "heading": "12.3 Violezo",
+          "file": "locales/sw-tz/chapters/12-03-violezo.md"
+        },
+        {
+          "part": 12,
+          "chapter": 4,
+          "decimal": "12.4",
+          "slug": "12-04-tathmini-binafsi-ya-ukomavu",
+          "title": "Tathmini binafsi ya ukomavu",
+          "heading": "12.4 Tathmini binafsi ya ukomavu",
+          "file": "locales/sw-tz/chapters/12-04-tathmini-binafsi-ya-ukomavu.md"
+        },
+        {
+          "part": 12,
+          "chapter": 5,
+          "decimal": "12.5",
+          "slug": "12-05-marejeo",
+          "title": "Marejeo",
+          "heading": "12.5 Marejeo",
+          "file": "locales/sw-tz/chapters/12-05-marejeo.md"
+        },
+        {
+          "part": 12,
+          "chapter": 6,
+          "decimal": "12.6",
+          "slug": "12-06-ramani-ya-kupokea",
+          "title": "Ramani ya kupokea",
+          "heading": "12.6 Ramani ya kupokea",
+          "file": "locales/sw-tz/chapters/12-06-ramani-ya-kupokea.md"
+        },
+        {
+          "part": 12,
+          "chapter": 7,
+          "decimal": "12.7",
+          "slug": "12-07-faharasa-ya-mada",
+          "title": "Faharasa ya mada",
+          "heading": "12.7 Faharasa ya mada",
+          "file": "locales/sw-tz/chapters/12-07-faharasa-ya-mada.md"
+        }
+      ],
+      "parts": [
+        {
+          "number": 1,
+          "title": "People",
+          "chapters": [
+            {
+              "part": 1,
+              "chapter": 0,
+              "decimal": "1.0",
+              "slug": "01-00-utangulizi-wa-sehemu-ya-1-watu",
+              "title": "Utangulizi wa Sehemu ya 1: Watu",
+              "heading": "1.0 Utangulizi wa Sehemu ya 1: Watu",
+              "file": "locales/sw-tz/chapters/01-00-utangulizi-wa-sehemu-ya-1-watu.md"
+            },
+            {
+              "part": 1,
+              "chapter": 1,
+              "decimal": "1.1",
+              "slug": "01-01-maadili-ya-uhandisi-wa-programu",
+              "title": "Maadili ya uhandisi wa programu",
+              "heading": "1.1 Maadili ya uhandisi wa programu",
+              "file": "locales/sw-tz/chapters/01-01-maadili-ya-uhandisi-wa-programu.md"
+            },
+            {
+              "part": 1,
+              "chapter": 2,
+              "decimal": "1.2",
+              "slug": "01-02-topolojia-za-timu-na-usanifu-wa-shirika",
+              "title": "Topolojia za timu na usanifu wa shirika",
+              "heading": "1.2 Topolojia za timu na usanifu wa shirika",
+              "file": "locales/sw-tz/chapters/01-02-topolojia-za-timu-na-usanifu-wa-shirika.md"
+            },
+            {
+              "part": 1,
+              "chapter": 3,
+              "decimal": "1.3",
+              "slug": "01-03-majukumu-ngazi-za-taaluma-na-ukuaji",
+              "title": "Majukumu, ngazi za taaluma, na ukuaji",
+              "heading": "1.3 Majukumu, ngazi za taaluma, na ukuaji",
+              "file": "locales/sw-tz/chapters/01-03-majukumu-ngazi-za-taaluma-na-ukuaji.md"
+            },
+            {
+              "part": 1,
+              "chapter": 4,
+              "decimal": "1.4",
+              "slug": "01-04-njia-za-kufanya-kazi",
+              "title": "Njia za kufanya kazi",
+              "heading": "1.4 Njia za kufanya kazi",
+              "file": "locales/sw-tz/chapters/01-04-njia-za-kufanya-kazi.md"
+            },
+            {
+              "part": 1,
+              "chapter": 5,
+              "decimal": "1.5",
+              "slug": "01-05-kufanya-maamuzi-na-utawala",
+              "title": "Kufanya maamuzi na utawala",
+              "heading": "1.5 Kufanya maamuzi na utawala",
+              "file": "locales/sw-tz/chapters/01-05-kufanya-maamuzi-na-utawala.md"
+            },
+            {
+              "part": 1,
+              "chapter": 6,
+              "decimal": "1.6",
+              "slug": "01-06-rekodi-za-maamuzi",
+              "title": "Rekodi za maamuzi",
+              "heading": "1.6 Rekodi za maamuzi",
+              "file": "locales/sw-tz/chapters/01-06-rekodi-za-maamuzi.md"
+            },
+            {
+              "part": 1,
+              "chapter": 7,
+              "decimal": "1.7",
+              "slug": "01-07-viwango-vya-uhandisi-na-vighairi",
+              "title": "Viwango vya uhandisi na vighairi",
+              "heading": "1.7 Viwango vya uhandisi na vighairi",
+              "file": "locales/sw-tz/chapters/01-07-viwango-vya-uhandisi-na-vighairi.md"
+            },
+            {
+              "part": 1,
+              "chapter": 8,
+              "decimal": "1.8",
+              "slug": "01-08-kuajiri-usaili-na-utambulisho",
+              "title": "Kuajiri, usaili, na utambulisho",
+              "heading": "1.8 Kuajiri, usaili, na utambulisho",
+              "file": "locales/sw-tz/chapters/01-08-kuajiri-usaili-na-utambulisho.md"
+            },
+            {
+              "part": 1,
+              "chapter": 9,
+              "decimal": "1.9",
+              "slug": "01-09-kazi-iliyosambazwa-na-ya-mbali",
+              "title": "Kazi iliyosambazwa na ya mbali",
+              "heading": "1.9 Kazi iliyosambazwa na ya mbali",
+              "file": "locales/sw-tz/chapters/01-09-kazi-iliyosambazwa-na-ya-mbali.md"
+            },
+            {
+              "part": 1,
+              "chapter": 10,
+              "decimal": "1.10",
+              "slug": "01-10-ufanisi-wa-uhandisi-na-tija-ya-wasanidi",
+              "title": "Ufanisi wa uhandisi na tija ya wasanidi",
+              "heading": "1.10 Ufanisi wa uhandisi na tija ya wasanidi",
+              "file": "locales/sw-tz/chapters/01-10-ufanisi-wa-uhandisi-na-tija-ya-wasanidi.md"
+            },
+            {
+              "part": 1,
+              "chapter": 11,
+              "decimal": "1.11",
+              "slug": "01-11-usimamizi-wa-uhandisi",
+              "title": "Usimamizi wa uhandisi",
+              "heading": "1.11 Usimamizi wa uhandisi",
+              "file": "locales/sw-tz/chapters/01-11-usimamizi-wa-uhandisi.md"
+            },
+            {
+              "part": 1,
+              "chapter": 12,
+              "decimal": "1.12",
+              "slug": "01-12-utofauti-usawa-ujumuishi-na-kuhisi-kukubalika",
+              "title": "Utofauti, usawa, ujumuishi, na kuhisi kukubalika",
+              "heading": "1.12 Utofauti, usawa, ujumuishi, na kuhisi kukubalika",
+              "file": "locales/sw-tz/chapters/01-12-utofauti-usawa-ujumuishi-na-kuhisi-kukubalika.md"
+            },
+            {
+              "part": 1,
+              "chapter": 13,
+              "decimal": "1.13",
+              "slug": "01-13-ushauri-ukocha-na-kushiriki-maarifa",
+              "title": "Ushauri, ukocha, na kushiriki maarifa",
+              "heading": "1.13 Ushauri, ukocha, na kushiriki maarifa",
+              "file": "locales/sw-tz/chapters/01-13-ushauri-ukocha-na-kushiriki-maarifa.md"
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "title": "Software Programming",
+          "chapters": [
+            {
+              "part": 2,
+              "chapter": 0,
+              "decimal": "2.0",
+              "slug": "02-00-utangulizi-wa-sehemu-ya-2-uandishi-wa-programu",
+              "title": "Utangulizi wa Sehemu ya 2: Uandishi wa Programu",
+              "heading": "2.0 Utangulizi wa Sehemu ya 2: Uandishi wa Programu",
+              "file": "locales/sw-tz/chapters/02-00-utangulizi-wa-sehemu-ya-2-uandishi-wa-programu.md"
+            },
+            {
+              "part": 2,
+              "chapter": 1,
+              "decimal": "2.1",
+              "slug": "02-01-viwango-vya-uandishi-wa-msimbo-na-mtindo",
+              "title": "Viwango vya uandishi wa msimbo na mtindo",
+              "heading": "2.1 Viwango vya uandishi wa msimbo na mtindo",
+              "file": "locales/sw-tz/chapters/02-01-viwango-vya-uandishi-wa-msimbo-na-mtindo.md"
+            },
+            {
+              "part": 2,
+              "chapter": 2,
+              "decimal": "2.2",
+              "slug": "02-02-kanuni-za-usanifu-wa-programu",
+              "title": "Kanuni za usanifu wa programu",
+              "heading": "2.2 Kanuni za usanifu wa programu",
+              "file": "locales/sw-tz/chapters/02-02-kanuni-za-usanifu-wa-programu.md"
+            },
+            {
+              "part": 2,
+              "chapter": 3,
+              "decimal": "2.3",
+              "slug": "02-03-api-na-usanifu-wa-violesura",
+              "title": "API na usanifu wa violesura",
+              "heading": "2.3 API na usanifu wa violesura",
+              "file": "locales/sw-tz/chapters/02-03-api-na-usanifu-wa-violesura.md"
+            },
+            {
+              "part": 2,
+              "chapter": 4,
+              "decimal": "2.4",
+              "slug": "02-04-mkakati-wa-majaribio",
+              "title": "Mkakati wa majaribio",
+              "heading": "2.4 Mkakati wa majaribio",
+              "file": "locales/sw-tz/chapters/02-04-mkakati-wa-majaribio.md"
+            },
+            {
+              "part": 2,
+              "chapter": 5,
+              "decimal": "2.5",
+              "slug": "02-05-mapitio-ya-msimbo-na-ushirikiano",
+              "title": "Mapitio ya msimbo na ushirikiano",
+              "heading": "2.5 Mapitio ya msimbo na ushirikiano",
+              "file": "locales/sw-tz/chapters/02-05-mapitio-ya-msimbo-na-ushirikiano.md"
+            },
+            {
+              "part": 2,
+              "chapter": 6,
+              "decimal": "2.6",
+              "slug": "02-06-udhibiti-wa-matoleo-na-usimamizi-wa-chanzo",
+              "title": "Udhibiti wa matoleo na usimamizi wa chanzo",
+              "heading": "2.6 Udhibiti wa matoleo na usimamizi wa chanzo",
+              "file": "locales/sw-tz/chapters/02-06-udhibiti-wa-matoleo-na-usimamizi-wa-chanzo.md"
+            },
+            {
+              "part": 2,
+              "chapter": 7,
+              "decimal": "2.7",
+              "slug": "02-07-nyaraka",
+              "title": "Nyaraka",
+              "heading": "2.7 Nyaraka",
+              "file": "locales/sw-tz/chapters/02-07-nyaraka.md"
+            },
+            {
+              "part": 2,
+              "chapter": 8,
+              "decimal": "2.8",
+              "slug": "02-08-mahitaji-ya-programu",
+              "title": "Mahitaji ya programu",
+              "heading": "2.8 Mahitaji ya programu",
+              "file": "locales/sw-tz/chapters/02-08-mahitaji-ya-programu.md"
+            },
+            {
+              "part": 2,
+              "chapter": 9,
+              "decimal": "2.9",
+              "slug": "02-09-ujenzi-wa-programu",
+              "title": "Ujenzi wa programu",
+              "heading": "2.9 Ujenzi wa programu",
+              "file": "locales/sw-tz/chapters/02-09-ujenzi-wa-programu.md"
+            },
+            {
+              "part": 2,
+              "chapter": 10,
+              "decimal": "2.10",
+              "slug": "02-10-usimamizi-wa-usanidi-wa-programu",
+              "title": "Usimamizi wa usanidi wa programu",
+              "heading": "2.10 Usimamizi wa usanidi wa programu",
+              "file": "locales/sw-tz/chapters/02-10-usimamizi-wa-usanidi-wa-programu.md"
+            },
+            {
+              "part": 2,
+              "chapter": 11,
+              "decimal": "2.11",
+              "slug": "02-11-ubora-wa-programu",
+              "title": "Ubora wa programu",
+              "heading": "2.11 Ubora wa programu",
+              "file": "locales/sw-tz/chapters/02-11-ubora-wa-programu.md"
+            },
+            {
+              "part": 2,
+              "chapter": 12,
+              "decimal": "2.12",
+              "slug": "02-12-mifano-na-mbinu-za-programu",
+              "title": "Mifano na mbinu za programu",
+              "heading": "2.12 Mifano na mbinu za programu",
+              "file": "locales/sw-tz/chapters/02-12-mifano-na-mbinu-za-programu.md"
+            },
+            {
+              "part": 2,
+              "chapter": 13,
+              "decimal": "2.13",
+              "slug": "02-13-misingi-ya-kompyuta-hisabati-na-uhandisi",
+              "title": "Misingi ya kompyuta, hisabati, na uhandisi",
+              "heading": "2.13 Misingi ya kompyuta, hisabati, na uhandisi",
+              "file": "locales/sw-tz/chapters/02-13-misingi-ya-kompyuta-hisabati-na-uhandisi.md"
+            },
+            {
+              "part": 2,
+              "chapter": 14,
+              "decimal": "2.14",
+              "slug": "02-14-muundo-wa-mradi-na-hazina",
+              "title": "Muundo wa mradi na hazina",
+              "heading": "2.14 Muundo wa mradi na hazina",
+              "file": "locales/sw-tz/chapters/02-14-muundo-wa-mradi-na-hazina.md"
+            },
+            {
+              "part": 2,
+              "chapter": 15,
+              "decimal": "2.15",
+              "slug": "02-15-utatuzi-wa-hitilafu-na-kutatua-matatizo",
+              "title": "Utatuzi wa hitilafu na kutatua matatizo",
+              "heading": "2.15 Utatuzi wa hitilafu na kutatua matatizo",
+              "file": "locales/sw-tz/chapters/02-15-utatuzi-wa-hitilafu-na-kutatua-matatizo.md"
+            },
+            {
+              "part": 2,
+              "chapter": 16,
+              "decimal": "2.16",
+              "slug": "02-16-uhandisi-wa-utendaji",
+              "title": "Uhandisi wa utendaji",
+              "heading": "2.16 Uhandisi wa utendaji",
+              "file": "locales/sw-tz/chapters/02-16-uhandisi-wa-utendaji.md"
+            },
+            {
+              "part": 2,
+              "chapter": 17,
+              "decimal": "2.17",
+              "slug": "02-17-ulinganifu-na-usambamba",
+              "title": "Ulinganifu na usambamba",
+              "heading": "2.17 Ulinganifu na usambamba",
+              "file": "locales/sw-tz/chapters/02-17-ulinganifu-na-usambamba.md"
+            },
+            {
+              "part": 2,
+              "chapter": 18,
+              "decimal": "2.18",
+              "slug": "02-18-usimamizi-wa-utegemezi-na-mnyororo-wa-ugavi",
+              "title": "Usimamizi wa utegemezi na mnyororo wa ugavi",
+              "heading": "2.18 Usimamizi wa utegemezi na mnyororo wa ugavi",
+              "file": "locales/sw-tz/chapters/02-18-usimamizi-wa-utegemezi-na-mnyororo-wa-ugavi.md"
+            },
+            {
+              "part": 2,
+              "chapter": 19,
+              "decimal": "2.19",
+              "slug": "02-19-urekebishaji-wa-muundo-na-deni-la-kiufundi",
+              "title": "Urekebishaji wa muundo na deni la kiufundi",
+              "heading": "2.19 Urekebishaji wa muundo na deni la kiufundi",
+              "file": "locales/sw-tz/chapters/02-19-urekebishaji-wa-muundo-na-deni-la-kiufundi.md"
+            },
+            {
+              "part": 2,
+              "chapter": 20,
+              "decimal": "2.20",
+              "slug": "02-20-ushughulikiaji-wa-makosa-na-mifumo-ya-ustahimilivu",
+              "title": "Ushughulikiaji wa makosa na mifumo ya ustahimilivu",
+              "heading": "2.20 Ushughulikiaji wa makosa na mifumo ya ustahimilivu",
+              "file": "locales/sw-tz/chapters/02-20-ushughulikiaji-wa-makosa-na-mifumo-ya-ustahimilivu.md"
+            },
+            {
+              "part": 2,
+              "chapter": 21,
+              "decimal": "2.21",
+              "slug": "02-21-mifumo-ya-aina-na-uchambuzi-tuli",
+              "title": "Mifumo ya aina na uchambuzi tuli",
+              "heading": "2.21 Mifumo ya aina na uchambuzi tuli",
+              "file": "locales/sw-tz/chapters/02-21-mifumo-ya-aina-na-uchambuzi-tuli.md"
+            }
+          ]
+        },
+        {
+          "number": 3,
+          "title": "Systems",
+          "chapters": [
+            {
+              "part": 3,
+              "chapter": 0,
+              "decimal": "3.0",
+              "slug": "03-00-utangulizi-wa-sehemu-ya-3-mifumo",
+              "title": "Utangulizi wa Sehemu ya 3: Mifumo",
+              "heading": "3.0 Utangulizi wa Sehemu ya 3: Mifumo",
+              "file": "locales/sw-tz/chapters/03-00-utangulizi-wa-sehemu-ya-3-mifumo.md"
+            },
+            {
+              "part": 3,
+              "chapter": 1,
+              "decimal": "3.1",
+              "slug": "03-01-misingi-ya-usanifu",
+              "title": "Misingi ya usanifu",
+              "heading": "3.1 Misingi ya usanifu",
+              "file": "locales/sw-tz/chapters/03-01-misingi-ya-usanifu.md"
+            },
+            {
+              "part": 3,
+              "chapter": 2,
+              "decimal": "3.2",
+              "slug": "03-02-mitindo-na-mifumo-ya-usanifu",
+              "title": "Mitindo na mifumo ya usanifu",
+              "heading": "3.2 Mitindo na mifumo ya usanifu",
+              "file": "locales/sw-tz/chapters/03-02-mitindo-na-mifumo-ya-usanifu.md"
+            },
+            {
+              "part": 3,
+              "chapter": 3,
+              "decimal": "3.3",
+              "slug": "03-03-mifumo-iliyosambazwa",
+              "title": "Mifumo iliyosambazwa",
+              "heading": "3.3 Mifumo iliyosambazwa",
+              "file": "locales/sw-tz/chapters/03-03-mifumo-iliyosambazwa.md"
+            },
+            {
+              "part": 3,
+              "chapter": 4,
+              "decimal": "3.4",
+              "slug": "03-04-usanifu-wa-data-na-uhifadhi",
+              "title": "Usanifu wa data na uhifadhi",
+              "heading": "3.4 Usanifu wa data na uhifadhi",
+              "file": "locales/sw-tz/chapters/03-04-usanifu-wa-data-na-uhifadhi.md"
+            },
+            {
+              "part": 3,
+              "chapter": 5,
+              "decimal": "3.5",
+              "slug": "03-05-ukubwa-utendaji-na-ustahimilivu",
+              "title": "Ukubwa, utendaji, na ustahimilivu",
+              "heading": "3.5 Ukubwa, utendaji, na ustahimilivu",
+              "file": "locales/sw-tz/chapters/03-05-ukubwa-utendaji-na-ustahimilivu.md"
+            },
+            {
+              "part": 3,
+              "chapter": 6,
+              "decimal": "3.6",
+              "slug": "03-06-uboreshaji-wa-mifumo-ya-urithi",
+              "title": "Uboreshaji wa mifumo ya urithi",
+              "heading": "3.6 Uboreshaji wa mifumo ya urithi",
+              "file": "locales/sw-tz/chapters/03-06-uboreshaji-wa-mifumo-ya-urithi.md"
+            },
+            {
+              "part": 3,
+              "chapter": 7,
+              "decimal": "3.7",
+              "slug": "03-07-matengenezo-ya-programu",
+              "title": "Matengenezo ya programu",
+              "heading": "3.7 Matengenezo ya programu",
+              "file": "locales/sw-tz/chapters/03-07-matengenezo-ya-programu.md"
+            },
+            {
+              "part": 3,
+              "chapter": 8,
+              "decimal": "3.8",
+              "slug": "03-08-uwezo-wa-kuingiliana-na-viwango-huria",
+              "title": "Uwezo wa kuingiliana na viwango huria",
+              "heading": "3.8 Uwezo wa kuingiliana na viwango huria",
+              "file": "locales/sw-tz/chapters/03-08-uwezo-wa-kuingiliana-na-viwango-huria.md"
+            },
+            {
+              "part": 3,
+              "chapter": 9,
+              "decimal": "3.9",
+              "slug": "03-09-uhandisi-wa-mifumo",
+              "title": "Uhandisi wa mifumo",
+              "heading": "3.9 Uhandisi wa mifumo",
+              "file": "locales/sw-tz/chapters/03-09-uhandisi-wa-mifumo.md"
+            },
+            {
+              "part": 3,
+              "chapter": 10,
+              "decimal": "3.10",
+              "slug": "03-10-mifumo-iliyopachikwa-na-ya-wakati-halisi",
+              "title": "Mifumo iliyopachikwa na ya wakati halisi",
+              "heading": "3.10 Mifumo iliyopachikwa na ya wakati halisi",
+              "file": "locales/sw-tz/chapters/03-10-mifumo-iliyopachikwa-na-ya-wakati-halisi.md"
+            },
+            {
+              "part": 3,
+              "chapter": 11,
+              "decimal": "3.11",
+              "slug": "03-11-usanifu-wa-wingu",
+              "title": "Usanifu wa wingu",
+              "heading": "3.11 Usanifu wa wingu",
+              "file": "locales/sw-tz/chapters/03-11-usanifu-wa-wingu.md"
+            },
+            {
+              "part": 3,
+              "chapter": 12,
+              "decimal": "3.12",
+              "slug": "03-12-usanifu-unaoendeshwa-na-matukio-na-ujumbe",
+              "title": "Usanifu unaoendeshwa na matukio na ujumbe",
+              "heading": "3.12 Usanifu unaoendeshwa na matukio na ujumbe",
+              "file": "locales/sw-tz/chapters/03-12-usanifu-unaoendeshwa-na-matukio-na-ujumbe.md"
+            },
+            {
+              "part": 3,
+              "chapter": 13,
+              "decimal": "3.13",
+              "slug": "03-13-mitandao-na-muunganisho",
+              "title": "Mitandao na muunganisho",
+              "heading": "3.13 Mitandao na muunganisho",
+              "file": "locales/sw-tz/chapters/03-13-mitandao-na-muunganisho.md"
+            },
+            {
+              "part": 3,
+              "chapter": 14,
+              "decimal": "3.14",
+              "slug": "03-14-wapangaji-wengi-na-usanifu-wa-saas",
+              "title": "Wapangaji wengi na usanifu wa SaaS",
+              "heading": "3.14 Wapangaji wengi na usanifu wa SaaS",
+              "file": "locales/sw-tz/chapters/03-14-wapangaji-wengi-na-usanifu-wa-saas.md"
+            },
+            {
+              "part": 3,
+              "chapter": 15,
+              "decimal": "3.15",
+              "slug": "03-15-kache-na-usambazaji-wa-maudhui",
+              "title": "Kache na usambazaji wa maudhui",
+              "heading": "3.15 Kache na usambazaji wa maudhui",
+              "file": "locales/sw-tz/chapters/03-15-kache-na-usambazaji-wa-maudhui.md"
+            },
+            {
+              "part": 3,
+              "chapter": 16,
+              "decimal": "3.16",
+              "slug": "03-16-lango-la-api-na-mesh-ya-huduma",
+              "title": "Lango la API na mesh ya huduma",
+              "heading": "3.16 Lango la API na mesh ya huduma",
+              "file": "locales/sw-tz/chapters/03-16-lango-la-api-na-mesh-ya-huduma.md"
+            },
+            {
+              "part": 3,
+              "chapter": 17,
+              "decimal": "3.17",
+              "slug": "03-17-utafutaji-na-urejeshaji-wa-taarifa",
+              "title": "Utafutaji na urejeshaji wa taarifa",
+              "heading": "3.17 Utafutaji na urejeshaji wa taarifa",
+              "file": "locales/sw-tz/chapters/03-17-utafutaji-na-urejeshaji-wa-taarifa.md"
+            }
+          ]
+        },
+        {
+          "number": 4,
+          "title": "Security",
+          "chapters": [
+            {
+              "part": 4,
+              "chapter": 0,
+              "decimal": "4.0",
+              "slug": "04-00-utangulizi-wa-sehemu-ya-4-usalama",
+              "title": "Utangulizi wa Sehemu ya 4: Usalama",
+              "heading": "4.0 Utangulizi wa Sehemu ya 4: Usalama",
+              "file": "locales/sw-tz/chapters/04-00-utangulizi-wa-sehemu-ya-4-usalama.md"
+            },
+            {
+              "part": 4,
+              "chapter": 1,
+              "decimal": "4.1",
+              "slug": "04-01-misingi-ya-usalama-na-utamaduni",
+              "title": "Misingi ya usalama na utamaduni",
+              "heading": "4.1 Misingi ya usalama na utamaduni",
+              "file": "locales/sw-tz/chapters/04-01-misingi-ya-usalama-na-utamaduni.md"
+            },
+            {
+              "part": 4,
+              "chapter": 2,
+              "decimal": "4.2",
+              "slug": "04-02-usalama-wa-programu",
+              "title": "Usalama wa programu",
+              "heading": "4.2 Usalama wa programu",
+              "file": "locales/sw-tz/chapters/04-02-usalama-wa-programu.md"
+            },
+            {
+              "part": 4,
+              "chapter": 3,
+              "decimal": "4.3",
+              "slug": "04-03-usalama-wa-miundombinu-na-wingu",
+              "title": "Usalama wa miundombinu na wingu",
+              "heading": "4.3 Usalama wa miundombinu na wingu",
+              "file": "locales/sw-tz/chapters/04-03-usalama-wa-miundombinu-na-wingu.md"
+            },
+            {
+              "part": 4,
+              "chapter": 4,
+              "decimal": "4.4",
+              "slug": "04-04-operesheni-za-usalama",
+              "title": "Operesheni za usalama",
+              "heading": "4.4 Operesheni za usalama",
+              "file": "locales/sw-tz/chapters/04-04-operesheni-za-usalama.md"
+            },
+            {
+              "part": 4,
+              "chapter": 5,
+              "decimal": "4.5",
+              "slug": "04-05-faragha-na-ulinzi-wa-data",
+              "title": "Faragha na ulinzi wa data",
+              "heading": "4.5 Faragha na ulinzi wa data",
+              "file": "locales/sw-tz/chapters/04-05-faragha-na-ulinzi-wa-data.md"
+            },
+            {
+              "part": 4,
+              "chapter": 6,
+              "decimal": "4.6",
+              "slug": "04-06-uzingatiaji-na-utawala",
+              "title": "Uzingatiaji na utawala",
+              "heading": "4.6 Uzingatiaji na utawala",
+              "file": "locales/sw-tz/chapters/04-06-uzingatiaji-na-utawala.md"
+            },
+            {
+              "part": 4,
+              "chapter": 7,
+              "decimal": "4.7",
+              "slug": "04-07-usimamizi-wa-utambulisho-na-ufikiaji",
+              "title": "Usimamizi wa utambulisho na ufikiaji",
+              "heading": "4.7 Usimamizi wa utambulisho na ufikiaji",
+              "file": "locales/sw-tz/chapters/04-07-usimamizi-wa-utambulisho-na-ufikiaji.md"
+            },
+            {
+              "part": 4,
+              "chapter": 8,
+              "decimal": "4.8",
+              "slug": "04-08-kriptografia-na-usimamizi-wa-funguo",
+              "title": "Kriptografia na usimamizi wa funguo",
+              "heading": "4.8 Kriptografia na usimamizi wa funguo",
+              "file": "locales/sw-tz/chapters/04-08-kriptografia-na-usimamizi-wa-funguo.md"
+            },
+            {
+              "part": 4,
+              "chapter": 9,
+              "decimal": "4.9",
+              "slug": "04-09-mzunguko-salama-wa-uendelezaji-wa-programu",
+              "title": "Mzunguko salama wa uendelezaji wa programu",
+              "heading": "4.9 Mzunguko salama wa uendelezaji wa programu",
+              "file": "locales/sw-tz/chapters/04-09-mzunguko-salama-wa-uendelezaji-wa-programu.md"
+            },
+            {
+              "part": 4,
+              "chapter": 10,
+              "decimal": "4.10",
+              "slug": "04-10-majaribio-ya-kupenya-na-red-teaming",
+              "title": "Majaribio ya kupenya na red teaming",
+              "heading": "4.10 Majaribio ya kupenya na red teaming",
+              "file": "locales/sw-tz/chapters/04-10-majaribio-ya-kupenya-na-red-teaming.md"
+            }
+          ]
+        },
+        {
+          "number": 5,
+          "title": "UI/UX Design",
+          "chapters": [
+            {
+              "part": 5,
+              "chapter": 0,
+              "decimal": "5.0",
+              "slug": "05-00-utangulizi-wa-sehemu-ya-5-usanifu-wa-ui-ux",
+              "title": "Utangulizi wa Sehemu ya 5: Usanifu wa UI/UX",
+              "heading": "5.0 Utangulizi wa Sehemu ya 5: Usanifu wa UI/UX",
+              "file": "locales/sw-tz/chapters/05-00-utangulizi-wa-sehemu-ya-5-usanifu-wa-ui-ux.md"
+            },
+            {
+              "part": 5,
+              "chapter": 1,
+              "decimal": "5.1",
+              "slug": "05-01-misingi-ya-ux",
+              "title": "Misingi ya UX",
+              "heading": "5.1 Misingi ya UX",
+              "file": "locales/sw-tz/chapters/05-01-misingi-ya-ux.md"
+            },
+            {
+              "part": 5,
+              "chapter": 2,
+              "decimal": "5.2",
+              "slug": "05-02-usanifu-wa-ui-na-mifumo-ya-usanifu",
+              "title": "Usanifu wa UI na mifumo ya usanifu",
+              "heading": "5.2 Usanifu wa UI na mifumo ya usanifu",
+              "file": "locales/sw-tz/chapters/05-02-usanifu-wa-ui-na-mifumo-ya-usanifu.md"
+            },
+            {
+              "part": 5,
+              "chapter": 3,
+              "decimal": "5.3",
+              "slug": "05-03-ufikivu",
+              "title": "Ufikivu",
+              "heading": "5.3 Ufikivu",
+              "file": "locales/sw-tz/chapters/05-03-ufikivu.md"
+            },
+            {
+              "part": 5,
+              "chapter": 4,
+              "decimal": "5.4",
+              "slug": "05-04-usanifu-wa-maudhui-na-mawasiliano",
+              "title": "Usanifu wa maudhui na mawasiliano",
+              "heading": "5.4 Usanifu wa maudhui na mawasiliano",
+              "file": "locales/sw-tz/chapters/05-04-usanifu-wa-maudhui-na-mawasiliano.md"
+            },
+            {
+              "part": 5,
+              "chapter": 5,
+              "decimal": "5.5",
+              "slug": "05-05-uandaaji-wa-kimataifa-na-ulokalishaji",
+              "title": "Uandaaji wa kimataifa na ulokalishaji",
+              "heading": "5.5 Uandaaji wa kimataifa na ulokalishaji",
+              "file": "locales/sw-tz/chapters/05-05-uandaaji-wa-kimataifa-na-ulokalishaji.md"
+            },
+            {
+              "part": 5,
+              "chapter": 6,
+              "decimal": "5.6",
+              "slug": "05-06-uhandisi-wa-frontend",
+              "title": "Uhandisi wa frontend",
+              "heading": "5.6 Uhandisi wa frontend",
+              "file": "locales/sw-tz/chapters/05-06-uhandisi-wa-frontend.md"
+            },
+            {
+              "part": 5,
+              "chapter": 7,
+              "decimal": "5.7",
+              "slug": "05-07-uendelezaji-wa-programu-za-simu",
+              "title": "Uendelezaji wa programu za simu",
+              "heading": "5.7 Uendelezaji wa programu za simu",
+              "file": "locales/sw-tz/chapters/05-07-uendelezaji-wa-programu-za-simu.md"
+            },
+            {
+              "part": 5,
+              "chapter": 8,
+              "decimal": "5.8",
+              "slug": "05-08-utafiti-wa-usanifu-na-majaribio-ya-utumiaji",
+              "title": "Utafiti wa usanifu na majaribio ya utumiaji",
+              "heading": "5.8 Utafiti wa usanifu na majaribio ya utumiaji",
+              "file": "locales/sw-tz/chapters/05-08-utafiti-wa-usanifu-na-majaribio-ya-utumiaji.md"
+            },
+            {
+              "part": 5,
+              "chapter": 9,
+              "decimal": "5.9",
+              "slug": "05-09-usanifu-wa-huduma",
+              "title": "Usanifu wa huduma",
+              "heading": "5.9 Usanifu wa huduma",
+              "file": "locales/sw-tz/chapters/05-09-usanifu-wa-huduma.md"
+            },
+            {
+              "part": 5,
+              "chapter": 10,
+              "decimal": "5.10",
+              "slug": "05-10-usanifu-wa-taswira-za-data",
+              "title": "Usanifu wa taswira za data",
+              "heading": "5.10 Usanifu wa taswira za data",
+              "file": "locales/sw-tz/chapters/05-10-usanifu-wa-taswira-za-data.md"
+            }
+          ]
+        },
+        {
+          "number": 6,
+          "title": "Artificial Intelligence",
+          "chapters": [
+            {
+              "part": 6,
+              "chapter": 0,
+              "decimal": "6.0",
+              "slug": "06-00-utangulizi-wa-sehemu-ya-6-akili-bandia",
+              "title": "Utangulizi wa Sehemu ya 6: Akili Bandia",
+              "heading": "6.0 Utangulizi wa Sehemu ya 6: Akili Bandia",
+              "file": "locales/sw-tz/chapters/06-00-utangulizi-wa-sehemu-ya-6-akili-bandia.md"
+            },
+            {
+              "part": 6,
+              "chapter": 1,
+              "decimal": "6.1",
+              "slug": "06-01-mkakati-wa-ai-na-utayari",
+              "title": "Mkakati wa AI na utayari",
+              "heading": "6.1 Mkakati wa AI na utayari",
+              "file": "locales/sw-tz/chapters/06-01-mkakati-wa-ai-na-utayari.md"
+            },
+            {
+              "part": 6,
+              "chapter": 2,
+              "decimal": "6.2",
+              "slug": "06-02-uhandisi-wa-kujifunza-kwa-mashine",
+              "title": "Uhandisi wa kujifunza kwa mashine (MLOps)",
+              "heading": "6.2 Uhandisi wa kujifunza kwa mashine (MLOps)",
+              "file": "locales/sw-tz/chapters/06-02-uhandisi-wa-kujifunza-kwa-mashine.md"
+            },
+            {
+              "part": 6,
+              "chapter": 3,
+              "decimal": "6.3",
+              "slug": "06-03-ai-ya-kuzalisha-na-programu-za-llm",
+              "title": "AI ya kuzalisha na programu za LLM",
+              "heading": "6.3 AI ya kuzalisha na programu za LLM",
+              "file": "locales/sw-tz/chapters/06-03-ai-ya-kuzalisha-na-programu-za-llm.md"
+            },
+            {
+              "part": 6,
+              "chapter": 4,
+              "decimal": "6.4",
+              "slug": "06-04-uendelezaji-wa-programu-unaosaidiwa-na-ai",
+              "title": "Uendelezaji wa programu unaosaidiwa na AI",
+              "heading": "6.4 Uendelezaji wa programu unaosaidiwa na AI",
+              "file": "locales/sw-tz/chapters/06-04-uendelezaji-wa-programu-unaosaidiwa-na-ai.md"
+            },
+            {
+              "part": 6,
+              "chapter": 5,
+              "decimal": "6.5",
+              "slug": "06-05-ai-ya-kuwajibika-na-ya-kuaminika",
+              "title": "AI ya kuwajibika na ya kuaminika",
+              "heading": "6.5 AI ya kuwajibika na ya kuaminika",
+              "file": "locales/sw-tz/chapters/06-05-ai-ya-kuwajibika-na-ya-kuaminika.md"
+            },
+            {
+              "part": 6,
+              "chapter": 6,
+              "decimal": "6.6",
+              "slug": "06-06-miundombinu-na-operesheni-za-ai",
+              "title": "Miundombinu na operesheni za AI",
+              "heading": "6.6 Miundombinu na operesheni za AI",
+              "file": "locales/sw-tz/chapters/06-06-miundombinu-na-operesheni-za-ai.md"
+            },
+            {
+              "part": 6,
+              "chapter": 7,
+              "decimal": "6.7",
+              "slug": "06-07-mawakala-wa-ai-na-mifumo-ya-kiwakala",
+              "title": "Mawakala wa AI na mifumo ya kiwakala",
+              "heading": "6.7 Mawakala wa AI na mifumo ya kiwakala",
+              "file": "locales/sw-tz/chapters/06-07-mawakala-wa-ai-na-mifumo-ya-kiwakala.md"
+            },
+            {
+              "part": 6,
+              "chapter": 8,
+              "decimal": "6.8",
+              "slug": "06-08-tathmini-na-majaribio-ya-ai",
+              "title": "Tathmini na majaribio ya AI",
+              "heading": "6.8 Tathmini na majaribio ya AI",
+              "file": "locales/sw-tz/chapters/06-08-tathmini-na-majaribio-ya-ai.md"
+            },
+            {
+              "part": 6,
+              "chapter": 9,
+              "decimal": "6.9",
+              "slug": "06-09-uhandisi-wa-maagizo-na-usanifu-wa-muktadha",
+              "title": "Uhandisi wa maagizo na usanifu wa muktadha",
+              "heading": "6.9 Uhandisi wa maagizo na usanifu wa muktadha",
+              "file": "locales/sw-tz/chapters/06-09-uhandisi-wa-maagizo-na-usanifu-wa-muktadha.md"
+            }
+          ]
+        },
+        {
+          "number": 7,
+          "title": "Data, Analytics, and Insight",
+          "chapters": [
+            {
+              "part": 7,
+              "chapter": 0,
+              "decimal": "7.0",
+              "slug": "07-00-utangulizi-wa-sehemu-ya-7-data-uchanganuzi-na-ufahamu",
+              "title": "Utangulizi wa Sehemu ya 7: Data, Uchanganuzi, na Ufahamu",
+              "heading": "7.0 Utangulizi wa Sehemu ya 7: Data, Uchanganuzi, na Ufahamu",
+              "file": "locales/sw-tz/chapters/07-00-utangulizi-wa-sehemu-ya-7-data-uchanganuzi-na-ufahamu.md"
+            },
+            {
+              "part": 7,
+              "chapter": 1,
+              "decimal": "7.1",
+              "slug": "07-01-mkakati-wa-data-na-utawala",
+              "title": "Mkakati wa data na utawala",
+              "heading": "7.1 Mkakati wa data na utawala",
+              "file": "locales/sw-tz/chapters/07-01-mkakati-wa-data-na-utawala.md"
+            },
+            {
+              "part": 7,
+              "chapter": 2,
+              "decimal": "7.2",
+              "slug": "07-02-uhandisi-wa-data",
+              "title": "Uhandisi wa data",
+              "heading": "7.2 Uhandisi wa data",
+              "file": "locales/sw-tz/chapters/07-02-uhandisi-wa-data.md"
+            },
+            {
+              "part": 7,
+              "chapter": 3,
+              "decimal": "7.3",
+              "slug": "07-03-uchanganuzi-na-akili-ya-biashara",
+              "title": "Uchanganuzi na akili ya biashara",
+              "heading": "7.3 Uchanganuzi na akili ya biashara",
+              "file": "locales/sw-tz/chapters/07-03-uchanganuzi-na-akili-ya-biashara.md"
+            },
+            {
+              "part": 7,
+              "chapter": 4,
+              "decimal": "7.4",
+              "slug": "07-04-uchanganuzi-wa-bidhaa-na-majaribio",
+              "title": "Uchanganuzi wa bidhaa na majaribio",
+              "heading": "7.4 Uchanganuzi wa bidhaa na majaribio",
+              "file": "locales/sw-tz/chapters/07-04-uchanganuzi-wa-bidhaa-na-majaribio.md"
+            },
+            {
+              "part": 7,
+              "chapter": 5,
+              "decimal": "7.5",
+              "slug": "07-05-sayansi-ya-maamuzi-na-utamaduni-wa-data",
+              "title": "Sayansi ya maamuzi na utamaduni wa data",
+              "heading": "7.5 Sayansi ya maamuzi na utamaduni wa data",
+              "file": "locales/sw-tz/chapters/07-05-sayansi-ya-maamuzi-na-utamaduni-wa-data.md"
+            },
+            {
+              "part": 7,
+              "chapter": 6,
+              "decimal": "7.6",
+              "slug": "07-06-data-ya-wakati-halisi-na-ya-kutiririka",
+              "title": "Data ya wakati halisi na ya kutiririka",
+              "heading": "7.6 Data ya wakati halisi na ya kutiririka",
+              "file": "locales/sw-tz/chapters/07-06-data-ya-wakati-halisi-na-ya-kutiririka.md"
+            },
+            {
+              "part": 7,
+              "chapter": 7,
+              "decimal": "7.7",
+              "slug": "07-07-uundaji-wa-data-na-safu-ya-kisemantiki",
+              "title": "Uundaji wa data na safu ya kisemantiki",
+              "heading": "7.7 Uundaji wa data na safu ya kisemantiki",
+              "file": "locales/sw-tz/chapters/07-07-uundaji-wa-data-na-safu-ya-kisemantiki.md"
+            },
+            {
+              "part": 7,
+              "chapter": 8,
+              "decimal": "7.8",
+              "slug": "07-08-ubora-wa-data-na-uonekanaji",
+              "title": "Ubora wa data na uonekanaji",
+              "heading": "7.8 Ubora wa data na uonekanaji",
+              "file": "locales/sw-tz/chapters/07-08-ubora-wa-data-na-uonekanaji.md"
+            },
+            {
+              "part": 7,
+              "chapter": 9,
+              "decimal": "7.9",
+              "slug": "07-09-usimamizi-wa-data-kuu-na-data-ya-rejeo",
+              "title": "Usimamizi wa data kuu na data ya rejeo",
+              "heading": "7.9 Usimamizi wa data kuu na data ya rejeo",
+              "file": "locales/sw-tz/chapters/07-09-usimamizi-wa-data-kuu-na-data-ya-rejeo.md"
+            }
+          ]
+        },
+        {
+          "number": 8,
+          "title": "Automation",
+          "chapters": [
+            {
+              "part": 8,
+              "chapter": 0,
+              "decimal": "8.0",
+              "slug": "08-00-utangulizi-wa-sehemu-ya-8-uotomatishaji",
+              "title": "Utangulizi wa Sehemu ya 8: Uotomatishaji",
+              "heading": "8.0 Utangulizi wa Sehemu ya 8: Uotomatishaji",
+              "file": "locales/sw-tz/chapters/08-00-utangulizi-wa-sehemu-ya-8-uotomatishaji.md"
+            },
+            {
+              "part": 8,
+              "chapter": 1,
+              "decimal": "8.1",
+              "slug": "08-01-ci-cd-na-utoaji",
+              "title": "CI/CD na utoaji",
+              "heading": "8.1 CI/CD na utoaji",
+              "file": "locales/sw-tz/chapters/08-01-ci-cd-na-utoaji.md"
+            },
+            {
+              "part": 8,
+              "chapter": 2,
+              "decimal": "8.2",
+              "slug": "08-02-miundombinu-kama-msimbo-na-usanidi",
+              "title": "Miundombinu-kama-msimbo na usanidi",
+              "heading": "8.2 Miundombinu-kama-msimbo na usanidi",
+              "file": "locales/sw-tz/chapters/08-02-miundombinu-kama-msimbo-na-usanidi.md"
+            },
+            {
+              "part": 8,
+              "chapter": 3,
+              "decimal": "8.3",
+              "slug": "08-03-kontena-uratibu-na-asili-ya-wingu",
+              "title": "Kontena, uratibu, na asili ya wingu",
+              "heading": "8.3 Kontena, uratibu, na asili ya wingu",
+              "file": "locales/sw-tz/chapters/08-03-kontena-uratibu-na-asili-ya-wingu.md"
+            },
+            {
+              "part": 8,
+              "chapter": 4,
+              "decimal": "8.4",
+              "slug": "08-04-uhandisi-wa-jukwaa-na-uzoefu-wa-msanidi",
+              "title": "Uhandisi wa jukwaa na uzoefu wa msanidi",
+              "heading": "8.4 Uhandisi wa jukwaa na uzoefu wa msanidi",
+              "file": "locales/sw-tz/chapters/08-04-uhandisi-wa-jukwaa-na-uzoefu-wa-msanidi.md"
+            },
+            {
+              "part": 8,
+              "chapter": 5,
+              "decimal": "8.5",
+              "slug": "08-05-uotomatishaji-wa-majaribio-na-mchakato",
+              "title": "Uotomatishaji wa majaribio na mchakato",
+              "heading": "8.5 Uotomatishaji wa majaribio na mchakato",
+              "file": "locales/sw-tz/chapters/08-05-uotomatishaji-wa-majaribio-na-mchakato.md"
+            },
+            {
+              "part": 8,
+              "chapter": 6,
+              "decimal": "8.6",
+              "slug": "08-06-usimamizi-wa-matoleo-na-utoaji-wa-hatua-kwa-hatua",
+              "title": "Usimamizi wa matoleo na utoaji wa hatua kwa hatua",
+              "heading": "8.6 Usimamizi wa matoleo na utoaji wa hatua kwa hatua",
+              "file": "locales/sw-tz/chapters/08-06-usimamizi-wa-matoleo-na-utoaji-wa-hatua-kwa-hatua.md"
+            },
+            {
+              "part": 8,
+              "chapter": 7,
+              "decimal": "8.7",
+              "slug": "08-07-mifumo-ya-ujenzi-na-usimamizi-wa-mabaki",
+              "title": "Mifumo ya ujenzi na usimamizi wa mabaki",
+              "heading": "8.7 Mifumo ya ujenzi na usimamizi wa mabaki",
+              "file": "locales/sw-tz/chapters/08-07-mifumo-ya-ujenzi-na-usimamizi-wa-mabaki.md"
+            }
+          ]
+        },
+        {
+          "number": 9,
+          "title": "Operations, Reliability, and Observability",
+          "chapters": [
+            {
+              "part": 9,
+              "chapter": 0,
+              "decimal": "9.0",
+              "slug": "09-00-utangulizi-wa-sehemu-ya-9-operesheni-kutegemewa-na-uonekanaji",
+              "title": "Utangulizi wa Sehemu ya 9: Operesheni, Kutegemewa, na Uonekanaji",
+              "heading": "9.0 Utangulizi wa Sehemu ya 9: Operesheni, Kutegemewa, na Uonekanaji",
+              "file": "locales/sw-tz/chapters/09-00-utangulizi-wa-sehemu-ya-9-operesheni-kutegemewa-na-uonekanaji.md"
+            },
+            {
+              "part": 9,
+              "chapter": 1,
+              "decimal": "9.1",
+              "slug": "09-01-uhandisi-wa-kutegemewa-wa-tovuti",
+              "title": "Uhandisi wa kutegemewa wa tovuti",
+              "heading": "9.1 Uhandisi wa kutegemewa wa tovuti",
+              "file": "locales/sw-tz/chapters/09-01-uhandisi-wa-kutegemewa-wa-tovuti.md"
+            },
+            {
+              "part": 9,
+              "chapter": 2,
+              "decimal": "9.2",
+              "slug": "09-02-uonekanaji-na-telemetry",
+              "title": "Uonekanaji na telemetry",
+              "heading": "9.2 Uonekanaji na telemetry",
+              "file": "locales/sw-tz/chapters/09-02-uonekanaji-na-telemetry.md"
+            },
+            {
+              "part": 9,
+              "chapter": 3,
+              "decimal": "9.3",
+              "slug": "09-03-usimamizi-wa-matukio",
+              "title": "Usimamizi wa matukio",
+              "heading": "9.3 Usimamizi wa matukio",
+              "file": "locales/sw-tz/chapters/09-03-usimamizi-wa-matukio.md"
+            },
+            {
+              "part": 9,
+              "chapter": 4,
+              "decimal": "9.4",
+              "slug": "09-04-gharama-uendelevu-na-programu-ya-kijani",
+              "title": "Gharama, uendelevu, na programu ya kijani",
+              "heading": "9.4 Gharama, uendelevu, na programu ya kijani",
+              "file": "locales/sw-tz/chapters/09-04-gharama-uendelevu-na-programu-ya-kijani.md"
+            },
+            {
+              "part": 9,
+              "chapter": 5,
+              "decimal": "9.5",
+              "slug": "09-05-kupona-kutoka-maafa-na-mwendelezo-wa-biashara",
+              "title": "Kupona kutoka maafa na mwendelezo wa biashara",
+              "heading": "9.5 Kupona kutoka maafa na mwendelezo wa biashara",
+              "file": "locales/sw-tz/chapters/09-05-kupona-kutoka-maafa-na-mwendelezo-wa-biashara.md"
+            },
+            {
+              "part": 9,
+              "chapter": 6,
+              "decimal": "9.6",
+              "slug": "09-06-uhandisi-wa-machafuko-na-majaribio-ya-ustahimilivu",
+              "title": "Uhandisi wa machafuko na majaribio ya ustahimilivu",
+              "heading": "9.6 Uhandisi wa machafuko na majaribio ya ustahimilivu",
+              "file": "locales/sw-tz/chapters/09-06-uhandisi-wa-machafuko-na-majaribio-ya-ustahimilivu.md"
+            },
+            {
+              "part": 9,
+              "chapter": 7,
+              "decimal": "9.7",
+              "slug": "09-07-upangaji-wa-uwezo-na-utabiri-wa-mahitaji",
+              "title": "Upangaji wa uwezo na utabiri wa mahitaji",
+              "heading": "9.7 Upangaji wa uwezo na utabiri wa mahitaji",
+              "file": "locales/sw-tz/chapters/09-07-upangaji-wa-uwezo-na-utabiri-wa-mahitaji.md"
+            },
+            {
+              "part": 9,
+              "chapter": 8,
+              "decimal": "9.8",
+              "slug": "09-08-simu-ya-dharura-na-utayari-wa-uendeshaji",
+              "title": "Simu ya dharura na utayari wa uendeshaji",
+              "heading": "9.8 Simu ya dharura na utayari wa uendeshaji",
+              "file": "locales/sw-tz/chapters/09-08-simu-ya-dharura-na-utayari-wa-uendeshaji.md"
+            }
+          ]
+        },
+        {
+          "number": 10,
+          "title": "Project/Product/Programme Management",
+          "chapters": [
+            {
+              "part": 10,
+              "chapter": 0,
+              "decimal": "10.0",
+              "slug": "10-00-utangulizi-wa-sehemu-ya-10-usimamizi-wa-miradi-bidhaa-na-programu",
+              "title": "Utangulizi wa Sehemu ya 10: Usimamizi wa Miradi, Bidhaa, na Programu",
+              "heading": "10.0 Utangulizi wa Sehemu ya 10: Usimamizi wa Miradi, Bidhaa, na Programu",
+              "file": "locales/sw-tz/chapters/10-00-utangulizi-wa-sehemu-ya-10-usimamizi-wa-miradi-bidhaa-na-programu.md"
+            },
+            {
+              "part": 10,
+              "chapter": 1,
+              "decimal": "10.1",
+              "slug": "10-01-usimamizi-wa-jalada-na-programu",
+              "title": "Usimamizi wa jalada na programu",
+              "heading": "10.1 Usimamizi wa jalada na programu",
+              "file": "locales/sw-tz/chapters/10-01-usimamizi-wa-jalada-na-programu.md"
+            },
+            {
+              "part": 10,
+              "chapter": 2,
+              "decimal": "10.2",
+              "slug": "10-02-hatari-ukaguzi-na-uhakikisho",
+              "title": "Hatari, ukaguzi, na uhakikisho",
+              "heading": "10.2 Hatari, ukaguzi, na uhakikisho",
+              "file": "locales/sw-tz/chapters/10-02-hatari-ukaguzi-na-uhakikisho.md"
+            },
+            {
+              "part": 10,
+              "chapter": 3,
+              "decimal": "10.3",
+              "slug": "10-03-ununuzi-chanzo-huria-na-leseni",
+              "title": "Ununuzi, chanzo huria, na leseni",
+              "heading": "10.3 Ununuzi, chanzo huria, na leseni",
+              "file": "locales/sw-tz/chapters/10-03-ununuzi-chanzo-huria-na-leseni.md"
+            },
+            {
+              "part": 10,
+              "chapter": 4,
+              "decimal": "10.4",
+              "slug": "10-04-kudumisha-mifumo-mikubwa-na-ya-muda-mrefu",
+              "title": "Kudumisha mifumo mikubwa na ya muda mrefu",
+              "heading": "10.4 Kudumisha mifumo mikubwa na ya muda mrefu",
+              "file": "locales/sw-tz/chapters/10-04-kudumisha-mifumo-mikubwa-na-ya-muda-mrefu.md"
+            },
+            {
+              "part": 10,
+              "chapter": 5,
+              "decimal": "10.5",
+              "slug": "10-05-maadili-uwajibikaji-na-maslahi-ya-umma",
+              "title": "Maadili, uwajibikaji, na maslahi ya umma",
+              "heading": "10.5 Maadili, uwajibikaji, na maslahi ya umma",
+              "file": "locales/sw-tz/chapters/10-05-maadili-uwajibikaji-na-maslahi-ya-umma.md"
+            },
+            {
+              "part": 10,
+              "chapter": 6,
+              "decimal": "10.6",
+              "slug": "10-06-usimamizi-wa-miradi",
+              "title": "Usimamizi wa miradi",
+              "heading": "10.6 Usimamizi wa miradi",
+              "file": "locales/sw-tz/chapters/10-06-usimamizi-wa-miradi.md"
+            },
+            {
+              "part": 10,
+              "chapter": 7,
+              "decimal": "10.7",
+              "slug": "10-07-agile",
+              "title": "Agile",
+              "heading": "10.7 Agile",
+              "file": "locales/sw-tz/chapters/10-07-agile.md"
+            },
+            {
+              "part": 10,
+              "chapter": 8,
+              "decimal": "10.8",
+              "slug": "10-08-vielelezo-vya-ukomavu",
+              "title": "Vielelezo vya ukomavu",
+              "heading": "10.8 Vielelezo vya ukomavu",
+              "file": "locales/sw-tz/chapters/10-08-vielelezo-vya-ukomavu.md"
+            },
+            {
+              "part": 10,
+              "chapter": 9,
+              "decimal": "10.9",
+              "slug": "10-09-ushirikiano-wa-ubunifu",
+              "title": "Ushirikiano wa ubunifu",
+              "heading": "10.9 Ushirikiano wa ubunifu",
+              "file": "locales/sw-tz/chapters/10-09-ushirikiano-wa-ubunifu.md"
+            },
+            {
+              "part": 10,
+              "chapter": 10,
+              "decimal": "10.10",
+              "slug": "10-10-uchumi-wa-uhandisi-wa-programu",
+              "title": "Uchumi wa uhandisi wa programu",
+              "heading": "10.10 Uchumi wa uhandisi wa programu",
+              "file": "locales/sw-tz/chapters/10-10-uchumi-wa-uhandisi-wa-programu.md"
+            },
+            {
+              "part": 10,
+              "chapter": 11,
+              "decimal": "10.11",
+              "slug": "10-11-enzi-ya-kidijitali",
+              "title": "Enzi ya kidijitali",
+              "heading": "10.11 Enzi ya kidijitali",
+              "file": "locales/sw-tz/chapters/10-11-enzi-ya-kidijitali.md"
+            },
+            {
+              "part": 10,
+              "chapter": 12,
+              "decimal": "10.12",
+              "slug": "10-12-chanzo-huria-dhidi-ya-chanzo-funge",
+              "title": "Chanzo huria dhidi ya chanzo funge",
+              "heading": "10.12 Chanzo huria dhidi ya chanzo funge",
+              "file": "locales/sw-tz/chapters/10-12-chanzo-huria-dhidi-ya-chanzo-funge.md"
+            },
+            {
+              "part": 10,
+              "chapter": 13,
+              "decimal": "10.13",
+              "slug": "10-13-ushirikiano-kati-ya-mashirika",
+              "title": "Ushirikiano kati ya mashirika",
+              "heading": "10.13 Ushirikiano kati ya mashirika",
+              "file": "locales/sw-tz/chapters/10-13-ushirikiano-kati-ya-mashirika.md"
+            },
+            {
+              "part": 10,
+              "chapter": 14,
+              "decimal": "10.14",
+              "slug": "10-14-usimamizi-wa-bidhaa-na-ugunduzi",
+              "title": "Usimamizi wa bidhaa na ugunduzi",
+              "heading": "10.14 Usimamizi wa bidhaa na ugunduzi",
+              "file": "locales/sw-tz/chapters/10-14-usimamizi-wa-bidhaa-na-ugunduzi.md"
+            },
+            {
+              "part": 10,
+              "chapter": 15,
+              "decimal": "10.15",
+              "slug": "10-15-ukadiriaji-na-utabiri",
+              "title": "Ukadiriaji na utabiri",
+              "heading": "10.15 Ukadiriaji na utabiri",
+              "file": "locales/sw-tz/chapters/10-15-ukadiriaji-na-utabiri.md"
+            },
+            {
+              "part": 10,
+              "chapter": 16,
+              "decimal": "10.16",
+              "slug": "10-16-usimamizi-wa-wadau-na-mawasiliano",
+              "title": "Usimamizi wa wadau na mawasiliano",
+              "heading": "10.16 Usimamizi wa wadau na mawasiliano",
+              "file": "locales/sw-tz/chapters/10-16-usimamizi-wa-wadau-na-mawasiliano.md"
+            },
+            {
+              "part": 10,
+              "chapter": 17,
+              "decimal": "10.17",
+              "slug": "10-17-usimamizi-wa-mabadiliko-ya-shirika",
+              "title": "Usimamizi wa mabadiliko ya shirika",
+              "heading": "10.17 Usimamizi wa mabadiliko ya shirika",
+              "file": "locales/sw-tz/chapters/10-17-usimamizi-wa-mabadiliko-ya-shirika.md"
+            },
+            {
+              "part": 10,
+              "chapter": 18,
+              "decimal": "10.18",
+              "slug": "10-18-ofisi-ya-programu-ya-chanzo-huria-na-mchango-wa-chanzo-cha-juu",
+              "title": "Ofisi ya programu ya chanzo huria (OSPO) na mchango wa chanzo cha juu",
+              "heading": "10.18 Ofisi ya programu ya chanzo huria (OSPO) na mchango wa chanzo cha juu",
+              "file": "locales/sw-tz/chapters/10-18-ofisi-ya-programu-ya-chanzo-huria-na-mchango-wa-chanzo-cha-juu.md"
+            }
+          ]
+        },
+        {
+          "number": 11,
+          "title": "Flow: Discovery and Delivery Pipelines",
+          "chapters": [
+            {
+              "part": 11,
+              "chapter": 0,
+              "decimal": "11.0",
+              "slug": "11-00-utangulizi-wa-sehemu-ya-11-mtiririko-mabomba-ya-ugunduzi-na-utoaji",
+              "title": "Utangulizi wa Sehemu ya 11: Mtiririko: Mabomba ya Ugunduzi na Utoaji",
+              "heading": "11.0 Utangulizi wa Sehemu ya 11: Mtiririko: Mabomba ya Ugunduzi na Utoaji",
+              "file": "locales/sw-tz/chapters/11-00-utangulizi-wa-sehemu-ya-11-mtiririko-mabomba-ya-ugunduzi-na-utoaji.md"
+            },
+            {
+              "part": 11,
+              "chapter": 1,
+              "decimal": "11.1",
+              "slug": "11-01-bomba-la-ugunduzi",
+              "title": "Bomba la ugunduzi",
+              "heading": "11.1 Bomba la ugunduzi",
+              "file": "locales/sw-tz/chapters/11-01-bomba-la-ugunduzi.md"
+            },
+            {
+              "part": 11,
+              "chapter": 2,
+              "decimal": "11.2",
+              "slug": "11-02-bomba-la-utoaji",
+              "title": "Bomba la utoaji",
+              "heading": "11.2 Bomba la utoaji",
+              "file": "locales/sw-tz/chapters/11-02-bomba-la-utoaji.md"
+            },
+            {
+              "part": 11,
+              "chapter": 3,
+              "decimal": "11.3",
+              "slug": "11-03-nadharia-ya-foleni",
+              "title": "Nadharia ya foleni",
+              "heading": "11.3 Nadharia ya foleni",
+              "file": "locales/sw-tz/chapters/11-03-nadharia-ya-foleni.md"
+            },
+            {
+              "part": 11,
+              "chapter": 4,
+              "decimal": "11.4",
+              "slug": "11-04-malengo-na-matokeo-muhimu",
+              "title": "Malengo na matokeo muhimu (OKR)",
+              "heading": "11.4 Malengo na matokeo muhimu (OKR)",
+              "file": "locales/sw-tz/chapters/11-04-malengo-na-matokeo-muhimu.md"
+            },
+            {
+              "part": 11,
+              "chapter": 5,
+              "decimal": "11.5",
+              "slug": "11-05-viashiria-muhimu-vya-utendaji",
+              "title": "Viashiria muhimu vya utendaji (KPI)",
+              "heading": "11.5 Viashiria muhimu vya utendaji (KPI)",
+              "file": "locales/sw-tz/chapters/11-05-viashiria-muhimu-vya-utendaji.md"
+            },
+            {
+              "part": 11,
+              "chapter": 6,
+              "decimal": "11.6",
+              "slug": "11-06-ramani-ya-mkondo-wa-thamani-na-gharama-ya-kuchelewa",
+              "title": "Ramani ya mkondo wa thamani na gharama ya kuchelewa",
+              "heading": "11.6 Ramani ya mkondo wa thamani na gharama ya kuchelewa",
+              "file": "locales/sw-tz/chapters/11-06-ramani-ya-mkondo-wa-thamani-na-gharama-ya-kuchelewa.md"
+            }
+          ]
+        },
+        {
+          "number": 12,
+          "title": "Appendices",
+          "chapters": [
+            {
+              "part": 12,
+              "chapter": 0,
+              "decimal": "12.0",
+              "slug": "12-00-viambatisho",
+              "title": "Viambatisho",
+              "heading": "12.0 Viambatisho",
+              "file": "locales/sw-tz/chapters/12-00-viambatisho.md"
+            },
+            {
+              "part": 12,
+              "chapter": 1,
+              "decimal": "12.1",
+              "slug": "12-01-faharasa-ya-istilahi",
+              "title": "Faharasa ya istilahi",
+              "heading": "12.1 Faharasa ya istilahi",
+              "file": "locales/sw-tz/chapters/12-01-faharasa-ya-istilahi.md"
+            },
+            {
+              "part": 12,
+              "chapter": 2,
+              "decimal": "12.2",
+              "slug": "12-02-orodha-hakiki",
+              "title": "Orodha hakiki",
+              "heading": "12.2 Orodha hakiki",
+              "file": "locales/sw-tz/chapters/12-02-orodha-hakiki.md"
+            },
+            {
+              "part": 12,
+              "chapter": 3,
+              "decimal": "12.3",
+              "slug": "12-03-violezo",
+              "title": "Violezo",
+              "heading": "12.3 Violezo",
+              "file": "locales/sw-tz/chapters/12-03-violezo.md"
+            },
+            {
+              "part": 12,
+              "chapter": 4,
+              "decimal": "12.4",
+              "slug": "12-04-tathmini-binafsi-ya-ukomavu",
+              "title": "Tathmini binafsi ya ukomavu",
+              "heading": "12.4 Tathmini binafsi ya ukomavu",
+              "file": "locales/sw-tz/chapters/12-04-tathmini-binafsi-ya-ukomavu.md"
+            },
+            {
+              "part": 12,
+              "chapter": 5,
+              "decimal": "12.5",
+              "slug": "12-05-marejeo",
+              "title": "Marejeo",
+              "heading": "12.5 Marejeo",
+              "file": "locales/sw-tz/chapters/12-05-marejeo.md"
+            },
+            {
+              "part": 12,
+              "chapter": 6,
+              "decimal": "12.6",
+              "slug": "12-06-ramani-ya-kupokea",
+              "title": "Ramani ya kupokea",
+              "heading": "12.6 Ramani ya kupokea",
+              "file": "locales/sw-tz/chapters/12-06-ramani-ya-kupokea.md"
+            },
+            {
+              "part": 12,
+              "chapter": 7,
+              "decimal": "12.7",
+              "slug": "12-07-faharasa-ya-mada",
+              "title": "Faharasa ya mada",
+              "heading": "12.7 Faharasa ya mada",
+              "file": "locales/sw-tz/chapters/12-07-faharasa-ya-mada.md"
+            }
+          ]
+        }
+      ],
+      "chaptersByDecimal": {
+        "1.0": {
+          "part": 1,
+          "chapter": 0,
+          "decimal": "1.0",
+          "slug": "01-00-utangulizi-wa-sehemu-ya-1-watu",
+          "title": "Utangulizi wa Sehemu ya 1: Watu",
+          "heading": "1.0 Utangulizi wa Sehemu ya 1: Watu",
+          "file": "locales/sw-tz/chapters/01-00-utangulizi-wa-sehemu-ya-1-watu.md"
+        },
+        "1.1": {
+          "part": 1,
+          "chapter": 1,
+          "decimal": "1.1",
+          "slug": "01-01-maadili-ya-uhandisi-wa-programu",
+          "title": "Maadili ya uhandisi wa programu",
+          "heading": "1.1 Maadili ya uhandisi wa programu",
+          "file": "locales/sw-tz/chapters/01-01-maadili-ya-uhandisi-wa-programu.md"
+        },
+        "1.2": {
+          "part": 1,
+          "chapter": 2,
+          "decimal": "1.2",
+          "slug": "01-02-topolojia-za-timu-na-usanifu-wa-shirika",
+          "title": "Topolojia za timu na usanifu wa shirika",
+          "heading": "1.2 Topolojia za timu na usanifu wa shirika",
+          "file": "locales/sw-tz/chapters/01-02-topolojia-za-timu-na-usanifu-wa-shirika.md"
+        },
+        "1.3": {
+          "part": 1,
+          "chapter": 3,
+          "decimal": "1.3",
+          "slug": "01-03-majukumu-ngazi-za-taaluma-na-ukuaji",
+          "title": "Majukumu, ngazi za taaluma, na ukuaji",
+          "heading": "1.3 Majukumu, ngazi za taaluma, na ukuaji",
+          "file": "locales/sw-tz/chapters/01-03-majukumu-ngazi-za-taaluma-na-ukuaji.md"
+        },
+        "1.4": {
+          "part": 1,
+          "chapter": 4,
+          "decimal": "1.4",
+          "slug": "01-04-njia-za-kufanya-kazi",
+          "title": "Njia za kufanya kazi",
+          "heading": "1.4 Njia za kufanya kazi",
+          "file": "locales/sw-tz/chapters/01-04-njia-za-kufanya-kazi.md"
+        },
+        "1.5": {
+          "part": 1,
+          "chapter": 5,
+          "decimal": "1.5",
+          "slug": "01-05-kufanya-maamuzi-na-utawala",
+          "title": "Kufanya maamuzi na utawala",
+          "heading": "1.5 Kufanya maamuzi na utawala",
+          "file": "locales/sw-tz/chapters/01-05-kufanya-maamuzi-na-utawala.md"
+        },
+        "1.6": {
+          "part": 1,
+          "chapter": 6,
+          "decimal": "1.6",
+          "slug": "01-06-rekodi-za-maamuzi",
+          "title": "Rekodi za maamuzi",
+          "heading": "1.6 Rekodi za maamuzi",
+          "file": "locales/sw-tz/chapters/01-06-rekodi-za-maamuzi.md"
+        },
+        "1.7": {
+          "part": 1,
+          "chapter": 7,
+          "decimal": "1.7",
+          "slug": "01-07-viwango-vya-uhandisi-na-vighairi",
+          "title": "Viwango vya uhandisi na vighairi",
+          "heading": "1.7 Viwango vya uhandisi na vighairi",
+          "file": "locales/sw-tz/chapters/01-07-viwango-vya-uhandisi-na-vighairi.md"
+        },
+        "1.8": {
+          "part": 1,
+          "chapter": 8,
+          "decimal": "1.8",
+          "slug": "01-08-kuajiri-usaili-na-utambulisho",
+          "title": "Kuajiri, usaili, na utambulisho",
+          "heading": "1.8 Kuajiri, usaili, na utambulisho",
+          "file": "locales/sw-tz/chapters/01-08-kuajiri-usaili-na-utambulisho.md"
+        },
+        "1.9": {
+          "part": 1,
+          "chapter": 9,
+          "decimal": "1.9",
+          "slug": "01-09-kazi-iliyosambazwa-na-ya-mbali",
+          "title": "Kazi iliyosambazwa na ya mbali",
+          "heading": "1.9 Kazi iliyosambazwa na ya mbali",
+          "file": "locales/sw-tz/chapters/01-09-kazi-iliyosambazwa-na-ya-mbali.md"
+        },
+        "1.10": {
+          "part": 1,
+          "chapter": 10,
+          "decimal": "1.10",
+          "slug": "01-10-ufanisi-wa-uhandisi-na-tija-ya-wasanidi",
+          "title": "Ufanisi wa uhandisi na tija ya wasanidi",
+          "heading": "1.10 Ufanisi wa uhandisi na tija ya wasanidi",
+          "file": "locales/sw-tz/chapters/01-10-ufanisi-wa-uhandisi-na-tija-ya-wasanidi.md"
+        },
+        "1.11": {
+          "part": 1,
+          "chapter": 11,
+          "decimal": "1.11",
+          "slug": "01-11-usimamizi-wa-uhandisi",
+          "title": "Usimamizi wa uhandisi",
+          "heading": "1.11 Usimamizi wa uhandisi",
+          "file": "locales/sw-tz/chapters/01-11-usimamizi-wa-uhandisi.md"
+        },
+        "1.12": {
+          "part": 1,
+          "chapter": 12,
+          "decimal": "1.12",
+          "slug": "01-12-utofauti-usawa-ujumuishi-na-kuhisi-kukubalika",
+          "title": "Utofauti, usawa, ujumuishi, na kuhisi kukubalika",
+          "heading": "1.12 Utofauti, usawa, ujumuishi, na kuhisi kukubalika",
+          "file": "locales/sw-tz/chapters/01-12-utofauti-usawa-ujumuishi-na-kuhisi-kukubalika.md"
+        },
+        "1.13": {
+          "part": 1,
+          "chapter": 13,
+          "decimal": "1.13",
+          "slug": "01-13-ushauri-ukocha-na-kushiriki-maarifa",
+          "title": "Ushauri, ukocha, na kushiriki maarifa",
+          "heading": "1.13 Ushauri, ukocha, na kushiriki maarifa",
+          "file": "locales/sw-tz/chapters/01-13-ushauri-ukocha-na-kushiriki-maarifa.md"
+        },
+        "2.0": {
+          "part": 2,
+          "chapter": 0,
+          "decimal": "2.0",
+          "slug": "02-00-utangulizi-wa-sehemu-ya-2-uandishi-wa-programu",
+          "title": "Utangulizi wa Sehemu ya 2: Uandishi wa Programu",
+          "heading": "2.0 Utangulizi wa Sehemu ya 2: Uandishi wa Programu",
+          "file": "locales/sw-tz/chapters/02-00-utangulizi-wa-sehemu-ya-2-uandishi-wa-programu.md"
+        },
+        "2.1": {
+          "part": 2,
+          "chapter": 1,
+          "decimal": "2.1",
+          "slug": "02-01-viwango-vya-uandishi-wa-msimbo-na-mtindo",
+          "title": "Viwango vya uandishi wa msimbo na mtindo",
+          "heading": "2.1 Viwango vya uandishi wa msimbo na mtindo",
+          "file": "locales/sw-tz/chapters/02-01-viwango-vya-uandishi-wa-msimbo-na-mtindo.md"
+        },
+        "2.2": {
+          "part": 2,
+          "chapter": 2,
+          "decimal": "2.2",
+          "slug": "02-02-kanuni-za-usanifu-wa-programu",
+          "title": "Kanuni za usanifu wa programu",
+          "heading": "2.2 Kanuni za usanifu wa programu",
+          "file": "locales/sw-tz/chapters/02-02-kanuni-za-usanifu-wa-programu.md"
+        },
+        "2.3": {
+          "part": 2,
+          "chapter": 3,
+          "decimal": "2.3",
+          "slug": "02-03-api-na-usanifu-wa-violesura",
+          "title": "API na usanifu wa violesura",
+          "heading": "2.3 API na usanifu wa violesura",
+          "file": "locales/sw-tz/chapters/02-03-api-na-usanifu-wa-violesura.md"
+        },
+        "2.4": {
+          "part": 2,
+          "chapter": 4,
+          "decimal": "2.4",
+          "slug": "02-04-mkakati-wa-majaribio",
+          "title": "Mkakati wa majaribio",
+          "heading": "2.4 Mkakati wa majaribio",
+          "file": "locales/sw-tz/chapters/02-04-mkakati-wa-majaribio.md"
+        },
+        "2.5": {
+          "part": 2,
+          "chapter": 5,
+          "decimal": "2.5",
+          "slug": "02-05-mapitio-ya-msimbo-na-ushirikiano",
+          "title": "Mapitio ya msimbo na ushirikiano",
+          "heading": "2.5 Mapitio ya msimbo na ushirikiano",
+          "file": "locales/sw-tz/chapters/02-05-mapitio-ya-msimbo-na-ushirikiano.md"
+        },
+        "2.6": {
+          "part": 2,
+          "chapter": 6,
+          "decimal": "2.6",
+          "slug": "02-06-udhibiti-wa-matoleo-na-usimamizi-wa-chanzo",
+          "title": "Udhibiti wa matoleo na usimamizi wa chanzo",
+          "heading": "2.6 Udhibiti wa matoleo na usimamizi wa chanzo",
+          "file": "locales/sw-tz/chapters/02-06-udhibiti-wa-matoleo-na-usimamizi-wa-chanzo.md"
+        },
+        "2.7": {
+          "part": 2,
+          "chapter": 7,
+          "decimal": "2.7",
+          "slug": "02-07-nyaraka",
+          "title": "Nyaraka",
+          "heading": "2.7 Nyaraka",
+          "file": "locales/sw-tz/chapters/02-07-nyaraka.md"
+        },
+        "2.8": {
+          "part": 2,
+          "chapter": 8,
+          "decimal": "2.8",
+          "slug": "02-08-mahitaji-ya-programu",
+          "title": "Mahitaji ya programu",
+          "heading": "2.8 Mahitaji ya programu",
+          "file": "locales/sw-tz/chapters/02-08-mahitaji-ya-programu.md"
+        },
+        "2.9": {
+          "part": 2,
+          "chapter": 9,
+          "decimal": "2.9",
+          "slug": "02-09-ujenzi-wa-programu",
+          "title": "Ujenzi wa programu",
+          "heading": "2.9 Ujenzi wa programu",
+          "file": "locales/sw-tz/chapters/02-09-ujenzi-wa-programu.md"
+        },
+        "2.10": {
+          "part": 2,
+          "chapter": 10,
+          "decimal": "2.10",
+          "slug": "02-10-usimamizi-wa-usanidi-wa-programu",
+          "title": "Usimamizi wa usanidi wa programu",
+          "heading": "2.10 Usimamizi wa usanidi wa programu",
+          "file": "locales/sw-tz/chapters/02-10-usimamizi-wa-usanidi-wa-programu.md"
+        },
+        "2.11": {
+          "part": 2,
+          "chapter": 11,
+          "decimal": "2.11",
+          "slug": "02-11-ubora-wa-programu",
+          "title": "Ubora wa programu",
+          "heading": "2.11 Ubora wa programu",
+          "file": "locales/sw-tz/chapters/02-11-ubora-wa-programu.md"
+        },
+        "2.12": {
+          "part": 2,
+          "chapter": 12,
+          "decimal": "2.12",
+          "slug": "02-12-mifano-na-mbinu-za-programu",
+          "title": "Mifano na mbinu za programu",
+          "heading": "2.12 Mifano na mbinu za programu",
+          "file": "locales/sw-tz/chapters/02-12-mifano-na-mbinu-za-programu.md"
+        },
+        "2.13": {
+          "part": 2,
+          "chapter": 13,
+          "decimal": "2.13",
+          "slug": "02-13-misingi-ya-kompyuta-hisabati-na-uhandisi",
+          "title": "Misingi ya kompyuta, hisabati, na uhandisi",
+          "heading": "2.13 Misingi ya kompyuta, hisabati, na uhandisi",
+          "file": "locales/sw-tz/chapters/02-13-misingi-ya-kompyuta-hisabati-na-uhandisi.md"
+        },
+        "2.14": {
+          "part": 2,
+          "chapter": 14,
+          "decimal": "2.14",
+          "slug": "02-14-muundo-wa-mradi-na-hazina",
+          "title": "Muundo wa mradi na hazina",
+          "heading": "2.14 Muundo wa mradi na hazina",
+          "file": "locales/sw-tz/chapters/02-14-muundo-wa-mradi-na-hazina.md"
+        },
+        "2.15": {
+          "part": 2,
+          "chapter": 15,
+          "decimal": "2.15",
+          "slug": "02-15-utatuzi-wa-hitilafu-na-kutatua-matatizo",
+          "title": "Utatuzi wa hitilafu na kutatua matatizo",
+          "heading": "2.15 Utatuzi wa hitilafu na kutatua matatizo",
+          "file": "locales/sw-tz/chapters/02-15-utatuzi-wa-hitilafu-na-kutatua-matatizo.md"
+        },
+        "2.16": {
+          "part": 2,
+          "chapter": 16,
+          "decimal": "2.16",
+          "slug": "02-16-uhandisi-wa-utendaji",
+          "title": "Uhandisi wa utendaji",
+          "heading": "2.16 Uhandisi wa utendaji",
+          "file": "locales/sw-tz/chapters/02-16-uhandisi-wa-utendaji.md"
+        },
+        "2.17": {
+          "part": 2,
+          "chapter": 17,
+          "decimal": "2.17",
+          "slug": "02-17-ulinganifu-na-usambamba",
+          "title": "Ulinganifu na usambamba",
+          "heading": "2.17 Ulinganifu na usambamba",
+          "file": "locales/sw-tz/chapters/02-17-ulinganifu-na-usambamba.md"
+        },
+        "2.18": {
+          "part": 2,
+          "chapter": 18,
+          "decimal": "2.18",
+          "slug": "02-18-usimamizi-wa-utegemezi-na-mnyororo-wa-ugavi",
+          "title": "Usimamizi wa utegemezi na mnyororo wa ugavi",
+          "heading": "2.18 Usimamizi wa utegemezi na mnyororo wa ugavi",
+          "file": "locales/sw-tz/chapters/02-18-usimamizi-wa-utegemezi-na-mnyororo-wa-ugavi.md"
+        },
+        "2.19": {
+          "part": 2,
+          "chapter": 19,
+          "decimal": "2.19",
+          "slug": "02-19-urekebishaji-wa-muundo-na-deni-la-kiufundi",
+          "title": "Urekebishaji wa muundo na deni la kiufundi",
+          "heading": "2.19 Urekebishaji wa muundo na deni la kiufundi",
+          "file": "locales/sw-tz/chapters/02-19-urekebishaji-wa-muundo-na-deni-la-kiufundi.md"
+        },
+        "2.20": {
+          "part": 2,
+          "chapter": 20,
+          "decimal": "2.20",
+          "slug": "02-20-ushughulikiaji-wa-makosa-na-mifumo-ya-ustahimilivu",
+          "title": "Ushughulikiaji wa makosa na mifumo ya ustahimilivu",
+          "heading": "2.20 Ushughulikiaji wa makosa na mifumo ya ustahimilivu",
+          "file": "locales/sw-tz/chapters/02-20-ushughulikiaji-wa-makosa-na-mifumo-ya-ustahimilivu.md"
+        },
+        "2.21": {
+          "part": 2,
+          "chapter": 21,
+          "decimal": "2.21",
+          "slug": "02-21-mifumo-ya-aina-na-uchambuzi-tuli",
+          "title": "Mifumo ya aina na uchambuzi tuli",
+          "heading": "2.21 Mifumo ya aina na uchambuzi tuli",
+          "file": "locales/sw-tz/chapters/02-21-mifumo-ya-aina-na-uchambuzi-tuli.md"
+        },
+        "3.0": {
+          "part": 3,
+          "chapter": 0,
+          "decimal": "3.0",
+          "slug": "03-00-utangulizi-wa-sehemu-ya-3-mifumo",
+          "title": "Utangulizi wa Sehemu ya 3: Mifumo",
+          "heading": "3.0 Utangulizi wa Sehemu ya 3: Mifumo",
+          "file": "locales/sw-tz/chapters/03-00-utangulizi-wa-sehemu-ya-3-mifumo.md"
+        },
+        "3.1": {
+          "part": 3,
+          "chapter": 1,
+          "decimal": "3.1",
+          "slug": "03-01-misingi-ya-usanifu",
+          "title": "Misingi ya usanifu",
+          "heading": "3.1 Misingi ya usanifu",
+          "file": "locales/sw-tz/chapters/03-01-misingi-ya-usanifu.md"
+        },
+        "3.2": {
+          "part": 3,
+          "chapter": 2,
+          "decimal": "3.2",
+          "slug": "03-02-mitindo-na-mifumo-ya-usanifu",
+          "title": "Mitindo na mifumo ya usanifu",
+          "heading": "3.2 Mitindo na mifumo ya usanifu",
+          "file": "locales/sw-tz/chapters/03-02-mitindo-na-mifumo-ya-usanifu.md"
+        },
+        "3.3": {
+          "part": 3,
+          "chapter": 3,
+          "decimal": "3.3",
+          "slug": "03-03-mifumo-iliyosambazwa",
+          "title": "Mifumo iliyosambazwa",
+          "heading": "3.3 Mifumo iliyosambazwa",
+          "file": "locales/sw-tz/chapters/03-03-mifumo-iliyosambazwa.md"
+        },
+        "3.4": {
+          "part": 3,
+          "chapter": 4,
+          "decimal": "3.4",
+          "slug": "03-04-usanifu-wa-data-na-uhifadhi",
+          "title": "Usanifu wa data na uhifadhi",
+          "heading": "3.4 Usanifu wa data na uhifadhi",
+          "file": "locales/sw-tz/chapters/03-04-usanifu-wa-data-na-uhifadhi.md"
+        },
+        "3.5": {
+          "part": 3,
+          "chapter": 5,
+          "decimal": "3.5",
+          "slug": "03-05-ukubwa-utendaji-na-ustahimilivu",
+          "title": "Ukubwa, utendaji, na ustahimilivu",
+          "heading": "3.5 Ukubwa, utendaji, na ustahimilivu",
+          "file": "locales/sw-tz/chapters/03-05-ukubwa-utendaji-na-ustahimilivu.md"
+        },
+        "3.6": {
+          "part": 3,
+          "chapter": 6,
+          "decimal": "3.6",
+          "slug": "03-06-uboreshaji-wa-mifumo-ya-urithi",
+          "title": "Uboreshaji wa mifumo ya urithi",
+          "heading": "3.6 Uboreshaji wa mifumo ya urithi",
+          "file": "locales/sw-tz/chapters/03-06-uboreshaji-wa-mifumo-ya-urithi.md"
+        },
+        "3.7": {
+          "part": 3,
+          "chapter": 7,
+          "decimal": "3.7",
+          "slug": "03-07-matengenezo-ya-programu",
+          "title": "Matengenezo ya programu",
+          "heading": "3.7 Matengenezo ya programu",
+          "file": "locales/sw-tz/chapters/03-07-matengenezo-ya-programu.md"
+        },
+        "3.8": {
+          "part": 3,
+          "chapter": 8,
+          "decimal": "3.8",
+          "slug": "03-08-uwezo-wa-kuingiliana-na-viwango-huria",
+          "title": "Uwezo wa kuingiliana na viwango huria",
+          "heading": "3.8 Uwezo wa kuingiliana na viwango huria",
+          "file": "locales/sw-tz/chapters/03-08-uwezo-wa-kuingiliana-na-viwango-huria.md"
+        },
+        "3.9": {
+          "part": 3,
+          "chapter": 9,
+          "decimal": "3.9",
+          "slug": "03-09-uhandisi-wa-mifumo",
+          "title": "Uhandisi wa mifumo",
+          "heading": "3.9 Uhandisi wa mifumo",
+          "file": "locales/sw-tz/chapters/03-09-uhandisi-wa-mifumo.md"
+        },
+        "3.10": {
+          "part": 3,
+          "chapter": 10,
+          "decimal": "3.10",
+          "slug": "03-10-mifumo-iliyopachikwa-na-ya-wakati-halisi",
+          "title": "Mifumo iliyopachikwa na ya wakati halisi",
+          "heading": "3.10 Mifumo iliyopachikwa na ya wakati halisi",
+          "file": "locales/sw-tz/chapters/03-10-mifumo-iliyopachikwa-na-ya-wakati-halisi.md"
+        },
+        "3.11": {
+          "part": 3,
+          "chapter": 11,
+          "decimal": "3.11",
+          "slug": "03-11-usanifu-wa-wingu",
+          "title": "Usanifu wa wingu",
+          "heading": "3.11 Usanifu wa wingu",
+          "file": "locales/sw-tz/chapters/03-11-usanifu-wa-wingu.md"
+        },
+        "3.12": {
+          "part": 3,
+          "chapter": 12,
+          "decimal": "3.12",
+          "slug": "03-12-usanifu-unaoendeshwa-na-matukio-na-ujumbe",
+          "title": "Usanifu unaoendeshwa na matukio na ujumbe",
+          "heading": "3.12 Usanifu unaoendeshwa na matukio na ujumbe",
+          "file": "locales/sw-tz/chapters/03-12-usanifu-unaoendeshwa-na-matukio-na-ujumbe.md"
+        },
+        "3.13": {
+          "part": 3,
+          "chapter": 13,
+          "decimal": "3.13",
+          "slug": "03-13-mitandao-na-muunganisho",
+          "title": "Mitandao na muunganisho",
+          "heading": "3.13 Mitandao na muunganisho",
+          "file": "locales/sw-tz/chapters/03-13-mitandao-na-muunganisho.md"
+        },
+        "3.14": {
+          "part": 3,
+          "chapter": 14,
+          "decimal": "3.14",
+          "slug": "03-14-wapangaji-wengi-na-usanifu-wa-saas",
+          "title": "Wapangaji wengi na usanifu wa SaaS",
+          "heading": "3.14 Wapangaji wengi na usanifu wa SaaS",
+          "file": "locales/sw-tz/chapters/03-14-wapangaji-wengi-na-usanifu-wa-saas.md"
+        },
+        "3.15": {
+          "part": 3,
+          "chapter": 15,
+          "decimal": "3.15",
+          "slug": "03-15-kache-na-usambazaji-wa-maudhui",
+          "title": "Kache na usambazaji wa maudhui",
+          "heading": "3.15 Kache na usambazaji wa maudhui",
+          "file": "locales/sw-tz/chapters/03-15-kache-na-usambazaji-wa-maudhui.md"
+        },
+        "3.16": {
+          "part": 3,
+          "chapter": 16,
+          "decimal": "3.16",
+          "slug": "03-16-lango-la-api-na-mesh-ya-huduma",
+          "title": "Lango la API na mesh ya huduma",
+          "heading": "3.16 Lango la API na mesh ya huduma",
+          "file": "locales/sw-tz/chapters/03-16-lango-la-api-na-mesh-ya-huduma.md"
+        },
+        "3.17": {
+          "part": 3,
+          "chapter": 17,
+          "decimal": "3.17",
+          "slug": "03-17-utafutaji-na-urejeshaji-wa-taarifa",
+          "title": "Utafutaji na urejeshaji wa taarifa",
+          "heading": "3.17 Utafutaji na urejeshaji wa taarifa",
+          "file": "locales/sw-tz/chapters/03-17-utafutaji-na-urejeshaji-wa-taarifa.md"
+        },
+        "4.0": {
+          "part": 4,
+          "chapter": 0,
+          "decimal": "4.0",
+          "slug": "04-00-utangulizi-wa-sehemu-ya-4-usalama",
+          "title": "Utangulizi wa Sehemu ya 4: Usalama",
+          "heading": "4.0 Utangulizi wa Sehemu ya 4: Usalama",
+          "file": "locales/sw-tz/chapters/04-00-utangulizi-wa-sehemu-ya-4-usalama.md"
+        },
+        "4.1": {
+          "part": 4,
+          "chapter": 1,
+          "decimal": "4.1",
+          "slug": "04-01-misingi-ya-usalama-na-utamaduni",
+          "title": "Misingi ya usalama na utamaduni",
+          "heading": "4.1 Misingi ya usalama na utamaduni",
+          "file": "locales/sw-tz/chapters/04-01-misingi-ya-usalama-na-utamaduni.md"
+        },
+        "4.2": {
+          "part": 4,
+          "chapter": 2,
+          "decimal": "4.2",
+          "slug": "04-02-usalama-wa-programu",
+          "title": "Usalama wa programu",
+          "heading": "4.2 Usalama wa programu",
+          "file": "locales/sw-tz/chapters/04-02-usalama-wa-programu.md"
+        },
+        "4.3": {
+          "part": 4,
+          "chapter": 3,
+          "decimal": "4.3",
+          "slug": "04-03-usalama-wa-miundombinu-na-wingu",
+          "title": "Usalama wa miundombinu na wingu",
+          "heading": "4.3 Usalama wa miundombinu na wingu",
+          "file": "locales/sw-tz/chapters/04-03-usalama-wa-miundombinu-na-wingu.md"
+        },
+        "4.4": {
+          "part": 4,
+          "chapter": 4,
+          "decimal": "4.4",
+          "slug": "04-04-operesheni-za-usalama",
+          "title": "Operesheni za usalama",
+          "heading": "4.4 Operesheni za usalama",
+          "file": "locales/sw-tz/chapters/04-04-operesheni-za-usalama.md"
+        },
+        "4.5": {
+          "part": 4,
+          "chapter": 5,
+          "decimal": "4.5",
+          "slug": "04-05-faragha-na-ulinzi-wa-data",
+          "title": "Faragha na ulinzi wa data",
+          "heading": "4.5 Faragha na ulinzi wa data",
+          "file": "locales/sw-tz/chapters/04-05-faragha-na-ulinzi-wa-data.md"
+        },
+        "4.6": {
+          "part": 4,
+          "chapter": 6,
+          "decimal": "4.6",
+          "slug": "04-06-uzingatiaji-na-utawala",
+          "title": "Uzingatiaji na utawala",
+          "heading": "4.6 Uzingatiaji na utawala",
+          "file": "locales/sw-tz/chapters/04-06-uzingatiaji-na-utawala.md"
+        },
+        "4.7": {
+          "part": 4,
+          "chapter": 7,
+          "decimal": "4.7",
+          "slug": "04-07-usimamizi-wa-utambulisho-na-ufikiaji",
+          "title": "Usimamizi wa utambulisho na ufikiaji",
+          "heading": "4.7 Usimamizi wa utambulisho na ufikiaji",
+          "file": "locales/sw-tz/chapters/04-07-usimamizi-wa-utambulisho-na-ufikiaji.md"
+        },
+        "4.8": {
+          "part": 4,
+          "chapter": 8,
+          "decimal": "4.8",
+          "slug": "04-08-kriptografia-na-usimamizi-wa-funguo",
+          "title": "Kriptografia na usimamizi wa funguo",
+          "heading": "4.8 Kriptografia na usimamizi wa funguo",
+          "file": "locales/sw-tz/chapters/04-08-kriptografia-na-usimamizi-wa-funguo.md"
+        },
+        "4.9": {
+          "part": 4,
+          "chapter": 9,
+          "decimal": "4.9",
+          "slug": "04-09-mzunguko-salama-wa-uendelezaji-wa-programu",
+          "title": "Mzunguko salama wa uendelezaji wa programu",
+          "heading": "4.9 Mzunguko salama wa uendelezaji wa programu",
+          "file": "locales/sw-tz/chapters/04-09-mzunguko-salama-wa-uendelezaji-wa-programu.md"
+        },
+        "4.10": {
+          "part": 4,
+          "chapter": 10,
+          "decimal": "4.10",
+          "slug": "04-10-majaribio-ya-kupenya-na-red-teaming",
+          "title": "Majaribio ya kupenya na red teaming",
+          "heading": "4.10 Majaribio ya kupenya na red teaming",
+          "file": "locales/sw-tz/chapters/04-10-majaribio-ya-kupenya-na-red-teaming.md"
+        },
+        "5.0": {
+          "part": 5,
+          "chapter": 0,
+          "decimal": "5.0",
+          "slug": "05-00-utangulizi-wa-sehemu-ya-5-usanifu-wa-ui-ux",
+          "title": "Utangulizi wa Sehemu ya 5: Usanifu wa UI/UX",
+          "heading": "5.0 Utangulizi wa Sehemu ya 5: Usanifu wa UI/UX",
+          "file": "locales/sw-tz/chapters/05-00-utangulizi-wa-sehemu-ya-5-usanifu-wa-ui-ux.md"
+        },
+        "5.1": {
+          "part": 5,
+          "chapter": 1,
+          "decimal": "5.1",
+          "slug": "05-01-misingi-ya-ux",
+          "title": "Misingi ya UX",
+          "heading": "5.1 Misingi ya UX",
+          "file": "locales/sw-tz/chapters/05-01-misingi-ya-ux.md"
+        },
+        "5.2": {
+          "part": 5,
+          "chapter": 2,
+          "decimal": "5.2",
+          "slug": "05-02-usanifu-wa-ui-na-mifumo-ya-usanifu",
+          "title": "Usanifu wa UI na mifumo ya usanifu",
+          "heading": "5.2 Usanifu wa UI na mifumo ya usanifu",
+          "file": "locales/sw-tz/chapters/05-02-usanifu-wa-ui-na-mifumo-ya-usanifu.md"
+        },
+        "5.3": {
+          "part": 5,
+          "chapter": 3,
+          "decimal": "5.3",
+          "slug": "05-03-ufikivu",
+          "title": "Ufikivu",
+          "heading": "5.3 Ufikivu",
+          "file": "locales/sw-tz/chapters/05-03-ufikivu.md"
+        },
+        "5.4": {
+          "part": 5,
+          "chapter": 4,
+          "decimal": "5.4",
+          "slug": "05-04-usanifu-wa-maudhui-na-mawasiliano",
+          "title": "Usanifu wa maudhui na mawasiliano",
+          "heading": "5.4 Usanifu wa maudhui na mawasiliano",
+          "file": "locales/sw-tz/chapters/05-04-usanifu-wa-maudhui-na-mawasiliano.md"
+        },
+        "5.5": {
+          "part": 5,
+          "chapter": 5,
+          "decimal": "5.5",
+          "slug": "05-05-uandaaji-wa-kimataifa-na-ulokalishaji",
+          "title": "Uandaaji wa kimataifa na ulokalishaji",
+          "heading": "5.5 Uandaaji wa kimataifa na ulokalishaji",
+          "file": "locales/sw-tz/chapters/05-05-uandaaji-wa-kimataifa-na-ulokalishaji.md"
+        },
+        "5.6": {
+          "part": 5,
+          "chapter": 6,
+          "decimal": "5.6",
+          "slug": "05-06-uhandisi-wa-frontend",
+          "title": "Uhandisi wa frontend",
+          "heading": "5.6 Uhandisi wa frontend",
+          "file": "locales/sw-tz/chapters/05-06-uhandisi-wa-frontend.md"
+        },
+        "5.7": {
+          "part": 5,
+          "chapter": 7,
+          "decimal": "5.7",
+          "slug": "05-07-uendelezaji-wa-programu-za-simu",
+          "title": "Uendelezaji wa programu za simu",
+          "heading": "5.7 Uendelezaji wa programu za simu",
+          "file": "locales/sw-tz/chapters/05-07-uendelezaji-wa-programu-za-simu.md"
+        },
+        "5.8": {
+          "part": 5,
+          "chapter": 8,
+          "decimal": "5.8",
+          "slug": "05-08-utafiti-wa-usanifu-na-majaribio-ya-utumiaji",
+          "title": "Utafiti wa usanifu na majaribio ya utumiaji",
+          "heading": "5.8 Utafiti wa usanifu na majaribio ya utumiaji",
+          "file": "locales/sw-tz/chapters/05-08-utafiti-wa-usanifu-na-majaribio-ya-utumiaji.md"
+        },
+        "5.9": {
+          "part": 5,
+          "chapter": 9,
+          "decimal": "5.9",
+          "slug": "05-09-usanifu-wa-huduma",
+          "title": "Usanifu wa huduma",
+          "heading": "5.9 Usanifu wa huduma",
+          "file": "locales/sw-tz/chapters/05-09-usanifu-wa-huduma.md"
+        },
+        "5.10": {
+          "part": 5,
+          "chapter": 10,
+          "decimal": "5.10",
+          "slug": "05-10-usanifu-wa-taswira-za-data",
+          "title": "Usanifu wa taswira za data",
+          "heading": "5.10 Usanifu wa taswira za data",
+          "file": "locales/sw-tz/chapters/05-10-usanifu-wa-taswira-za-data.md"
+        },
+        "6.0": {
+          "part": 6,
+          "chapter": 0,
+          "decimal": "6.0",
+          "slug": "06-00-utangulizi-wa-sehemu-ya-6-akili-bandia",
+          "title": "Utangulizi wa Sehemu ya 6: Akili Bandia",
+          "heading": "6.0 Utangulizi wa Sehemu ya 6: Akili Bandia",
+          "file": "locales/sw-tz/chapters/06-00-utangulizi-wa-sehemu-ya-6-akili-bandia.md"
+        },
+        "6.1": {
+          "part": 6,
+          "chapter": 1,
+          "decimal": "6.1",
+          "slug": "06-01-mkakati-wa-ai-na-utayari",
+          "title": "Mkakati wa AI na utayari",
+          "heading": "6.1 Mkakati wa AI na utayari",
+          "file": "locales/sw-tz/chapters/06-01-mkakati-wa-ai-na-utayari.md"
+        },
+        "6.2": {
+          "part": 6,
+          "chapter": 2,
+          "decimal": "6.2",
+          "slug": "06-02-uhandisi-wa-kujifunza-kwa-mashine",
+          "title": "Uhandisi wa kujifunza kwa mashine (MLOps)",
+          "heading": "6.2 Uhandisi wa kujifunza kwa mashine (MLOps)",
+          "file": "locales/sw-tz/chapters/06-02-uhandisi-wa-kujifunza-kwa-mashine.md"
+        },
+        "6.3": {
+          "part": 6,
+          "chapter": 3,
+          "decimal": "6.3",
+          "slug": "06-03-ai-ya-kuzalisha-na-programu-za-llm",
+          "title": "AI ya kuzalisha na programu za LLM",
+          "heading": "6.3 AI ya kuzalisha na programu za LLM",
+          "file": "locales/sw-tz/chapters/06-03-ai-ya-kuzalisha-na-programu-za-llm.md"
+        },
+        "6.4": {
+          "part": 6,
+          "chapter": 4,
+          "decimal": "6.4",
+          "slug": "06-04-uendelezaji-wa-programu-unaosaidiwa-na-ai",
+          "title": "Uendelezaji wa programu unaosaidiwa na AI",
+          "heading": "6.4 Uendelezaji wa programu unaosaidiwa na AI",
+          "file": "locales/sw-tz/chapters/06-04-uendelezaji-wa-programu-unaosaidiwa-na-ai.md"
+        },
+        "6.5": {
+          "part": 6,
+          "chapter": 5,
+          "decimal": "6.5",
+          "slug": "06-05-ai-ya-kuwajibika-na-ya-kuaminika",
+          "title": "AI ya kuwajibika na ya kuaminika",
+          "heading": "6.5 AI ya kuwajibika na ya kuaminika",
+          "file": "locales/sw-tz/chapters/06-05-ai-ya-kuwajibika-na-ya-kuaminika.md"
+        },
+        "6.6": {
+          "part": 6,
+          "chapter": 6,
+          "decimal": "6.6",
+          "slug": "06-06-miundombinu-na-operesheni-za-ai",
+          "title": "Miundombinu na operesheni za AI",
+          "heading": "6.6 Miundombinu na operesheni za AI",
+          "file": "locales/sw-tz/chapters/06-06-miundombinu-na-operesheni-za-ai.md"
+        },
+        "6.7": {
+          "part": 6,
+          "chapter": 7,
+          "decimal": "6.7",
+          "slug": "06-07-mawakala-wa-ai-na-mifumo-ya-kiwakala",
+          "title": "Mawakala wa AI na mifumo ya kiwakala",
+          "heading": "6.7 Mawakala wa AI na mifumo ya kiwakala",
+          "file": "locales/sw-tz/chapters/06-07-mawakala-wa-ai-na-mifumo-ya-kiwakala.md"
+        },
+        "6.8": {
+          "part": 6,
+          "chapter": 8,
+          "decimal": "6.8",
+          "slug": "06-08-tathmini-na-majaribio-ya-ai",
+          "title": "Tathmini na majaribio ya AI",
+          "heading": "6.8 Tathmini na majaribio ya AI",
+          "file": "locales/sw-tz/chapters/06-08-tathmini-na-majaribio-ya-ai.md"
+        },
+        "6.9": {
+          "part": 6,
+          "chapter": 9,
+          "decimal": "6.9",
+          "slug": "06-09-uhandisi-wa-maagizo-na-usanifu-wa-muktadha",
+          "title": "Uhandisi wa maagizo na usanifu wa muktadha",
+          "heading": "6.9 Uhandisi wa maagizo na usanifu wa muktadha",
+          "file": "locales/sw-tz/chapters/06-09-uhandisi-wa-maagizo-na-usanifu-wa-muktadha.md"
+        },
+        "7.0": {
+          "part": 7,
+          "chapter": 0,
+          "decimal": "7.0",
+          "slug": "07-00-utangulizi-wa-sehemu-ya-7-data-uchanganuzi-na-ufahamu",
+          "title": "Utangulizi wa Sehemu ya 7: Data, Uchanganuzi, na Ufahamu",
+          "heading": "7.0 Utangulizi wa Sehemu ya 7: Data, Uchanganuzi, na Ufahamu",
+          "file": "locales/sw-tz/chapters/07-00-utangulizi-wa-sehemu-ya-7-data-uchanganuzi-na-ufahamu.md"
+        },
+        "7.1": {
+          "part": 7,
+          "chapter": 1,
+          "decimal": "7.1",
+          "slug": "07-01-mkakati-wa-data-na-utawala",
+          "title": "Mkakati wa data na utawala",
+          "heading": "7.1 Mkakati wa data na utawala",
+          "file": "locales/sw-tz/chapters/07-01-mkakati-wa-data-na-utawala.md"
+        },
+        "7.2": {
+          "part": 7,
+          "chapter": 2,
+          "decimal": "7.2",
+          "slug": "07-02-uhandisi-wa-data",
+          "title": "Uhandisi wa data",
+          "heading": "7.2 Uhandisi wa data",
+          "file": "locales/sw-tz/chapters/07-02-uhandisi-wa-data.md"
+        },
+        "7.3": {
+          "part": 7,
+          "chapter": 3,
+          "decimal": "7.3",
+          "slug": "07-03-uchanganuzi-na-akili-ya-biashara",
+          "title": "Uchanganuzi na akili ya biashara",
+          "heading": "7.3 Uchanganuzi na akili ya biashara",
+          "file": "locales/sw-tz/chapters/07-03-uchanganuzi-na-akili-ya-biashara.md"
+        },
+        "7.4": {
+          "part": 7,
+          "chapter": 4,
+          "decimal": "7.4",
+          "slug": "07-04-uchanganuzi-wa-bidhaa-na-majaribio",
+          "title": "Uchanganuzi wa bidhaa na majaribio",
+          "heading": "7.4 Uchanganuzi wa bidhaa na majaribio",
+          "file": "locales/sw-tz/chapters/07-04-uchanganuzi-wa-bidhaa-na-majaribio.md"
+        },
+        "7.5": {
+          "part": 7,
+          "chapter": 5,
+          "decimal": "7.5",
+          "slug": "07-05-sayansi-ya-maamuzi-na-utamaduni-wa-data",
+          "title": "Sayansi ya maamuzi na utamaduni wa data",
+          "heading": "7.5 Sayansi ya maamuzi na utamaduni wa data",
+          "file": "locales/sw-tz/chapters/07-05-sayansi-ya-maamuzi-na-utamaduni-wa-data.md"
+        },
+        "7.6": {
+          "part": 7,
+          "chapter": 6,
+          "decimal": "7.6",
+          "slug": "07-06-data-ya-wakati-halisi-na-ya-kutiririka",
+          "title": "Data ya wakati halisi na ya kutiririka",
+          "heading": "7.6 Data ya wakati halisi na ya kutiririka",
+          "file": "locales/sw-tz/chapters/07-06-data-ya-wakati-halisi-na-ya-kutiririka.md"
+        },
+        "7.7": {
+          "part": 7,
+          "chapter": 7,
+          "decimal": "7.7",
+          "slug": "07-07-uundaji-wa-data-na-safu-ya-kisemantiki",
+          "title": "Uundaji wa data na safu ya kisemantiki",
+          "heading": "7.7 Uundaji wa data na safu ya kisemantiki",
+          "file": "locales/sw-tz/chapters/07-07-uundaji-wa-data-na-safu-ya-kisemantiki.md"
+        },
+        "7.8": {
+          "part": 7,
+          "chapter": 8,
+          "decimal": "7.8",
+          "slug": "07-08-ubora-wa-data-na-uonekanaji",
+          "title": "Ubora wa data na uonekanaji",
+          "heading": "7.8 Ubora wa data na uonekanaji",
+          "file": "locales/sw-tz/chapters/07-08-ubora-wa-data-na-uonekanaji.md"
+        },
+        "7.9": {
+          "part": 7,
+          "chapter": 9,
+          "decimal": "7.9",
+          "slug": "07-09-usimamizi-wa-data-kuu-na-data-ya-rejeo",
+          "title": "Usimamizi wa data kuu na data ya rejeo",
+          "heading": "7.9 Usimamizi wa data kuu na data ya rejeo",
+          "file": "locales/sw-tz/chapters/07-09-usimamizi-wa-data-kuu-na-data-ya-rejeo.md"
+        },
+        "8.0": {
+          "part": 8,
+          "chapter": 0,
+          "decimal": "8.0",
+          "slug": "08-00-utangulizi-wa-sehemu-ya-8-uotomatishaji",
+          "title": "Utangulizi wa Sehemu ya 8: Uotomatishaji",
+          "heading": "8.0 Utangulizi wa Sehemu ya 8: Uotomatishaji",
+          "file": "locales/sw-tz/chapters/08-00-utangulizi-wa-sehemu-ya-8-uotomatishaji.md"
+        },
+        "8.1": {
+          "part": 8,
+          "chapter": 1,
+          "decimal": "8.1",
+          "slug": "08-01-ci-cd-na-utoaji",
+          "title": "CI/CD na utoaji",
+          "heading": "8.1 CI/CD na utoaji",
+          "file": "locales/sw-tz/chapters/08-01-ci-cd-na-utoaji.md"
+        },
+        "8.2": {
+          "part": 8,
+          "chapter": 2,
+          "decimal": "8.2",
+          "slug": "08-02-miundombinu-kama-msimbo-na-usanidi",
+          "title": "Miundombinu-kama-msimbo na usanidi",
+          "heading": "8.2 Miundombinu-kama-msimbo na usanidi",
+          "file": "locales/sw-tz/chapters/08-02-miundombinu-kama-msimbo-na-usanidi.md"
+        },
+        "8.3": {
+          "part": 8,
+          "chapter": 3,
+          "decimal": "8.3",
+          "slug": "08-03-kontena-uratibu-na-asili-ya-wingu",
+          "title": "Kontena, uratibu, na asili ya wingu",
+          "heading": "8.3 Kontena, uratibu, na asili ya wingu",
+          "file": "locales/sw-tz/chapters/08-03-kontena-uratibu-na-asili-ya-wingu.md"
+        },
+        "8.4": {
+          "part": 8,
+          "chapter": 4,
+          "decimal": "8.4",
+          "slug": "08-04-uhandisi-wa-jukwaa-na-uzoefu-wa-msanidi",
+          "title": "Uhandisi wa jukwaa na uzoefu wa msanidi",
+          "heading": "8.4 Uhandisi wa jukwaa na uzoefu wa msanidi",
+          "file": "locales/sw-tz/chapters/08-04-uhandisi-wa-jukwaa-na-uzoefu-wa-msanidi.md"
+        },
+        "8.5": {
+          "part": 8,
+          "chapter": 5,
+          "decimal": "8.5",
+          "slug": "08-05-uotomatishaji-wa-majaribio-na-mchakato",
+          "title": "Uotomatishaji wa majaribio na mchakato",
+          "heading": "8.5 Uotomatishaji wa majaribio na mchakato",
+          "file": "locales/sw-tz/chapters/08-05-uotomatishaji-wa-majaribio-na-mchakato.md"
+        },
+        "8.6": {
+          "part": 8,
+          "chapter": 6,
+          "decimal": "8.6",
+          "slug": "08-06-usimamizi-wa-matoleo-na-utoaji-wa-hatua-kwa-hatua",
+          "title": "Usimamizi wa matoleo na utoaji wa hatua kwa hatua",
+          "heading": "8.6 Usimamizi wa matoleo na utoaji wa hatua kwa hatua",
+          "file": "locales/sw-tz/chapters/08-06-usimamizi-wa-matoleo-na-utoaji-wa-hatua-kwa-hatua.md"
+        },
+        "8.7": {
+          "part": 8,
+          "chapter": 7,
+          "decimal": "8.7",
+          "slug": "08-07-mifumo-ya-ujenzi-na-usimamizi-wa-mabaki",
+          "title": "Mifumo ya ujenzi na usimamizi wa mabaki",
+          "heading": "8.7 Mifumo ya ujenzi na usimamizi wa mabaki",
+          "file": "locales/sw-tz/chapters/08-07-mifumo-ya-ujenzi-na-usimamizi-wa-mabaki.md"
+        },
+        "9.0": {
+          "part": 9,
+          "chapter": 0,
+          "decimal": "9.0",
+          "slug": "09-00-utangulizi-wa-sehemu-ya-9-operesheni-kutegemewa-na-uonekanaji",
+          "title": "Utangulizi wa Sehemu ya 9: Operesheni, Kutegemewa, na Uonekanaji",
+          "heading": "9.0 Utangulizi wa Sehemu ya 9: Operesheni, Kutegemewa, na Uonekanaji",
+          "file": "locales/sw-tz/chapters/09-00-utangulizi-wa-sehemu-ya-9-operesheni-kutegemewa-na-uonekanaji.md"
+        },
+        "9.1": {
+          "part": 9,
+          "chapter": 1,
+          "decimal": "9.1",
+          "slug": "09-01-uhandisi-wa-kutegemewa-wa-tovuti",
+          "title": "Uhandisi wa kutegemewa wa tovuti",
+          "heading": "9.1 Uhandisi wa kutegemewa wa tovuti",
+          "file": "locales/sw-tz/chapters/09-01-uhandisi-wa-kutegemewa-wa-tovuti.md"
+        },
+        "9.2": {
+          "part": 9,
+          "chapter": 2,
+          "decimal": "9.2",
+          "slug": "09-02-uonekanaji-na-telemetry",
+          "title": "Uonekanaji na telemetry",
+          "heading": "9.2 Uonekanaji na telemetry",
+          "file": "locales/sw-tz/chapters/09-02-uonekanaji-na-telemetry.md"
+        },
+        "9.3": {
+          "part": 9,
+          "chapter": 3,
+          "decimal": "9.3",
+          "slug": "09-03-usimamizi-wa-matukio",
+          "title": "Usimamizi wa matukio",
+          "heading": "9.3 Usimamizi wa matukio",
+          "file": "locales/sw-tz/chapters/09-03-usimamizi-wa-matukio.md"
+        },
+        "9.4": {
+          "part": 9,
+          "chapter": 4,
+          "decimal": "9.4",
+          "slug": "09-04-gharama-uendelevu-na-programu-ya-kijani",
+          "title": "Gharama, uendelevu, na programu ya kijani",
+          "heading": "9.4 Gharama, uendelevu, na programu ya kijani",
+          "file": "locales/sw-tz/chapters/09-04-gharama-uendelevu-na-programu-ya-kijani.md"
+        },
+        "9.5": {
+          "part": 9,
+          "chapter": 5,
+          "decimal": "9.5",
+          "slug": "09-05-kupona-kutoka-maafa-na-mwendelezo-wa-biashara",
+          "title": "Kupona kutoka maafa na mwendelezo wa biashara",
+          "heading": "9.5 Kupona kutoka maafa na mwendelezo wa biashara",
+          "file": "locales/sw-tz/chapters/09-05-kupona-kutoka-maafa-na-mwendelezo-wa-biashara.md"
+        },
+        "9.6": {
+          "part": 9,
+          "chapter": 6,
+          "decimal": "9.6",
+          "slug": "09-06-uhandisi-wa-machafuko-na-majaribio-ya-ustahimilivu",
+          "title": "Uhandisi wa machafuko na majaribio ya ustahimilivu",
+          "heading": "9.6 Uhandisi wa machafuko na majaribio ya ustahimilivu",
+          "file": "locales/sw-tz/chapters/09-06-uhandisi-wa-machafuko-na-majaribio-ya-ustahimilivu.md"
+        },
+        "9.7": {
+          "part": 9,
+          "chapter": 7,
+          "decimal": "9.7",
+          "slug": "09-07-upangaji-wa-uwezo-na-utabiri-wa-mahitaji",
+          "title": "Upangaji wa uwezo na utabiri wa mahitaji",
+          "heading": "9.7 Upangaji wa uwezo na utabiri wa mahitaji",
+          "file": "locales/sw-tz/chapters/09-07-upangaji-wa-uwezo-na-utabiri-wa-mahitaji.md"
+        },
+        "9.8": {
+          "part": 9,
+          "chapter": 8,
+          "decimal": "9.8",
+          "slug": "09-08-simu-ya-dharura-na-utayari-wa-uendeshaji",
+          "title": "Simu ya dharura na utayari wa uendeshaji",
+          "heading": "9.8 Simu ya dharura na utayari wa uendeshaji",
+          "file": "locales/sw-tz/chapters/09-08-simu-ya-dharura-na-utayari-wa-uendeshaji.md"
+        },
+        "10.0": {
+          "part": 10,
+          "chapter": 0,
+          "decimal": "10.0",
+          "slug": "10-00-utangulizi-wa-sehemu-ya-10-usimamizi-wa-miradi-bidhaa-na-programu",
+          "title": "Utangulizi wa Sehemu ya 10: Usimamizi wa Miradi, Bidhaa, na Programu",
+          "heading": "10.0 Utangulizi wa Sehemu ya 10: Usimamizi wa Miradi, Bidhaa, na Programu",
+          "file": "locales/sw-tz/chapters/10-00-utangulizi-wa-sehemu-ya-10-usimamizi-wa-miradi-bidhaa-na-programu.md"
+        },
+        "10.1": {
+          "part": 10,
+          "chapter": 1,
+          "decimal": "10.1",
+          "slug": "10-01-usimamizi-wa-jalada-na-programu",
+          "title": "Usimamizi wa jalada na programu",
+          "heading": "10.1 Usimamizi wa jalada na programu",
+          "file": "locales/sw-tz/chapters/10-01-usimamizi-wa-jalada-na-programu.md"
+        },
+        "10.2": {
+          "part": 10,
+          "chapter": 2,
+          "decimal": "10.2",
+          "slug": "10-02-hatari-ukaguzi-na-uhakikisho",
+          "title": "Hatari, ukaguzi, na uhakikisho",
+          "heading": "10.2 Hatari, ukaguzi, na uhakikisho",
+          "file": "locales/sw-tz/chapters/10-02-hatari-ukaguzi-na-uhakikisho.md"
+        },
+        "10.3": {
+          "part": 10,
+          "chapter": 3,
+          "decimal": "10.3",
+          "slug": "10-03-ununuzi-chanzo-huria-na-leseni",
+          "title": "Ununuzi, chanzo huria, na leseni",
+          "heading": "10.3 Ununuzi, chanzo huria, na leseni",
+          "file": "locales/sw-tz/chapters/10-03-ununuzi-chanzo-huria-na-leseni.md"
+        },
+        "10.4": {
+          "part": 10,
+          "chapter": 4,
+          "decimal": "10.4",
+          "slug": "10-04-kudumisha-mifumo-mikubwa-na-ya-muda-mrefu",
+          "title": "Kudumisha mifumo mikubwa na ya muda mrefu",
+          "heading": "10.4 Kudumisha mifumo mikubwa na ya muda mrefu",
+          "file": "locales/sw-tz/chapters/10-04-kudumisha-mifumo-mikubwa-na-ya-muda-mrefu.md"
+        },
+        "10.5": {
+          "part": 10,
+          "chapter": 5,
+          "decimal": "10.5",
+          "slug": "10-05-maadili-uwajibikaji-na-maslahi-ya-umma",
+          "title": "Maadili, uwajibikaji, na maslahi ya umma",
+          "heading": "10.5 Maadili, uwajibikaji, na maslahi ya umma",
+          "file": "locales/sw-tz/chapters/10-05-maadili-uwajibikaji-na-maslahi-ya-umma.md"
+        },
+        "10.6": {
+          "part": 10,
+          "chapter": 6,
+          "decimal": "10.6",
+          "slug": "10-06-usimamizi-wa-miradi",
+          "title": "Usimamizi wa miradi",
+          "heading": "10.6 Usimamizi wa miradi",
+          "file": "locales/sw-tz/chapters/10-06-usimamizi-wa-miradi.md"
+        },
+        "10.7": {
+          "part": 10,
+          "chapter": 7,
+          "decimal": "10.7",
+          "slug": "10-07-agile",
+          "title": "Agile",
+          "heading": "10.7 Agile",
+          "file": "locales/sw-tz/chapters/10-07-agile.md"
+        },
+        "10.8": {
+          "part": 10,
+          "chapter": 8,
+          "decimal": "10.8",
+          "slug": "10-08-vielelezo-vya-ukomavu",
+          "title": "Vielelezo vya ukomavu",
+          "heading": "10.8 Vielelezo vya ukomavu",
+          "file": "locales/sw-tz/chapters/10-08-vielelezo-vya-ukomavu.md"
+        },
+        "10.9": {
+          "part": 10,
+          "chapter": 9,
+          "decimal": "10.9",
+          "slug": "10-09-ushirikiano-wa-ubunifu",
+          "title": "Ushirikiano wa ubunifu",
+          "heading": "10.9 Ushirikiano wa ubunifu",
+          "file": "locales/sw-tz/chapters/10-09-ushirikiano-wa-ubunifu.md"
+        },
+        "10.10": {
+          "part": 10,
+          "chapter": 10,
+          "decimal": "10.10",
+          "slug": "10-10-uchumi-wa-uhandisi-wa-programu",
+          "title": "Uchumi wa uhandisi wa programu",
+          "heading": "10.10 Uchumi wa uhandisi wa programu",
+          "file": "locales/sw-tz/chapters/10-10-uchumi-wa-uhandisi-wa-programu.md"
+        },
+        "10.11": {
+          "part": 10,
+          "chapter": 11,
+          "decimal": "10.11",
+          "slug": "10-11-enzi-ya-kidijitali",
+          "title": "Enzi ya kidijitali",
+          "heading": "10.11 Enzi ya kidijitali",
+          "file": "locales/sw-tz/chapters/10-11-enzi-ya-kidijitali.md"
+        },
+        "10.12": {
+          "part": 10,
+          "chapter": 12,
+          "decimal": "10.12",
+          "slug": "10-12-chanzo-huria-dhidi-ya-chanzo-funge",
+          "title": "Chanzo huria dhidi ya chanzo funge",
+          "heading": "10.12 Chanzo huria dhidi ya chanzo funge",
+          "file": "locales/sw-tz/chapters/10-12-chanzo-huria-dhidi-ya-chanzo-funge.md"
+        },
+        "10.13": {
+          "part": 10,
+          "chapter": 13,
+          "decimal": "10.13",
+          "slug": "10-13-ushirikiano-kati-ya-mashirika",
+          "title": "Ushirikiano kati ya mashirika",
+          "heading": "10.13 Ushirikiano kati ya mashirika",
+          "file": "locales/sw-tz/chapters/10-13-ushirikiano-kati-ya-mashirika.md"
+        },
+        "10.14": {
+          "part": 10,
+          "chapter": 14,
+          "decimal": "10.14",
+          "slug": "10-14-usimamizi-wa-bidhaa-na-ugunduzi",
+          "title": "Usimamizi wa bidhaa na ugunduzi",
+          "heading": "10.14 Usimamizi wa bidhaa na ugunduzi",
+          "file": "locales/sw-tz/chapters/10-14-usimamizi-wa-bidhaa-na-ugunduzi.md"
+        },
+        "10.15": {
+          "part": 10,
+          "chapter": 15,
+          "decimal": "10.15",
+          "slug": "10-15-ukadiriaji-na-utabiri",
+          "title": "Ukadiriaji na utabiri",
+          "heading": "10.15 Ukadiriaji na utabiri",
+          "file": "locales/sw-tz/chapters/10-15-ukadiriaji-na-utabiri.md"
+        },
+        "10.16": {
+          "part": 10,
+          "chapter": 16,
+          "decimal": "10.16",
+          "slug": "10-16-usimamizi-wa-wadau-na-mawasiliano",
+          "title": "Usimamizi wa wadau na mawasiliano",
+          "heading": "10.16 Usimamizi wa wadau na mawasiliano",
+          "file": "locales/sw-tz/chapters/10-16-usimamizi-wa-wadau-na-mawasiliano.md"
+        },
+        "10.17": {
+          "part": 10,
+          "chapter": 17,
+          "decimal": "10.17",
+          "slug": "10-17-usimamizi-wa-mabadiliko-ya-shirika",
+          "title": "Usimamizi wa mabadiliko ya shirika",
+          "heading": "10.17 Usimamizi wa mabadiliko ya shirika",
+          "file": "locales/sw-tz/chapters/10-17-usimamizi-wa-mabadiliko-ya-shirika.md"
+        },
+        "10.18": {
+          "part": 10,
+          "chapter": 18,
+          "decimal": "10.18",
+          "slug": "10-18-ofisi-ya-programu-ya-chanzo-huria-na-mchango-wa-chanzo-cha-juu",
+          "title": "Ofisi ya programu ya chanzo huria (OSPO) na mchango wa chanzo cha juu",
+          "heading": "10.18 Ofisi ya programu ya chanzo huria (OSPO) na mchango wa chanzo cha juu",
+          "file": "locales/sw-tz/chapters/10-18-ofisi-ya-programu-ya-chanzo-huria-na-mchango-wa-chanzo-cha-juu.md"
+        },
+        "11.0": {
+          "part": 11,
+          "chapter": 0,
+          "decimal": "11.0",
+          "slug": "11-00-utangulizi-wa-sehemu-ya-11-mtiririko-mabomba-ya-ugunduzi-na-utoaji",
+          "title": "Utangulizi wa Sehemu ya 11: Mtiririko: Mabomba ya Ugunduzi na Utoaji",
+          "heading": "11.0 Utangulizi wa Sehemu ya 11: Mtiririko: Mabomba ya Ugunduzi na Utoaji",
+          "file": "locales/sw-tz/chapters/11-00-utangulizi-wa-sehemu-ya-11-mtiririko-mabomba-ya-ugunduzi-na-utoaji.md"
+        },
+        "11.1": {
+          "part": 11,
+          "chapter": 1,
+          "decimal": "11.1",
+          "slug": "11-01-bomba-la-ugunduzi",
+          "title": "Bomba la ugunduzi",
+          "heading": "11.1 Bomba la ugunduzi",
+          "file": "locales/sw-tz/chapters/11-01-bomba-la-ugunduzi.md"
+        },
+        "11.2": {
+          "part": 11,
+          "chapter": 2,
+          "decimal": "11.2",
+          "slug": "11-02-bomba-la-utoaji",
+          "title": "Bomba la utoaji",
+          "heading": "11.2 Bomba la utoaji",
+          "file": "locales/sw-tz/chapters/11-02-bomba-la-utoaji.md"
+        },
+        "11.3": {
+          "part": 11,
+          "chapter": 3,
+          "decimal": "11.3",
+          "slug": "11-03-nadharia-ya-foleni",
+          "title": "Nadharia ya foleni",
+          "heading": "11.3 Nadharia ya foleni",
+          "file": "locales/sw-tz/chapters/11-03-nadharia-ya-foleni.md"
+        },
+        "11.4": {
+          "part": 11,
+          "chapter": 4,
+          "decimal": "11.4",
+          "slug": "11-04-malengo-na-matokeo-muhimu",
+          "title": "Malengo na matokeo muhimu (OKR)",
+          "heading": "11.4 Malengo na matokeo muhimu (OKR)",
+          "file": "locales/sw-tz/chapters/11-04-malengo-na-matokeo-muhimu.md"
+        },
+        "11.5": {
+          "part": 11,
+          "chapter": 5,
+          "decimal": "11.5",
+          "slug": "11-05-viashiria-muhimu-vya-utendaji",
+          "title": "Viashiria muhimu vya utendaji (KPI)",
+          "heading": "11.5 Viashiria muhimu vya utendaji (KPI)",
+          "file": "locales/sw-tz/chapters/11-05-viashiria-muhimu-vya-utendaji.md"
+        },
+        "11.6": {
+          "part": 11,
+          "chapter": 6,
+          "decimal": "11.6",
+          "slug": "11-06-ramani-ya-mkondo-wa-thamani-na-gharama-ya-kuchelewa",
+          "title": "Ramani ya mkondo wa thamani na gharama ya kuchelewa",
+          "heading": "11.6 Ramani ya mkondo wa thamani na gharama ya kuchelewa",
+          "file": "locales/sw-tz/chapters/11-06-ramani-ya-mkondo-wa-thamani-na-gharama-ya-kuchelewa.md"
+        },
+        "12.0": {
+          "part": 12,
+          "chapter": 0,
+          "decimal": "12.0",
+          "slug": "12-00-viambatisho",
+          "title": "Viambatisho",
+          "heading": "12.0 Viambatisho",
+          "file": "locales/sw-tz/chapters/12-00-viambatisho.md"
+        },
+        "12.1": {
+          "part": 12,
+          "chapter": 1,
+          "decimal": "12.1",
+          "slug": "12-01-faharasa-ya-istilahi",
+          "title": "Faharasa ya istilahi",
+          "heading": "12.1 Faharasa ya istilahi",
+          "file": "locales/sw-tz/chapters/12-01-faharasa-ya-istilahi.md"
+        },
+        "12.2": {
+          "part": 12,
+          "chapter": 2,
+          "decimal": "12.2",
+          "slug": "12-02-orodha-hakiki",
+          "title": "Orodha hakiki",
+          "heading": "12.2 Orodha hakiki",
+          "file": "locales/sw-tz/chapters/12-02-orodha-hakiki.md"
+        },
+        "12.3": {
+          "part": 12,
+          "chapter": 3,
+          "decimal": "12.3",
+          "slug": "12-03-violezo",
+          "title": "Violezo",
+          "heading": "12.3 Violezo",
+          "file": "locales/sw-tz/chapters/12-03-violezo.md"
+        },
+        "12.4": {
+          "part": 12,
+          "chapter": 4,
+          "decimal": "12.4",
+          "slug": "12-04-tathmini-binafsi-ya-ukomavu",
+          "title": "Tathmini binafsi ya ukomavu",
+          "heading": "12.4 Tathmini binafsi ya ukomavu",
+          "file": "locales/sw-tz/chapters/12-04-tathmini-binafsi-ya-ukomavu.md"
+        },
+        "12.5": {
+          "part": 12,
+          "chapter": 5,
+          "decimal": "12.5",
+          "slug": "12-05-marejeo",
+          "title": "Marejeo",
+          "heading": "12.5 Marejeo",
+          "file": "locales/sw-tz/chapters/12-05-marejeo.md"
+        },
+        "12.6": {
+          "part": 12,
+          "chapter": 6,
+          "decimal": "12.6",
+          "slug": "12-06-ramani-ya-kupokea",
+          "title": "Ramani ya kupokea",
+          "heading": "12.6 Ramani ya kupokea",
+          "file": "locales/sw-tz/chapters/12-06-ramani-ya-kupokea.md"
+        },
+        "12.7": {
+          "part": 12,
+          "chapter": 7,
+          "decimal": "12.7",
+          "slug": "12-07-faharasa-ya-mada",
+          "title": "Faharasa ya mada",
+          "heading": "12.7 Faharasa ya mada",
+          "file": "locales/sw-tz/chapters/12-07-faharasa-ya-mada.md"
+        }
+      },
+      "order": [
+        "1.0",
+        "1.1",
+        "1.2",
+        "1.3",
+        "1.4",
+        "1.5",
+        "1.6",
+        "1.7",
+        "1.8",
+        "1.9",
+        "1.10",
+        "1.11",
+        "1.12",
+        "1.13",
+        "2.0",
+        "2.1",
+        "2.2",
+        "2.3",
+        "2.4",
+        "2.5",
+        "2.6",
+        "2.7",
+        "2.8",
+        "2.9",
+        "2.10",
+        "2.11",
+        "2.12",
+        "2.13",
+        "2.14",
+        "2.15",
+        "2.16",
+        "2.17",
+        "2.18",
+        "2.19",
+        "2.20",
+        "2.21",
+        "3.0",
+        "3.1",
+        "3.2",
+        "3.3",
+        "3.4",
+        "3.5",
+        "3.6",
+        "3.7",
+        "3.8",
+        "3.9",
+        "3.10",
+        "3.11",
+        "3.12",
+        "3.13",
+        "3.14",
+        "3.15",
+        "3.16",
+        "3.17",
+        "4.0",
+        "4.1",
+        "4.2",
+        "4.3",
+        "4.4",
+        "4.5",
+        "4.6",
+        "4.7",
+        "4.8",
+        "4.9",
+        "4.10",
+        "5.0",
+        "5.1",
+        "5.2",
+        "5.3",
+        "5.4",
+        "5.5",
+        "5.6",
+        "5.7",
+        "5.8",
+        "5.9",
+        "5.10",
+        "6.0",
+        "6.1",
+        "6.2",
+        "6.3",
+        "6.4",
+        "6.5",
+        "6.6",
+        "6.7",
+        "6.8",
+        "6.9",
+        "7.0",
+        "7.1",
+        "7.2",
+        "7.3",
+        "7.4",
+        "7.5",
+        "7.6",
+        "7.7",
+        "7.8",
+        "7.9",
+        "8.0",
+        "8.1",
+        "8.2",
+        "8.3",
+        "8.4",
+        "8.5",
+        "8.6",
+        "8.7",
+        "9.0",
+        "9.1",
+        "9.2",
+        "9.3",
+        "9.4",
+        "9.5",
+        "9.6",
+        "9.7",
+        "9.8",
+        "10.0",
+        "10.1",
+        "10.2",
+        "10.3",
+        "10.4",
+        "10.5",
+        "10.6",
+        "10.7",
+        "10.8",
+        "10.9",
+        "10.10",
+        "10.11",
+        "10.12",
+        "10.13",
+        "10.14",
+        "10.15",
+        "10.16",
+        "10.17",
+        "10.18",
+        "11.0",
+        "11.1",
+        "11.2",
+        "11.3",
+        "11.4",
+        "11.5",
+        "11.6",
+        "12.0",
+        "12.1",
+        "12.2",
+        "12.3",
+        "12.4",
+        "12.5",
+        "12.6",
+        "12.7"
+      ],
+      "hasHomePage": false,
+      "topicsSlug": "mada"
+    },
     "ur-001": {
       "chapters": [
         {
@@ -134495,6 +138695,7 @@
     "sv-001",
     "sv-se",
     "sw-001",
+    "sw-tz",
     "ur-001",
     "zh-001",
     "zh-cn"

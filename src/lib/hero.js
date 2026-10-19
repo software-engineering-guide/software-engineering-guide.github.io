@@ -225,6 +225,14 @@ export const HERO = {
   "contents": "Yaliyomo",
   "translations": "Tafsiri: "
  },
+ "sw-tz": {
+  "headline": "Mwongozo wa Uhandisi wa Programu",
+  "tagline": "Bila malipo · wazi · unatunzwa na jumuiya",
+  "intro": "Kitabu cha mwongozo cha mazoea mazuri kwa timu za wasanidi programu, kinachohusu njia za kufanya kazi, ufundi wa upangaji programu, usanifu, usalama, AI, data na uchanganuzi, UI/UX, uotomatishaji, utoaji, uendeshaji, mtiririko, na usimamizi, kwa kampuni changa, biashara kubwa, na mashirika ya serikali vilevile.",
+  "start": "Anza kusoma",
+  "contents": "Yaliyomo",
+  "translations": "Tafsiri: "
+ },
  "ur-001": {
   "headline": "سافٹ ویئر انجینئرنگ گائیڈ",
   "tagline": "مفت · کھلا · کمیونٹی کے زیر انتظام",
@@ -280,6 +288,7 @@ export const ENDONYMS = {
  "ru-001": "Русский",
  "sv-001": "Svenska",
  "sw-001": "Kiswahili",
+ "sw-tz": "Kiswahili (Tanzania)",
  "sv-se": "Svenska (Sverige)",
  "ur-001": "اردو",
  "zh-001": "中文",
