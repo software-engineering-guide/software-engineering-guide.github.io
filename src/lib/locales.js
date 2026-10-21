@@ -9,7 +9,7 @@ export const LOCALE_LABELS = {
   'en-gb': 'English - Great Britain',
   'en-us': 'English - United States',
   'cy-001': 'Cymraeg',
-  'cy-gb': 'Cymraeg - Cymru',
+  'cy-gb': 'Cymraeg - Prydain Fawr',
   'da-001': 'Dansk',
   'hi-001': 'हिन्दी',
   'hi-in': 'हिन्दी - भारत',
