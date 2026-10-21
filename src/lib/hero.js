@@ -233,6 +233,22 @@ export const HERO = {
   "contents": "Yaliyomo",
   "translations": "Tafsiri: "
  },
+ "vi-001": {
+  "headline": "Hướng dẫn Kỹ thuật Phần mềm",
+  "tagline": "Miễn phí · mở · do cộng đồng duy trì",
+  "intro": "Cẩm nang các thực hành tốt cho đội kỹ thuật phần mềm, bao quát cách làm việc, nghề lập trình, kiến trúc, bảo mật, AI, dữ liệu và phân tích, UI/UX, tự động hóa, phân phối, vận hành, dòng chảy và quản lý, cho công ty khởi nghiệp, doanh nghiệp và tổ chức chính phủ.",
+  "start": "Bắt đầu đọc",
+  "contents": "Mục lục",
+  "translations": "Bản dịch: "
+ },
+ "vi-vn": {
+  "headline": "Hướng dẫn Kỹ thuật Phần mềm",
+  "tagline": "Miễn phí · mở · do cộng đồng duy trì",
+  "intro": "Cẩm nang các thực hành tốt cho đội kỹ thuật phần mềm, bao quát cách làm việc, nghề lập trình, kiến trúc, bảo mật, AI, dữ liệu và phân tích, UI/UX, tự động hóa, phân phối, vận hành, dòng chảy và quản lý, cho công ty khởi nghiệp, doanh nghiệp và tổ chức chính phủ.",
+  "start": "Bắt đầu đọc",
+  "contents": "Mục lục",
+  "translations": "Bản dịch: "
+ },
  "ur-001": {
   "headline": "سافٹ ویئر انجینئرنگ گائیڈ",
   "tagline": "مفت · کھلا · کمیونٹی کے زیر انتظام",
@@ -291,6 +307,8 @@ export const ENDONYMS = {
  "sw-tz": "Kiswahili (Tanzania)",
  "sv-se": "Svenska (Sverige)",
  "ur-001": "اردو",
+ "vi-001": "Tiếng Việt",
+ "vi-vn": "Tiếng Việt (Việt Nam)",
  "zh-001": "中文",
  "zh-cn": "简体中文"
 };
