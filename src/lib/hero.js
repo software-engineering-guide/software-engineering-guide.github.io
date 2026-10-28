@@ -293,7 +293,7 @@ export const ENDONYMS = {
  "de-001": "Deutsch",
  "de-de": "Deutsch (Deutschland)",
  "en-001": "English",
- "en-gb": "English (United Kingdom)",
+ "en-gb": "English (Great Britain)",
  "en-us": "English (United States)",
  "es-001": "Español",
  "fr-001": "Français",

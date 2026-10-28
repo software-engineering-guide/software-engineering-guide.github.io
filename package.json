@@ -6,7 +6,7 @@
   "description": "Software Engineering Guide — published website (SvelteKit + Lily Design System)",
   "scripts": {
     "dev": "node scripts/copy-lily-themes.mjs && node scripts/generate-manifest.mjs && vite dev",
-    "build": "node scripts/copy-lily-themes.mjs && node scripts/generate-manifest.mjs && vite build && node scripts/build-search-index.mjs build en-us && node scripts/generate-sitemap.mjs build",
+    "build": "node scripts/copy-lily-themes.mjs && node scripts/generate-manifest.mjs && vite build && node scripts/build-search-index.mjs build en-us && node scripts/generate-sitemap.mjs build && node scripts/build-locale-sitemaps.mjs build",
     "preview": "vite preview",
     "check": "svelte-kit sync && svelte-check --tsconfig ./tsconfig.json",
     "manifest": "node scripts/generate-manifest.mjs",
