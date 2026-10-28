@@ -121,6 +121,14 @@ export const HERO = {
   "contents": "Daftar isi",
   "translations": "Terjemahan: "
  },
+ "id-id": {
+  "headline": "Panduan Rekayasa Perangkat Lunak",
+  "tagline": "Gratis · terbuka · dikelola komunitas",
+  "intro": "Panduan praktik baik untuk tim pengembang perangkat lunak, mencakup cara kerja, keahlian pemrograman, arsitektur, keamanan, AI, data dan analitik, UI/UX, otomatisasi, pengiriman, operasi, alur, dan manajemen, bagi startup, perusahaan, maupun lembaga pemerintah.",
+  "start": "Mulai membaca",
+  "contents": "Daftar isi",
+  "translations": "Terjemahan: "
+ },
  "is-001": {
   "headline": "Leiðarvísir í hugbúnaðarverkfræði",
   "tagline": "Ókeypis · opið · viðhaldið af samfélaginu",
@@ -292,6 +300,7 @@ export const ENDONYMS = {
  "hi-001": "हिन्दी",
  "hi-in": "हिन्दी (भारत)",
  "id-001": "Bahasa Indonesia",
+ "id-id": "Bahasa Indonesia (Indonesia)",
  "is-001": "Íslenska",
  "is-is": "Íslenska (Ísland)",
  "ja-001": "日本語",
